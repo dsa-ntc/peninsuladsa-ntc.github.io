@@ -1,0 +1,23 @@
+.btn-primary {
+    background: var(--red);
+    color: white;
+    font-size: var(--size-xs);
+
+    &:hover{ 
+        background: var(--red-tint-1);
+    }
+}
+
+.btn-secondary {
+    color: var(--red);
+    font-size: var(--size-xs);
+    font-weight: bolder;
+    border: 1px solid transparent;
+    background: transparent !important;
+
+    &:hover {
+        border: 1px solid var(--red);
+        color: var(--red) !important;
+        background: transparent !important;
+    }
+}
