@@ -1,0 +1,51 @@
+{% assign owner = site.data.nav.footer[0] %}
+{% assign social = site.data.nav.footer[1] %}
+{% assign feed = site.data.nav.footer[2] %}
+{% assign about = site.data.copy.global[0] %}
+
+<footer class="page-footer">
+    <div class="page-footer-owner">
+        <div class="container">
+            <div class="row my-3">
+                <div class="col-md-12">
+                    <h2>{{ owner.owner }} <span class="float-right">🌹</span></h1>
+                </div>
+            </div>
+            <div class="row my-3">
+                <div class="col-md-8 col-sm-12">
+                    <p class="my-3">{{ about.about }}</p>
+                </div>
+                <div class="col-md-2 col-sm-12">
+                    <h4 class="text-red m-0">Socials</h3>
+                    <!-- Social media links -->
+                    <ul class="my-3">
+                        {% for so_link in social.social %}
+                        <li>
+                            {% if so_link.url %}
+                            <i class="{{ so_link.icon }}"></i><a href="{{ so_link.url }}">{{ so_link.label }}</a>
+                            {% else %}
+                            <strong>{{ so_link.label }}</strong>
+                            {% endif %}
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div class="col-md-2 col-sm-12">
+                    <h4 class="text-red m-0">Sitemap</h3>
+                    <ul class="my-3">
+                        {% for fd_link in feed.feed %}
+                        <li>
+                            <i class="{{ fd_link.icon }}"></i> <a href="{{ fd_link.url | relative_url }}">{{ fd_link.label }}</a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="page-footer-copyright">
+        <div class="container text-center">
+            <img src="{{ site.logo | relative_url }}" alt="{{ site.title }} logo" height="32" width="32">
+        </div>
+    </div>
+</footer>

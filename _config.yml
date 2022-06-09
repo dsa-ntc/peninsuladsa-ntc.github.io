@@ -21,7 +21,7 @@ author: mani_d2
 twitter:
   username: mani_d2 # should be site's username
   card: summary
-logo: /chapters/chapter-websites/dsa-chapter-website-gitlab-pages/assets/images/Main_Logo_Circle_Medium.png # PNG is SEO friendly
+logo: assets/images/Main_Logo_Circle_Medium.png # PNG is SEO friendly
 # use below when there are social links for site
 #social:
 #  name: Mani Kumar
@@ -176,5 +176,5 @@ defaults:
       path: ""
     values:
       # for SEO and social sharing
-      image: /chapters/chapter-websites/dsa-chapter-website-gitlab-pages/assets/images/Main_Logo_Circle_Medium.png
+      image: assets/images/Main_Logo_Circle_Medium.png
       image_alt: Democratic Socialists of America logo
