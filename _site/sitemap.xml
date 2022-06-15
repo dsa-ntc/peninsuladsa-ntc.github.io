@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/statement-s3361/</loc>
-<lastmod>2021-09-20T00:00:00+00:00</lastmod>
+<loc>http://localhost:4000/peninsula-dsa-endorses-james-coleman/</loc>
+<lastmod>2022-02-20T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
@@ -21,5 +21,15 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/our-work/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/preschool-for-all/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/files/ECE%204%20All%20SSF%20fact%20sheet.pdf</loc>
+<lastmod>2022-06-02T22:17:30+00:00</lastmod>
 </url>
 </urlset>

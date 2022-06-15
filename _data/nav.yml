@@ -1,21 +1,24 @@
 # header links
 header:
+  - title: "About"
+    url: "/about/"
+    description: "About this DSA Chapter"
+  - title: "Our Work"
+    url: "our-work"
+    description: "Check out what Peninsula DSA is working on!"
   - title: "Statements"
     url: "/blog/"
-    description: "Link to Chapter Statements"
+    description: "Link to Peninsula DSA's Chapter Statements"
   - title: "Get Involved"
     url: "/get-involved/"
     description: "Join DSA!"
   - title: "Events Calendar"
     url: "/calendar/"
     description: "Chapter Events Calendar"
-  - title: "About"
-    url: "/about/"
-    description: "About this DSA Chapter"
 
 # footer links
 footer:
-  - owner: "Democratic Socialists of America"
+  - owner: "Peninsula Democratic Socialists of America"
     url: # link if any
     description: # tool tip for your url
     bio: "This is your chapter of the Democratic Socialists of America" # short bio
@@ -23,16 +26,19 @@ footer:
   - social:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/demsocialists"
+      url: "https://www.facebook.com/peninsulaDSA/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/DemSocialists"
+      url: "https://twitter.com/DSA_Peninsula"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/demsocialists/"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      url: "https://gitlab.com/dsausa"
+      url: "https://www.instagram.com/peninsuladsa/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/peninsuladsa"
+    - label: "Email"
+      icon: "fab fa-fw fa-email"
+      url: "mailto:peninsulaDSA@gmail.com"
   - feed:
     - label: "Sitemap"
       icon: "fas fa-sitemap"

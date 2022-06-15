@@ -7,21 +7,21 @@
 # server process.
 
 # theme settings
-theme: "lone-wolf-theme"
-remote_theme: # "manid2/lone-wolf-theme"
+#theme: "lone-wolf-theme"
+remote_theme: "manid2/lone-wolf-theme"
 bootswatch_theme: "united" # cerulean, spacelab, united
 
 # site settings, follows the order used in jekyll-seo-tag plugin
 lang: "en_US"
-title: "Democratic Socialists of America"
-description: "Example page for DSA Chapters"
+title: "Peninsula Democratic Socialists of America"
+description: "Homepage for Peninsula DSA"
 url: # site url e.g. "https://manid2.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 author: mani_d2
 twitter:
   username: mani_d2 # should be site's username
   card: summary
-logo: assets/images/Main_Logo_Circle_Medium.png # PNG is SEO friendly
+logo: assets/images/smalllogo.png # PNG is SEO friendly
 # use below when there are social links for site
 #social:
 #  name: Mani Kumar
@@ -176,5 +176,5 @@ defaults:
       path: ""
     values:
       # for SEO and social sharing
-      image: assets/images/Main_Logo_Circle_Medium.png
-      image_alt: Democratic Socialists of America logo
+      image: assets/images/smalllogo.png
+      image_alt: Peninsula Democratic Socialists of America logo

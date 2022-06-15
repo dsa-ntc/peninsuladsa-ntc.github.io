@@ -4,4 +4,6 @@ title: "Get Involved"
 permalink: /get-involved/
 ---
 
-Embed an Airtable signup form, Google Drive form, or email address here to get potential members to sign up!
+Want to get involved with Peninsula DSA? [Join us!](https://act.dsausa.org/donate/dsa_recommit_2022/)
+
+Join us at a Chapter meeting or event! Check out [our Calendar](../calendar)
