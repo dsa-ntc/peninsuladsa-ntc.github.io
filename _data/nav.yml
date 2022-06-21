@@ -1,8 +1,5 @@
 # header links
 header:
-  - title: "About"
-    url: "/about/"
-    description: "About this DSA Chapter"
   - title: "Our Work"
     url: "our-work"
     description: "Check out what Peninsula DSA is working on!"
@@ -37,7 +34,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/peninsuladsa"
     - label: "Email"
-      icon: "fab fa-fw fa-email"
+      icon: "fa fa-envelope"
       url: "mailto:peninsulaDSA@gmail.com"
   - feed:
     - label: "Sitemap"
