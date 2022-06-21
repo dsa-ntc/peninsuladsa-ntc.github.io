@@ -19,7 +19,7 @@ Passcode: see #wg-healthcare (Slack)
 * [Text of resolution](../assets/files/Peninsula DSA Healthcare WG, Resolution 11 Universal Healthcare.pdf)
 
 *June 23, 2021*—South San Francisco City Council [passes local resolution in support of single-payer healthcare](https://www.smdailyjournal.com/news/local/south-san-francisco-council-supports-single-payer-health-effort/article_db5cb4ec-d7e3-11eb-9efe-6b9ca400d1e6.html).
-* Text of resolution: http://www.medicare4allresolutions.org/wp-content/uploads/2021/08/South-San-Francisco-Reso-127-2021-21-525-2.pdf
+* [Text of resolution](http://www.medicare4allresolutions.org/wp-content/uploads/2021/08/South-San-Francisco-Reso-127-2021-21-525-2.pdf)
 
 <h3>Co-chairs</h3>
 Amanda and Prakalp
