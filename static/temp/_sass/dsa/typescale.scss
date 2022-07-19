@@ -1,0 +1,74 @@
+:root {
+    --size-xxl: 4.209rem;
+    --size-xl: 3.157rem;
+    --size-lg: 2.369rem;
+    --size-md: 1.777rem;
+    --size-sm: 1.333rem;
+    --size-xs: 1rem;
+}
+
+h1 {
+    font-family: "ManifoldDSA", sans-serif;
+    font-weight: 900;
+    font-size: var(--size-xxl);
+}
+
+h2 {
+    font-family: "ManifoldDSA", sans-serif;
+    font-weight: bolder;
+    font-size: var(--size-xl);
+}
+
+h3 {
+    font-family: "ManifoldDSA", sans-serif;
+    font-weight: bold;
+    font-size: var(--size-lg);
+}
+
+h4 {
+    font-family: "ManifoldDSA", sans-serif;
+    font-weight: 600;
+    font-size: var(--size-md);
+}
+
+h5 {
+    font-family: "ManifoldDSA", sans-serif;
+    font-weight: 600;
+    font-size: var(--size-sm);
+}
+
+h6 {
+    font-family: "ManifoldDSA", sans-serif;
+    font-weight: 600;
+    font-size: var(--size-xs);
+}
+
+p {
+    font-family: "ManifoldDSA", sans-serif;
+    font-weight: normal;
+    font-size: var(--size-xs);
+}
+
+.size-xxl {
+    font-size: var(--size-xxl);
+}
+
+.size-xl {
+    font-size: var(--size-xl);
+}
+
+.size-lg {
+    font-size: var(--size-lg);
+}
+
+.size-md {
+    font-size: var(--size-md);
+}
+
+.size-sm {
+    font-size: var(--size-sm);
+}
+
+.size-xs {
+    font-size: var(--size-xs);
+}

@@ -1,0 +1,134 @@
+:root {
+    // Taken from the national identity color palette: https://design.dsausa.org/national-identity/color-palette/
+    --red: #EC1F27;
+    --red-tint-1: #F04C53;
+    --red-tint-2: #F4797E;
+    --red-tint-3: #F7A5A9;
+    --red-tint-4: #FBD2D4;
+
+    --black: #231F20;
+    --black-tint-1: #3B3838;
+    --black-tint-2: #605C5C;
+    --black-tint-3: #8C8989;
+    --black-tint-4: #C1C0BF;
+
+    --highlight: #f6f6f6;
+
+    --twitter: #1DA1F2;
+    --discord: #5865F2;
+    --linkedin: #2867B2;
+    --facebook: #4267B2;
+}
+
+.text-red {
+    color: var(--red);
+}
+
+.text-red-tint-1 {
+    color: var(--red-tint-1);
+}
+
+.text-red-tint-2 {
+    color: var(--red-tint-2);
+}
+
+.text-red-tint-3 {
+    color: var(--red-tint-3);
+}
+
+.text-red-tint-4 {
+    color: var(--red-tint-4);
+}
+
+.text-black {
+    color: var(--black);
+}
+
+.text-black-tint-1 {
+    color: var(--black-tint-1);
+}
+
+.text-black-tint-2 {
+    color: var(--black-tint-2);
+}
+
+.text-black-tint-3 {
+    color: var(--black-tint-3);
+}
+
+.text-black-tint-4 {
+    color: var(--black-tint-4);
+}
+
+.bg-red {
+    background: var(--red);
+}
+
+.bg-red-tint-1 {
+    background: var(--red-tint-1);
+}
+
+.bg-red-tint-2 {
+    background: var(--red-tint-2);
+}
+
+.bg-red-tint-3 {
+    background: var(--red-tint-3);
+}
+
+.bg-red-tint-4 {
+    background: var(--red-tint-4);
+}
+
+.bg-black {
+    background: var(--black);
+}
+
+.bg-black-tint-1 {
+    background: var(--black-tint-1);
+}
+
+.bg-black-tint-2 {
+    background: var(--black-tint-2);
+}
+
+.bg-black-tint-3 {
+    background: var(--black-tint-3);
+}
+
+.bg-black-tint-4 {
+    background: var(--black-tint-4);
+}
+
+// Social Media
+.text-twitter {
+    color: var(--twitter);
+}
+
+.text-discord {
+    color: var(--discord);
+}
+
+.text-facebook {
+    color: var(--facebook);
+}
+
+.text-linkedin {
+    color: var(--linkedin);
+}
+
+.bg-twitter {
+    background: var(--twitter);
+}
+
+.bg-discord {
+    background: var(--discord);
+}
+
+.bg-facebook {
+    background: var(--facebook);
+}
+
+.bg-linkedin {
+    background: var(--linkedin);
+}

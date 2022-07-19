@@ -1,0 +1,47 @@
+<div>
+    {%- if page.categories.size > 0 -%}
+    <div class="dsa-box">
+        <h4 class="m-0">Categories</h4>
+        <hr />
+        <ul>
+            {% for category in page.categories limit:5 %}
+            {%- capture link -%}  
+                /categories/#posts_in_{{ category | slugify }}_heading
+            {%- endcapture -%}
+            <li><a href="{{ link | relative_url }}">{{ category | strip }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    {%- endif -%}
+
+    {%- if page.tags.size > 0 -%}
+    <div class="dsa-box">
+        <h4 class="m-0">Tags</h4>
+        <hr />
+        {% for tag in page.tags limit:5 %}
+        {%- capture link -%}
+            /tags/#posts_in_{{ tag | slugify }}_heading
+        {%- endcapture -%}
+        <a class="btn btn-primary" href="{{ link | relative_url }}">{{ tag | strip }}</a>
+        {% endfor %}
+    </div>
+    {%- endif -%}
+
+    <div class="dsa-box">
+        <h4 class="m-0">Recent posts</h4>
+        <hr />
+        {% for post in site.posts limit:5 %}
+        <div class="row">
+            <div class="col-12">
+                <h6 class="my-0 text-black-tint-2">{{ post.date | date: "%b %-d, %Y" }}</h6>
+                <a class="my-0 text-black-tint-1" href="{{ post.url }}">{{ post.title }}</a>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    {% if page.show_ads %}
+        {%- include ads.html ad_src="google-adsense" ad_type="links" -%}
+    {% endif %}
+</div>

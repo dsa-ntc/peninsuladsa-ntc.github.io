@@ -1,0 +1,109 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+// import custom variables and mixins to override BS4
+@import "lone-wolf-theme/override-bs4";
+
+// import bootstrap and bootswatch
+@import "bootswatch/dist/{{ site.bootswatch_theme | default: 'united' }}/variables";
+@import "bootstrap/scss/bootstrap";
+@import "bootswatch/dist/{{ site.bootswatch_theme | default: 'united' }}/bootswatch";
+
+// import custom variables and mixins to extend BS4
+@import "lone-wolf-theme";
+
+// Import the ManifoldDSA Font
+@import "fonts/manifolddsa.scss";
+
+
+// DSA Related
+@import "dsa/colors.scss";
+@import "dsa/typescale.scss";
+@import "dsa/buttons.scss";
+
+
+@media (min-width: 1200px) {
+    .container{
+        max-width: 1600px;
+    }
+}
+.push {
+    height: 300px;
+}
+
+hr {
+    .large {
+        border-top: 8px solid var(--black);
+    }
+
+    .medium {
+        border-top: 4px solid var(--black);
+    }
+
+    .small {
+        border-top: 2px solid var(--black-tint-2);
+    }
+}
+
+ul {
+    list-style-type: none;
+    line-height: 200%;
+
+    svg {
+        color: var(--red);
+        margin-right: 5px;
+    }
+
+    a {
+        color: var(--black-tint-1);
+        font-weight: bold;
+
+        &:hover {
+            text-decoration: none;
+        }
+    }
+}
+
+p {
+    line-height: 200%;
+}
+
+.page-footer-copyright {
+    background: var(--red);
+}
+
+.page-footer-owner {
+    background: var(--highlight);
+    color: inherit;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+  
+::-webkit-scrollbar-track {
+    background: var(--highlight);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--red-tint-2);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--red-tint-1);
+}
+
+.article-link {
+    font-size: var(--size-lg);
+    text-decoration: underline;
+    color: var(--black-tint-1);
+}
+
+.dsa-box {
+    border: 1px solid var(--black-tint-4);
+    padding: 10px;
+    margin-bottom: 10px;
+}
