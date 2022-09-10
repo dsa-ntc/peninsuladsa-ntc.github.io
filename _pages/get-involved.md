@@ -4,9 +4,7 @@ title: "Get Involved"
 permalink: /get-involved/
 ---
 
-![get-involved](/assets/images/getinvolved.png){:class="img-responsive}
-
-Want to get involved with Peninsula DSA? [Join us!](https://act.dsausa.org/donate/dsa_recommit_2022/)
+[![Want to get involved with Peninsula DSA? Join us!](/assets/images/getinvolved.png){:class="img-responsive}](https://act.dsausa.org/donate/dsa_recommit_2022/)
 
 Join us at a Chapter meeting or event! Check out [our Calendar](../calendar)
 
