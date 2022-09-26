@@ -21,7 +21,7 @@ In 2020, James successfully ran as a Democratic Socialist against 18-year incumb
 and mayor Richard Garbarino, winning a city council seat in his hometown of South San
 Francisco with over 52 percent of the votes. As South San Francisco’s first openly
 LGBTQ+ and youngest-ever City Councilmember, James has a track record of looking
-out for the interests of the working class. So far he has been instrumental in
+out for the interests of the working class. So far he has been instrumental in 
 
 1. building broad support for the Early Care and Education for All South San
 Francisco ballot measure campaign (modeled after Portland DSA’s successful
