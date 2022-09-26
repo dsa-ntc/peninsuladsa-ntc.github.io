@@ -6,6 +6,7 @@ permalink: /preschool-for-all/
 <img src="../assets/images/Yes on DD Banner.jpg" width="75%" height="auto" />
 <br>
 Peninsula DSA’s Preschool for All working group is working toward the success of the Preschool for All South San Francisco campaign [Yes on Measure DD](http://ece4allssf.org/) to (1) fully fund high-quality preschool to all children aged 2.5 to 5 years old whose families live or work in South City, (2) provide a living wage to all early care and education (ECE) workers, and (3) pay for it all by levying a modest parcel tax on South City's largest commercial property owners.
+<br>
 
 <img src="../assets/images/ECE 4 All SSF coalition at City Hall rally 2022.06.03.png" width="50%" height="auto" />
 
