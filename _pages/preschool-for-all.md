@@ -3,12 +3,11 @@ layout: page
 title: "Preschool for All SSF (Yes on Measure DD)"
 permalink: /preschool-for-all/
 ---
-<img src="../assets/images/Yes on DD Banner.jpg" width="75%" height="auto" />
-<br>
-
 <h1>Preschool for All</h1>
 
 <h2>Current Campaign</h2>
+
+<img src="../assets/images/Yes on DD Banner.jpg" width="75%" height="auto" />
 
 Peninsula DSA’s Preschool for All working group is organizing for the success of the Preschool for All South San Francisco campaign / [Yes on Measure DD](http://ece4allssf.org/), which will
 1. fully fund high-quality preschool to all children aged 2.5 to 5 years old whose families live or work in South City
