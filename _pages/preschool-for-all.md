@@ -47,10 +47,8 @@ Email us at [info@ece4allssf.org](mailto:info@ece4allssf.org)
 <h3>Social Media</h3>
 Follow us on Instagram, Twitter, and Facebook!
 
-[Instagram](https://www.instagram.com/yesonddssf/)
-
-[Twitter](https://twitter.com/ece4allssf)
-
-[Facebook](https://www.facebook.com/yesonddssf)
+- [Instagram](https://www.instagram.com/yesonddssf/)
+- [Twitter](https://twitter.com/ece4allssf)
+- [Facebook](https://www.facebook.com/yesonddssf)
 
 <img src="../assets/images/Yes on DD Preschool for All logo (circle).jpg" width="50%" height="auto" />
