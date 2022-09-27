@@ -51,3 +51,5 @@ Follow us on Instagram, Twitter, and Facebook!
 - [Facebook](https://www.facebook.com/yesonddssf)
 
 <img src="../assets/images/Yes on DD Preschool for All logo (circle).jpg" width="50%" height="auto" />
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Speaking of which – <a href="https://twitter.com/DSA_Peninsula?ref_src=twsrc%5Etfw">@DSA_Peninsula</a> is also working on the Early Care and Education for All ballot measure that would provide free preschool and daycare. It would also use a corporate tax to pay early child care workers a living wage w/ access to union representation and benefits. <a href="https://t.co/Da3Oa9RIwX">pic.twitter.com/Da3Oa9RIwX</a></p>&mdash; DSA 🌹 (@DemSocialists) <a href="https://twitter.com/DemSocialists/status/1510997410587164679?ref_src=twsrc%5Etfw">April 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
