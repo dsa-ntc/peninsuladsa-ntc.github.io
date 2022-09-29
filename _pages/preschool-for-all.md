@@ -21,6 +21,10 @@ Peninsula DSA’s Preschool for All working group is organizing for the success 
 <br>Zoom meeting ID: 878 1757 9854
 <br>Passcode: see #wg-universal-pre-k (Slack)
 
+**How to organize with us**
+<br>Let's canvass, phone bank, and text bank South City voters before Election Day on November 8, 2022!
+<br>Learn more about volunteering with the Measure DD campaign [here](http://ece4allssf.org/volunteer/)—or just [sign up](https://docs.google.com/forms/d/e/1FAIpQLSdnBsUNfUiVZwwY36Ayre4GrZ-IZ2Ax_EtrAVdRcaGuZgAzlg/viewform?usp=sf_link) directly!
+
 <img src="../assets/images/ECE 4 All SSF coalition at City Hall rally 2022.06.03.png" width="50%" height="auto" />
 
 *Our coalition rallied at South San Francisco's City Hall on June 3rd to celebrate turning in the 5800+ voter signatures our grassroots volunteers gathered from mid-January through May 2022.* 
