@@ -17,8 +17,8 @@ The [Democratic Socialists of America](https://www.dsausa.org/) is the largest s
 Check out Peninsula DSA's complete [event calendar](../calendar) (or #events on Slack) for all confirmed virtual and in-person events.
 
 * **Chapter meetings** are held on the third Sunday of the month at 4-6pm.
-* **Working groups** have their own meeting schedules; see links below.
-* **Reading group** meets at least once a month; see link below.
+* **Working groups** have their own meeting schedules (see below).
+* **Reading group** meets at least once a month (see below).
 * **Member socials**--like happy hours, game nights, and BBQs--are held at least once a month.
 
 If you're not a Peninsula DSA member yet but would like to attend an event, please [contact](mailto:info@peninsuladsa.org) the Steering Committee.
@@ -28,7 +28,7 @@ If you're not a Peninsula DSA member yet but would like to attend an event, plea
 Peninsula DSA's working groups organize socialist campaigns around issues that matter to the working class. Whether you're an experienced organizer or brand-new to the movement, you're welcome to attend any meeting to learn more--and get involved!
 
 <h3>Preschool for All</h3>
-Our [Preschool for All](../preschool-for-all/) working group meets weekly as we organize a broad working-class grassroots coalition for [Yes on Measure DD](http://ece4allssf.org/), a popular, DSA-endorsed electoral campaign to create universal preschool for every child aged 2.5 to 5yo whose parents live or work in South San Francisco. See also PDSA Slack: #wg-universal-pre-k
+Our [Preschool for All](../preschool-for-all/) working group is organizing a broad working-class grassroots coalition for [Yes on Measure DD](http://ece4allssf.org/), a popular, DSA-endorsed electoral campaign to create universal preschool for every child aged 2.5 to 5yo whose parents live or work in South San Francisco. See also PDSA Slack: #wg-universal-pre-k
 
 <h3>Healthcare Justice</h3>
 Our [Healthcare Justice](../healthcare-justice/) working group continues to organize for Medicare for All. PDSA Slack: #wg-healthcare
@@ -38,4 +38,4 @@ Our [Ecosocialism](../ecosocialism/) working group continues to organize for ene
 
 <h2>Reading Group</h2>
 
-Our political [reading group](../political-reading/) meets at least once a month to discuss socialist books and articles democratically chosen by participants. See also PDSA Slack: #reading-group
+Our political [reading group](../political-reading/) discusses socialist books and articles democratically chosen by participants. See also PDSA Slack: #reading-group
