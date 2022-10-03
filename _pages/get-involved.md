@@ -14,16 +14,13 @@ The [Democratic Socialists of America](https://www.dsausa.org/) is the largest s
 
 <h2>Peninsula DSA Events</h2>
 
-<h3>Event Calendar</h3>
-
-Check out our complete [event calendar](../calendar) for all confirmed virtual and in-person Peninsula DSA events. 
-Most events open to members _and_ socialist-curious non-members alike, so please join us for a chapter meeting, canvassing turnout, reading group discussion, or whatever interests you! (Calendar items are also listed on the PDSA Slack in #events) 
+<h3>Calendar</h3>
 
 <h3>Chapter Meetings</h3>
 Peninsula DSA meets virtually on the third Sunday of the month at 4-6pm.
 
-<h3>Member Socials</h3>
-Peninsula DSA holds member socials at least twice a month. Join your comrades for socialist game night, happy hour, potlucks, and more!
+Check out our complete [event calendar](../calendar) for all confirmed virtual and in-person Peninsula DSA events. 
+Most events open to members _and_ socialist-curious non-members alike, so please join us for a chapter meeting, canvassing turnout, reading group discussion, or whatever interests you! (Calendar items are also listed on the PDSA Slack in #events) 
 
 Questions about an event? Contact our Steering Committee at [info@peninsuladsa.org](mailto:info@peninsuladsa.org)
 
