@@ -17,6 +17,6 @@ Peninsula DSA’s meetings and events are designed for our members, though every
 <h3>Regular meetings</h3>
 Get started with Peninsula DSA by attending one of our regular meetings!
 
-* **Chapter meetings** are held on the 3rd Sunday of the month at 4-6pm.
-* [**Reading group**](../reading-group) meets at least once a month, usually on Saturdays at 6pm.
-* **Working groups** have their own meeting schedules: [Preschool for All](../preschool-for-all/), [Healthcare Justice](../healthcare-justice/), and [Ecosocialism](../ecosocialism/).
+* Chapter meetings are held on the 3rd Sunday of the month at 4-6pm.
+* [Reading group](../reading-group) meets at least once a month, usually on Saturdays at 6pm.
+* Working groups have their own meeting schedules: [Preschool for All](../preschool-for-all/), [Healthcare Justice](../healthcare-justice/), and [Ecosocialism](../ecosocialism/).
