@@ -13,10 +13,7 @@ SAN MATEO, June 28, 2022 — On Friday, June 24, the US Supreme Court released t
 Peninsula Democratic Socialists of America (PDSA) vehemently rejects the premise that the people exist to serve the elite-captured economy, or that gender oppression is in any way compatible with democracy. We stand in solidarity with the people in other states who have lost, or may soon lose, non-negotiable human rights. The *Dobbs* decision is nothing short of an act of class warfare that will disproportionately harm our most vulnerable communities, no matter where they live. 
 
 * We demand that Congress end the filibuster in order to pass legislation protecting the right to abortion and reproductive freedom. 
-* We demand that the California legislature make use of its Democratic supermajority to 
-(1) make the right to abortion explicit, 
-(2) protect any person seeking reproductive healthcare from intimidation, interference, or prosecution, and 
-(3) pass CalCare (AB 1400) to guarantee free healthcare to all.
+* We demand that the California legislature make use of its Democratic supermajority to (1) make the right to abortion explicit, (2) protect any person seeking reproductive healthcare from intimidation, interference, or prosecution, and (3) pass CalCare (AB 1400) to guarantee free healthcare to all.
 * We encourage our chapter members and potential members to support reproductive justice by donating to Oakland’s Access Reproductive Justice and by joining our Healthcare Working Group, which next meets on Wednesday, July 20 at 6 p.m. 
 * We invite our neighbors in San Mateo County to join DSA and build a mass political movement to fight for abortion rights and for democracy.
 
