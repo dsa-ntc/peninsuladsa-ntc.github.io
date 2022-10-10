@@ -3,35 +3,50 @@ This repo provides both a theme for Chapters and Organizing Committees of the De
 
 Smaller Chapters, or Chapters without a dedicated internal Tech committee, may lack a web presence outside of Corporate owned Social Media. To assist with this, the National Tech Committee (NTC) has created this runbook to help quickly get chapter webpages up and running with DSA branding. 
 
-Free web hosting may be acquired from Gitlab, an open source version control website for software developers, but can be used solely for hosting static webpages or blogs. In this runbook, we will be setting up a webpage using Jekyll, a static webpage generator on a Gitlab instance, however you may use this to self-host if your chapter has a webserver. 
+Free web hosting may be acquired from GitHub, an open source version control website for software developers, but can be used solely for hosting static webpages or blogs. In this runbook, we will be setting up a webpage using Jekyll, a static webpage generator on a GitHub Pages instance, however you may use this to self-host if your chapter has a webserver. 
 
 References: 
-Example assets can be found here: https://gitlab.com/cmahns/cmahns.gitlab.io
 
-Example webpage can be viewed here: https://cmahns.gitlab.io/
-
-Jekyll documentation can be found here: https://jekyllrb.com/docs
-
-The Lone Wolf Theme Example page can be found here: https://manid2.github.io/lone-wolf-theme/
+- Example assets can be found here: https://gitlab.com/cmahns/cmahns.gitlab.io
+- Example webpage can be viewed here: https://peninsula.dsachapters.org/
+- Jekyll documentation can be found here: https://jekyllrb.com/docs
+- The Lone Wolf Theme Example page can be found here: https://manid2.github.io/lone-wolf-theme/
 
 ## Expectations and Limitations
-This project's function is for the NTC to provide the means for smaller DSA Chapters to establish a Jekyll based website quickly and at no cost. The ownership (e.g. updates to content, updates to theme, customization) is expected to fall on the individual Chapter with minimal support from the NTC outside of onboarding. There is no requirement the website must be hosted on GitLab Pages, use this Jekyll theme, or use this project. 
+This project's function is for the NTC to provide the means for smaller DSA Chapters to establish a Jekyll based website quickly and at no cost. The ownership (e.g. updates to content, updates to theme, customization) is expected to fall on the individual Chapter with minimal support from the NTC outside of onboarding. There is no requirement the website must be hosted on GitHub Pages, use this Jekyll theme, or use this project. 
 
 Jekyll, the base code for this website and this project, is a static website generator, meaning some "dynamic" functionality like a comments section, dynamic chapter calendars for tracking events, or some embedded media, are not supported. The [Jekyll documentation](https://jekyllrb.com/docs) can help further explain what will and won't work if implemented on your website. GitLab has a [comparison between static and dynamic](https://about.gitlab.com/blog/2016/06/03/ssg-overview-gitlab-pages-part-1-dynamic-x-static/) webpages which will further explain the difference. 
 
 ## Installation
-This document will be around using the hosted gitlab instance as self-hosting this same website is out of scope of this document. This document will also assume a small amount of familiarity with `git` for version control and the Markdown markup language for creating pages on the website. 
+This document will be around using the hosted GitHub Pages instance as self-hosting this same website is out of scope of this document. This document will also assume a small amount of familiarity with `git` for version control and the Markdown markup language for creating pages on the website. 
 
-You will also need a GitLab account and a GitLab project for your chapter. While GitLab pages can be created both on personal and group accounts, it's recommended to make this a Chapter based account to provide additional access if needed. 
+You will also need a GitHub account and a GitHub organization for your chapter. While GitHub Pages can be created both on personal and group accounts, it's recommended to make this a Chapter based account to provide additional access if needed. 
 
-1. Visit [this page](https://gitlab.com/groups/new) to create a new Group. It's recommended to keep this either the full name or an abbreviation of your chapter to help reduce taking an already used name.
-2. After the group is created, create a new Project using the **New Project** button
-3. Make the title name `$GROUPNAME.gitlab.io` where $GROUPNAME is the Group name you set in Step 1
-4. Use the repo files here, to begin creating the framework for your new Chapter's website. You can do this by cloning this repo in to your new Project's repo, or downloading the .zip of the source code here and upload it to the Project's repo
 
-GitLab will begin compiling and deploying the new Jekyll blog each update to the website's codebase through the integrated Continuous Integration provided by them, so you will not need to push changes to your website after you create them!
 
-More details can be found in [GitLab's instructions](https://docs.gitlab.com/ee/user/project/pages/#gitlab-pages)
+1. [create a new organization](https://github.com/organizations/plan) on GitHub. Select the "Create a free organization" option.
+2. Fill out the basic information. As you proceed past the optional survey, you will be redirected to your organization's page at `https://github.com/ORGANIZATION_NAME`.
+3. Click the "Create new repository" button in the right-hand sidebar, under "Repositories". Name your repository "ORGANIZATION_NAME.github.io". All letters in the repository name will need to be lowercase.
+4. You will need to make your repostory public in order for GitHub page to work, unless you're using a paid plan. You can leave the rest of the options as they are and click the "Create repository" button at the bottom of the page.
+5. Download the code from the `peninsuladsa-ntc/peninsuladsa-ntc.github.io` repository that contains a starter site for DSA Chapters. You can also clone using the command line.
+
+```sh
+git clone https://github.com/peninsuladsa-ntc/peninsuladsa-ntc.github.io.git
+cd peninsuladsa-ntc.github.io
+```
+
+6. Once the repository is set up, head over to its settings at (`https://github.com/ORGANIZATION_NAME/ORGANIZATION_NAME.github.io/settings/pages`) and click "Pages" under "Code, planning, and automation" in the sidebar on the left.
+7. Upload the starter website to your new repository. If you're using the command line, you can associate the downloaded code with your own repository.
+
+```sh
+git remote set-url origin git@github.com:ORGANIZATION_NAME/ORGANIZATION_NAME.github.io.git
+git push
+```
+
+8. GitHub will begin compiling and deploying the new Jekyll blog each update to the website's codebase through the integrated Continuous Integration provided by them, so you will not need to push changes to your website after you create them! Your site will be available shortly at `https://ORGANIZATION_NAME.github.io/`.
+
+
+You can learn more about GitHub Pages at [pages.github.com](https://pages.github.com/) find a detailed walkthrough on [GitHub Docs](https://docs.github.com/en/pages). See the general steps outlined below.
 
 ##  Updating Website
 All pages for this new website are contained in the `_pages` directory. There are several pages created as examples, here are the main ones:
@@ -54,10 +69,10 @@ A handful of files need to be updated to better customize your chapter's webpage
 `_sass/bootswatch/dist/united/_variables.scss` -- This controls the variables for colors and font for the webpage, currently defaults are kept and minor changes were made to align to the [DSA style guide](https://design.dsausa.org/national-identity/color-palette/)
 
 ## Domain Name
-TBD, needs to be agreed on but proposed to use chapter.dsausa.org as the backbone for these websites. Gitlab supports [custom domain names with https here](https://docs.gitlab.com/ee/user/project/pages/custom_domains_ssl_tls_certification/index.html)
+TBD, needs to be agreed on but proposed to use chapter.dsausa.org as the backbone for these websites. GitHub supports [custom domain names](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site).
 
 ## TODO
 * Polish up instructions further, with screenshots
 * Further details on how to make blog posts vs new pages in Jekyll
-* Instructions on how to maintain and update pages with GitLab Editor vs Desktop
+* Instructions on how to maintain and update pages with GitHub Editor vs Desktop
 * Project website DNS name
