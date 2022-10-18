@@ -16,8 +16,8 @@ Our member-driven organization is made possible by comrades volunteering their l
 
 Our Steering Committee (SC) is elected annually by our membership. Two co-chairs work together on tasks related to Agenda (planning and running meetings), Communications (member & external communications), Finance (chapter funds and filings), and Membership (onboarding and engaging members).
 
-* **Agenda:** Gina & Todd
-* **Communications:** Bennet & Spencer
+* **Agenda:** Gina + open seat
+* **Communications:** Sofia & Spencer
 * **Finance:** Amanda & Laura
 * **Membership:** Allison & Chet
 
