@@ -3,7 +3,7 @@ layout: page
 title: "Reading Group"
 permalink: /political-reading/
 ---
-Peninsula DSA engages in ongoing political education in socialist history and thought, because theory informs praxis. 
+Peninsula DSA engages in ongoing political education in socialist history and thought because theory informs praxis. 
 <br>
 
 Come join our next virtual discussion! See the Peninsula DSA [calendar](../calendar/) for Zoom log-in. (Also on the PDSA Slack as #reading-group)
