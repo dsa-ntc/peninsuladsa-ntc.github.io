@@ -5,7 +5,7 @@ permalink: /preschool-for-all/
 ---
 <h1>Current Priority</h1>
 
-After Measure DD's narrow loss at the ballot box in November 2022--largely because Big Biotech spent $500,000+ to stop us--Peninsula DSA is considering our next steps. South San Francisco preschool teachers, childcare providers, labor organizers, and Measure DD supporters are invited to contact our Steering Committee ([info@ece4allssf.org](mailto:info@ece4allssf.org)) to discuss the campaign and to share ideas re: future efforts to win Preschool for All SSF.
+After Measure DD's narrow loss at the ballot box in November 2022--largely because Big Biotech spent $500,000+ to stop us--Peninsula DSA is considering our next steps. South San Francisco preschool teachers, childcare providers, labor organizers, and Measure DD supporters are invited to contact our Steering Committee ([info@peninsuladsa.org](mailto:info@peninsuladsa.org)) to discuss the campaign and to share ideas re: future efforts to win Preschool for All SSF.
 
 <h1>Past Campaign</h1>
 
