@@ -3,30 +3,24 @@ layout: page
 title: "Preschool for All"
 permalink: /preschool-for-all/
 ---
-<h1>Current Campaign</h1>
+<h1>Current Priority</h1>
+
+After Measure DD's narrow loss at the ballot box in November 2022--largely because Big Biotech spent $500,000+ to stop us--Peninsula DSA is considering our next steps. South San Francisco preschool teachers, childcare providers, labor organizers, and Measure DD supporters are invited to contact our Steering Committee ([info@ece4allssf.org](mailto:info@ece4allssf.org)) to discuss the campaign and to share ideas re: future efforts to win Preschool for All SSF.
+
+<h1>Past Campaign</h1>
 
 <img src="../assets/images/Yes on DD Banner.jpg" width="75%" height="auto" />
 
 <h2>Preschool for All SSF (Yes on Measure DD)</h2>
 
-Peninsula DSA’s Preschool for All working group is organizing for the success of the DSA-endorsed Preschool for All South San Francisco campaign / [Yes on Measure DD](http://ece4allssf.org/), which will
+Peninsula DSA’s Preschool for All working group spent two years organizing for the success of the DSA-endorsed Preschool for All South San Francisco campaign / [Yes on Measure DD](http://ece4allssf.org/), which would
 1. fully fund high-quality preschool to all children aged 2.5 to 5 years old whose families live or work in South City,
 2. provide a living wage to all early care and education (ECE) workers, and 
 3. pay for it all by levying a modest parcel tax on South City's largest commercial office properties.
 
 <h3>Meetings</h3>
 
-**Yes on Measure DD coalition meeting**
-<br>Every Tuesday, 5:30 pm Pacific
-<br>Zoom meeting ID: 878 1757 9854
-<br>Passcode: see #wg-universal-pre-k (Slack)
-
-**How to organize with us**
-<br>Let's talk to every South City voter before Election Day on November 8, 2022!
-- Come canvass in South City on a weekend morning
-- Join a Monday or Wednesday night phonebank
-
-Full details [here](http://ece4allssf.org/volunteer/)—or just [sign up](https://docs.google.com/forms/d/e/1FAIpQLSdnBsUNfUiVZwwY36Ayre4GrZ-IZ2Ax_EtrAVdRcaGuZgAzlg/viewform?usp=sf_link) as a volunteer and we'll be in touch!
+None currently scheduled
 
 <img src="../assets/images/ECE 4 All SSF coalition at City Hall rally 2022.06.03.png" width="50%" height="auto" />
 
@@ -34,6 +28,7 @@ Full details [here](http://ece4allssf.org/volunteer/)—or just [sign up](https:
 
 <h3>Recent Wins</h3>
 
+- **November 8, 2022** -- Despite vicious, well-funded corporate opposition, Measure DD earned 47.21% of the vote in South San Francisco, only 971 votes short of winning universal preschool. 
 - **September 19, 2022** -- The 4Cs (Child Care Coordinating Council) of San Mateo County endorses Measure DD! They join South City's two child care unions, UDW / [Child Care Providers United](https://childcareprovidersunited.org/) and AFSCME Local 829, in support of Preschool for All South San Francisco.
 - **August 27, 2022** -- Our citizens’ initiative for universal preschool makes the November ballot, kicking off the official campaign for Yes on Measure DD / Preschool for All South San Francisco. [Press release](https://docs.google.com/document/d/e/2PACX-1vSwCtBMw_s-cMD6_FL17YxNf8VWUh3XXrMwM6BvB7HrN_GSRVm5prJTn6_CFBjA6rD0WMoK5IVSNKF7/pub)
 - **July 13, 2022** -- The County of San Mateo certifies that our citizens’ initiative for universal preschool in SSF meets the required number of voter signatures to qualify for the November 2022 ballot in South City. [Press release](https://docs.google.com/document/d/e/2PACX-1vQm6DOAF4JiZsbrBM3DxqWhVBr1Dvq4prUTUSN3hXMUnLOFy7sAlIPB_JHEVjm6Q6-0gTkUbdHqaGYy/pub)
