@@ -18,5 +18,5 @@ Peninsula DSA’s meetings and events are designed for our members, though every
 Get started with Peninsula DSA by attending one of our regular meetings!
 
 * Chapter meetings are held on the 3rd Sunday of the month at 4-6pm.
-* Working groups have their own meeting schedules: [Healthcare Justice](../healthcare-justice/) meets every 2-3 weeks on Wednesdays at 6pm.
+* Working groups have their own meeting schedules: [Healthcare Justice](../healthcare-justice/) meets every 2-3 weeks on Wednesdays at 6pm, [Ecosocialism](../ecosocialism/) meets as needed.
 * [Reading group](../reading-group) meets at least once a month, usually on Sundays at 7pm.
