@@ -3,7 +3,7 @@ layout: page
 title: "Healthcare Justice"
 permalink: /healthcare-justice/
 ---
-Peninsula DSA’s Healthcare Justice working group is committed to bringing about universal healthcare through Medicare for All. Now that the California State Assembly has decided against bringing AB 1400 (CalCare) to a vote, a clear legislative path to M4A no longer exists. Come join the Healthcare Justice working group as we determine our new direction.
+Peninsula DSA’s Healthcare Justice working group is committed to bringing about universal healthcare through Medicare for All. Though the California State Assembly decided against bringing AB 1400 (CalCare) to a vote in 2022, the California Nurses Association (CNA) is [organizing](https://www.nationalnursesunited.org/calcare) to bring it back in 2024. Come join the Healthcare Justice working group as we determine how best to help!
 
 
 <h3>Meetings</h3>
