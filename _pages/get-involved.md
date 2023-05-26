@@ -25,6 +25,10 @@ Check out Peninsula DSA's complete [event calendar](../calendar) (or #events on 
 
 If you're not a Peninsula DSA member yet but would like to attend an event, please [contact](mailto:info@peninsuladsa.org) the Steering Committee.
 
+<h2>Reading Group</h2>
+
+Our political [reading group](../political-reading/) discusses socialist books and articles democratically chosen by participants. See also PDSA Slack: #reading-group
+
 <h2>Working Groups</h2>
 
 Peninsula DSA's working groups organize socialist campaigns around issues that matter to the working class. Whether you're an experienced organizer or brand-new to the movement, you're welcome to attend any meeting to learn more--and get involved!
@@ -34,7 +38,3 @@ Our [Healthcare Justice](../healthcare-justice/) working group continues to orga
 
 <h3>Ecosocialism</h3>
 Our [Ecosocialism](../ecosocialism/) working group continues to organize for energy justice by holding PG&E accountable for its dirty, dangerous, and unreliable fossil-fuel energy. We meet virtually as needed. See also PDSA Slack: #wg-ecosocialism
-
-<h2>Reading Group</h2>
-
-Our political [reading group](../political-reading/) discusses socialist books and articles democratically chosen by participants. See also PDSA Slack: #reading-group
