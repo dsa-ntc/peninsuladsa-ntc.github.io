@@ -6,12 +6,15 @@ permalink: /political-reading/
 Peninsula DSA engages in ongoing political education in socialist history and thought because theory informs praxis. 
 <br>
 
-Come join our next virtual reading group on Sunday, March 5, at 7pm! We'll discuss "The Trials and Tribulations of National Consciousness," the third essay of Fanon's _The Wretched of the Earth_. See the Peninsula DSA [calendar](../calendar/) for log-in credentials. (Also on the PDSA Slack at #reading-group)
+Our reading group generally meets virtually on Sundays at 6 or 7pm. Log-in credentials will be on the Peninsula DSA [calendar](../calendar/) as well as in the #reading-group channel on Slack.
 
 <h2>Currently Reading</h2>
-* [The Wretched of the Earth](https://groveatlantic.com/book/the-wretched-of-the-earth/) (1961) by Frantz Fanon.
+TBD!
 
-<h2>Recent Reads</h2>
+<h2>Past Reads</h2>
+
+<h3>2023</h3>
+* [The Wretched of the Earth](https://groveatlantic.com/book/the-wretched-of-the-earth/) (1961) by Frantz Fanon.
 
 <h3>2022</h3>
 * [_How to Read Marx's_ Capital](https://monthlyreview.org/product/how-to-read-marxs-capital/) (2021) by Michael Heinrich, in tandem with _Capital_ by Karl Marx
