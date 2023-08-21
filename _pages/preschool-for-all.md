@@ -3,9 +3,19 @@ layout: page
 title: "Preschool for All"
 permalink: /preschool-for-all/
 ---
+After Measure DD's narrow loss at the ballot box in November 2022--largely because Big Biotech spent $500,000+ to stop us--Peninsula DSA is considering our next steps. South San Francisco preschool teachers, childcare providers, labor organizers, and Measure DD supporters are invited to contact our Steering Committee ([info@peninsuladsa.org](mailto:info@peninsuladsa.org)) to discuss the campaign and to share ideas re: future efforts to win Preschool for All SSF.
+
 <h1>Current Priority</h1>
 
-After Measure DD's narrow loss at the ballot box in November 2022--largely because Big Biotech spent $500,000+ to stop us--Peninsula DSA is considering our next steps. South San Francisco preschool teachers, childcare providers, labor organizers, and Measure DD supporters are invited to contact our Steering Committee ([info@peninsuladsa.org](mailto:info@peninsuladsa.org)) to discuss the campaign and to share ideas re: future efforts to win Preschool for All SSF.
+<h3>Attend the Community Forum on Child Care (South City)!</h3>
+
+**SMC Child Care Forum**
+_Tuesday, August 29, 6-7:30pm_
+Economic Advancement Center
+366 Grand Ave
+South San Francisco, CA 94080
+
+The [San Mateo County Commission on the Status of Women]([url](https://www.smcgov.org/csw)) is hosting a community forum on the affordable child care crisis. Measure DD (ECE 4 All SSF) campaign volunteers and supporters will show up to ask the Commission (and the Board of Supervisors) to fully fund high-quality preschool for all. Free dinner and child care available on site.
 
 <h1>Past Campaign</h1>
 
@@ -43,7 +53,7 @@ None currently scheduled
 Chet and Doniella
 
 <h3>Contact</h3>
-Email us at [info@ece4allssf.org](mailto:info@ece4allssf.org)
+Email us at [ece4allssf@gmail.com](mailto:ece4allssf@gmail.com)
 
 <h3>Social Media</h3>
 Follow us on Instagram, Twitter, and Facebook!
