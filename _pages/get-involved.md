@@ -4,40 +4,48 @@ title: "Get Involved"
 permalink: /get-involved/
 ---
 
-[![Want to get involved with Peninsula DSA? Join us!](/assets/images/getinvolved.png){:class="img-responsive}](https://act.dsausa.org/donate/dsa_recommit_2022/)
+[![Want to get involved with Peninsula DSA? Join us!](/assets/images/getinvolved.png){:class="img-responsive}](https://act.dsausa.org/donate/membership/)
 
 <h2>Join DSA!</h2>
 
-The [Democratic Socialists of America](https://www.dsausa.org/) is the largest socialist organization in the United States because we’re a member-driven mass organization. We are a political and activist organization, not a party. We believe that working people should run both the economy and civil society, and we show our commitment to this principle by being an organization of, by, and for the working class.
+The [Democratic Socialists of America](https://www.dsausa.org/) is the largest socialist organization in the United States because we’re a member-driven mass organization. We are a political and activist organization, not a party. We believe that working people should run both the economy and civil society, and we show our commitment to this principle by being an organization of, by, and for the working class. If you like Bernie Sanders's policies--[Medicare for All](https://berniesanders.com/issues/medicare-for-all/), the [Green New Deal](https://berniesanders.com/issues/green-new-deal/), tuition-free college, social housing--DSA is the place to be.
 
-[Join DSA](https://www.dsausa.org/join) today, and Peninsula DSA's Membership co-chairs will get you started (and invite you to the PDSA Slack). 
-
-And please [subscribe to our email list](http://eepurl.com/cNwNHH) to stay up to date on PDSA news and events!
+When you [join DSA](https://www.dsausa.org/join), Peninsula DSA's Membership co-chairs will reach out to connect you to our local organizing work and invite you to the PDSA Discord server.
 
 <h2>Events</h2>
 
-Check out Peninsula DSA's complete [event calendar](../calendar) (or #events on Slack) for all confirmed virtual and in-person events.
+Peninsula DSA members are encouraged to attend all events, _especially our monthly chapter meetings_. If you're not a Peninsula DSA member yet but would like to attend an event, please [contact](mailto:info@peninsuladsa.org) our Steering Committee. 
 
-* **Chapter meetings** are held on the third Sunday of the month at 4-6pm.
+* **Chapter meetings** are usually virtual and held on the third Sunday of the month at 4-6pm.
 * **Working groups** have their own meeting schedules (see below).
 * **Reading group** meets at least once a month (see below).
 * **Member socials**--like happy hours, game nights, and BBQs--are held at least once a month.
 
-If you're not a Peninsula DSA member yet but would like to attend an event, please [contact](mailto:info@peninsuladsa.org) the Steering Committee.
+All our confirmed virtual and in-person events can be found on our [event calendar](../calendar) and on the **PDSA Discord: #events**
 
-<h2>Reading Group</h2>
+Please [subscribe to our email list](http://eepurl.com/cNwNHH) to stay up to date on news and events!
 
-Our political [reading group](../political-reading/) discusses socialist books and articles democratically chosen by participants. See also PDSA Slack: #reading-group
+<h2>Chapter Meetings</h2>
+
+Our monthly chapter meetings are key to coordinating our organizing efforts. We host presentations on socialist topics, hold democratic discussions (and vote!) on chapter priorities, and always share updates from our respective working groups (see below). Most chapter meetings are held on the **PDSA Discord: #general**.
 
 <h2>Working Groups</h2>
 
-Peninsula DSA's working groups organize socialist campaigns around issues that matter to the working class. Whether you're an experienced organizer or brand-new to the movement, you're welcome to attend any meeting to learn more--and get involved!
+Peninsula DSA's working groups organize socialist campaigns and join coalitions around issues that empower the working class. Whether you're an experienced organizer or brand-new to the movement, you're welcome to attend any meeting to learn more--and get involved!
 
 <h3>Healthcare Justice</h3>
-Our [Healthcare Justice](../healthcare-justice/) working group continues to organize for Medicare for All. We meet virtually every 2-3 weeks on Wednesday at 6pm. PDSA Slack: #wg-healthcare
+Our [Healthcare Justice](../healthcare-justice/) working group continues to organize for [Medicare for All](https://berniesanders.com/issues/medicare-for-all/). We support the California Nurses Association's (CNA) universal healthcare campaign, [CalCare]([url](https://www.nationalnursesunited.org/calcare)) (AB 1690), by crowd canvassing voters on weekends and asking local unions to endorse the bill. We meet virtually every 2-3 weeks on Wednesday at 6pm. Read more [here](../healthcare-justice/) or on the **PDSA Discord: #healthcare**
 
 <h3>Universal Preschool</h3>
-Our [Universal Preschool](../preschool-for-all/) working group, which spearheaded the Measure DD / Preschool for All South San Francisco ballot measure campaign (2022), continues to organize for universal preschool in San Mateo County. 
+Our [Universal Preschool](../preschool-for-all/) working group, which spearheaded the Measure DD / Preschool for All South San Francisco ballot measure campaign (2022), continues to organize for universal preschool in San Mateo County. We meet virtually as needed, usually on Tuesday at 7pm. Read more [here](../preschool-for-all/) or on the **PDSA Discord: #universal-preschool**
 
 <h3>Ecosocialism</h3>
-Our [Ecosocialism](../ecosocialism/) working group continues to organize for energy justice by holding PG&E accountable for its dirty, dangerous, and unreliable fossil-fuel energy. We meet virtually as needed. See also PDSA Slack: #wg-ecosocialism
+Our [Ecosocialism](../ecosocialism/) working group continues to organize for energy justice by holding PG&E accountable for its dirty, dangerous, and unreliable fossil-fuel energy. We have run workshops on making DIY air purifiers to protect against wildfire smoke (and airborne pathogens). We meet virtually as needed. Read more [here](../ecosocialism/) or on the **PDSA Discord: #ecosocialism**
+
+<h2>Reading Group</h2>
+
+Our political [reading group](../political-reading/) discusses socialist books and articles democratically chosen by participants. Read more [here](../political-reading/) or on the **PDSA Discord: #reading-group**
+
+<h2>Play 'n Praxis Game Nights</h2>
+
+Defy capitalist productivity by engaging in revolutionary play! Our socialist game nights create space to practice agency and imagine a collective, liberated future through cooperative games. Favorites have included Strike! and Co-opoly (both designed by the worker-owned cooperative [TESA Collective](https://www.tesacollective.com/). We're about to demo Bloc by Bloc and The Resistance. Our new meetup spot is [Game Kastle]([https://gamekastle.myshopify.com/pages/game-kastle-redwood-city](https://gamekastle.myshopify.com/pages/game-kastle-redwood-city)) in Redwood City. Read more at **PDSA Discord: play-n-praxis**
