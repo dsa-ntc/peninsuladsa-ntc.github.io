@@ -10,7 +10,7 @@ Peninsula DSA’s Healthcare Justice working group is committed to bringing abou
 **Healthcare Justice working group**
 <br>As needed, usually Wednesdays, 6-7pm Pacific
 <br>Zoom meeting ID: 453 802 0826
-<br>Passcode: see #wg-healthcare (Slack)
+<br>Passcode: see #healthcare channel on the PDSA Discord
 
 <h3>Recent Wins</h3>
 *Mar 2, 2022* — Longtime Healthcare Justice WG comrade James Mahon [appears on KALW radio show](https://www.kalw.org/show/your-legal-rights/2022-03-02/the-law-and-how-you-pay-for-healthcare) to educate the public about single-payer healthcare and the current Medicare system.
@@ -22,7 +22,7 @@ Peninsula DSA’s Healthcare Justice working group is committed to bringing abou
 * [Text of resolution](http://www.medicare4allresolutions.org/wp-content/uploads/2021/08/South-San-Francisco-Reso-127-2021-21-525-2.pdf)
 
 <h3>Interim chair</h3>
-Allison
+Allison C
 
 <h3>Contact</h3>
 allisonata@tutanota.com
