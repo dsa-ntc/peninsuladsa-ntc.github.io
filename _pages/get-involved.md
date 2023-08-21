@@ -36,5 +36,8 @@ Peninsula DSA's working groups organize socialist campaigns around issues that m
 <h3>Healthcare Justice</h3>
 Our [Healthcare Justice](../healthcare-justice/) working group continues to organize for Medicare for All. We meet virtually every 2-3 weeks on Wednesday at 6pm. PDSA Slack: #wg-healthcare
 
+<h3>Universal Preschool</h3>
+Our [Universal Preschool](../preschool-for-all/) working group, which spearheaded the Measure DD / Preschool for All South San Francisco ballot measure campaign (2022), continues to organize for universal preschool in San Mateo County. 
+
 <h3>Ecosocialism</h3>
 Our [Ecosocialism](../ecosocialism/) working group continues to organize for energy justice by holding PG&E accountable for its dirty, dangerous, and unreliable fossil-fuel energy. We meet virtually as needed. See also PDSA Slack: #wg-ecosocialism
