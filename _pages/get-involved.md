@@ -28,11 +28,11 @@ Please [subscribe to our email list](http://eepurl.com/cNwNHH) to stay up to dat
 
 <h3>Chapter Meetings</h3>
 
-Our monthly chapter meetings are key to coordinating our organizing efforts. We host presentations on socialist topics, hold democratic discussions (and vote!) on chapter priorities, and always share updates from our respective working groups (see below). Most chapter meetings are held on the **PDSA Discord: #general**.
+Our monthly chapter meetings are key to coordinating our organizing efforts. We host presentations on socialist topics, hold democratic discussions (and vote!) on chapter priorities, and always share updates from our respective working groups. Most chapter meetings are held virtually on the **PDSA Discord: #general**.
 
 <h3>Working Groups</h3>
 
-Peninsula DSA's working groups organize socialist campaigns and join coalitions around issues that empower the working class. Whether you're an experienced organizer or brand-new to the movement, you're welcome to attend any meeting to learn more--and get involved!
+Peninsula DSA's working groups organize socialist campaigns and join coalitions around issues that empower the working class. Whether you're an experienced organizer or new to the movement, you're welcome to attend any meeting to learn more--and get involved!
 
 <h4>Healthcare Justice</h4>
 Our [Healthcare Justice](../healthcare-justice/) working group continues to organize for Medicare for All. We support the California Nurses Association's (CNA) universal healthcare campaign, [CalCare]([url](https://www.nationalnursesunited.org/calcare)) (AB 1690), by crowd canvassing voters on weekends and approaching local unions about endorsing the bill. We meet virtually every 2-3 weeks on Wednesday at 6pm. Read more [here](../healthcare-justice/) or on the **PDSA Discord: #healthcare**
