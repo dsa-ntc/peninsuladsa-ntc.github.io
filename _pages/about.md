@@ -10,7 +10,7 @@ Since 2016, Peninsula DSA has been organizing throughout San Mateo County to bui
 We are a group of local residents and activists working together—and sometimes also in coalitions—to build a world that puts people and planet before profit. Our member-driven organization is made possible by comrades volunteering their labor, each according to their abilities and their need.
 <br>
 
-**Learn more and get involved [here](../get-involved/).**
+Whethehr you're interested in organizing your workplace, winning Medicare for All, building ecosocialism, or learning more about socialism in general, Peninsula DSA is the place to be. **Learn more and get involved [here](../get-involved/).**
 
 <h3>Chapter Leadership</h3>
 
