@@ -14,7 +14,7 @@ We are a group of local residents and activists working together—and sometimes
 
 <h3>Chapter Leadership</h3>
 
-Our Steering Committee (SC) is elected annually by our membership. Two co-chairs work together on tasks related to Agenda (planning and running meetings), Communications (member & external communications), Finance (chapter funds and filings), and Membership (onboarding and engaging members).
+Our Steering Committee (SC) is elected annually by our membership. Two co-chairs work together on tasks related to Agenda (planning and running meetings), Communications (member and external communications), Finance (chapter funds and filings), and Membership (onboarding and engaging members).
 
 * **Agenda:** Gina + open seat
 * **Communications:** Sofia & Spencer
@@ -25,6 +25,6 @@ Our Steering Committee (SC) is elected annually by our membership. Two co-chairs
 
 Want to get involved in DSA but don't spend much time on the Peninsula? Another local chapter might work better for you!
 
-* [DSA Silicon Valley](https://svdsa.github.io/) (South Bay)
+* [DSA Silicon Valley](https://svdsa.github.io/) (South Bay, from Redwood City to San Jose)
 * [DSA San Francisco](https://dsasf.org/)
 * [DSA East Bay](http://www.eastbaydsa.org/)
