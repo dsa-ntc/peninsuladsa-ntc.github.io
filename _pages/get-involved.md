@@ -19,7 +19,8 @@ Peninsula DSA members are encouraged to attend all events, _especially our month
 * **Chapter meetings** are usually virtual and held on the third Sunday of the month at 4-6pm.
 * **Working groups** have their own meeting schedules (see below).
 * **Reading group** meets at least once a month (see below).
-* **Member socials**--like happy hours, game nights, and BBQs--are held at least once a month.
+* **Socialist game nights** are held every 4-6 weeks (see below).
+* **Member socials**--like happy hours and BBQs--are held at least once a month.
 
 All our confirmed virtual and in-person events can be found on our [event calendar](../calendar) and on the **PDSA Discord: #events**
 
@@ -46,6 +47,6 @@ Our [Ecosocialism](../ecosocialism/) working group continues to organize for bui
 
 Our political [reading group](../political-reading/) discusses socialist books and articles democratically chosen by participants. Read more [here](../political-reading/) or on the **PDSA Discord: #reading-group**
 
-<h3>Play 'n Praxis Game Nights</h3>
+<h3>Socialist Game Nights</h3>
 
 Defy capitalist productivity by engaging in revolutionary play! Our socialist game nights create space to practice agency and imagine a collective, liberated future through cooperative games. Favorites have included [Strike! The Game of Worker Rebellion](https://www.youtube.com/watch?v=PnrHK85kcnk) and [Co-opoly](https://store.tesacollective.com/products/co-opoly-the-game-of-co-operatives) (both designed by the worker-owned cooperative [TESA Collective](https://www.tesacollective.com/)). We're about to demo [Bloc by Bloc: Uprising](https://www.youtube.com/watch?v=MR85Umxxb6I) and [The Resistance](https://boardgamegeek.com/boardgame/41114/resistance). Our new meetup spot is [Game Kastle]([https://gamekastle.myshopify.com/pages/game-kastle-redwood-city](https://gamekastle.myshopify.com/pages/game-kastle-redwood-city)) in Redwood City. Read more at **PDSA Discord: play-n-praxis**
