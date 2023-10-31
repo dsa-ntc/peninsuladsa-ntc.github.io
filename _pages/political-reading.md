@@ -6,10 +6,21 @@ permalink: /political-reading/
 Peninsula DSA engages in ongoing political education in socialist history and thought because theory informs praxis. 
 <br>
 
-Our reading group generally meets virtually on Sundays at 6 or 7pm. Log-in credentials will be on the Peninsula DSA [calendar](../calendar/) as well as in the #reading-group channel on Slack.
+Our reading group meets virtually on a Thursday at 7pm in the #general channel on the chapter's Discord server.
 
 <h2>Currently Reading</h2>
-TBD!
+* [Palo Alto: A History of California, Capitalism, and the World](https://www.hachettebookgroup.com/titles/malcolm-harris/palo-alto/9780316592031/?lens=little-brown) (2023) by Malcolm Harris.
+<br>
+
+We'll break down our discussion of this 720-page book as follows:
+
+- **_Introduction_** (pp. 3–7) + planning session: Thursday, October 26, 7-8pm on Discord
+- **_Section I_**, 1850–1900 (pp. 11-86): **Thursday, November 9, 7-8pm on Discord**
+- **_Section II_**, 1900-1945 (pp. 89-217): **Thursday, November 30, 7-8pm on Discord**
+- **_Section III_**, 1945-1975 (pp. 221-359): TBA
+- **_Section IV_**, 1975–2000 (pp. 363-495): TBA
+- **_Section V_**, 2000–2020 (pp. 499-613): TBA
+- **_Resolution_**: TBA
 
 <h2>Past Reads</h2>
 
