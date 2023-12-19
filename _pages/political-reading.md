@@ -15,9 +15,9 @@ Our reading group meets virtually on a Thursday at 7pm in the #general channel o
 We'll break down our discussion of this 720-page book as follows:
 
 - **_Introduction_** (pp. 3–7) + planning session: Thursday, October 26, 7-8pm on Discord
-- **_Section I_**, 1850–1900 (pp. 11-86): **Thursday, November 9, 7-8pm on Discord**
-- **_Section II_**, 1900-1945 (pp. 89-217): **Thursday, November 30, 7-8pm on Discord**
-- **_Section III_**, 1945-1975 (pp. 221-359): **Thursday, December 14, 7-8pm on Discord**
+- **_Section I_**, 1850–1900 (pp. 11-86): Thursday, November 9, 7-8pm on Discord
+- **_Section II_**, 1900-1945 (pp. 89-217): Thursday, November 30, 7-8pm on Discord and Thursday, December 14, 7-8pm on Discord
+- **_Section III_**, 1945-1975 (pp. 221-359): **Thursday, January 4, 7-8pm on Discord**
 - **_Section IV_**, 1975–2000 (pp. 363-495): TBA
 - **_Section V_**, 2000–2020 (pp. 499-613): TBA
 - **_Resolution_**: TBA
