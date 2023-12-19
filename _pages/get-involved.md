@@ -42,13 +42,13 @@ Peninsula DSA's working groups organize socialist campaigns and join coalitions 
 Our [Healthcare Justice](../healthcare-justice/) working group continues to organize for Medicare for All. We support the California Nurses Association's (CNA) universal healthcare campaign, [CalCare]([url](https://www.nationalnursesunited.org/calcare)) (AB 1690), by crowd canvassing voters on weekends and approaching local unions about endorsing the bill. We meet virtually every 2-3 weeks on Wednesday at 6pm. Read more [here](../healthcare-justice/) or on the **PDSA Discord: #healthcare**
 
 <h4>Labor</h4>
-Our newly reformed Labor working group is developing a campaign for Peninsula DSA's 2024 chapter convention. Join your labor-minded comrades on Discord at #labor and attend meetings on Mondays at 8pm..
-
-<h4>Universal Preschool</h4> --- ON HIATUS
-Our [Universal Preschool](../preschool-for-all/) working group, which spearheaded the Measure DD / Preschool for All South San Francisco ballot measure campaign (2022), continues to organize for universal preschool in San Mateo County. We meet virtually as needed, usually on Tuesday at 7pm. Read more [here](../preschool-for-all/) or on the **PDSA Discord: #universal-preschool**
+Our newly reformed Labor working group is developing a campaign for Peninsula DSA's 2024 chapter convention. Join your labor-minded comrades on the **PDSA Discord: #labor**
 
 <h4>Ecosocialism</h4> --- ON HIATUS
 Our [Ecosocialism](../ecosocialism/) working group continues to organize for building energy justice and holding PG&E accountable for its dirty, dangerous, and unreliable fossil-fuel energy. We have run workshops on making DIY air purifiers to protect against wildfire smoke (and airborne pathogens). We meet virtually as needed. Read more [here](../ecosocialism/) or on the **PDSA Discord: #ecosocialism**
+
+<h4>Universal Preschool</h4> --- ON HIATUS
+Our [Universal Preschool](../preschool-for-all/) working group, which spearheaded the Measure DD / Preschool for All South San Francisco ballot measure campaign (2022), continues to organize for universal preschool in San Mateo County. We meet virtually as needed, usually on Tuesday at 7pm. Read more [here](../preschool-for-all/) or on the **PDSA Discord: #universal-preschool**
 
 <h3>Socialist Game Nights</h3>
 
