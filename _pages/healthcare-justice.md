@@ -5,12 +5,12 @@ permalink: /healthcare-justice/
 ---
 Peninsula DSA’s Healthcare Justice working group is committed to bringing about universal healthcare through Medicare for All. The California Nurses Association (CNA) is [organizing](https://www.nationalnursesunited.org/calcare) to bring a CalCare bill ([AB 1690](https://legiscan.com/CA/text/AB1690/id/2708267#:~:text=This%20bill%20would%20state%20the,every%20resident%20of%20the%20state.)) to the CA State Assembly in 2024. Come join the Healthcare Justice working group as we determine how best to help!
 
-
 <h3>Meetings</h3>
 **Healthcare Justice working group**
-<br>As needed, usually Wednesdays, 6-7pm Pacific
-<br>Zoom meeting ID: 453 802 0826
-<br>Passcode: see #healthcare channel on the PDSA Discord
+<br>Every two weeks, usually Monday at 7-8pm
+<br>PDSA Discord #General voice channel
+
+_Contact:_ Justin F
 
 <h3>Recent Wins</h3>
 *Mar 2, 2022* — Longtime Healthcare Justice WG comrade James Mahon [appears on KALW radio show](https://www.kalw.org/show/your-legal-rights/2022-03-02/the-law-and-how-you-pay-for-healthcare) to educate the public about single-payer healthcare and the current Medicare system.
