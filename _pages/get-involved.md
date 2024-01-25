@@ -42,7 +42,7 @@ Peninsula DSA's working groups organize socialist campaigns and join coalitions 
 Our [Healthcare Justice](../healthcare-justice/) working group continues to organize for Medicare for All. We support the California Nurses Association's (CNA) universal healthcare campaign, [CalCare]([url](https://www.nationalnursesunited.org/calcare)) (AB 1690), by crowd canvassing voters on weekends and approaching local unions about endorsing the bill. We meet virtually every 2-3 weeks on Wednesday at 6pm. Read more [here](../healthcare-justice/) or on the **PDSA Discord: #healthcare**
 
 <h4>Labor</h4>
-Our newly reformed Labor working group is developing a campaign for Peninsula DSA's 2024 chapter convention. Join your labor-minded comrades on the **PDSA Discord: #labor**
+Our newly re-formed [Labor](../labor/) working group is developing a campaign for Peninsula DSA's 2024 chapter convention. Join your labor-minded comrades on the **PDSA Discord: #labor**
 
 <h4>Ecosocialism</h4> --- ON HIATUS
 Our [Ecosocialism](../ecosocialism/) working group continues to organize for building energy justice and holding PG&E accountable for its dirty, dangerous, and unreliable fossil-fuel energy. We have run workshops on making DIY air purifiers to protect against wildfire smoke (and airborne pathogens). We meet virtually as needed. Read more [here](../ecosocialism/) or on the **PDSA Discord: #ecosocialism**
