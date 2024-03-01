@@ -20,4 +20,4 @@ Kevin Mullin first won this seat last election against David Canepa, helped by $
 Ahmed is the only progressive voice in the field of candidates looking to replace Anna Eshoo, and he has the track record to prove it. He has worked as an equal rights advocate, called for a Ceasefire in Gaza, and fought for women’s rights. In addition, he is calling for Medicare 4 All, affordable housing, a Green New Deal, and more. And we hope his time in office will encourage us to recommend him again.
 
 
-For additional social insights and recommendations, please also see [California DSA's statewide voter guide](https://www.californiadsa.org/news/2024-primary-voter-guide-cadsa).
+For more socialist insights and recommendations, please also see [California DSA's statewide voter guide](https://www.californiadsa.org/news/2024-primary-voter-guide-cadsa).
