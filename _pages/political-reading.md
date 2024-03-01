@@ -6,7 +6,7 @@ permalink: /political-reading/
 Peninsula DSA engages in ongoing political education in socialist history and thought because theory informs praxis. 
 <br>
 
-Our reading group meets virtually on a Thursday at 7pm in the #general channel on the chapter's Discord server.
+Our reading group meets virtually on a Thursday at 7pm in the #general channel on the chapter's Discord server. Request an invite to the Discord by emailing the Steering Committee at [peninsuladsa@gmail.com](mailto:peninsuladsa@gmail.com).
 
 <h2>Currently Reading</h2>
 * [Palo Alto: A History of California, Capitalism, and the World](https://www.hachettebookgroup.com/titles/malcolm-harris/palo-alto/9780316592031/?lens=little-brown) (2023) by Malcolm Harris.
@@ -18,11 +18,11 @@ We'll break down our discussion of this 720-page book as follows:
 - **_Section I_**, 1850–1900 (pp. 11-86): Thursday, November 9, 7-8pm on Discord
 - **_Section II_**, 1900-1945 (pp. 89-217): Thursday, November 30, 7-8pm on Discord and Thursday, December 14, 7-8pm on Discord
 - **_Section III_**, 3.1 and 3.2, 1945-1975 (pp. 221-280): Thursday, January 4, 7-8pm on Discord
-- **_Section III_**, 3.3 and 3.4, 1945-1975 (pp. 281-359): Thursday, January 18, 7-8pm on Discord
-- **_Section IV_**, 4.1 and 4.2, 1975–2000 (pp. 361-438): **Thursday, February 1, 7-8pm on Discord**
-- **_Section IV_**, 4.3 and 4.4, 1975–2000 (pp. 439-495): TBA
-- **_Section V_**, 2000–2020 (pp. 499-613): TBA
-- **_Resolution_**: TBA
+- **_Section III_cont.**, 3.3 and 3.4, 1945-1975 (pp. 281-359): Thursday, January 18, 7-8pm on Discord
+- **_Section IV_**, 4.1 and 4.2, 1975–2000 (pp. 361-438): Thursday, February 1, 7-8pm on Discord
+- **_Section IV_cont.**, 4.3 and 4.4, 1975–2000 (pp. 439-495): Thursday, February 15, 7-8pm on Discord
+- **_Section V_**, 5.1 and 5.2, 2000–2020 (pp. 499-568): Thursday, February 29, 7-8pm on Discord
+- **_Section V cont. & Resolution_**: 5.3 and 6.1 (pp 569–628): **Thursday, March 14, 7-8pm on Discord**
 
 <h2>Past Reads</h2>
 
