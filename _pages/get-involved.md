@@ -19,8 +19,8 @@ Peninsula DSA members are encouraged to attend all events, _especially our month
 * **Chapter meetings** are usually virtual and held on the third Sunday of the month at 4-6pm.
 * **Working groups** have their own meeting schedules (see below).
 * **Reading group** meets virtually at least once a month (see below), often on Thursdays at 7-8pm.
-* **Socialist game nights** are held in person every 4-6 weeks (see below).
-* **Member socials**--like happy hours and BBQs--are held in person at least once a month.
+* **Socialist game nights** are on hold for the time being (see below).
+* **Member socials** are held in person at least once a month, usually on second Fridays at 5pm.
 
 All our confirmed virtual and in-person events can be found on our [event calendar](../calendar) and on the **PDSA Discord: #events**
 
@@ -38,17 +38,17 @@ Our political [reading group](../political-reading/) discusses socialist books a
 
 Peninsula DSA's working groups organize socialist campaigns and join coalitions around issues that empower the working class. Whether you're an experienced organizer or new to the movement, you're welcome to attend any meeting to learn more--and get involved!
 
-<h4>Healthcare Justice</h4>
-Our [Healthcare Justice](../healthcare-justice/) working group continues to organize for Medicare for All. We support the California Nurses Association's (CNA) universal healthcare campaign, [CalCare]([url](https://www.nationalnursesunited.org/calcare)) (AB 1690), by crowd canvassing voters on weekends and approaching local unions about endorsing the bill. We meet virtually every 2-3 weeks on Wednesday at 6pm. Read more [here](../healthcare-justice/) or on the **PDSA Discord: #healthcare**
-
-<h4>Labor</h4>
-Our newly re-formed [Labor](../labor/) working group is developing a campaign for Peninsula DSA's 2024 chapter convention. Join your labor-minded comrades on the **PDSA Discord: #labor**
-
 <h4>Ecosocialism</h4> --- ON HIATUS
 Our [Ecosocialism](../ecosocialism/) working group continues to organize for building energy justice and holding PG&E accountable for its dirty, dangerous, and unreliable fossil-fuel energy. We have run workshops on making DIY air purifiers to protect against wildfire smoke (and airborne pathogens). We meet virtually as needed. Read more [here](../ecosocialism/) or on the **PDSA Discord: #ecosocialism**
 
+<h4>Healthcare Justice</h4>
+Our [Healthcare Justice](../healthcare-justice/) working group continues to organize for Medicare for All. We support the California Nurses Association's (CNA) universal healthcare campaign, [CalCare]([url](https://www.nationalnursesunited.org/calcare)) (AB 1690), by crowd canvassing voters on weekends and approaching local unions about endorsing the bill. Read more [here](../healthcare-justice/) or on the **PDSA Discord: #healthcare**
+
+<h4>Labor</h4>
+Our newly re-formed [Labor](../labor/) working group is developing a transit campaign for Peninsula DSA's 2024 chapter convention. Read more [here](../labor/) and join your labor-minded comrades on the **PDSA Discord: #labor**
+
 <h4>Universal Preschool</h4> --- ON HIATUS
-Our [Universal Preschool](../preschool-for-all/) working group, which spearheaded the Measure DD / Preschool for All South San Francisco ballot measure campaign (2022), continues to organize for universal preschool in San Mateo County. We meet virtually as needed, usually on Tuesday at 7pm. Read more [here](../preschool-for-all/) or on the **PDSA Discord: #universal-preschool**
+Our [Universal Preschool](../preschool-for-all/) working group, which spearheaded the Measure DD / Preschool for All South San Francisco ballot measure campaign (2022), continues to organize for universal preschool in San Mateo County. Read more [here](../preschool-for-all/) or on the **PDSA Discord: #universal-preschool**
 
 <h3>Socialist Game Nights</h3>
 
