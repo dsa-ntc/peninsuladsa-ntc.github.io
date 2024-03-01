@@ -7,7 +7,7 @@ Peninsula DSA’s Healthcare Justice working group is committed to bringing abou
 
 <h3>Meetings</h3>
 **Healthcare Justice working group**
-<br>Every two weeks, usually Monday at 7-8pm
+<br>Scheduled as needed. Usually every two weeks, usually Monday at 7pm
 <br>PDSA Discord #General voice channel
 
 <h3>Recent Wins</h3>
