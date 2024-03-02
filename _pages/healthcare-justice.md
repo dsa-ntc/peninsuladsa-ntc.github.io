@@ -3,7 +3,7 @@ layout: page
 title: "Healthcare Justice"
 permalink: /healthcare-justice/
 ---
-Peninsula DSA’s Healthcare Justice working group is committed to bringing about universal healthcare through Medicare for All. The California Nurses Association (CNA) is [organizing](https://www.nationalnursesunited.org/calcare) to bring a CalCare bill ([AB 1690](https://legiscan.com/CA/text/AB1690/id/2708267#:~:text=This%20bill%20would%20state%20the,every%20resident%20of%20the%20state.)) to the CA State Assembly in 2024. Come join the Healthcare Justice working group as we determine how best to help!
+Peninsula DSA’s Healthcare Justice working group is committed to bringing about universal healthcare through Medicare for All. CA Assemblymember Ash Kalra (D-San Jose), with the backing of the [California Nurses Association](https://www.nationalnursesunited.org/california-nurses-association) (CNA), has reintroduced the new and improved CalCare bill: [AB 2200: Guaranteed Healthcare for All](https://legiscan.com/CA/text/AB2200/id/2919344). Come join the Healthcare Justice working group as we determine how best to help pass this life-saving legislation!
 
 <h3>Meetings</h3>
 **Healthcare Justice working group**
