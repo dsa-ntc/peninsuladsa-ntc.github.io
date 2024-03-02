@@ -7,10 +7,10 @@ permalink: /about/
 Since 2016, Peninsula DSA has been organizing throughout San Mateo County to build working class power for the benefit of the 99%. 
 <br>
 
-We are a group of local residents and activists working together—and sometimes also in coalitions—to build a world that puts people and planet before profit. Our member-driven organization is made possible by comrades volunteering their labor, each according to their abilities and their need.
+We are a group of local residents and activists working together—and sometimes in coalitions—to build a world that puts people and planet before profit. Our member-driven organization is made possible by comrades volunteering their labor, each according to their ability and their need.
 <br>
 
-Whethehr you're interested in organizing your workplace, winning Medicare for All, building ecosocialism, or learning more about socialism in general, Peninsula DSA is the place to be. **Learn more and get involved [here](../get-involved/).**
+Whether you're interested in organizing your workplace, winning Medicare for All, building ecosocialism, or learning more about socialism in general, Peninsula DSA is the place to be. **Learn more and get involved [here](../get-involved/).**
 
 <h3>Chapter Leadership</h3>
 
@@ -20,6 +20,8 @@ Our Steering Committee (SC) is elected annually by our membership. Two co-chairs
 * **Communications:** Sofia & Spencer
 * **Finance:** Amanda & Laura
 * **Membership:** Allison & Chet
+
+Our next Steering Committee election will be at our chapter convention on Sunday, March 17, 4-6pm on Discord.
 
 <h3>Other Bay Area Chapters</h3>
 
