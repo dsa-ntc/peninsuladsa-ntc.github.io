@@ -22,7 +22,7 @@ We'll break down our discussion of this 720-page book as follows:
 - **_Section IV_**, 4.1 and 4.2, 1975–2000 (pp. 361-438): Thursday, February 1, 7-8pm on Discord
 - **_Section IV cont._**, 4.3 and 4.4, 1975–2000 (pp. 439-495): Thursday, February 15, 7-8pm on Discord
 - **_Section V_**, 5.1 and 5.2, 2000–2020 (pp. 499-568): Thursday, February 29, 7-8pm on Discord
-- **_Section V cont. & Resolution_**: 5.3 and 6.1 (pp 569–628): **Thursday, March 14, 7-8pm on Discord**
+- **_Section V cont. & Resolution_**: 5.3 and 6.1 (pp 569–628): RESCHEDULED AGAIN **Thursday, April 4, 7-8pm on Discord**
 
 <h2>Past Reads</h2>
 
