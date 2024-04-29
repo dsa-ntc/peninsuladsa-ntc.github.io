@@ -4,6 +4,9 @@ title: "Housing for All"
 permalink: /housing/
 ---
 <h3>Current Campaign</h3>
+
+![Campaign logo: the black words "Affordable Redwood City, Our Roots, Our City" frame a round illustration. A young family - a woman and two children - is shown in silhouette against a kaleidoscope of vibrant yellows, oranges, pinks, and blues. They stand holding hands underneath a tall leafy tree; one branch extends over them to form the "roof" of a house with a lit-up window.](https://peninsuladsa.org/assets/images/AffordableRedwoodCity.png)
+
 <h2>Affordable Redwood City</h2>
 
 At our most recent chapter convention (March 2024), PDSA members voted to endorse and provide material support to [Faith in Action Bay Area](https://faithinactionba.org/)’s [Affordable Redwood City](https://www.affordableredwoodcity.com/) housing campaign to win rent control and tenant protections through the “[Fair and Affordable Housing Ordinance](https://static1.squarespace.com/static/65ad75e444d969650cbc8a2b/t/65b16af6a8980e7386ce3976/1706126070592/Redwood+City+Final+as+submitted+12+11+23.docx.pdf).” Because this is a citizens' ballot measure campaign, a simple majority (50%) of voters can pass the measure into law in the November 2024 election, keeping Redwood City affordable, diverse, and vibrant - with no more unjustified rent hikes and unfair evictions!
