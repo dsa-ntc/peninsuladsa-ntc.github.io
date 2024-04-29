@@ -32,27 +32,33 @@ Our monthly chapter meetings are key to coordinating our organizing efforts. We 
 
 <h3>Reading Group</h3>
 
-Our political [reading group](../political-reading/) discusses socialist books and articles democratically chosen by participants. Read more [here](../political-reading/) or on the **PDSA Discord: #reading-group**
+Our political [reading group](../political-reading/) discusses socialist books and articles democratically chosen by participants.  
+Read more [here](../political-reading/) or on the **PDSA Discord: #reading-group**
 
 <h3>Working Groups</h3>
 
 Peninsula DSA's working groups organize socialist campaigns and join coalitions around issues that empower the working class. Whether you're an experienced organizer or new to the movement, you're welcome to attend any meeting to learn more--and get involved!
 
 <h4>Ecosocialism</h4>
-_ON HIATUS_ Our [Ecosocialism](../ecosocialism/) working group continues to **organize for building energy justice and holding PG&E accountable** for its dirty, dangerous, and unreliable fossil-fuel energy. We have run workshops on making DIY air purifiers to protect against wildfire smoke (and airborne pathogens). We meet virtually as needed. Read more [here](../ecosocialism/) or on the **PDSA Discord: #ecosocialism**
+_ON HIATUS_ Our [Ecosocialism](../ecosocialism/) working group continues to organize for building energy justice and holding PG&E accountable for its dirty, dangerous, and unreliable fossil-fuel energy. We have run workshops on making DIY air purifiers to protect against wildfire smoke (and airborne pathogens). We meet virtually as needed.  
+_Read more [here](../ecosocialism/) or on the **PDSA Discord: #ecosocialism**_
 
 <h4>Healthcare Justice</h4>
-_ON HIATUS_ Our [Healthcare Justice](../healthcare-justice/) working group continues to organize for Medicare for All. **We endorse and support the California Nurses Association's (CNA) universal healthcare campaign, [CalCare](https://www.nationalnursesunited.org/calcare) (Guaranteed Healthcare for All, AB 2200).** Read more [here](../healthcare-justice/) or on the **PDSA Discord: #healthcare**
+_ON HIATUS_ Our [Healthcare Justice](../healthcare-justice/) working group continues to organize for Medicare for All. We endorse and support the California Nurses Association's (CNA) universal healthcare campaign, [CalCare](https://www.nationalnursesunited.org/calcare) (Guaranteed Healthcare for All, AB 2200). 
+ _Read more [here](../healthcare-justice/) or on the **PDSA Discord: #healthcare**_
 
 <h4>Housing</h4>
-Our [Housing](../housing/) working group has joined Faith in Action Bay Area's coalition to **win rent control and tenant protections in Redwood City!** The Affordable Redwood City campaign is a citizens' ballot measure campaign to fight corporate greed and guarantee dignified housing in November 2024. Read more [here](../housing/) or on the **PDSA Discord: #housing and #affordable-rwc**
+Our [Housing](../housing/) working group has joined Faith in Action Bay Area's coalition to win rent control and tenant protections in Redwood City! The Affordable Redwood City campaign is a citizens' ballot measure campaign to fight corporate greed and guarantee dignified housing in November 2024.  
+_Read more [here](../housing/) or on the **PDSA Discord: #housing and #affordable-rwc**_
 
 <h4>Labor</h4>
-Our newly re-formed [Labor](../labor/) working group is **developing a Transit for All campaign** with a mandate from Peninsula DSA's 2024 chapter convention. Read more [here](../labor/) and join your labor-minded comrades on the **PDSA Discord: #labor**
+Our newly re-formed [Labor](../labor/) working group is developing a Transit for All campaign with a mandate from Peninsula DSA's 2024 chapter convention.  
+_Read more [here](../labor/) and join your labor-minded comrades on the **PDSA Discord: #labor**_
 
 <h4>Universal Preschool</h4>
-_ON HIATUS_ Our [Universal Preschool](../preschool-for-all/) working group, which spearheaded the Measure DD / Preschool for All South San Francisco ballot measure campaign (2022), continues to organize for universal preschool in San Mateo County. Read more [here](../preschool-for-all/) or on the **PDSA Discord: #universal-preschool**
+_ON HIATUS_ Our [Universal Preschool](../preschool-for-all/) working group, which spearheaded the Measure DD / Preschool for All South San Francisco ballot measure campaign (2022), continues to organize for universal preschool in San Mateo County.  
+_Read more [here](../preschool-for-all/) or on the **PDSA Discord: #universal-preschool**_
 
 <h3>Socialist Game Nights</h3>
 
-_ON HIATUS_ Defy capitalist productivity by engaging in revolutionary play! Our socialist game nights create space to practice agency and imagine a collective, liberated future through cooperative games. Favorites have included [Strike! The Game of Worker Rebellion](https://www.youtube.com/watch?v=PnrHK85kcnk) and [Co-opoly](https://store.tesacollective.com/products/co-opoly-the-game-of-co-operatives) (both designed by the worker-owned cooperative [TESA Collective](https://www.tesacollective.com/)). We're about to demo [Bloc by Bloc: Uprising](https://www.youtube.com/watch?v=MR85Umxxb6I) and [The Resistance](https://boardgamegeek.com/boardgame/41114/resistance). Our new meetup spot is [Game Kastle]([https://gamekastle.myshopify.com/pages/game-kastle-redwood-city](https://gamekastle.myshopify.com/pages/game-kastle-redwood-city)) in Redwood City. Read more at **PDSA Discord: play-n-praxis**
+_ON HIATUS_ Defy capitalist productivity by engaging in revolutionary play! Our socialist game nights create space to practice agency and imagine a collective, liberated future through cooperative games. Favorites have included [Strike! The Game of Worker Rebellion](https://www.youtube.com/watch?v=PnrHK85kcnk) and [Co-opoly](https://store.tesacollective.com/products/co-opoly-the-game-of-co-operatives) (both designed by the worker-owned cooperative [TESA Collective](https://www.tesacollective.com/)). We're about to demo [Bloc by Bloc: Uprising](https://www.youtube.com/watch?v=MR85Umxxb6I) and [The Resistance](https://boardgamegeek.com/boardgame/41114/resistance). Our new meetup spot is [Game Kastle]([https://gamekastle.myshopify.com/pages/game-kastle-redwood-city](https://gamekastle.myshopify.com/pages/game-kastle-redwood-city)) in Redwood City. _Read more at **PDSA Discord: play-n-praxis**_
