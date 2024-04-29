@@ -5,7 +5,7 @@ permalink: /housing/
 ---
 <h3>Current Campaign</h3>
 
-![Campaign logo: the black words "Affordable Redwood City, Our Roots, Our City" frame a round illustration. A young family - a woman and two children - is shown in silhouette against a kaleidoscope of vibrant yellows, oranges, pinks, and blues. They stand holding hands underneath a tall leafy tree; one branch extends over them to form the "roof" of a house with a lit-up window.](https://peninsuladsa.org/assets/images/AffordableRedwoodCity.png)
+![Campaign logo: the black words "Affordable Redwood City, Our Roots, Our City" frame a round illustration. A young family - a woman and two children - is shown in silhouette against a kaleidoscope of vibrant yellows, oranges, pinks, and blues. They stand holding hands underneath a tall leafy tree; one branch extends over them to form the "roof" of a house with a lit-up window.](https://peninsuladsa.org/assets/images/AffordableRedwoodCity.png | width=100)
 
 <h2>Affordable Redwood City</h2>
 
