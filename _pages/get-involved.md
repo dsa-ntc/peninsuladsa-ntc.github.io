@@ -55,7 +55,7 @@ _Read more [here](../healthcare-justice/) or on the **PDSA Discord: #healthcare*
 
 <h4>Housing</h4>
 Our [Housing](../housing/) working group has joined Faith in Action Bay Area's coalition to win rent control and tenant protections in Redwood City! The Affordable Redwood City campaign is a citizens' ballot measure campaign to fight corporate greed and guarantee dignified housing in November 2024.  
-_Read more [here](../housing/) or on the **PDSA Discord: #housing and #affordable-rwc**_
+_Read more [here](../housing/) or on the **PDSA Discord: #housing** and **#affordable-rwc**_
 
 <h4>Labor</h4>
 Our newly re-formed [Labor](../labor/) working group is developing a Transit for All campaign with a mandate from Peninsula DSA's 2024 chapter convention.  
