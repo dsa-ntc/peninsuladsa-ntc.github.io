@@ -20,13 +20,13 @@ As confirmed with FiABA, PDSA will support the campaign by
 3. phone banking voters (June to November 2024), and 
 4. staffing special campaign events as needed. 
 
-Let's knock doors and make calls to win our neighbors' strong support _before_ multimillionaire corporate landlords start spreading misinformation!
-
 <h3>TAKE ACTION: Canvass for the Campaign - May 2024</h3>
+
+Let's knock doors and make calls to win our neighbors' strong support _before_ multimillionaire corporate landlords start spreading misinformation!
 
 Faith in Action will mobilize in Redwood City on weekday evenings and throughout the weekend from now until signature turn-in. We'll meet up either at campaign HQ (1780 Broadway St) or at a local hot spot. No prior canvassing experience required! Training and literature will be provided. Bring water and wear comfortable shoes. And please wear DSA gear!
 
-Please pick a few of the confirmed dates below and register to volunteer here: [https://www.affordableredwoodcity.com/getinvolved](https://www.affordableredwoodcity.com/getinvolved)
+Browse the confirmed dates below, then register to volunteer here: [https://www.affordableredwoodcity.com/getinvolved](https://www.affordableredwoodcity.com/getinvolved)
 
 **Week of April 29th**
 - Monday, April 29, 4-6pm
