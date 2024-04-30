@@ -7,7 +7,7 @@ permalink: /housing/
 
 <h2>Affordable Redwood City</h2>
 
-<img src="https://peninsuladsa.org/assets/images/AffordableRedwoodCity.png" align="left" height="300" width="300" >
+<img src="https://peninsuladsa.org/assets/images/AffordableRedwoodCity.png" align="right" height="300" width="300">  
 
 At our most recent chapter convention (March 2024), PDSA members voted to endorse and provide material support to [Faith in Action Bay Area](https://faithinactionba.org/)’s [Affordable Redwood City](https://www.affordableredwoodcity.com/) housing campaign to win rent control and tenant protections through the “[Fair and Affordable Housing Ordinance](https://static1.squarespace.com/static/65ad75e444d969650cbc8a2b/t/65b16af6a8980e7386ce3976/1706126070592/Redwood+City+Final+as+submitted+12+11+23.docx.pdf).”  
 
