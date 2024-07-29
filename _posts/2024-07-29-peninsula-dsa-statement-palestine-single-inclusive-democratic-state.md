@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "Peninsula DSA Supports Single Inclusive Democratic State for Palestinians and Israelis"
-permalink: /2024-07-16-peninsula-dsa-statement-palestine-single-inclusive-democratic-state/
+permalink: /2024-07-29-peninsula-dsa-statement-palestine-single-inclusive-democratic-state/
 tag: statement
 short_description: "Peninsula (CA) DSA voted at our June 2024 General Membership Meeting to declare our support for a political vision of one democratic state in Palestine."
 ---
