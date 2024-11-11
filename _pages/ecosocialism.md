@@ -10,11 +10,14 @@ The Ecosocialism working group continues to work for energy justice by supportin
 As needed.
 
 <h3>Activities</h3>
+
 **Ecosocialism reading group** (2021-22)
+Educating ourselves on the injustices of the current energy system and imagining alternative futures will keep us from repeating mistakes of the past.
 * [How to Blow Up a Pipeline: Learning to Fight in a World on Fire](https://www.versobooks.com/books/3665-how-to-blow-up-a-pipeline) by Andreas Malm
-* [Revolutionary Power: An Activist’s Guide to the Energy Transition](https://islandpress.org/books/revolutionary-power) by Dr. Shalanda H. Baker
+* [Revolutionary Power: An Activist’s Guide to the Energy Transition](https://islandpress.org/books/revolutionary-power) by [Dr. Shalanda H. Baker](https://cssh.northeastern.edu/faculty/shalanda-h-baker/)
 
 **Community Education: DIY Air Purifier Workshop** (Summer 2021)
+Protect yourself and your family from wildfire smoke and respiratory viruses like COVID with an air purifier.
 * [Brochure](../assets/files/Peninsula DSA Ecosocialism WG, Air Purifier DIY instructions (English) 2021.08.18.pdf) (English)
 * [Folleto](../assets/files/Peninsula DSA Ecosocialism WG, Air Purifier DIY instructions (Español) 2021.08.18.pdf) (Español)
 
