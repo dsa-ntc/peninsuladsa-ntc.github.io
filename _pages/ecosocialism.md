@@ -11,15 +11,16 @@ As needed.
 
 <h3>Activities</h3>
 
-**Ecosocialism reading group** (2021-22)
+**Ecosocialism reading group** (2021-22)<br>
 Educating ourselves on the injustices of the current energy system and imagining alternative futures will keep us from repeating mistakes of the past.
 * [How to Blow Up a Pipeline: Learning to Fight in a World on Fire](https://www.versobooks.com/books/3665-how-to-blow-up-a-pipeline) by Andreas Malm
 * [Revolutionary Power: An Activist’s Guide to the Energy Transition](https://islandpress.org/books/revolutionary-power) by [Dr. Shalanda H. Baker](https://cssh.northeastern.edu/faculty/shalanda-h-baker/)
 
-**Community Education: DIY Air Purifier Workshop** (Summer 2021)
+**Community Education: DIY Air Purifier Workshop** (Summer 2021)<br>
 Protect yourself and your family from wildfire smoke and respiratory viruses like COVID with an air purifier.
 * [Brochure](../assets/files/Peninsula DSA Ecosocialism WG, Air Purifier DIY instructions (English) 2021.08.18.pdf) (English)
 * [Folleto](../assets/files/Peninsula DSA Ecosocialism WG, Air Purifier DIY instructions (Español) 2021.08.18.pdf) (Español)
+* [Video demonstration](https://twitter.com/DSA_Peninsula/status/1416934098610769921?t=kQgXleJFgqnUHn6sXmLt4w&s=19) of air purifier assembly.
 
 **Community Education: Cost-effective Energy Efficiency** (2021)
 * [Brochure](../assets/files/energy-education.pdf) (English)
