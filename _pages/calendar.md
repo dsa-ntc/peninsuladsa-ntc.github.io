@@ -5,7 +5,7 @@ permalink: /calendar/
 ---
 
 <h3>Chapter Events</h3>
-Get started with Peninsula DSA by attending one of our regular chapter events! <br>
+Get started with Peninsula DSA by attending one of our regular chapter events! Though our meetings and events are designed for our members, everyone interested in building working-class power is welcome.  <br>
 
 * **General meetings** are dedicated to chapterwide discussions, presentations on special topics, voting, and more, and are usually held on 3rd Sundays at 4-6pm.
 * **Working groups** have their own meeting schedules: see calendar below for confirmed events.
@@ -13,11 +13,12 @@ Get started with Peninsula DSA by attending one of our regular chapter events! <
 * **Member socials** are in person, usually on 2nd Fridays at 6-8pm: see calendar below for confirmed events.
 * **Play n' Praxis game nights** will be back soon!
 
-Though our meetings and events are designed for our members, everyone interested in building working-class power is welcome. 
+HOW TO ATTEND
+
 * *In-person events:* If the public calendar lists a location, no RSVP is necessary--feel free to just show up!
 * *Virtual event:* You will need access to Peninsula DSA's private Discord server, which is limited to DSA members and vetted comrades. [Join PDSA](https://act.dsausa.org/donate/membership/), or reach out the Steering Committee for more information at info@peninsuladsa.org
 
-**Note:** Most of our events are virtual in order to be more accessible to our geographically dispersed members and to protect our most vulnerable comrades from respiratory illnesses such as COVID. In-person events usually take place outdoors with good air flow and/or high-quality masks (such as KN94 respirators) are provided.
+**Note:** Many PDSA events continue to be virtual in order to be more accessible to our geographically dispersed membership and to protect our most vulnerable comrades from respiratory illnesses such as COVID. In-person events usually take place outdoors with good air flow and/or high-quality masks (such as KN94 respirators) are provided.
 
 <div id="upcoming"></div><!--/span-->
 <div class="span9">
