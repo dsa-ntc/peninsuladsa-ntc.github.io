@@ -17,10 +17,10 @@ Though our meetings and events are designed for our members, everyone interested
 * *In-person events:* If the public calendar lists a location, no RSVP is necessary--feel free to just show up!
 * *Virtual event:* You will need access to Peninsula DSA's private Discord server, which is limited to DSA members and vetted comrades. [Join PDSA](https://act.dsausa.org/donate/membership/), or reach out the Steering Committee for more information at info@peninsuladsa.org
 
+**Note:** Most of our events are virtual in order to be more accessible to our geographically dispersed members and to protect our most vulnerable comrades from respiratory illnesses such as COVID. In-person events usually take place outdoors with good air flow and/or high-quality masks (such as KN94 respirators) are provided.
+
 <div id="upcoming"></div><!--/span-->
 <div class="span9">
 	<h3>Peninsula DSA Events</h3>
 	<iframe src="https://calendar.google.com/calendar/u/0/embed?showTitle=0&mode=AGENDA&height=400&wkst=1&bgcolor=%23ffffff&src=peninsuladsa@gmail.com&color=%23711616&ctz=America/Los_Angeles" style=" border-width:0 " width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 </div><!--/span-->
-
-**Note:** In the interest of protecting our most vulnerable comrades from COVID and other respiratory illness, many of our events continue to be virtual. In-person events usually take place outdoors with good air flow, and high-quality masks (such as KN94 respirators) are recommended.
