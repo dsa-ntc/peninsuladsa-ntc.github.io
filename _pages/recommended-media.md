@@ -9,23 +9,23 @@ If you have been meaning to diversify your media sources and get away from corpo
 
 <h2>News</h2>
 
-* [Breakthrough News](https://www.youtube.com/@BreakThroughNews)
-* [Cosmonaut Mag](https://cosmonautmag.com/)
-* [Defector](https://defector.com/)
-* [Democracy Now](https://www.democracynow.org/)
-* [Drop Site](https://www.dropsitenews.com)
-* [Electronic Intifada](https://electronicintifada.net/)
-* [FAIR](https://fair.org/)
-* [First Thought](https://www.youtube.com/@firstthoughtnews)
-* [The Intercept](https://theintercept.com/)
-* [In These Times](https://inthesetimes.com/)
-* [Jacobin](https://jacobin.com/)
-* [Jewish Currents](https://jewishcurrents.org/)
-* [Majority](https://majorityreportradio.com/) [Report](https://www.youtube.com/@TheMajorityReport)
-* [Monthly Review](https://monthlyreview.org/)
-* [The Nation](https://www.thenation.com/)
-* [Owen Jones](https://www.youtube.com/@OwenJonesTalks)
-* [The Real News Network](https://therealnews.com/)
+* [Breakthrough News](https://www.youtube.com/@BreakThroughNews) - 501(c)3 nonprofit news organization that tells untold stories of resistance from poor and working-class communities
+* [Cosmonaut Mag](https://cosmonautmag.com/) - a Marxist magazine for revolutionary strategy
+* [Defector](https://defector.com/) - an employee-owned sports and culture website
+* [Democracy Now](https://www.democracynow.org/) - daily, global, independent news hour hosted by award-winning journalists Amy Goodman and Juan González
+* [Drop Site](https://www.dropsitenews.com) - independent news on politics and war, founded by Ryan Grim, Jeremy Scahill, and veterans of _The Intercept_
+* [Electronic Intifada](https://electronicintifada.net/) - an independent online news publication focusing on Palestine
+* [Fairness and Accuracy in Reporting (FAIR)](https://fair.org/) - national progressive media watchdog group, challenging corporate media bias, spin and misinformation
+* [First Thought](https://www.youtube.com/@firstthoughtnews) - "Biased news"
+* [The Intercept](https://theintercept.com/) - "We investigate powerful individuals and institutions to expose corruption and injustice"
+* [In These Times](https://inthesetimes.com/) - independent nonprofit magazine dedicated to "advancing democracy and economic justice, informing movements for a more humane world, and providing an accessible forum for debate about the policies that shape our future"
+* [Jacobin](https://jacobin.com/) - "_Jacobin_ is a leading voice of the American left, offering socialist perspectives on politics, economics, and culture."
+* [Jewish Currents](https://jewishcurrents.org/) - award-winning magazine of politics, culture, and ideas
+* [Majority](https://majorityreportradio.com/) [Report](https://www.youtube.com/@TheMajorityReport) - daily political talk show with Sam Seder
+* [Monthly Review](https://monthlyreview.org/) - an independent socialist magazine
+* [The Nation](https://www.thenation.com/) - independent journalism and investigative reporting
+* [Owen Jones](https://www.youtube.com/@OwenJonesTalks) - independent channel with man-on-the-street interviews
+* [The Real News Network](https://therealnews.com/) - nonprofit media organization that "makes media connecting you to the movements, people, and perspectives that are advancing the cause of a more just, equal, and livable planet"
 
 <h2>Podcasts</h2>
 
