@@ -15,7 +15,7 @@ Get started with Peninsula DSA by attending one of our regular chapter events! T
 
 HOW TO ATTEND
 
-* *In-person events:* If the public calendar lists a location, no RSVP is necessary--feel free to just show up!
+* *In-person events:* If the public calendar lists a location, feel free to show up (though please RSVP if the option is available).
 * *Virtual event:* You will need access to Peninsula DSA's private Discord server, which is limited to DSA members and vetted comrades. [Join PDSA](https://act.dsausa.org/donate/membership/), or reach out the Steering Committee for more information at info@peninsuladsa.org
 
 **Note:** Many PDSA events continue to be virtual in order to be more accessible to our geographically dispersed membership and to protect our most vulnerable comrades from respiratory illnesses such as COVID. In-person events usually take place outdoors with good air flow and/or high-quality masks (such as KN94 respirators) are provided.
