@@ -3,7 +3,7 @@ layout: page
 title: "Recommended Media"
 permalink: /recommended-media/
 ---
-<h3>Left-leaning & Progressive Media</h3>
+<h3>Leftist & Progressive Media</h3>
 
 If you have been meaning to diversify your media sources and get away from corporate-approved content, consider these recommendations from the Peninsula DSA Steering Committee.
 
