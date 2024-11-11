@@ -3,28 +3,19 @@ layout: page
 title: "Reading Group"
 permalink: /political-reading/
 ---
-Peninsula DSA engages in ongoing political education in socialist history and thought because theory informs praxis. 
+Peninsula DSA engages in ongoing political education in socialist history and thought. Theory informs praxis!
 <br>
-
-Our reading group meets virtually on a Thursday at 7pm in the #general channel on the chapter's Discord server. Request an invite to the Discord by emailing the Steering Committee at [peninsuladsa@gmail.com](mailto:peninsuladsa@gmail.com).
 
 <h2>Currently Reading</h2>
-* [Palo Alto: A History of California, Capitalism, and the World](https://www.hachettebookgroup.com/titles/malcolm-harris/palo-alto/9780316592031/?lens=little-brown) (2023) by Malcolm Harris.
-<br>
 
-We'll break down our discussion of this 720-page book as follows:
-
-- **_Introduction_** (pp. 3–7) + planning session: Thursday, October 26, 7-8pm on Discord
-- **_Section I_**, 1850–1900 (pp. 11-86): Thursday, November 9, 7-8pm on Discord
-- **_Section II_**, 1900-1945 (pp. 89-217): Thursday, November 30, 7-8pm on Discord and Thursday, December 14, 7-8pm on Discord
-- **_Section III_**, 3.1 and 3.2, 1945-1975 (pp. 221-280): Thursday, January 4, 7-8pm on Discord
-- **_Section III cont._**, 3.3 and 3.4, 1945-1975 (pp. 281-359): Thursday, January 18, 7-8pm on Discord
-- **_Section IV_**, 4.1 and 4.2, 1975–2000 (pp. 361-438): Thursday, February 1, 7-8pm on Discord
-- **_Section IV cont._**, 4.3 and 4.4, 1975–2000 (pp. 439-495): Thursday, February 15, 7-8pm on Discord
-- **_Section V_**, 5.1 and 5.2, 2000–2020 (pp. 499-568): Thursday, February 29, 7-8pm on Discord
-- **_Section V cont. & Resolution_**: 5.3 and 6.1 (pp 569–628): RESCHEDULED AGAIN **Thursday, April 4, 7-8pm on Discord**
+* [San Francisco Reds: Communists in the Bay Area, 1919-1958](https://www.press.uillinois.edu/books/?id=p087936) (2024) by Robert W. Cherny.
+* **Next meeting:** _Wednesday, November 13, 7-8pm._ We’ll finish our reading of _SF Francisco Reds_ by discussion Chapter 8 ("The Crisis Deepens, 1948-1956") and Chapter 9 ("The Crisis of 1958-1958, the Collapse of the Old Left, and After"). More info and digital copies available on PDSA's private Discord on the **#reading-group** channel
 
 <h2>Past Reads</h2>
+
+<h3>2024</h3>
+
+* [Palo Alto: A History of California, Capitalism, and the World](https://www.hachettebookgroup.com/titles/malcolm-harris/palo-alto/9780316592031/?lens=little-brown) (2023) by Malcolm Harris.
 
 <h3>2023</h3>
 * [The Wretched of the Earth](https://groveatlantic.com/book/the-wretched-of-the-earth/) (1961) by Frantz Fanon.
