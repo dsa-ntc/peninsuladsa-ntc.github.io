@@ -111,7 +111,7 @@ _Miscellaneous_
 * [City Lights](https://maps.app.goo.gl/JbYCJxNSDVM4zCGS6) - San Francisco (North Beach)
 * [Dog-Eared Books](https://maps.app.goo.gl/cpGcLbueCMmSoXWe8) - San Francisco (the Mission)
 * [Recycle Bookstore](https://maps.app.goo.gl/ibsbRUHV5k5VoZQS8) - San Jose
-* [Revolution Books[(https://maps.app.goo.gl/dzHgqC4Z9Bp1cZU59) - Berkeley
+* [Revolution Books](https://maps.app.goo.gl/dzHgqC4Z9Bp1cZU59) - Berkeley
 
 <h2>Other Third Spaces</h2>
 
