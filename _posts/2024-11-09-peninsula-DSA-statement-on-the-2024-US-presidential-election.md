@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "Peninsula DSA Statement on the 2024 US Presidential Election"
-permalink: /peninsula-DSA-statement-on-the-2024-US-presidential-election/
+permalink: /2024-11-09-peninsula-DSA-statement-on-the-2024-US-presidential-election/
 tag: statement
 short_description: "Peninsula (CA) DSA: The question is the same as it was a hundred years ago: Will we collectively choose Socialism or Barbarism?"
 ---
