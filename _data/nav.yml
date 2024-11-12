@@ -1,14 +1,14 @@
 # header links
 header:
-  - title: "Statements"
-    url: "/blog/"
-    description: "Link to Peninsula DSA's Chapter Statements"
   - title: "Get Involved"
     url: "/get-involved/"
     description: "Check out what Peninsula DSA is working on. Join DSA!"
   - title: "Events Calendar"
     url: "/calendar/"
     description: "Chapter Events Calendar"
+  - title: "Statements"
+    url: "/blog/"
+    description: "Link to Peninsula DSA's Chapter Statements"
   - title: "Resources"
     url: "/recommended-media/"
     description: "List of leftist & progressive media outlets recommended by the Peninsula DSA Steering Committee."
