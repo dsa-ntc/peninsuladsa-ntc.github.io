@@ -52,15 +52,15 @@ If you have been meaning to diversify your media sources and get away from corpo
 * [TrueAnon](https://player.fm/series/2526134) - "a podcast about your enemies made by your friends"
 
 _Media Criticism_
-* [A More Civilized Age](https://amorecivilizedage.net/)
-* [Abnormal Mapping & The Great Gundam Project](https://www.abnormalmapping.com/)
-* [Game Studies Study Buddies](https://rangedtouch.com/game-studies-study-buddies/)
-* [If Books Could Kill](https://www.patreon.com/IfBooksPod)
-* [Just King Things](https://rangedtouch.com/just-king-things/)
-* [Maintenance Phase](https://www.maintenancephase.com/)
-* [Remap Radio](https://remapradio.com/)
-* [Shut Up & Sit Down](https://www.shutupandsitdown.com/)
-* [You’re Wrong About](https://yourewrongabout.com/)
+* [A More Civilized Age](https://amorecivilizedage.net/) - "Dive headfirst into the fall of the Galactic Republic, debate which Jedi is messiest, and dig into the themes and politics of The Clone Wars"
+* [Abnormal Mapping's The Great Gundam Project](https://www.abnormalmapping.com/#/ggp/) - "full summaries of every episode as we go deeper and deeper into expanded class consciousness"
+* [Game Studies Study Buddies](https://rangedtouch.com/game-studies-study-buddies/) - "academic games studies available for audiences outside of academia, text by text"
+* [If Books Could Kill](https://www.patreon.com/IfBooksPod) - "The airport bestsellers that captured our hearts and ruined our minds"
+* [Just King Things](https://rangedtouch.com/just-king-things/) - "monthly podcast about reading the books of Stephen King in publication order"
+* [Maintenance Phase](https://www.maintenancephase.com/) - "Wellness and weight loss, debunked and decoded"
+* [Remap Radio](https://remapradio.com/) - a weekly video game news and discussion podcast
+* [Shut Up & Sit Down](https://www.shutupandsitdown.com/) - "The world's best board game review show"
+* [You’re Wrong About](https://yourewrongabout.com/) - "Mike and Sarah are journalists obsessed with the past. Every week they reconsider an event, person or phenomenon that’s been miscast in the public imagination."
 
 <h2>Streamers</h2>
 
