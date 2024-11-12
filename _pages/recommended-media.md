@@ -23,32 +23,33 @@ If you have been meaning to diversify your media sources and get away from corpo
 * [Jewish Currents](https://jewishcurrents.org/) - award-winning magazine of politics, culture, and ideas
 * [Majority](https://majorityreportradio.com/) [Report](https://www.youtube.com/@TheMajorityReport) - daily political talk show with Sam Seder
 * [Monthly Review](https://monthlyreview.org/) - an independent socialist magazine
-* [The Nation](https://www.thenation.com/) - independent journalism and investigative reporting
+* [The Nation](https://www.thenation.com/) - independent US journalism and investigative reporting
+* [Novara Media](https://novaramedia.com/) - independent UK media organisation addressing the issues that are set to define the 21st century, from a crisis of capitalism to racism and climate change
 * [Owen Jones](https://www.youtube.com/@OwenJonesTalks) - independent channel with man-on-the-street interviews
 * [The Real News Network](https://therealnews.com/) - nonprofit media organization that "makes media connecting you to the movements, people, and perspectives that are advancing the cause of a more just, equal, and livable planet"
 
 <h2>Podcasts</h2>
 
-* [5-4 Podcast](https://www.fivefourpod.com/)
-* [ALAB Series](https://www.alabseries.com/)
-* [Blowback](https://blowback.show/)
-* [Chapo Trap House](https://www.chapotraphouse.com/)
-* [Citations Needed](https://citationsneeded.libsyn.com/)
-* [Death Panel](https://www.deathpanel.net)
-* [The Deprogram](https://www.youtube.com/@thedeprogram9999)
-* [The Dig](https://thedigradio.com/)
-* [Guerilla History](https://guerrillahistory.libsyn.com/)
-* [Left on Red](https://podcasts.apple.com/us/podcast/left-on-red/id1675598831)
+* [5-4 Podcast](https://www.fivefourpod.com/) - "5-4 is a podcast about how much the Supreme Court sucks"
+* [ALAB Series](https://www.alabseries.com/) - All Lawyers are Bastards, "an infrequent podcast series about the American legal system"
+* [Blowback](https://blowback.show/) - Co-hosts Brendan James and Noah Kulwin examine decades of US imperialism: the Iraq War (season 1), the Cuban Revolution (season 2), the Korean War (season 3), the invasion of Afghanistan (season 4), and Indochina (season 5).
+* [Chapo Trap House](https://www.chapotraphouse.com/) - an American socialist political comedy podcast
+* [Citations Needed](https://citationsneeded.libsyn.com/) - a podcast about the intersection of media, PR, and power, hosted by Nima Shirazi and Adam Johnson.
+* [Death Panel](https://www.deathpanel.net) - "Politics, culture, and public policy from the left. Medicare for All now. Solidarity forever. Stay alive another week."
+* [The Deprogram](https://www.youtube.com/@thedeprogram9999) - "The only truly international, global, and anti-capitalist podcast you’ll find"
+* [The Dig](https://thedigradio.com/) - Daniel Denvir's Jacobin podcast on politics, history, and economics everywhere
+* [Guerilla History](https://guerrillahistory.libsyn.com/) - "a reconnaissance report of global history for the activist left, and aims to use the lessons of history to analyze the present"
+* [Left on Red](https://podcasts.apple.com/us/podcast/left-on-red/id1675598831) - "a Gen-X mom and gay millennial do socialism"
 * [Leftist Reading](https://www.abnormalmapping.com/leftist-reading-rss)
-* [Mic Dicta Podcast](https://player.fm/series/mic-dicta)
+* [Mic Dicta Podcast](https://player.fm/series/mic-dicta) - "America's Best Named Legal Podcast"
 * [Reading _Capital_ With Comrades](https://www.liberationschool.org/reading-capital-with-comrades-podcast/)
 * [The Real News Podcast](https://podcasts.apple.com/ca/podcast/the-real-news-podcast/id640534918)
-* [Red Menace](https://redmenace.libsyn.com/)
-* [The Red Nation Podcast](https://www.therednation.org/)
-* [Revolutionary Left Radio](https://revolutionaryleftradio.libsyn.com/)
-* [Tech Won’t Save Us](https://techwontsave.us/)
-* [This Machine Kills](https://www.patreon.com/thismachinekills)
-* [TrueAnon](https://player.fm/series/2526134)
+* [Red Menace](https://redmenace.libsyn.com/) - "explains and analyzes revolutionary theory and then applies its lessons to our contemporary conditions"
+* [The Red Nation Podcast](https://www.therednation.org/) - "Until Decolonization, Liberation, and Landback"
+* [Revolutionary Left Radio](https://revolutionaryleftradio.libsyn.com/) - "explores political philosophy, history, science, religion, culture, art, and struggle through a socialist lens"
+* [Tech Won’t Save Us](https://techwontsave.us/) - "Silicon Valley promised us progress. That’s not what it delivered."
+* [This Machine Kills](https://www.patreon.com/thismachinekills) - "agitprop against innovation and capital"
+* [TrueAnon](https://player.fm/series/2526134) - "a podcast about your enemies made by your friends"
 
 _Media Criticism_
 * [A More Civilized Age](https://amorecivilizedage.net/)
@@ -64,7 +65,7 @@ _Media Criticism_
 <h2>Streamers</h2>
 
 * [Central_Committee](https://www.twitch.tv/central_committee)
-* **Hasan Piker / HasanAbi** – [Twitch](https://www.twitch.tv/hasanabi), [YouTube (@hasanabi)](https://youtube.com/@hasanabi), [YouTube (@HasanReactionsfanTwo)](https://www.youtube.com/@HasanReactionsfanTwo), [YouTube (@HasanabiProductionsfanchannel)](https://www.youtube.com/@HasanabiProductionsfanchannel)
+* Hasan Piker / HasanAbi – [Twitch](https://www.twitch.tv/hasanabi), [YouTube (@hasanabi)](https://youtube.com/@hasanabi), [YouTube (@HasanReactionsfanTwo)](https://www.youtube.com/@HasanReactionsfanTwo), [YouTube (@HasanabiProductionsfanchannel)](https://www.youtube.com/@HasanabiProductionsfanchannel)
 * [Northern Lion](https://www.twitch.tv/northernlion)
 
 <h2>Video Essayists</h2>
@@ -84,6 +85,7 @@ _Media Criticism_
 * [Zoe Bee](https://www.youtube.com/@zoe_bee)
 
 _Miscellaneous_
+* [Means TV](https://means.tv/) - "the world's first worker-owned, anti-capitalist streaming service"
 * [Technology Connections](https://www.youtube.com/@TechnologyConnections)
 
 <h2>Blogs</h2>
