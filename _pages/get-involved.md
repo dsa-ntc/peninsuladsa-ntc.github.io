@@ -14,23 +14,21 @@ When you [join DSA](https://www.dsausa.org/join), Peninsula DSA's Membership co-
 
 <h2>Events</h2>
 
-Peninsula DSA members are encouraged to attend all events, _especially our monthly chapter meetings_. If you're not a Peninsula DSA member yet but would like to attend an event, please [contact](mailto:info@peninsuladsa.org) our Steering Committee. 
+Peninsula DSA members are encouraged to attend all events, _especially our chapeter's monthly general meetings_. If you're not a Peninsula DSA member yet but would like to attend an event, please [contact](mailto:info@peninsuladsa.org) our Steering Committee. All our confirmed virtual and in-person events can be found on our [event calendar](../calendar) and on the **PDSA Discord: #events**
 
-* **Chapter meetings** are usually virtual and held on the third Sunday of the month at 4-6pm.
-* **Working groups** have their own meeting schedules (see below).
-* **Reading group** meets virtually at least once a month (see below), often on Thursdays at 7-8pm.
-* **Socialist game nights** are on hold for the time being (see below).
-* **Member socials** are held in person at least once a month, usually on second Fridays at 5pm.
-
-All our confirmed virtual and in-person events can be found on our [event calendar](../calendar) and on the **PDSA Discord: #events**
+* **General meetings** are usually held virtually on 3rd Sundays at 4-6pm.
+* **Working groups** have their own meeting schedules.
+* **Reading group** meets at least once a month.
+* **Member socials** are held in person, usually on 2nd Fridays at 6-8pm.
+* **Play n’ Praxis socialist game nights** will be back soon!
 
 Please [subscribe to our email list](http://eepurl.com/cNwNHH) to stay up to date on news and events!
 
 ---
 
-<h3>Chapter Meetings</h3>
+<h3>General Meetings</h3>
 
-Our monthly chapter meetings are key to coordinating our organizing efforts. We host presentations on socialist topics, hold democratic discussions (and vote!) on chapter priorities, and always share updates from our respective working groups. If you're a new member, attending a chapter meeting is the best way to get plugged in! Most chapter meetings are held virtually on the **PDSA Discord: #general**.
+Our chapter's monthly general meetings are key to coordinating our organizing efforts. We host presentations on socialist topics, hold democratic discussions (and vote!) on chapter priorities, and always share updates from our respective working groups. If you're a new member, attending a chapter meeting is the best way to get plugged in! Most chapter meetings are held virtually on the **PDSA Discord: #general**.
 
 ---
 
