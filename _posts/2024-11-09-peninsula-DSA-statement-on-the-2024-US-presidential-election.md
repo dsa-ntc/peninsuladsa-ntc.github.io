@@ -7,6 +7,7 @@ short_description: "Peninsula (CA) DSA: The question is the same as it was a hun
 ---
 
 <h3>Peninsula DSA Statement on the 2024 US Presidential Election</h3>
+<h4>The question is the same as it was a hundred years ago: Will we collectively choose Socialism or Barbarism?</h2>
 
 Democratic socialists know that governments that [protect the interests of the ruling class](https://www.vox.com/2014/4/18/5624310/martin-gilens-testing-theories-of-american-politics-explained) while refusing to guarantee our rights to housing, healthcare, and education are democracies only in name, and that both major parties in fact support a dictatorship of the [bourgeoisie](https://www.marxists.org/glossary/terms/b/o.htm#bourgeoisie) (that is, the one percent). Even so, DSA engages with the electoral process as candidates, campaigners, canvassers, and voters. The electoral arena is often where we find allies, grow coalitions, and inspire the rest of the working class to build socialism together, brick by brick.
 
