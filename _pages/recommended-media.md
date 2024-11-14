@@ -5,7 +5,7 @@ permalink: /recommended-media/
 ---
 <h3>Leftist & Progressive Media</h3>
 
-If you have been meaning to diversify your media sources and get away from corporate-approved content, consider these recommendations from the Peninsula DSA Steering Committee.
+Diversify your media sources and free yourself from corporate-approved content with these recommendations from the Peninsula DSA Steering Committee.
 
 <h2>News</h2>
 
