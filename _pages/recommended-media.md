@@ -3,11 +3,10 @@ layout: page
 title: "Recommended Media"
 permalink: /recommended-media/
 ---
-<h3>Leftist & Progressive Media</h3>
 
 <h4>Diversify your media sources and free yourself from corporate-approved content with these recommendations from the Peninsula DSA Steering Committee.</h4>
 
-<h2>News</h2>
+<h2>Leftist & Progressive News</h2>
 
 * [Breakthrough News](https://www.youtube.com/@BreakThroughNews) - 501(c)3 nonprofit news organization that tells untold stories of resistance from poor and working-class communities
 * [Cosmonaut Mag](https://cosmonautmag.com/) - a Marxist magazine for revolutionary strategy
