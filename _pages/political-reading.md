@@ -8,12 +8,24 @@ Peninsula DSA engages in ongoing political education in socialist history and th
 
 <h2>Currently Reading</h2>
 
-* [San Francisco Reds: Communists in the Bay Area, 1919-1958](https://www.press.uillinois.edu/books/?id=p087936) (2024) by Robert W. Cherny.
-* **Next meeting:** _Wednesday, November 13, 7-8pm._ We’ll finish our reading of _SF Francisco Reds_ by discussion Chapter 8 ("The Crisis Deepens, 1948-1956") and Chapter 9 ("The Crisis of 1958-1958, the Collapse of the Old Left, and After"). More info and digital copies available on PDSA's private Discord on the **#reading-group** channel
+* [ABCs of Socialism](https://archive.org/details/abcs-of-socialism/mode/1up?view=theater) by Jacobin.
+
+During January 2025 we're covering selected readings from Jacobin's essay collection [ABCs of Socialism](https://archive.org/details/abcs-of-socialism/mode/1up?view=theater). You're encouraged to cover the whole pamphlet, though we only plan to officially cover:
+- Isn't America already kind of socialist?
+- But at least capitalism is free and democratic, right?
+- Socialism sounds good in theory, but doesn’t human nature make it impossible to realize?
+- Don’t the rich deserve to keep most of their money?
+- Doesn't socialism always end up in dictatorship?
 
 <h2>Past Reads</h2>
 
+<h3>2025</h3>
+
+* [Ideas for the Struggle](https://www.oldandnewproject.net/Essays/Harnecker_Ideas.html) (2004, revised 2016) by Marta Harnecker.
+
 <h3>2024</h3>
+
+* [San Francisco Reds: Communists in the Bay Area, 1919-1958](https://www.press.uillinois.edu/books/?id=p087936) (2024) by Robert W. Cherny.
 
 * [Palo Alto: A History of California, Capitalism, and the World](https://www.hachettebookgroup.com/titles/malcolm-harris/palo-alto/9780316592031/?lens=little-brown) (2023) by Malcolm Harris.
 
