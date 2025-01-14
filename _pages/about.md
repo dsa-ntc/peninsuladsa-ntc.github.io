@@ -17,11 +17,11 @@ Whether you're interested in organizing your workplace, winning Medicare for All
 Our Steering Committee (SC) is elected annually by our membership. Two co-chairs work together on tasks related to Agenda (planning and running meetings), Communications (member and external communications), Finance (chapter funds and filings), and Membership (onboarding and engaging members). The Steering Committee can be reached at the chapter's main email address: **info@peninsuladsa.org**
 
 * **Agenda:** Geoff & Spencer
-* **Communications:** Bennet
-* **Finance:** Laura
+* **Communications:** Bennet & Raiyan
+* **Finance:** Laura & Kier
 * **Membership:** Allison & Chet
 
-Our current Steering Committee election was voted in at our chapter convention on Sunday, March 17, 2024.
+Our current Steering Committee election was voted in at our chapter convention on Sunday, March 17, 2024; appointments to replace two SC co-chairs were made in December 2024.
 
 <h3>Other Bay Area Chapters</h3>
 
