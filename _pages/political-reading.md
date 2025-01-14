@@ -10,7 +10,7 @@ Peninsula DSA engages in ongoing political education in socialist history and th
 
 * [ABCs of Socialism](https://archive.org/details/abcs-of-socialism/mode/1up?view=theater) by Jacobin.
 
-During January 2025 we're covering selected readings from Jacobin's essay collection [ABCs of Socialism](https://archive.org/details/abcs-of-socialism/mode/1up?view=theater). You're encouraged to cover the whole pamphlet, though we only plan to officially cover:
+**January 29, 2025, 7pm:** On the Peninsula DSA Discord, we'll cover selected readings from Jacobin's essay collection [ABCs of Socialism](https://archive.org/details/abcs-of-socialism/mode/1up?view=theater). You're encouraged to cover the whole pamphlet, though we only plan to officially cover:
 - Isn't America already kind of socialist?
 - But at least capitalism is free and democratic, right?
 - Socialism sounds good in theory, but doesn’t human nature make it impossible to realize?
