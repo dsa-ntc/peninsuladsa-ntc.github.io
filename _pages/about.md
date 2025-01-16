@@ -4,10 +4,10 @@ title: "About"
 permalink: /about/
 ---
 
-Since 2016, Peninsula DSA has been organizing throughout San Mateo County to build working class power for the benefit of the 99%. 
+Since 2017, Peninsula DSA has been organizing throughout San Mateo County to build working class power for the benefit of the 99%. 
 <br>
 
-We are local residents and activists working together—and sometimes in coalitions—to build a world that puts people and planet before profit. Our member-driven organization is made possible by comrades volunteering their labor, each according to their ability and their need.
+We are local residents and activists working together in our chapter—and sometimes in coalitions—to build a better world that puts people and planet before profit. Our member-driven organization is made possible by comrades volunteering their labor, each according to their ability and their need.
 <br>
 
 Whether you're interested in organizing your workplace, winning Medicare for All, building ecosocialism, or learning more about socialism in general, Peninsula DSA is the place to be. **Learn more and get involved [here](../get-involved/).**
