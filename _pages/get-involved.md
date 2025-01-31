@@ -44,7 +44,7 @@ _Read more [here](../political-reading/) or on the **PDSA Discord: #reading-grou
 Peninsula DSA's working groups organize socialist campaigns and/or join coalitions around issues that empower the working class. Whether you're an experienced organizer or new to the movement, you're welcome to attend any meeting to learn more--and get involved!
 
 <h4>Ecosocialism</h4>
-Our [Ecosocialism](../ecosocialism/) working group continues to organize for building energy justice and holding PG&E accountable for its dirty, dangerous, and unreliable fossil-fuel energy. We have run workshops on making DIY air purifiers to protect against wildfire smoke and airborne pathogens, and distributed simple energy efficiency tips.
+Our [Ecosocialism](../ecosocialism/) working group continues to organize for building energy justice and holding PG&E accountable for its dirty, dangerous, and unreliable fossil-fuel energy. We have run workshops on making DIY air purifiers to protect against wildfire smoke and airborne pathogens, and have distributed simple energy efficiency tips.
 _Read more [here](../ecosocialism/) or on the **PDSA Discord: #ecosocialism**_
 
 <h4>Healthcare Justice</h4>
@@ -52,11 +52,11 @@ Our [Healthcare Justice](../healthcare-justice/) working group continues to orga
 _Read more [here](../healthcare-justice/) or on the **PDSA Discord: #healthcare**_
 
 <h4>Housing</h4>
-Our [Housing](../housing/) working group seeks to fight corporate greed and guarantee dignified housing for all. We look forward to working with Faith in Action Bay Area's coalition to win rent control and tenant protections in Redwood City through an upcoming citizens' ballot measure campaign.  
+ACTIVE! Our [Housing](../housing/) working group seeks to fight corporate greed and guarantee dignified housing for all. We look forward to working with Faith in Action Bay Area's coalition to win rent control and tenant protections in Redwood City through a 2026 citizens' ballot measure campaign. 
 _Read more [here](../housing/) or on the **PDSA Discord: #housing** and **#affordable-rwc**_
 
 <h4>Labor</h4>
-ACTIVE! Our newly re-formed [Labor](../labor/) working group is developing a Transit for All campaign with a mandate from Peninsula DSA's 2024 chapter convention.  
+ACTIVE! Our newly re-formed [Labor](../labor/) working group is developing a Transit for All campaign with [Transbay Coalition](https://www.transbaycoalition.org/) with a mandate from Peninsula DSA's 2024 chapter convention.  
 _Read more [here](../labor/) and join your labor-minded comrades on the **PDSA Discord: #labor**_
 
 <h4>Universal Preschool</h4>
