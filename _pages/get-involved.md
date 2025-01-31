@@ -18,8 +18,8 @@ Peninsula DSA members are encouraged to attend all events, _especially our chape
 
 * **General meetings** are usually held virtually on 3rd Sundays at 4-6pm.
 * **Working groups** have their own meeting schedules.
-* **Reading group** meets at least once a month.
-* **Member socials** are held in person, usually on 2nd Fridays at 6-8pm.
+* **Reading group** meets virtually at least once a month, often on last Wednesdays.
+* **Member socials** are held in person, usually at public venues on 1st Fridays at 6-7:30pm.
 * **Play n’ Praxis socialist game nights** will be back soon!
 
 Please [subscribe to our email list](http://eepurl.com/cNwNHH) to stay up to date on news and events!
