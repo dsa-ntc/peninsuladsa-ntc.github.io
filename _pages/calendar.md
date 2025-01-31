@@ -10,7 +10,7 @@ Get started with Peninsula DSA by attending one of our regular chapter events! T
 * **General meetings** are dedicated to chapterwide discussions, presentations on special topics, voting, and more, and are usually held on 3rd Sundays at 4-6pm.
 * **Working groups** have their own meeting schedules: see calendar below for confirmed events.
 * [**Reading group**](../reading-group) meets at least once a month: see calendar below for confirmed events.
-* **Member socials** are in person, usually on 2nd Fridays at 6-8pm: see calendar below for confirmed events.
+* **Member socials** are in person, usually on 1st Fridays at 6-7:30pm: see calendar below for confirmed events.
 * **Play n' Praxis game nights** will be back soon!
 
 HOW TO ATTEND
