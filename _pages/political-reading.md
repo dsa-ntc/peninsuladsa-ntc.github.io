@@ -8,9 +8,16 @@ Peninsula DSA engages in ongoing political education in socialist history and th
 
 <h2>Currently Reading</h2>
 
-* [ABCs of Socialism](https://archive.org/details/abcs-of-socialism/mode/1up?view=theater) by [Jacobin](https://jacobin.com/).
+* [ABCs of Socialism](https://archive.org/details/abcs-of-socialism/mode/1up?view=theater) by [Jacobin](https://jacobin.com/) + [Verso](https://www.versobooks.com/).
 
-**January 29, 2025, 7pm:** On the Peninsula DSA Discord, we'll cover selected readings from Jacobin's essay collection [ABCs of Socialism](https://archive.org/details/abcs-of-socialism/mode/1up?view=theater). You're encouraged to cover the whole pamphlet, though we only plan to officially cover:
+**Thursday, February 27, 2025, 7-8pm:** On the Peninsula DSA Discord, we'll cover selected readings from the essay collection [*The ABCs of Socialism*](https://s3.jacobinmag.com/issues/jacobin-abcs.pdf). Though you're encouraged to cover the whole pamphlet, we'll cover:
+- Will socialists take my Kenny Loggins records? 
+- Is socialism a Western concept? 
+- What about racism? Don't socialists only care about class? 
+- Aren't socialism and feminism sometimes in conflict? 
+- Wouldn't a more democratic world just mean a bigger environmental crisis?
+
+**Wednesday January 29, 2025, 7pm:** We discussed the following topics:
 - Isn't America already kind of socialist?
 - But at least capitalism is free and democratic, right?
 - Socialism sounds good in theory, but doesn’t human nature make it impossible to realize?
