@@ -33,7 +33,6 @@ Peninsula DSA engages in ongoing political education in socialist history and th
 <h3>2024</h3>
 
 * [San Francisco Reds: Communists in the Bay Area, 1919-1958](https://www.press.uillinois.edu/books/?id=p087936) (2024) by Robert W. Cherny.
-
 * [Palo Alto: A History of California, Capitalism, and the World](https://www.hachettebookgroup.com/titles/malcolm-harris/palo-alto/9780316592031/?lens=little-brown) (2023) by Malcolm Harris.
 
 <h3>2023</h3>
