@@ -10,7 +10,12 @@ Peninsula DSA engages in ongoing political education in socialist history and th
 
 * [Imperialism: The Highest Stage of Capitalism](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/) by Vladimir Lenin.
 
-**Tuesday, March 25, 2025, 7-8pm:** On the Peninsula DSA Discord, we'll discuss the first four chapters of Lenin's *Imperialism*: Concentration of Production and Monopolies, Banks and Their New Role, Finance Capital and the Financial Oligarchy, and Export of Capital.
+**Tuesday, March 25, 2025, 7-8pm:** On the Peninsula DSA Discord, we'll discuss the first four chapters of Lenin's *Imperialism*: 
+
+1. Concentration of Production and Monopolies
+2. Banks and Their New Role
+3. Finance Capital and the Financial Oligarchy
+4. Export of Capital.
 
 <h2>Past Reads</h2>
 
