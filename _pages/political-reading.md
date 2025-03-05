@@ -3,31 +3,20 @@ layout: page
 title: "Reading Group"
 permalink: /political-reading/
 ---
-Peninsula DSA engages in ongoing political education in socialist history and thought. Theory informs praxis! (See also: [PDSA's recommended media resources](../political-reading/).)
+Peninsula DSA engages in ongoing political education in socialist history and thought. Theory informs praxis! (See also: [PDSA's recommended media resources](../recommended-media/).)
 <br>
 
 <h2>Currently Reading</h2>
 
-* [ABCs of Socialism](https://archive.org/details/abcs-of-socialism/mode/1up?view=theater) by [Jacobin](https://jacobin.com/) + [Verso](https://www.versobooks.com/).
+* [Imperialism: The Highest Stage of Capitalism](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/) by Vladimir Lenin.
 
-**Thursday, February 27, 2025, 7-8pm:** On the Peninsula DSA Discord, we'll cover selected readings from the essay collection [*The ABCs of Socialism*](https://s3.jacobinmag.com/issues/jacobin-abcs.pdf). Though you're encouraged to cover the whole pamphlet, we'll cover:
-- Will socialists take my Kenny Loggins records? 
-- Is socialism a Western concept? 
-- What about racism? Don't socialists only care about class? 
-- Aren't socialism and feminism sometimes in conflict? 
-- Wouldn't a more democratic world just mean a bigger environmental crisis?
-
-**Wednesday January 29, 2025, 7pm:** We discussed the following topics:
-- Isn't America already kind of socialist?
-- But at least capitalism is free and democratic, right?
-- Socialism sounds good in theory, but doesn’t human nature make it impossible to realize?
-- Don’t the rich deserve to keep most of their money?
-- Doesn't socialism always end up in dictatorship?
+**Tuesday, March 25, 2025, 7-8pm:** On the Peninsula DSA Discord, we'll discuss the first four chapters of Lenin's *Imperialism*: Concentration of Production and Monopolies, Banks and Their New Role, Finance Capital and the Financial Oligarchy, and Export of Capital.
 
 <h2>Past Reads</h2>
 
 <h3>2025</h3>
 
+* [ABCs of Socialism](https://archive.org/details/abcs-of-socialism/mode/1up?view=theater) by [Jacobin](https://jacobin.com/) + [Verso](https://www.versobooks.com/).
 * [Ideas for the Struggle](https://www.oldandnewproject.net/Essays/Harnecker_Ideas.html) (2004, revised 2016) by Marta Harnecker.
 
 <h3>2024</h3>
