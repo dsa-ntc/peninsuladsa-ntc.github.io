@@ -9,8 +9,10 @@ permalink: /recommended-media/
 <h2>Leftist & Progressive News</h2>
 
 * [Breakthrough News](https://www.youtube.com/@BreakThroughNews) - 501(c)3 nonprofit news organization that tells untold stories of resistance from poor and working-class communities
+* [California Red](https://www.californiadsa.org/news) - California DSA's bimonthly magazine
 * [Cosmonaut Mag](https://cosmonautmag.com/) - a Marxist magazine for revolutionary strategy
 * [Defector](https://defector.com/) - an employee-owned sports and culture website
+* [Democratic Left](https://democraticleft.dsausa.org/) - DSA's official publication!
 * [Democracy Now](https://www.democracynow.org/) - daily, global, independent news hour hosted by award-winning journalists Amy Goodman and Juan González
 * [Drop Site](https://www.dropsitenews.com) - independent news on politics and war, founded by Ryan Grim, Jeremy Scahill, and veterans of _The Intercept_
 * [Electronic Intifada](https://electronicintifada.net/) - an independent online news publication focusing on Palestine
