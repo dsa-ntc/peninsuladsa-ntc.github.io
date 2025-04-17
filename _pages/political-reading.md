@@ -10,7 +10,7 @@ Theory informs praxis! Peninsula DSA engages in ongoing political education in s
 
 >A vital guide for collective political action against the climate apocalypse, from bestselling progressive intellectual Malcolm Harris—“a brilliant thinker and writer capable of making the intricacies of economic conditions supremely readable” (Vulture).
 
-<img src="https://peninsuladsa.org/assets/images/What's Left by Malcolm Harris cover.jpeg" align="left" height="300" width="">
+<img src="https://peninsuladsa.org/assets/images/What's Left by Malcolm Harris cover.jpeg" align="left" height="250" width="">
 
 &nbsp;&nbsp;&nbsp;&nbsp;[**What's Left: Three Paths Through the Planetary Crisis**](https://bookshop.org/p/books/what-s-left-three-paths-through-the-planetary-crisis-malcolm-harris/21718858) (2025) by Malcolm Harris
   
@@ -26,7 +26,7 @@ Theory informs praxis! Peninsula DSA engages in ongoing political education in s
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Wearing DSA gear is encouraged. :rose:
 
-Peninsula DSA's multi-week reading group for _What's Left_ will kick off with comradely icebreakers followed by an open-ended discussion of the book's _Introduction_. 
+&nbsp;&nbsp;&nbsp;&nbsp;Peninsula DSA's multi-week reading group for _What's Left_ will kick off with comradely icebreakers followed by an open-ended discussion of the book's _Introduction_. 
 
 Please consider ordering your copy of _What's Left_ from our friendly hosts, Fireside Books & More, by visiting their [Bookshop.org storefront](https://bookshop.org/shop/FiresideRWC) or emailing orders[at]firesiderwc.com
 
