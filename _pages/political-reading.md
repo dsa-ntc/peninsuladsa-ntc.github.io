@@ -33,13 +33,11 @@ Please consider ordering your copy of _What's Left_ from our friendly hosts, [Fi
 <h2>Past Reads</h2>
 
 <h3>2025</h3>
-
 * [Imperialism: The Highest Stage of Capitalism](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/) (1916) by Vladimir Lenin.
 * [ABCs of Socialism](https://archive.org/details/abcs-of-socialism/mode/1up?view=theater) by [Jacobin](https://jacobin.com/) + [Verso](https://www.versobooks.com/).
 * [Ideas for the Struggle](https://www.oldandnewproject.net/Essays/Harnecker_Ideas.html) (2004, revised 2016) by Marta Harnecker.
 
 <h3>2024</h3>
-
 * [San Francisco Reds: Communists in the Bay Area, 1919-1958](https://www.press.uillinois.edu/books/?id=p087936) (2024) by Robert W. Cherny.
 * [Palo Alto: A History of California, Capitalism, and the World](https://www.hachettebookgroup.com/titles/malcolm-harris/palo-alto/9780316592031/?lens=little-brown) (2023) by Malcolm Harris.
 
@@ -78,5 +76,3 @@ Please consider ordering your copy of _What's Left_ from our friendly hosts, [Fi
 <h3>2018</h3>
 * ["The Lesser Evil? The Left, the Democrats and 1984"](https://www.versobooks.com/blogs/news/4109-the-lesser-evil-the-left-the-democrats-and-1984) (November 2, 2018) by Mike Davis
 * [How Nonviolent Struggle Works](https://static1.squarespace.com/static/62b0eb7da51f3717911bb4e1/t/642f35733af6ca7e837ffe53/1680815475818/HNVSW-updated-Jan-2015.pdf) (2013) by Gene Sharp
-
-<h3>2017</h3>
