@@ -5,6 +5,7 @@ permalink: /recommended-media/
 ---
 
 <h4>Diversify your media sources and free yourself from corporate-approved content with these recommendations from the Peninsula DSA Steering Committee.</h4>
+(_See also_: [PDSA's past reading group picks](../political-reading/).)
 
 <h2>Leftist & Progressive News</h2>
 
