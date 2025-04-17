@@ -26,9 +26,8 @@ Theory informs praxis! Peninsula DSA engages in ongoing political education in s
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Wearing DSA gear is encouraged. :rose:
 
-&nbsp;&nbsp;&nbsp;&nbsp;Peninsula DSA's multi-week reading group for _What's Left_ will kick off with comradely icebreakers followed by an open-ended discussion of the book's _Introduction_. 
-
-Please consider ordering your copy of _What's Left_ from our friendly hosts, Fireside Books & More, by visiting their [Bookshop.org storefront](https://bookshop.org/shop/FiresideRWC) or emailing orders[at]firesiderwc.com
+* Peninsula DSA's multi-week reading group for _What's Left_ will kick off with comradely icebreakers followed by an open-ended discussion of the book's _Introduction_.
+* Please consider ordering your copy of _What's Left_ from our friendly hosts, Fireside Books & More, by visiting their [Bookshop.org storefront](https://bookshop.org/shop/FiresideRWC) or emailing orders[at]firesiderwc.com
 
 <h2>Past Reads</h2>
 
