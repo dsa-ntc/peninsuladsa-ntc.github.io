@@ -8,9 +8,7 @@ Theory informs praxis! Peninsula DSA engages in ongoing political education in s
 
 <h2>Currently Reading</h2>
 
-_Starting April 29 or May 13, 2025_ <-- to be confirmed, stay tuned!
-
-<img src="https://peninsuladsa.org/assets/images/What's Left by Malcolm Harris cover.jpeg" align="left" height="300" width="" padding="50">
+<img src="https://peninsuladsa.org/assets/images/What's Left by Malcolm Harris cover.jpeg" align="left" height="200" width="">
 
 [**What's Left: Three Paths Through the Planetary Crisis**](https://bookshop.org/p/books/what-s-left-three-paths-through-the-planetary-crisis-malcolm-harris/21718858) (2025) by Malcolm Harris
   
@@ -18,7 +16,11 @@ IN PERSON! at [Fireside Books & More](https://firesiderwc.com/)
 <br>
 2421 Broadway, Redwood City (right next to Caltrain station)
 <br>
+
 Every other Tuesday, 6:30-8pm
+<br>
+Starting April 29 or May 13, 2025 <-- **to be confirmed, stay tuned!**
+<br>
 
 _A vital guide for collective political action against the climate apocalypse, from bestselling progressive intellectual Malcolm Harris—“a brilliant thinker and writer capable of making the intricacies of economic conditions supremely readable” (Vulture)._
 
