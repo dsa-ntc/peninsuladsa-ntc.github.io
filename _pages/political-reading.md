@@ -8,23 +8,27 @@ Theory informs praxis! Peninsula DSA engages in ongoing political education in s
 
 <h2>Currently Reading</h2>
 
-<img src="https://peninsuladsa.org/assets/images/What's Left by Malcolm Harris cover.jpeg" align="right" height="200" width="">
+>A vital guide for collective political action against the climate apocalypse, from bestselling progressive intellectual Malcolm Harris—“a brilliant thinker and writer capable of making the intricacies of economic conditions supremely readable” (Vulture).
 
-[**What's Left: Three Paths Through the Planetary Crisis**](https://bookshop.org/p/books/what-s-left-three-paths-through-the-planetary-crisis-malcolm-harris/21718858) (2025) by Malcolm Harris
+<img src="https://peninsuladsa.org/assets/images/What's Left by Malcolm Harris cover.jpeg" align="left" height="200" width="">
+
+&nbsp;&nbsp;&nbsp;&nbsp;[**What's Left: Three Paths Through the Planetary Crisis**](https://bookshop.org/p/books/what-s-left-three-paths-through-the-planetary-crisis-malcolm-harris/21718858) (2025) by Malcolm Harris
   
-IN PERSON! at [Fireside Books & More](https://firesiderwc.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;IN PERSON! at [Fireside Books & More](https://firesiderwc.com/)
 <br>
-2421 Broadway, Redwood City (right next to Caltrain station)
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;2421 Broadway, Redwood City (right next to Caltrain station)
 
-Every other Tuesday, 6:30-8pm
+&nbsp;&nbsp;&nbsp;&nbsp;Every other Tuesday, 6:30-8pm
 <br>
-Starting April 29 or May 13, 2025 <-- **to be confirmed, stay tuned!**
+&nbsp;&nbsp;&nbsp;&nbsp;Starting April 29 or May 13, 2025 <-- **to be confirmed, stay tuned!**
+
+&nbsp;&nbsp;&nbsp;&nbsp;BYO book! Light refreshments and KN94 respirators provided.
 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Wearing DSA gear is encouraged. :rose:
 
-_A vital guide for collective political action against the climate apocalypse, from bestselling progressive intellectual Malcolm Harris—“a brilliant thinker and writer capable of making the intricacies of economic conditions supremely readable” (Vulture)._
+Peninsula DSA's multi-week reading group for _What's Left_ will kick off with comradely icebreakers followed by an open-ended discussion of the book's _Introduction_. 
 
-Peninsula DSA's multi-week reading group for _What's Left_ will kick off with comradely icebreakers followed by an open-ended discussion of the book's _Introduction_. Please consider ordering your copy of _What's Left_ from our friendly hosts, Fireside Books & More, by visiting their [Bookshop.org storefront](https://bookshop.org/shop/FiresideRWC) or emailing orders[at]firesiderwc.com
+Please consider ordering your copy of _What's Left_ from our friendly hosts, Fireside Books & More, by visiting their [Bookshop.org storefront](https://bookshop.org/shop/FiresideRWC) or emailing orders[at]firesiderwc.com
 
 <h2>Past Reads</h2>
 
