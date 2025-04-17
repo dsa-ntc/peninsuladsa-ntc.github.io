@@ -78,3 +78,5 @@ Please consider ordering your copy of _What's Left_ from our friendly hosts, [Fi
 <h3>2018</h3>
 * ["The Lesser Evil? The Left, the Democrats and 1984"](https://www.versobooks.com/blogs/news/4109-the-lesser-evil-the-left-the-democrats-and-1984) (November 2, 2018) by Mike Davis
 * [How Nonviolent Struggle Works](https://static1.squarespace.com/static/62b0eb7da51f3717911bb4e1/t/642f35733af6ca7e837ffe53/1680815475818/HNVSW-updated-Jan-2015.pdf) (2013) by Gene Sharp
+
+<h3>2017</h3>
