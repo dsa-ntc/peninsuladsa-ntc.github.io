@@ -23,7 +23,7 @@ permalink: /calendar/
 	<iframe src="https://calendar.google.com/calendar/u/0/embed?showTitle=0&mode=AGENDA&height=400&wkst=1&bgcolor=%23ffffff&src=peninsuladsa@gmail.com&color=%23711616&ctz=America/Los_Angeles" style=" border-width:0 " width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 </div><!--/span-->
 
-HOW TO ATTEND
+<h3>:rose: How to Attend</h3>
 
 * *In-person events:* If our public calendar (see above) lists a location, feel free to show up! Please RSVP if the option is available.
 * *Virtual event:* You will need access to Peninsula DSA's private Discord server, which is limited to DSA members and vetted comrades. [Join PDSA](https://act.dsausa.org/donate/membership/), or reach out the Steering Committee for more information at info@peninsuladsa.org
