@@ -8,7 +8,7 @@ Theory informs praxis! Peninsula DSA engages in ongoing political education in s
 
 <h2>Currently Reading</h2>
 
-<img src="https://peninsuladsa.org/assets/images/What's Left by Malcolm Harris cover.jpeg" align="left" height="200" width="">
+<img src="https://peninsuladsa.org/assets/images/What's Left by Malcolm Harris cover.jpeg" align="right" height="200" width="">
 
 [**What's Left: Three Paths Through the Planetary Crisis**](https://bookshop.org/p/books/what-s-left-three-paths-through-the-planetary-crisis-malcolm-harris/21718858) (2025) by Malcolm Harris
   
