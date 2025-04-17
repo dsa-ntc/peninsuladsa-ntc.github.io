@@ -3,24 +3,27 @@ layout: page
 title: "Reading Group"
 permalink: /political-reading/
 ---
-Peninsula DSA engages in ongoing political education in socialist history and thought. Theory informs praxis! (See also: [PDSA's recommended media resources](../recommended-media/).)
+Theory informs praxis! Peninsula DSA engages in ongoing political education in socialist history and thought. (See also: [PDSA's recommended media resources](../recommended-media/).)
 <br>
 
 <h2>Currently Reading</h2>
 
-* [Imperialism: The Highest Stage of Capitalism](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/) by Vladimir Lenin.
+**Starting April 29, 2025!**
+<br>
+* [What's Left: Three Paths Through the Planetary Crisis](<https://bookshop.org/p/books/what-s-left-three-paths-through-the-planetary-crisis-malcolm-harris/21718858>) (2025) by Malcolm Harris
 
-**Tuesday, March 25, 2025, 7-8pm:** On the Peninsula DSA Discord, we'll discuss the first four chapters of Lenin's *Imperialism*: 
+IN PERSON! *Every other Tuesday, 6:30-8pm*
+<br>
+[Fireside Books](https://firesiderwc.com/), 2421 Broadway, Redwood City (next to Caltrain station)
+<br>
 
-1. Concentration of Production and Monopolies
-2. Banks and Their New Role
-3. Finance Capital and the Financial Oligarchy
-4. Export of Capital.
+Peninsula DSA's reading group for _What's Left_ will kick off with group icebreakers followed by an open-ended discussion of the book's introduction.
 
 <h2>Past Reads</h2>
 
 <h3>2025</h3>
 
+* [Imperialism: The Highest Stage of Capitalism](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/) (1916) by Vladimir Lenin.
 * [ABCs of Socialism](https://archive.org/details/abcs-of-socialism/mode/1up?view=theater) by [Jacobin](https://jacobin.com/) + [Verso](https://www.versobooks.com/).
 * [Ideas for the Struggle](https://www.oldandnewproject.net/Essays/Harnecker_Ideas.html) (2004, revised 2016) by Marta Harnecker.
 
