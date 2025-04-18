@@ -65,7 +65,7 @@ Our [Healthcare Justice](../healthcare-justice/) working group continues to orga
 * _Read more [here](../housing/) or on the **PDSA Discord: #housing** and **#affordable-rwc**_
 
 <h4>:fist: Labor</h4>
-Our [Labor](../labor/) working group shows up in solidarity with local unions--especially [AFSCME Local 829](https://www.afscme57.org/afscme-local-829), [AFT 1493](https://aft1493.org/), and [Teamsters Local 2785](https://www.teamsters2785.org/)—-on the picket line, at board meetings, and anywhere we're needed.
+Our [Labor](../labor/) working group continues to show solidarity with local unions--especially [AFSCME Local 829](https://www.afscme57.org/afscme-local-829), [AFT 1493](https://aft1493.org/), and [Teamsters Local 2785](https://www.teamsters2785.org/)—-on the picket line, at board meetings, and anywhere we're needed.
 
 * _Read more [here](../labor/) and join your labor-minded comrades on the **PDSA Discord: #labor**_
 
