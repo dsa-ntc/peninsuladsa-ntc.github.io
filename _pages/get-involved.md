@@ -29,15 +29,21 @@ Whether you join us in person or online, we look forward to organizing with you!
 * PDSA's private **Discord server**, and
 * in our **monthly e-newsletter** ([subscribe here](http://eepurl.com/cNwNHH)!).
 
+---
+
 <h3>:rose: General Meetings</h3>
 
 Our chapter's monthly general meetings, usually held on 3rd Sundays at 4-6pm, are key to coordinating our organizing efforts. We host presentations on socialist topics, hold democratic discussions (and vote!) on chapter priorities, and always share updates from our Steering Committee and working groups. If you're a chapter member, attending general meetings is the best way to stay engaged and up-to-date!
 * _Chapter meetings are usually held virtually on the **PDSA Discord: #general**._
 
+---
+
 <h3>:rose: Reading Group</h3>
 
 The people who came before us have a lot to teach us! Our political [reading group](../political-reading/) meets at least once a month to discuss socialist books and articles democratically chosen by participants. We read everything from Karl Marx to Malcolm Harris.
 * _Read more [here](../political-reading/) or on the **PDSA Discord: #reading-group**_.
+
+---
 
 <h3>:rose: Working Groups</h3>
 
@@ -72,6 +78,8 @@ Our [Labor](../labor/) working group shows up in solidarity with local unions--e
 Our [Universal Preschool](../preschool-for-all/) working group, which spearheaded the [Yes on Measure DD](https://www.facebook.com/yesonddssf/) / [Preschool for All South San Francisco](https://www.instagram.com/yesonddssf/) ballot measure campaign (2022), continues to organize for universal preschool in San Mateo County. 
 
 * _Read more [here](../preschool-for-all/) or on the **PDSA Discord: #universal-preschool**_
+
+---
 
 <h3>:rose: Social Events</h3>
 
