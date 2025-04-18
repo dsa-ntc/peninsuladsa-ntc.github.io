@@ -9,7 +9,7 @@ permalink: /get-involved/
 
 You don't have to settle for a half-life under the boot of fascist oligarchy: **A better world is possible!** 
 
-The [Democratic Socialists of America](https://www.dsausa.org/) (DSA) is the largest socialist organization in the United States **because we’re a member-driven mass movement**, not a donor-managed party or nonprofit. 
+The [Democratic Socialists of America](https://www.dsausa.org/) (DSA) is the largest socialist organization in the United States because we’re a member-driven mass movement, not a donor-managed party or nonprofit. 
 
 As a political and activist organization, **we believe that workers should run both the economy and civil society**. We show our commitment to this democratic principle by being an organization of, by, and for the working class. 
 
@@ -22,7 +22,10 @@ Since its founding in 2017, Peninsula DSA has been run by comrades volunteering 
 
 <h2>Meet Your Comrades!</h2>
 
-Peninsula DSA's confirmed meetings and social events--plus community meetings and more--can be found on our [**event calendar**](../calendar), on **PDSA's private Discord server**, and in our **monthly e-newsletter** ([subscribe here](http://eepurl.com/cNwNHH)!).
+Whether you join us in person or online, we look forward to organizing with you! Peninsula DSA's confirmed meetings and social events--plus community meetings and more--can all be found on our 
+* [**event calendar**](../calendar),
+* **PDSA's private Discord server**, and
+* in our **monthly e-newsletter** ([subscribe here](http://eepurl.com/cNwNHH)!).
 
 <h3>:rose: General Meetings</h3>
 
