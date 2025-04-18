@@ -25,8 +25,8 @@ Since its founding in 2017, Peninsula DSA has been run by comrades volunteering 
 <h2>Meet Your Comrades!</h2>
 
 Whether you join us in person or online, we look forward to organizing with you! Peninsula DSA's confirmed meetings and social events--plus community meetings and more--can all be found on our 
-* [**official event calendar**](../calendar),
-* **PDSA's private Discord server**, and
+* official [**event calendar**](../calendar),
+* PDSA's private **Discord server**, and
 * in our **monthly e-newsletter** ([subscribe here](http://eepurl.com/cNwNHH)!).
 
 <h3>:rose: General Meetings</h3>
