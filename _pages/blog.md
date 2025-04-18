@@ -4,7 +4,7 @@ title: "Blog"
 permalink: /blog/
 ---
 
-Recent statements and articles by Peninsula DSA.
+<h4>Recent statements and articles by Peninsula DSA.</h4>
 
 <div class="row my-5">
   {% for post in site.posts %}
