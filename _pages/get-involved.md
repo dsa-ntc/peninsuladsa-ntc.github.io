@@ -18,12 +18,14 @@ After all, the people have the knowledge--and the labor power--to build a shared
 * Access free healthcare through [Medicare for All](https://www.dsausa.org/dsa-political-platform-from-2021-convention/#health), and
 * Enjoy a full lifespan on a livable planet, thanks to the [Green New Deal](https://www.dsausa.org/dsa-political-platform-from-2021-convention/#gnd)!
 
+[![Want to get involved with Peninsula DSA? Join us!](/assets/images/getinvolved.png){:class="img-responsive}](https://act.dsausa.org/donate/membership/)
+
 Since its founding in 2017, Peninsula DSA has been run by comrades volunteering their time, skills, and dollars to the cause of collective liberation. When you [join our chapter](https://www.dsausa.org/join), our Membership co-chairs will connect you to our local organizing work and invite you to the PDSA Discord server, our virtual HQ for coordinating between meetings and events.
 
 <h2>Meet Your Comrades!</h2>
 
 Whether you join us in person or online, we look forward to organizing with you! Peninsula DSA's confirmed meetings and social events--plus community meetings and more--can all be found on our 
-* [**event calendar**](../calendar),
+* [**official event calendar**](../calendar),
 * **PDSA's private Discord server**, and
 * in our **monthly e-newsletter** ([subscribe here](http://eepurl.com/cNwNHH)!).
 
@@ -85,5 +87,3 @@ Come join your comrades after work to talk about socialism!  Each month, we alte
 Defy capitalist productivity by engaging in revolutionary play! Our socialist game nights create space to practice agency and imagine a collective, liberated future through cooperative games. Favorites have included [Strike! The Game of Worker Rebellion](https://www.youtube.com/watch?v=PnrHK85kcnk) and [Co-opoly](https://store.tesacollective.com/products/co-opoly-the-game-of-co-operatives) (both designed by the worker-owned cooperative [TESA Collective](https://www.tesacollective.com/)). We've also played [Bloc by Bloc: Uprising](https://www.youtube.com/watch?v=MR85Umxxb6I) and [The Resistance](https://boardgamegeek.com/boardgame/41114/resistance).
 
 * _Read more on the **PDSA Discord: #play-n-praxis**_
-
-[![Want to get involved with Peninsula DSA? Join us!](/assets/images/getinvolved.png){:class="img-responsive}](https://act.dsausa.org/donate/membership/)
