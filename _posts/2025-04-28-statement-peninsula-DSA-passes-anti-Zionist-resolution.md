@@ -1,9 +1,9 @@
 ---
 layout: post 
 title: "Peninsula DSA Votes Unanimously Against Zionism and for Palestinian Liberation"
-permalink: /2025-04-29-statement-peninsula-DSA-passes-anti-Zionist-resolution/
+permalink: /2025-04-28-statement-peninsula-DSA-passes-anti-Zionist-resolution/
 tag: statement
-short_description: "Peninsula (CA) DSA resolves to become an anti-Zionist organization in both principle and practice."
+short_description: "Peninsula (CA) DSA resolves to become an anti-Zionist organization in both principle and practice"
 ---
 
 <h4>Socialists oppose all forms of colonialism, imperialism, ethnic cleansing, and genocide. Palestine cannot be an exception!</h4>
