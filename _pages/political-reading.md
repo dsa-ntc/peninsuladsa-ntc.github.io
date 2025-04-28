@@ -29,9 +29,11 @@ Wearing DSA gear is encouraged. :rose:
 
 **What to expect:** Peninsula DSA's multi-week reading group for _What's Left_ will kick off with comradely icebreakers followed by an open-ended discussion of the book's _Introduction_. We have until the bookshop closes at 8pm—but even then, we might keep the conversation going at a restaurant downtown.
 
-Please consider ordering your copy of _What's Left_ from our friendly hosts, [Fireside Books & More](https://firesiderwc.com/), by visiting their [Bookshop.org storefront](https://bookshop.org/shop/FiresideRWC) or emailing orders[at]firesiderwc.com
+Please consider ordering your copy of _What's Left_ from our friendly hosts, [Fireside Books & More](https://firesiderwc.com/), by visiting their [Bookshop.org storefront](https://bookshop.org/shop/FiresideRWC) or emailing orders[at]firesiderwc.com 
 
 <h2>Past Reads</h2>
+
+<img src="https://peninsuladsa.org/assets/images/Peninsula DSA reading group meets Malcolm Harris at Kepler's Books 2025.04.jpg" align="right" height="300" width="">
 
 <h3>2025</h3>
 * [ABCs of Socialism](https://archive.org/details/abcs-of-socialism/mode/1up?view=theater) by [Jacobin](https://jacobin.com/) + [Verso](https://www.versobooks.com/).
