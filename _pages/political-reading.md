@@ -13,15 +13,23 @@ permalink: /political-reading/
 
 <img src="https://peninsuladsa.org/assets/images/What's Left by Malcolm Harris cover.jpeg" align="right" height="300" width="">
 
+<h4>New hybrid reading group starts May 13th!</h4>
+
 [**What's Left: Three Paths Through the Planetary Crisis**](https://bookshop.org/p/books/what-s-left-three-paths-through-the-planetary-crisis-malcolm-harris/21718858) (2025) by Malcolm Harris
-  
-IN PERSON! at [Fireside Books & More](https://firesiderwc.com/)
+
+IN PERSON at [Fireside Books & More](https://firesiderwc.com/)
 <br>
 2421 Broadway, Redwood City (right next to Caltrain station)
-
+<br>
 Every other Tuesday, 6:30-8pm
 <br>
-Starting April 29 or May 13, 2025 <-- **to be confirmed, stay tuned!**
+VIRTUAL option to be posted shortly!
+
+* Intro + Chapter 1: Marketcraft — Tuesday, May 13, 6:30-8pm
+* Chapter 2: Public Power—Tuesday - May 27, 6:30-8pm
+* Chapter 3: Communism - Tuesday, June 10, 6:30-8pm
+* Chapter 4: Planetary Crisis - Tuesday, June 24, 6:30-8pm
+* Conclusion: Tuesday - July 8, 6:30-8pm
 
 BYO book! Light refreshments and KN94 respirators provided.
 <br>
