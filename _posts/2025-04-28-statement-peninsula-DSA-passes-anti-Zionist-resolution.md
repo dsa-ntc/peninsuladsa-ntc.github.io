@@ -17,7 +17,7 @@ Peninsula DSA reaffirms our solidarity with the Palestinian people and upholds t
 
 We expect our Anti-Zionist resolution will make us an even stronger ally in the struggle for a free Palestine, and commend the work of several local organizations and coalitions fighting towards this end, including:
 
-* [Palestinian Youth Movement](https://www.instagram.com/bayareapym/) (PYM)
+* [Palestinian Youth Movement (PYM)](https://www.instagram.com/bayareapym/)
 * [Arab Resource & Organizing Center (AROC)](https://www.instagram.com/aroc_bayarea/)
 * [Jewish Voice for Peace (JVP)](https://www.instagram.com/jvpbayarea/)
 * [CA15forPalestine](https://www.instagram.com/ca15_for_palestine/)
