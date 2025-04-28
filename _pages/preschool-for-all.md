@@ -16,15 +16,15 @@ Peninsula DSA’s Preschool for All working group spent two years organizing for
 2. provide a living wage to all early care and education (ECE) workers, and 
 3. pay for it all by levying a modest parcel tax on South City's largest commercial office properties.
 
-<h3>Meetings</h3>
-
-None currently scheduled
-
 <img src="../assets/images/ECE 4 All SSF coalition at City Hall rally 2022.06.03.png" width="50%" height="auto" />
 
 *Our coalition rallied at South San Francisco's City Hall on June 3rd to celebrate turning in the 5800+ voter signatures our grassroots volunteers gathered from mid-January through May 2022.* 
 
-<h3>Recent Wins</h3>
+<h3>Meetings</h3>
+
+None currently scheduled
+
+<h3>Past Wins</h3>
 
 - **November 8, 2022** -- Despite vicious, well-funded corporate opposition, Measure DD earned 47.21% of the vote in South San Francisco, only 971 votes short of winning universal preschool. 
 - **September 19, 2022** -- The 4Cs (Child Care Coordinating Council) of San Mateo County endorses Measure DD! They join South City's two child care unions, UDW / [Child Care Providers United](https://childcareprovidersunited.org/) and AFSCME Local 829, in support of Preschool for All South San Francisco.
