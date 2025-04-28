@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "Peninsula DSA Votes Unanimously Against Zionism and for Palestinian Liberation"
-permalink: /2025-04-29-statement-peninsula-dsa-passes-anti-Zionist-resolution-in-support-of-a-free-Palestine/
+permalink: /2025-04-29-statement-peninsula-DSA-passes-anti-Zionist-resolution/
 tag: statement
 short_description: "Peninsula (CA) DSA resolves to become an anti-Zionist organization in both principle and practice."
 ---
