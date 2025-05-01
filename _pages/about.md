@@ -21,7 +21,7 @@ Our Steering Committee (SC) is elected annually by our membership. Two co-chairs
 * **Finance:** Laura & Kier
 * **Membership:** Allison & Chet
 
-Our current Steering Committee election was voted in at our chapter convention on Sunday, March 17, 2024; appointments to replace two SC co-chairs were made in December 2024. The next Steering Committee election will take place at our April general meeting on Sunday, April 27, 2025.
+Our current Steering Committee election was elected at PDSA's general meeting on April 27, 2025. 
 
 <h3>Other Bay Area Chapters</h3>
 
