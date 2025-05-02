@@ -3,15 +3,18 @@ layout: page
 title: "Preschool for All"
 permalink: /preschool-for-all/
 ---
-After Measure DD's narrow loss at the ballot box in November 2022--largely because Big Biotech spent $500,000+ to stop us--Peninsula DSA is considering our next steps. South San Francisco preschool teachers, childcare providers, labor organizers, and Measure DD supporters are invited to contact our Steering Committee ([info@peninsuladsa.org](mailto:info@peninsuladsa.org)) to discuss the campaign and to share ideas re: future efforts to win Preschool for All SSF.
 
-<h1>Past Campaign</h1>
+<h4>Peninsula DSA demands free, high-quality universal preschool and childcare, and a living wage for our preschool teachers and childcare workers.</h4>
+
+After Measure DD's narrow loss at the ballot box in November 2022--largely because **Big Biotech spent more than $500,000 to stop us**--Peninsula DSA is considering our next steps. South San Francisco preschool teachers, childcare providers, labor organizers, and Measure DD supporters are invited to contact our Steering Committee ([info@peninsuladsa.org](mailto:info@peninsuladsa.org)) to discuss the campaign and to share ideas for future efforts to win Preschool for All SSF.
+
+<h3>Past Campaign</h3>
 
 <img src="../assets/images/Yes on DD Banner.jpg" width="75%" height="auto" />
 
 <h2>Preschool for All SSF (Yes on Measure DD)</h2>
 
-Peninsula DSA’s Preschool for All working group spent two years organizing for the success of the DSA-endorsed Preschool for All South San Francisco campaign / [Yes on Measure DD](http://ece4allssf.org/), which would
+Peninsula DSA’s Preschool for All working group spent two years organizing for the success of the DSA-endorsed Preschool for All South San Francisco campaign / **Yes on Measure DD** (see historic [Facebook](https://www.facebook.com/yesonddssf/) & [Instagram](https://www.instagram.com/yesonddssf/) pages), which would
 1. fully fund high-quality preschool to all children aged 2.5 to 5 years old whose families live or work in South City,
 2. provide a living wage to all early care and education (ECE) workers, and 
 3. pay for it all by levying a modest parcel tax on South City's largest commercial office properties.
@@ -25,6 +28,8 @@ Peninsula DSA’s Preschool for All working group spent two years organizing for
 None currently scheduled
 
 <h3>Past Wins</h3>
+
+<img src="../assets/images/Yes on DD Preschool for All logo (circle).jpg" width="300" height="auto" align="right"/>
 
 - **November 8, 2022** -- Despite vicious, well-funded corporate opposition, Measure DD earned 47.21% of the vote in South San Francisco, only 971 votes short of winning universal preschool. 
 - **September 19, 2022** -- The 4Cs (Child Care Coordinating Council) of San Mateo County endorses Measure DD! They join South City's two child care unions, UDW / [Child Care Providers United](https://childcareprovidersunited.org/) and AFSCME Local 829, in support of Preschool for All South San Francisco.
@@ -41,13 +46,4 @@ None currently scheduled
 Chet and Doniella
 
 <h3>Contact</h3>
-Email us at [ece4allssf@gmail.com](mailto:ece4allssf@gmail.com)
-
-<h3>Social Media</h3>
-Follow us on Instagram, Twitter, and Facebook!
-
-- [Instagram](https://www.instagram.com/yesonddssf/)
-- [Twitter](https://twitter.com/ece4allssf)
-- [Facebook](https://www.facebook.com/yesonddssf)
-
-<img src="../assets/images/Yes on DD Preschool for All logo (circle).jpg" width="50%" height="auto" />
+Email us at info@peninsuladsa.org with "Preschool for All" in the subject line
