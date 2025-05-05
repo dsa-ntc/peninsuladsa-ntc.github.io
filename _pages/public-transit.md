@@ -25,7 +25,7 @@ Our county’s transit agency, [SamTrans](http://samtrans.com/), has the option 
 
 But some members of the [SamTrans Board of Directors](https://www.samtrans.com/about-samtrans/board-directors) (BOD) are hesitant to join the measure—--and now they might even drop [existing funding for inter-agency coordination](https://mtc.ca.gov/operations/transit-regional-network-management/transit-fare-coordination-integration)! We need huge public pushback to encourage these folks—--many of whom don’t use mass transit themselves—--to support a well-funded, interconnected transit system around the Bay.
 
-<h4>:warning: But we must push the Board of Directors to act!</h4>
+<h4>:warning: We must push the Board of Directors to act!</h4>
 
 Making public comments---in person, via Zoom, or by email---at [SamTrans BOD](https://www.samtrans.com/board-of-directors/meetings) meetings is the best way to guarantee airtime for socialist perspectives and directly influence San Mateo County's transit decision makers. 
 
@@ -48,14 +48,14 @@ We have to act fast to prevent the SamTrans BOD from sleepwalking us into the wo
 
 * Location: [Bacciocco Auditorium (2nd Floor)](https://maps.app.goo.gl/e4X3vMBynC1pdUGbA), 1250 San Carlos Avenue, San Carlos
 * Arrive at 1:50pm (10 minutes early) to fill out a comment card; give the card to the secretary.
-* Wait till the Board opens [agenda item #5]((https://www.samtrans.com/meetings/2025/05/samtrans-board-directors) (general public comment). 
+* Wait till the Board opens [agenda item #5](https://www.samtrans.com/meetings/2025/05/samtrans-board-directors) (general public comment). 
 * The secretary will call you to the podium.
 * You have 3 minutes to speak.
 
 :telephone_receiver: ***Virtual***
 
 * Location: [Join the Zoom call](https://us02web.zoom.us/j/81001317517?pwd=6LuOhomk1KpISW9X2CbpthZRGreaIA.1) at 2pm
-* Wait till the Board opens [agenda item #5]((https://www.samtrans.com/meetings/2025/05/samtrans-board-directors) (general public comment).
+* Wait till the Board opens [agenda item #5](https://www.samtrans.com/meetings/2025/05/samtrans-board-directors) (general public comment).
 * Raise your virtual hand immediately. Follow the #transit channel on the PDSA Discord to be notified when public comment is open!
 * The secretary will call your name and unmute you.
 * You have 2 minutes to speak. 
