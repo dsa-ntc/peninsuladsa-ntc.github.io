@@ -35,6 +35,15 @@ We have to act fast to prevent the SamTrans BOD from sleepwalking us into the wo
 
 Agenda: https://www.samtrans.com/meetings/2025/05/samtrans-board-directors
 
+<h4>Know Your Talking Points</h4>
+
+*  Introduce yourself (name, city, how you use SamTrans).
+*  Tell the BOD how the proposed service cuts would impact you
+*  Ask them to join the regional funding measure (SB 63)
+*  Ask them to preserve funding for inter-agency coordination across the Bay
+*  Ask them to pursue progressive funding solutions so corporations and the wealthy pay their fair share
+*  Ask them to do new polling for progressive taxation
+
 <h4>How to Make a Public Comment</h4>
 
 :microphone: In person (most effective!)
@@ -56,15 +65,6 @@ Agenda: https://www.samtrans.com/meetings/2025/05/samtrans-board-directors
 :computer: Email
 
 * Submit public comment to the SamTrans BOD before the start of the meeting at publiccomment@samtrans.com!
-
-<h4>Talking Points for May 7, 2025</h4>
-
-*  Introduce yourself (name, city, how you use SamTrans).
-*  Tell the BOD how the proposed service cuts would impact you
-*  Ask them to join the regional funding measure (SB 63)
-*  Ask them to preserve funding for inter-agency coordination across the Bay
-*  Ask them to pursue progressive funding solutions so corporations and the wealthy pay their fair share
-*  Ask them to do new polling for progressive taxation
 
 Thanks for your help, comrades!
 
