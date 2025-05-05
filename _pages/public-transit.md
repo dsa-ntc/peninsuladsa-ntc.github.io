@@ -31,49 +31,45 @@ Making public comments---in person, via Zoom, or by email---at [SamTrans BOD](ht
 
 We have to act fast to prevent the SamTrans BOD from sleepwalking us into the worst-case scenario.
 
-<h3>:rotating_light: Demand Action: Attend the Next SamTrans BOD Meeting (Wednesday, May 7, 2pm)</h3>
+<h3>:rotating_light: Demand Action at the SamTrans BOD Meeting (Wednesday, May 7, 2pm)</h3>
 
-Agenda: https://www.samtrans.com/meetings/2025/05/samtrans-board-directors
-
-<h4>Know Your Talking Points</h4>
+<h4>Practice Your Talking Points</h4>
 
 *  Introduce yourself (name, city, how you use SamTrans).
-*  Tell the BOD how the proposed service cuts would impact you
+*  Tell the Board how the proposed service cuts would impact you
 *  Ask them to join the regional funding measure (SB 63)
 *  Ask them to preserve funding for inter-agency coordination across the Bay
 *  Ask them to pursue progressive funding solutions so corporations and the wealthy pay their fair share
-*  Ask them to do new polling for progressive taxation
+*  Ask them to do new polling for progressive taxation, which working class voters will want to support
 
 <h4>How to Make a Public Comment</h4>
 
-:microphone: In person (most effective!)
+:microphone: ***In person*** (most effective!)
 
 * Location: [Bacciocco Auditorium (2nd Floor)](https://maps.app.goo.gl/e4X3vMBynC1pdUGbA), 1250 San Carlos Avenue, San Carlos
-* Arrive at 1:50pm (10 minutes early) to fill out a comment card; give the card to the secretary. 
-* Wait till the BOD gets to agenda item #5 (general public comment). 
+* Arrive at 1:50pm (10 minutes early) to fill out a comment card; give the card to the secretary.
+* Wait till the Board opens [agenda item #5]((https://www.samtrans.com/meetings/2025/05/samtrans-board-directors) (general public comment). 
 * The secretary will call you to the podium.
 * You have 3 minutes to speak.
 
-:telephone_receiver: Virtual
+:telephone_receiver: ***Virtual***
 
 * Location: [Join the Zoom call](https://us02web.zoom.us/j/81001317517?pwd=6LuOhomk1KpISW9X2CbpthZRGreaIA.1) at 2pm
-* Listen carefully until the Board opens agenda item #5 (general public comment).
-* Raise your virtual hand immediately. Follow the #transit channel on the PDSA Discord to be notified when it’s time---miss your chance and it's gone!
+* Wait till the Board opens [agenda item #5]((https://www.samtrans.com/meetings/2025/05/samtrans-board-directors) (general public comment).
+* Raise your virtual hand immediately. Follow the #transit channel on the PDSA Discord to be notified when public comment is open!
 * The secretary will call your name and unmute you.
 * You have 2 minutes to speak. 
 
-:computer: Email
+:computer: ***Email***
 
 * Submit public comment to the SamTrans BOD before the start of the meeting at publiccomment@samtrans.com!
 
-Thanks for your help, comrades!
-
-A better world is possible if we fight for it. 
+Thanks for your help, comrades! A better world is possible---if we fight for it. 
 
 <h2>More Ways to Fight for Public Transit</h2>
 
-<h4>Quick Action Items!</h4>
+<h3>Quick Action Items!</h3>
 
-* Join the Bay Area's public transit coalition, [Transbay Coalition](https://www.transbaycoalition.org/join/) and start following #san-mateo-county on their Slack!
 * Sign our transit coalition’s [Bay Area transit petition](https://actionnetwork.org/letters/build-more-housing-and-prevent-dire-transit-service-cuts/) (almost 300 signatures!) for NO service cuts, plus more support for affordable housing!
 * Sign our transit coalition’s [state-level petition for flexing $2B for transit funding](https://actionnetwork.org/letters/fund-transit-support-our-communities?clear_id=true&link_id=1&can_id=ae4c9ece59933e2f4dbae941daf4aa55&source=email-speak-out-for-caltrain-samtrans-vta-funding-regional-coordination&email_referrer=email_2678064&email_subject=speak-out-for-caltrain-samtrans-vta-funding-regional-coordination&&) (almost 4000 signatures!).
+* Join the Bay Area's public transit coalition, [Transbay Coalition](https://www.transbaycoalition.org/join/) and start following #san-mateo-county on their Slack!
