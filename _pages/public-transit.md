@@ -31,14 +31,13 @@ Making public comments---in person, via Zoom, or by email---at [SamTrans BOD](ht
 
 We have to act fast to prevent the SamTrans BOD from sleepwalking us into the worst-case scenario.
 
-<h2>:oncoming_bus: Next SamTrans BOD Meeting</h2>
-<h3>Wednesday, May 7, 2pm</h3>
+<h3>:rotating_light: Demand Action: Attend the Next SamTrans BOD Meeting (Wednesday, May 7, 2pm)</h3>
 
 Agenda: https://www.samtrans.com/meetings/2025/05/samtrans-board-directors
 
 <h4>How to Make a Public Comment</h4>
 
-:microphone: IN PERSON (most effective!)
+:microphone: In person (most effective!)
 
 * Location: [Bacciocco Auditorium (2nd Floor)](https://maps.app.goo.gl/e4X3vMBynC1pdUGbA), 1250 San Carlos Avenue, San Carlos
 * Arrive at 1:50pm (10 minutes early) to fill out a comment card; give the card to the secretary. 
@@ -46,7 +45,7 @@ Agenda: https://www.samtrans.com/meetings/2025/05/samtrans-board-directors
 * The secretary will call you to the podium.
 * You have 3 minutes to speak.
 
-:telephone_receiver: VIRTUAL
+:telephone_receiver: Virtual
 
 * Location: [Join the Zoom call](https://us02web.zoom.us/j/81001317517?pwd=6LuOhomk1KpISW9X2CbpthZRGreaIA.1) at 2pm
 * Listen carefully until the Board opens agenda item #5 (general public comment).
@@ -54,7 +53,7 @@ Agenda: https://www.samtrans.com/meetings/2025/05/samtrans-board-directors
 * The secretary will call your name and unmute you.
 * You have 2 minutes to speak. 
 
-:computer: EMAIL
+:computer: Email
 
 * Submit public comment to the SamTrans BOD before the start of the meeting at publiccomment@samtrans.com!
 
@@ -73,7 +72,7 @@ A better world is possible if we fight for it.
 
 <h2>More Ways to Fight for Public Transit</h2>
 
-<h4>Action Items to Do in 5 Minutes!</h4>
+<h4>Quick Action Items!</h4>
 
 * Join the Bay Area's public transit coalition, [Transbay Coalition](https://www.transbaycoalition.org/join/) and start following #san-mateo-county on their Slack!
 * Sign our transit coalition’s [Bay Area transit petition](https://actionnetwork.org/letters/build-more-housing-and-prevent-dire-transit-service-cuts/) (almost 300 signatures!) for NO service cuts, plus more support for affordable housing!
