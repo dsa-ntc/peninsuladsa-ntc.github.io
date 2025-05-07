@@ -11,7 +11,7 @@ permalink: /calendar/
 <h3>:rose: Meetings</h3>
 
 * **General meetings** are dedicated to chapterwide discussions, presentations on special topics, voting, and more; they are usually held on 3rd Sundays, 4-6pm.
-* [**Reading group**](../reading-group) meets at least once a month, often on Tuesday evenings at 7pm: see below for confirmed events.
+* [**Reading group**](../political-reading) meets at least once a month, often on Tuesday evenings at 7pm: see below for confirmed events.
 * **Working groups** have their own meeting schedules: see below for confirmed events.
 
 ---
