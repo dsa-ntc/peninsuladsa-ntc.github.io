@@ -17,19 +17,17 @@ permalink: /political-reading/
 
 [**What's Left: Three Paths Through the Planetary Crisis**](https://bookshop.org/p/books/what-s-left-three-paths-through-the-planetary-crisis-malcolm-harris/21718858) (2025) by Malcolm Harris
 
-IN PERSON: [Fireside Books & More](https://firesiderwc.com/)
-<br>
-2421 Broadway, Redwood City (right next to Caltrain station)
-<br>
+* Participate virtually: [Google Meet](https://meet.google.com/yqs-mvtd-ahn)
+* Participate in person: [Fireside Books & More](https://firesiderwc.com/), 2421 Broadway, Redwood City (by Caltrain station)
+
 Every other Tuesday, 6:30-8pm
 <br>
-VIRTUAL: Join us on [Google Meet](<https://meet.google.com/yqs-mvtd-ahn>)
 
-* *Intro + Chapter 1*: Marketcraft — Tuesday, May 13, 6:30-8pm
-* *Chapter 2*: Public Power—Tuesday - May 27, 6:30-8pm
-* *Chapter 3*: Communism - Tuesday, June 10, 6:30-8pm
-* *Chapter 4*: Planetary Crisis - Tuesday, June 24, 6:30-8pm
-* *Conclusion*: Tuesday - July 8, 6:30-8pm
+* May 13---Intro + Marketcraft (*Ch. 1*)
+* May 27---Public Power (*Ch. 2*)
+* June 10---Communism (*Ch. 3*)
+* June 24---Planetary Crisis (*Ch. 4*)
+* July 8---Conclusion 
 
 BYO book! Light refreshments and KN94 respirators provided.
 <br>
