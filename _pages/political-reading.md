@@ -29,13 +29,9 @@ Every other Tuesday, 6:30-8pm
 * June 24---Planetary Crisis (*Ch. 4*)
 * July 8---Conclusion 
 
-BYO book! Light refreshments and KN94 respirators provided.
-<br>
-Wearing DSA gear is encouraged. :rose:
+**What to expect:** Peninsula DSA's reading group for _What's Left_ will kick off with comradely icebreakers followed by an open discussion of the weekly chapter. We have until the bookshop closes at 8pm—--but we might head downtown afterward to keep the conversation going. Light refreshments and KN94 respirators provided. Wearing DSA gear is encouraged. :rose:
 
-**What to expect:** Peninsula DSA's multi-week reading group for _What's Left_ will kick off with comradely icebreakers followed by an open-ended discussion of the book's _Introduction_. We have until the bookshop closes at 8pm—but even then, we might keep the conversation going at a restaurant downtown.
-
-Please consider ordering your copy of _What's Left_ from our friendly hosts, [Fireside Books & More](https://firesiderwc.com/), by visiting their [Bookshop.org storefront](https://bookshop.org/shop/FiresideRWC) or emailing orders[at]firesiderwc.com 
+**BYO book!** Please consider ordering your copy of _What's Left_ from our friendly hosts, [Fireside Books & More](https://firesiderwc.com/), by visiting their [Bookshop.org storefront](https://bookshop.org/shop/FiresideRWC) or emailing orders[at]firesiderwc.com 
 
 <h2>Past Reads</h2>
 
