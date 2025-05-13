@@ -19,6 +19,7 @@ permalink: /political-reading/
 
 * Participate virtually: [Google Meet](https://meet.google.com/yqs-mvtd-ahn)
 * Participate in person: [Fireside Books & More](https://firesiderwc.com/), 2421 Broadway, Redwood City (by Caltrain station)
+* Discussion questions available [here](https://docs.google.com/document/d/1ZqcjvfBk5RipXqqWDeRa5uy6TSw3Nh0B3-zHxlov9WM/edit?usp=sharing)!
 
 Every other Tuesday, 6:30-8pm
 <br>
@@ -29,7 +30,7 @@ Every other Tuesday, 6:30-8pm
 * June 24---Planetary Crisis (*Ch. 4*)
 * July 8---Conclusion 
 
-**What to expect:** Peninsula DSA's reading group for _What's Left_ will kick off with comradely icebreakers followed by an open discussion of the weekly chapter. We have until the bookshop closes at 8pm—--but we might head downtown afterward to keep the conversation going. Light refreshments and KN94 respirators provided. Wearing DSA gear is encouraged. :rose:
+**What to expect:** Peninsula DSA's reading group for _What's Left_ will kick off with comradely icebreakers followed by a [guided discussion](https://docs.google.com/document/d/1ZqcjvfBk5RipXqqWDeRa5uy6TSw3Nh0B3-zHxlov9WM/edit?usp=sharing) of the weekly chapter. We have until the bookshop closes at 8pm—--but afterward we might head downtown to keep the conversation going. Light refreshments and KN94 respirators provided. Wearing DSA gear is encouraged. :rose:
 
 **BYO book!** Please consider ordering your copy of _What's Left_ from our friendly hosts, [Fireside Books & More](https://firesiderwc.com/), by visiting their [Bookshop.org storefront](https://bookshop.org/shop/FiresideRWC) or emailing orders[at]firesiderwc.com 
 
