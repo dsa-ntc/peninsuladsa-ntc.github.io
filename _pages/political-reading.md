@@ -28,7 +28,9 @@ Every other Tuesday, 6:30-8pm <-- _perfect attendance is not required!_
 * May 27---Public Power (*Ch. 2*)
 * June 10---Communism (*Ch. 3*)
 * June 24---Planetary Crisis (*Ch. 4*)
-* July 8---Conclusion 
+* July 8---Conclusion
+
+<img src="https://peninsuladsa.org/assets/images/Peninsula DSA reading group, Malcolm Harris's What's Left, Fireside Books RWC 2025.05.13.jpg" align="right" height="" width="200">
 
 **What to expect:** Peninsula DSA's reading group sessions for _What's Left_ will kick off with comradely icebreakers followed by a [guided discussion](https://docs.google.com/document/d/1ZqcjvfBk5RipXqqWDeRa5uy6TSw3Nh0B3-zHxlov9WM/edit?usp=sharing) of the latest chapter. We have until the bookshop closes at 8pm. Light refreshments and KN94 respirators provided. Wearing DSA gear is encouraged. :rose:
 
