@@ -2,16 +2,16 @@
 header:
   - title: "Get Involved"
     url: "/get-involved/"
-    description: "Check out what Peninsula DSA is working on. Join DSA!"
+    description: "Check out what Peninsula DSA is working on and join us!"
   - title: "Events Calendar"
     url: "/calendar/"
-    description: "Chapter Events Calendar"
+    description: "Peninsula DSA Chapter Events Calendar"
   - title: "Statements"
     url: "/blog/"
     description: "Link to Peninsula DSA's Chapter Statements"
   - title: "Resources"
     url: "/recommended-media/"
-    description: "List of leftist & progressive media outlets recommended by the Peninsula DSA Steering Committee."
+    description: "List of leftist & progressive media outlets recommended by the Peninsula DSA Steering Committee"
 
 # footer links
 footer:
@@ -21,18 +21,21 @@ footer:
     bio: "This is your chapter of the Democratic Socialists of America" # short bio
     address: "San Mateo County, California" # address or region
   - social:
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/peninsuladsa.bsky.social"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/peninsulaDSA/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/DSA_Peninsula"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/peninsuladsa/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/peninsuladsa"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/peninsuladsa/"      
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/DSA_Peninsula"
     - label: "Email"
       icon: "fa fa-envelope"
       url: "mailto:info@peninsulaDSA.org"
