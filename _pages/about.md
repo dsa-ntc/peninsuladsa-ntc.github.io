@@ -36,6 +36,6 @@ Our current Steering Committee election was elected at PDSA's general meeting on
 
 Want to get involved in DSA but don't spend much time in San Mateo County? Another local chapter might work better for you!
 
-* [DSA Silicon Valley](https://svdsa.github.io/) (South Bay, from Redwood City to San Jose)
+* [DSA Silicon Valley](https://svdsa.github.io/) (Santa Clara County / South Bay)
 * [DSA San Francisco](https://dsasf.org/)
 * [DSA East Bay](http://www.eastbaydsa.org/)
