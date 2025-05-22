@@ -2,7 +2,7 @@
 header:
   - title: "Get Involved"
     url: "/get-involved/"
-    description: "Check out what Peninsula DSA is working on and join us!"
+    description: "Check out what Peninsula DSA is doing—-and join us!"
   - title: "Events Calendar"
     url: "/calendar/"
     description: "Peninsula DSA Chapter Events Calendar"
@@ -11,7 +11,7 @@ header:
     description: "Link to Peninsula DSA's Chapter Statements"
   - title: "Resources"
     url: "/recommended-media/"
-    description: "List of leftist & progressive media outlets recommended by the Peninsula DSA Steering Committee"
+    description: "Leftist & progressive media outlets recommended by Peninsula DSA's Steering Committee"
 
 # footer links
 footer:
@@ -22,7 +22,7 @@ footer:
     address: "San Mateo County, California" # address or region
   - social:
     - label: "Bluesky"
-      icon: "fab fa-fw fa-bluesky"
+      icon: "fa-brands fa-bluesky"
       url: "https://bsky.app/profile/peninsuladsa.bsky.social"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
