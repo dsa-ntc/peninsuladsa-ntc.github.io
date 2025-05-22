@@ -22,7 +22,7 @@ footer:
     address: "San Mateo County, California" # address or region
   - social:
     - label: "Bluesky"
-      icon: "fa-brands fa-bluesky"
+      icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/peninsuladsa.bsky.social"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
