@@ -9,6 +9,8 @@ permalink: /about/
 We are local residents and activists working together in our chapter—and sometimes in coalitions—to build a better world that puts people and planet before profit. Our member-driven organization is made possible by comrades volunteering their labor, from each according to their ability.
 <br>
 
+<img src="https://peninsuladsa.org/assets/images/PDSA Social at Fieldwork, San Mateo, 2025.05.02.jpg" align="right" height="300" width="">
+
 Peninsula DSA is the place to be if you're interested in 
 - organizing your workplace (we recommend [contacting EWOC!](https://workerorganizing.org/)),
 - winning Medicare for All (once we _first_ win [CNA's CalCare](https://www.nationalnursesunited.org/calcare)),
