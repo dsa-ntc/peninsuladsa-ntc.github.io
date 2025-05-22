@@ -13,7 +13,7 @@ The [Democratic Socialists of America](https://www.dsausa.org/) (DSA) is the lar
 
 As a political and activist organization, **we believe that workers should run both the economy and civil society**. We show our commitment to this democratic principle by being an organization of, by, and for the working class. 
 
-After all, the people have the knowledge--and the labor power--to build a shared future where everyone can
+After all, the people have the labor power--and the know-how--to build a shared future where everyone can
 * [Live in dignified social housing](https://www.dsausa.org/dsa-political-platform-from-2021-convention/#housing), 
 * Access free healthcare through [Medicare for All](https://www.dsausa.org/dsa-political-platform-from-2021-convention/#health), and
 * Enjoy a full lifespan on a livable planet, thanks to the [Green New Deal](https://www.dsausa.org/dsa-political-platform-from-2021-convention/#gnd)!
