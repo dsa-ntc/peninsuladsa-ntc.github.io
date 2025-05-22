@@ -5,7 +5,7 @@ authors:
     avatar: #"awesome_author.svg" # display_picture.jpg
     follow:
     - label: "Bluesky"
-      icon: "fa-brands fa-bluesky"
+      icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/peninsuladsa.bsky.social"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
