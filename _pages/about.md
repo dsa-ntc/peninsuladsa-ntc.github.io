@@ -6,7 +6,9 @@ permalink: /about/
 
 <h4>Since 2017, Peninsula DSA has been organizing to build working class power to benefit the 99%.</h4> 
 
-We are local San Mateo County residents and activists working together in our chapter—and sometimes in coalitions—to build a better world that puts people and planet before profit. Our member-driven organization is made possible by comrades volunteering their labor, from each according to their ability.
+<h3>Who We Are</h3>
+
+We are San Mateo County residents and activists working together in our local DSA chapter—and sometimes in coalitions—to build a better world that puts people and planet before profit. Our member-driven organization is made possible by comrades volunteering their labor, from each according to their ability.
 <br>
 
 <img src="https://peninsuladsa.org/assets/images/PDSA Social at Fieldwork, San Mateo, 2025.05.02.jpg" align="right" height="400" width="">
@@ -21,6 +23,8 @@ Peninsula DSA is the place to be if you're interested in
 
 **Learn how to get involved [here](../get-involved/).**
 
+---
+
 <h3>Chapter Leadership</h3>
 
 Our Steering Committee (SC) is elected annually by our membership to provide leadership and administrative support for the chapter. Two co-chairs each work on tasks related to Agenda (planning and running meetings), Communications (member and external communications), Finance (chapter funds and filings), and Membership (onboarding and engaging members). The Steering Committee can be reached at the chapter's main email address: **info@peninsuladsa.org**
@@ -31,6 +35,8 @@ Our Steering Committee (SC) is elected annually by our membership to provide lea
 * **Membership:** Allison & Chet
 
 Our current Steering Committee election was elected at PDSA's general meeting on April 27, 2025. 
+
+---
 
 <h3>Other Bay Area Chapters</h3>
 
