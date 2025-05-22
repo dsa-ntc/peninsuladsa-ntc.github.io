@@ -4,10 +4,12 @@ title: "About"
 permalink: /about/
 ---
 
-<h4>Since 2017, Peninsula DSA has been organizing in San Mateo County to build working class power to benefit the 99%.</h4> 
+<h4>Since 2017, Peninsula DSA has been organizing to build working class power to benefit the 99%.</h4> 
 
-We are local residents and activists working together in our chapter—and sometimes in coalitions—to build a better world that puts people and planet before profit. Our member-driven organization is made possible by comrades volunteering their labor, from each according to their ability.
+We are local San Mateo County residents and activists working together in our chapter—and sometimes in coalitions—to build a better world that puts people and planet before profit. Our member-driven organization is made possible by comrades volunteering their labor, from each according to their ability.
 <br>
+
+<img src="https://peninsuladsa.org/assets/images/PDSA Social at Fieldwork, San Mateo, 2025.05.02.jpg" align="right" height="400" width="">
 
 Peninsula DSA is the place to be if you're interested in 
 - organizing your workplace (we recommend [contacting EWOC!](https://workerorganizing.org/)),
@@ -16,8 +18,6 @@ Peninsula DSA is the place to be if you're interested in
 - joining electoral campaigns for DSA candidates (such as South City's [James Coleman](https://www.ssf.net/Departments/City-Council/Meet-the-City-Council/James-Coleman))
 - canvassing for citizens' ballot intiatives (such as our [2022 universal preschool campaign in SSF](https://peninsuladsa.org/preschool-for-all/) and the [2026 campaign for housing justice in RWC](https://peninsuladsa.org/housing/), or
 - learning more about socialism in general (join our [political reading group](https://peninsuladsa.org/political-reading/)!)
-
-<img src="https://peninsuladsa.org/assets/images/PDSA Social at Fieldwork, San Mateo, 2025.05.02.jpg" align="right" height="500" width="">
 
 **Learn how to get involved [here](../get-involved/).**
 
