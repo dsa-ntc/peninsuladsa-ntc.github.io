@@ -7,7 +7,7 @@ permalink: /get-involved/
 
 <h2>Join DSA!</h2>
 
-**A better world is possible:** You don't have to settle for a half-life under the boot of fascist oligarchy! 
+**A better world is possible:** You don't have to settle for a half life under the boot of fascist oligarchy! 
 
 The [Democratic Socialists of America](https://www.dsausa.org/) (DSA) is the largest socialist organization in the United States because we’re a member-driven mass movement, not a donor-managed party or nonprofit. 
 
