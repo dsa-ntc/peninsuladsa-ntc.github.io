@@ -11,15 +11,15 @@ permalink: /about/
 We are San Mateo County residents and activists working together in our local DSA chapter—and sometimes in coalitions—to build a better world that puts people and planet before profit. Our member-driven organization is made possible by comrades volunteering their labor, from each according to their ability.
 <br>
 
-<img src="https://peninsuladsa.org/assets/images/PDSA Social at Fieldwork, San Mateo, 2025.05.02.jpg" align="right" height="400" width="">
+<img src="https://peninsuladsa.org/assets/images/PDSA Social at Fieldwork, San Mateo, 2025.05.02.jpg" align="right" height="300" width="">
 
 Peninsula DSA is the place to be if you're interested in 
-- organizing your workplace (we recommend [contacting EWOC!](https://workerorganizing.org/)),
-- winning Medicare for All (once we _first_ win [CNA's CalCare](https://www.nationalnursesunited.org/calcare)),
-- building ecosocialism (check out our [Transit 4 All campaign](https://peninsuladsa.org/public-transit/) and [Reclaim Our Power](https://reclaimourpowerca.org/)'s campaign to municipalize PG&E),
+- organizing your workplace ([contact EWOC!](https://workerorganizing.org/)),
+- winning Medicare for All (after [CNA wins CalCare](https://www.nationalnursesunited.org/calcare)),
+- building ecosocialism with our [Transit 4 All campaign](https://peninsuladsa.org/public-transit/) and [Reclaim Our Power](https://reclaimourpowerca.org/)'s campaign to municipalize PG&E),
 - joining electoral campaigns for DSA candidates (such as South City's [James Coleman](https://www.ssf.net/Departments/City-Council/Meet-the-City-Council/James-Coleman))
-- canvassing for citizens' ballot intiatives (such as our [2022 universal preschool campaign in SSF](https://peninsuladsa.org/preschool-for-all/) and the [2026 campaign for housing justice in RWC](https://peninsuladsa.org/housing/), or
-- learning more about socialism in general (join our [political reading group](https://peninsuladsa.org/political-reading/)!)
+- canvassing for citizens' ballot intiatives such as our [2022 universal preschool campaign in SSF](https://peninsuladsa.org/preschool-for-all/) and the [2026 campaign for housing justice in RWC](https://peninsuladsa.org/housing/), or
+- learning about socialism in general (join [our reading group](https://peninsuladsa.org/political-reading/)!)
 
 **Learn how to get involved [here](../get-involved/).**
 
