@@ -16,7 +16,7 @@ We are San Mateo County residents and activists working together in our local DS
 Peninsula DSA is the place to be if you're interested in 
 - organizing your workplace ([contact EWOC!](https://workerorganizing.org/)),
 - winning Medicare for All (after [CNA wins CalCare](https://www.nationalnursesunited.org/calcare)),
-- building ecosocialism with our [Transit 4 All campaign](https://peninsuladsa.org/public-transit/) and [Reclaim Our Power](https://reclaimourpowerca.org/)'s campaign to municipalize PG&E),
+- building ecosocialism with our [Transit 4 All campaign](https://peninsuladsa.org/public-transit/) (and [Reclaim Our Power](https://reclaimourpowerca.org/)'s campaign to municipalize PG&E),
 - joining electoral campaigns for DSA candidates (such as South City's [James Coleman](https://www.ssf.net/Departments/City-Council/Meet-the-City-Council/James-Coleman))
 - canvassing for citizens' ballot intiatives such as our [2022 universal preschool campaign in SSF](https://peninsuladsa.org/preschool-for-all/) and the [2026 campaign for housing justice in RWC](https://peninsuladsa.org/housing/), or
 - learning about socialism in general (join [our reading group](https://peninsuladsa.org/political-reading/)!)
