@@ -50,8 +50,8 @@ We have to act fast to prevent the SamTrans BOD from sleepwalking us into the wo
 :telephone_receiver: ***Virtual***
 
 * Location: [Join the Zoom call](https://us02web.zoom.us/j/81001317517?pwd=6LuOhomk1KpISW9X2CbpthZRGreaIA.1) at 2pm
-* Wait till the Board opens [agenda item #6](https://www.samtrans.com/meetings/2025/05/samtrans-board-directors) (general public comment).
-* Raise your virtual hand immediately.
+* Wait till the Board opens [agenda item #6](https://www.samtrans.com/meetings/2025/06/samtrans-board-directors) (general public comment).
+* Raise your virtual hand *immediately*.
 * The secretary will call your name and unmute you.
 * You have 2 minutes to speak. 
 
@@ -65,7 +65,7 @@ We have to act fast to prevent the SamTrans BOD from sleepwalking us into the wo
 *  Tell the Board how the proposed service cuts to transit agencies would impact you
 *  Ask them to join the regional funding measure (SB 63)
 *  Ask them to preserve funding for inter-agency coordination across the Bay
-*  Ask them to pursue progressive funding solutions like a gross receipts tax so that corporations and the wealthy pay their fair share
+*  Ask them to pursue progressive funding solutions such as a gross receipts tax so that corporations and the wealthy pay their fair share
 
 If you want to receive action alerts for this and future transit meetings, please join the Bay Area's public transit coalition, [Transbay Coalition](https://www.transbaycoalition.org/join/) and start following #san-mateo-county on their Slack!
 
