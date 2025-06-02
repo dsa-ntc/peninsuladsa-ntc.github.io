@@ -6,6 +6,10 @@ permalink: /public-transit/
 
 <h4>Act now to preserve Bay Area public transit and build an ecosocialist future!</h4>
 
+* Sign the [Bay Area transit petition for NO service cuts](https://actionnetwork.org/letters/build-more-housing-and-prevent-dire-transit-service-cuts/), plus more support for affordable housing!
+* Sign the [state-level petition to REJECT Governor Newsom's drastic cuts to transit](https://actionnetwork.org/letters/tell-state-leadership-to-reject-newsoms-cuts-to-transit-and-instead-fund-transit-support-our-communities?clear_id=true&link_id=0&can_id=ae4c9ece59933e2f4dbae941daf4aa55&source=email-stop-newsoms-cuts-to-transit-service-funding-and-affordable-housing&email_referrer=email_2755907&email_subject=stop-newsoms-cuts-to-transit-service-funding-and-affordable-housing&&) (nearly 27,000 signatures!).
+* Sign the [state-level petition for flexing $2B for transit funding](https://actionnetwork.org/letters/fund-transit-support-our-communities?clear_id=true&link_id=1&can_id=ae4c9ece59933e2f4dbae941daf4aa55&source=email-speak-out-for-caltrain-samtrans-vta-funding-regional-coordination&email_referrer=email_2678064&email_subject=speak-out-for-caltrain-samtrans-vta-funding-regional-coordination&&) (almost 5500 signatures!).
+
 <h2>San Mateo County: Transit 4 All</h2>
 
 <h3>:rotating_light: Push SamTrans to Support a Progressive Regional Funding Measure</h3>
@@ -21,7 +25,7 @@ Did you know [BART](https://www.bart.gov/about/financials/crisis), [Caltrain](ht
 
 <h4>:warning: SamTrans can help save regional transit...</h4>
 
-Our county’s transit agency, [SamTrans](http://samtrans.com/), has the option to participate in a [proposed regional funding ballot measure](https://mtc.ca.gov/news/commission-eyes-2026-tax-measure-preserve-and-improve-bay-area-transit) (Senators Weiner & Arreguín's [SB 63](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB63) that. should voters pass it in November 2026, would keep our transit agencies operational.
+Our county’s transit agency, [SamTrans](http://samtrans.com/), has the option to participate in a [proposed regional funding ballot measure](https://mtc.ca.gov/news/commission-eyes-2026-tax-measure-preserve-and-improve-bay-area-transit) (Senators Weiner & Arreguín's [SB 63](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB63)) that--if voters approve it in November 2026--would keep our transit agencies operational.
 
 But some members of the [SamTrans Board of Directors](https://www.samtrans.com/about-samtrans/board-directors) (BOD) are hesitant to join the measure—--and might even drop [existing funding for inter-agency coordination](https://mtc.ca.gov/operations/transit-regional-network-management/transit-fare-coordination-integration)! We need huge public pushback to encourage these folks—--many of whom don’t use mass transit themselves—--to support a well-funded, interconnected transit system around the Bay.
 
@@ -63,13 +67,6 @@ We have to act fast to prevent the SamTrans BOD from sleepwalking us into the wo
 *  Ask them to preserve funding for inter-agency coordination across the Bay
 *  Ask them to pursue progressive funding solutions like a gross receipts tax so that corporations and the wealthy pay their fair share
 
-<h2>More Ways to Fight for Public Transit</h2>
-
-<h3>Sign our coalition's petitions!</h3>
-
-* Sign the [Bay Area transit petition for NO service cuts](https://actionnetwork.org/letters/build-more-housing-and-prevent-dire-transit-service-cuts/), plus more support for affordable housing!
-* Sign the [state-level petition to REJECT Governor Newsom's drastic cuts to transit](https://actionnetwork.org/letters/tell-state-leadership-to-reject-newsoms-cuts-to-transit-and-instead-fund-transit-support-our-communities?clear_id=true&link_id=0&can_id=ae4c9ece59933e2f4dbae941daf4aa55&source=email-stop-newsoms-cuts-to-transit-service-funding-and-affordable-housing&email_referrer=email_2755907&email_subject=stop-newsoms-cuts-to-transit-service-funding-and-affordable-housing&&) (nearly 27,000 signatures!).
-* Sign the [state-level petition for flexing $2B for transit funding](https://actionnetwork.org/letters/fund-transit-support-our-communities?clear_id=true&link_id=1&can_id=ae4c9ece59933e2f4dbae941daf4aa55&source=email-speak-out-for-caltrain-samtrans-vta-funding-regional-coordination&email_referrer=email_2678064&email_subject=speak-out-for-caltrain-samtrans-vta-funding-regional-coordination&&) (almost 5500 signatures!).
-* Join the Bay Area's public transit coalition, [Transbay Coalition](https://www.transbaycoalition.org/join/) and start following #san-mateo-county on their Slack!
+If you want to receive action alerts for this and future transit meetings, please join the Bay Area's public transit coalition, [Transbay Coalition](https://www.transbaycoalition.org/join/) and start following #san-mateo-county on their Slack!
 
 Thanks for your help, comrades! A better world is possible---if we fight for it. 
