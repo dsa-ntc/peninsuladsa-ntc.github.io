@@ -45,7 +45,7 @@ We have to act fast to prevent the SamTrans BOD from sleepwalking us into the wo
 * Arrive at 1:50pm (10 minutes early) to fill out a comment card; give the card to the secretary.
 * Wait till the Board opens [agenda item #6](https://www.samtrans.com/meetings/2025/06/samtrans-board-directors) (general public comment). 
 * The secretary will call you to the podium.
-* You have 3 minutes to speak.
+* You have 2 minutes to speak.
 
 :telephone_receiver: ***Virtual***
 
