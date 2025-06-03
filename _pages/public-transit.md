@@ -6,7 +6,7 @@ permalink: /public-transit/
 
 <h4>Act now to preserve Bay Area public transit and build an ecosocialist future!</h4>
 
-* Sign the [Bay Area transit petition for NO service cuts](https://actionnetwork.org/letters/build-more-housing-and-prevent-dire-transit-service-cuts/), plus more support for affordable housing!
+* Sign the [Bay Area transit petition for NO service cuts](https://actionnetwork.org/letters/build-more-housing-and-prevent-dire-transit-service-cuts/), plus more support for affordable housing (300+ signatures)!
 * Sign the [state-level petition to REJECT Governor Newsom's drastic cuts to transit](https://actionnetwork.org/letters/tell-state-leadership-to-reject-newsoms-cuts-to-transit-and-instead-fund-transit-support-our-communities?clear_id=true&link_id=0&can_id=ae4c9ece59933e2f4dbae941daf4aa55&source=email-stop-newsoms-cuts-to-transit-service-funding-and-affordable-housing&email_referrer=email_2755907&email_subject=stop-newsoms-cuts-to-transit-service-funding-and-affordable-housing&&) (nearly 27,000 signatures!).
 * Sign the [state-level petition for flexing $2B for transit funding](https://actionnetwork.org/letters/fund-transit-support-our-communities?clear_id=true&link_id=1&can_id=ae4c9ece59933e2f4dbae941daf4aa55&source=email-speak-out-for-caltrain-samtrans-vta-funding-regional-coordination&email_referrer=email_2678064&email_subject=speak-out-for-caltrain-samtrans-vta-funding-regional-coordination&&) (almost 5500 signatures!).
 
@@ -27,15 +27,22 @@ Did you know [BART](https://www.bart.gov/about/financials/crisis), [Caltrain](ht
 
 Our county’s transit agency, [SamTrans](http://samtrans.com/), has the option to participate in a [proposed regional funding ballot measure](https://mtc.ca.gov/news/commission-eyes-2026-tax-measure-preserve-and-improve-bay-area-transit) (Senators Weiner & Arreguín's [SB 63](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB63)) that--if voters approve it in November 2026--would keep our transit agencies operational.
 
-But some members of the [SamTrans Board of Directors](https://www.samtrans.com/about-samtrans/board-directors) (BOD) are hesitant to join the measure—--and might even drop [existing funding for inter-agency coordination](https://mtc.ca.gov/operations/transit-regional-network-management/transit-fare-coordination-integration)! We need huge public pushback to encourage these folks—--many of whom don’t use mass transit themselves—--to support a well-funded, interconnected transit system around the Bay.
+But some members of the [SamTrans Board of Directors](https://www.samtrans.com/about-samtrans/board-directors) (BOD) are hesitant to join the measure—--and might even drop [existing funding for inter-agency coordination](https://mtc.ca.gov/operations/transit-regional-network-management/transit-fare-coordination-integration)! We need huge public pushback to encourage these folks—--many of whom don’t use mass transit themselves—--to support a well-funded, interconnected transit system around the Bay. 
+
+The original funding proposal was a 1/2 or 1/4 cent sales tax that would hit working people hard AND fail to raise enough revenue to prevent service cuts, especially given rising inflation. That's why transit operators and activist are now recommending a [gross receipts tax](https://en.wikipedia.org/wiki/Gross_receipts_tax) on businesses, a solution which has [61% support from likely voters](https://www.politico.com/newsletters/california-playbook-pm/2025/06/02/exclusive-transit-unions-launches-effort-to-rework-2026-bay-area-transit-measure-00380857)!
 
 <h4>:warning: We must push the Board of Directors to act!</h4>
 
-Making public comments---in person, via Zoom, or by email---at [SamTrans BOD](https://www.samtrans.com/board-of-directors/meetings) meetings is the best way to guarantee airtime for socialist perspectives and directly influence San Mateo County's transit decision makers. 
-
-We have to act fast to prevent the SamTrans BOD from sleepwalking us into the worst-case scenario.
+We have to act fast to prevent the SamTrans BOD from sleepwalking us into the worst-case scenario. Making public comments---in person, via Zoom, or by email---at [SamTrans BOD](https://www.samtrans.com/board-of-directors/meetings) meetings is the best way to guarantee airtime for socialist perspectives and directly influence San Mateo County's transit decision makers.
 
 <h3>:rotating_light: Demand Action at the SamTrans BOD Meeting (Wednesday, June 4, 2pm)</h3>
+
+<h4>Practice Your Talking Points</h4>
+
+*  Introduce yourself (name, city, how you use SamTrans)
+*  Tell the Board how the proposed service cuts to other Bay Area transit agencies would impact you
+*  Ask them to join the regional funding measure (SB 63) and preserve inter-agency coordination
+*  Ask them to pursue a gross receipts tax so that corporations pay their fair share!
 
 <h4>How to Make a Public Comment</h4>
 
@@ -58,14 +65,6 @@ We have to act fast to prevent the SamTrans BOD from sleepwalking us into the wo
 :computer: ***Email***
 
 * Submit public comment to the SamTrans BOD before the start of the meeting at [publiccomment@samtrans.com](mailto:publiccomment@samtrans.com)!
-
-<h4>Practice Your Talking Points</h4>
-
-*  Introduce yourself (name, city, how you use SamTrans)
-*  Tell the Board how the proposed service cuts to transit agencies would impact you
-*  Ask them to join the regional funding measure (SB 63)
-*  Ask them to preserve funding for inter-agency coordination across the Bay
-*  Ask them to pursue progressive funding solutions such as a gross receipts tax so that corporations and the wealthy pay their fair share
 
 If you want to receive action alerts for this and future transit meetings, please join the Bay Area's public transit coalition, [Transbay Coalition](https://www.transbaycoalition.org/join/) and start following #san-mateo-county on their Slack!
 
