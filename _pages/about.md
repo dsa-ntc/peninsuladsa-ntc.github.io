@@ -8,8 +8,7 @@ permalink: /about/
 
 <h3>Who We Are</h3>
 
-We are San Mateo County residents and activists working together in our local DSA chapter—and sometimes in coalitions—to build a better world that puts people and planet before profit. Our member-driven organization is made possible by comrades volunteering their labor, from each according to their ability.
-<br>
+We are San Mateo County residents and activists working together in our local DSA chapter—and sometimes in coalitions—to build a better world that puts people and planet before profit. Our member-driven organization is made possible by comrades volunteering their labor, from each according to their ability. [Sign up](http://eepurl.com/cNwNHH) for our monthly e-newsletter, and read past issues [here](https://docs.google.com/spreadsheets/d/1-9gslUFfzXSfhn3bUOlvEufrcr9VIH8VDwhLQmEMQtg/edit?gid=0#gid=0).
 
 <img src="https://peninsuladsa.org/assets/images/PDSA Social at Fieldwork, San Mateo, 2025.05.02.jpg" align="right" height="300" width="">
 
