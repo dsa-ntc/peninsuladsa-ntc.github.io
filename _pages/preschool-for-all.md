@@ -6,7 +6,7 @@ permalink: /preschool-for-all/
 
 <h4>Peninsula DSA demands free, high-quality early care and education for all children, and a living wage for our childcare workers and preschool teachers.</h4>
 
-After [Measure DD's narrow loss](https://ballotpedia.org/South_San_Francisco,_Measure_DD,_Tax_Parcel_Initiative_(November_2022)) at the ballot box in November 2022, Peninsula DSA is considering our next steps. We are proud that the "opposition" (six Big Biotech companies) had to spend $500K+ on misleading advertisements and mailers to block our grassroots campaign. Measure DD supporters, South San Francisco preschool teachers, childcare providers, labor organizers, and community members are invited to contact our Steering Committee ([info@peninsuladsa.org](mailto:info@peninsuladsa.org)) to to share ideas for future efforts to win Preschool for All.
+After [Measure DD's narrow loss](https://ballotpedia.org/South_San_Francisco,_Measure_DD,_Tax_Parcel_Initiative_(November_2022)) at the ballot box in November 2022, Peninsula DSA is considering our next steps. We are still proud that the "opposition" (six Big Biotech companies) had to spend $500K+ on misleading advertisements and mailers in order to block our popular grassroots campaign. Measure DD supporters, South San Francisco preschool teachers, childcare providers, labor organizers, and community members are invited to contact our Steering Committee ([info@peninsuladsa.org](mailto:info@peninsuladsa.org)) to share ideas for future efforts to win Preschool for All.
 
 <h3>Past Campaign</h3>
 
@@ -14,16 +14,18 @@ After [Measure DD's narrow loss](https://ballotpedia.org/South_San_Francisco,_Me
 
 <h2>Preschool for All SSF (Yes on Measure DD)</h2>
 
-Peninsula DSA’s Preschool for All working group spent two years organizing with preschool teachers, parents, childcare unions, and education experts to draft legislation, canvass our neighbors, and turn out the vote for our Preschool for All South San Francisco campaign / **Yes on Measure DD** (see historic [Facebook](https://www.facebook.com/yesonddssf/) & [Instagram](https://www.instagram.com/yesonddssf/) pages). If our citizens' ballot measure had passed, it would have
+Peninsula DSA’s Preschool for All working group spent two years organizing with preschool teachers, parents, childcare unions, and education experts to draft legislation, canvass our neighbors, and turn out the vote for our Preschool for All South San Francisco campaign / **Yes on Measure DD** (see historic [Facebook](https://www.facebook.com/yesonddssf/) & [Instagram](https://www.instagram.com/yesonddssf/) pages). 
+
+If our citizens' ballot measure had passed, it would have
 1. fully funded high-quality preschool to all children aged 2.5 to 5 years old whose families live or work in South City,
-2. provided a living wage to all early care and education (ECE) workers, and 
-3. paid for everything by levying a modest parcel tax ($2.50/sq ft) on South City's largest commercial office properties (25,000+ sq ft), the vast majority of which are owned by multibillion-dollar biotech corporations.
+1. provided a living wage ($36/hour) to all early care and education (ECE) workers, and 
+1. paid for everything by levying a modest parcel tax ($2.50/sq ft) on South City's largest commercial office properties (25,000+ sq ft), the vast majority of which are owned by multibillion-dollar biotech corporations.
 
 South San Francisco's affordable public preschool program was (and continues to be) immensely popular but underfunded, leaving hundreds of families on the waitlist. Meanwhile, the cost of private preschool has risen to $1800+ per month *per child*. Both public and private preschools and childcare centers in South City struggle to retain qualified workers because wages are so low (average $17/hour in 2022). 
 
-South City's 2022 [childcare master plan](https://www.ssf.net/files/assets/public/v/1/city-manager/documents/ssfchildcareplanv13web.pdf) (CCMP) attempts to address these shortfalls but provided no funding source and no timeline for implementation. Measure DD would have secured more than $50 million in annual revenue, enough to pay preschool teachers and childcare workers a living wage ($36/hour) while making high-quality early childhood education FREE for every family in South City.
+South City's 2022 [childcare master plan](https://www.ssf.net/files/assets/public/v/1/city-manager/documents/ssfchildcareplanv13web.pdf) (CCMP) attempts to address these shortfalls but provided no funding source and no timeline for implementation. Measure DD would have secured more than $50 million in annual revenue, enough to pay preschool teachers and childcare workers a living wage and make high-quality early childhood education FREE for every family in South City.
 
-The Measure DD campaign was endorsed by experts in the field of childcare and education, including:
+The Measure DD campaign was endorsed by experts in the fields of childcare and education, including:
 
 * the San Mateo County (SMC) [Child Care Coordinating Council](https://sanmateo4cs.org/) (4Cs)
 * SSF workers in family-owned preschools with [UDW-Child Care Providers United](https://www.udw.org/about-childcare/)
