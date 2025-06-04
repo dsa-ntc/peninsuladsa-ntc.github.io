@@ -8,7 +8,7 @@ permalink: /preschool-for-all/
 
 <img src="../assets/images/ECE 4 All SSF volunteers at campaign launch 2022.01.15.jpg" width="100%" height="auto" />
 
-*Our all-volunteer canvassing team at our canvassing launch in South San Francisco on January 16, 2025.*
+*Our all-volunteer canvassing team at our canvassing launch in South San Francisco on January 16, 2022.*
 
 After [Measure DD's narrow loss](https://ballotpedia.org/South_San_Francisco,_Measure_DD,_Tax_Parcel_Initiative_(November_2022)) at the ballot box in November 2022, Peninsula DSA is considering our next steps. We are still proud that the "opposition" (six Big Biotech companies) had to spend $500K+ on misleading advertisements and mailers in order to block our popular grassroots campaign. Measure DD supporters, South San Francisco preschool teachers, childcare providers, labor organizers, and community members are invited to contact our Steering Committee ([info@peninsuladsa.org](mailto:info@peninsuladsa.org)) to share ideas for future efforts to win Preschool for All.
 
