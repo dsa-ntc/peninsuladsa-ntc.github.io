@@ -14,7 +14,7 @@ After [Measure DD's narrow loss](https://ballotpedia.org/South_San_Francisco,_Me
 
 <h2>Preschool for All SSF (Yes on Measure DD)</h2>
 
-Peninsula DSA’s Preschool for All working group spent two years organizing with preschool teachers, parents, childcare unions, and education experts to draft legislation, canvass our neighbors, and turn out the vote for our Preschool for All South San Francisco campaign / **Yes on Measure DD** (see historic [Facebook](https://www.facebook.com/yesonddssf/) & [Instagram](https://www.instagram.com/yesonddssf/) pages). 
+Peninsula DSA’s Preschool for All working group spent two years organizing with preschool teachers, parents, childcare unions, and education experts to draft legislation, canvass our neighbors, and get out the vote for our Preschool for All South San Francisco campaign / **Yes on Measure DD** (see historic [Facebook](https://www.facebook.com/yesonddssf/) & [Instagram](https://www.instagram.com/yesonddssf/) pages). 
 
 If our citizens' ballot measure had passed, it would have
 1. fully funded high-quality preschool to all children aged 2.5 to 5 years old whose families live or work in South City,
