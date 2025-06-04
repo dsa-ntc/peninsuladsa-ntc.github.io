@@ -6,11 +6,15 @@ permalink: /preschool-for-all/
 
 <h4>Peninsula DSA demands free, high-quality early care and education for all children, and a living wage for our childcare workers and preschool teachers.</h4>
 
+<img src="../assets/images/ECE 4 All SSF volunteers at campaign launch 2022.01.15.jpg" width="100%" height="auto" />
+
+*Our all-volunteer canvassing team at our canvassing launch in South San Francisco on January 16, 2025.*
+
 After [Measure DD's narrow loss](https://ballotpedia.org/South_San_Francisco,_Measure_DD,_Tax_Parcel_Initiative_(November_2022)) at the ballot box in November 2022, Peninsula DSA is considering our next steps. We are still proud that the "opposition" (six Big Biotech companies) had to spend $500K+ on misleading advertisements and mailers in order to block our popular grassroots campaign. Measure DD supporters, South San Francisco preschool teachers, childcare providers, labor organizers, and community members are invited to contact our Steering Committee ([info@peninsuladsa.org](mailto:info@peninsuladsa.org)) to share ideas for future efforts to win Preschool for All.
 
 <h3>Past Campaign</h3>
 
-<img src="../assets/images/Yes on DD Banner.jpg" width="75%" height="auto" />
+<img src="../assets/images/Yes on DD Banner.jpg" width="100%" height="auto" />
 
 <h2>Preschool for All SSF (Yes on Measure DD)</h2>
 
@@ -54,7 +58,7 @@ Other local leaders and organizations who endorsed Measure DD included:
 * [Planned Parenthood Advocates Mar Monte](https://www.plannedparenthoodaction.org/planned-parenthood-advocates-mar-monte)
 * [United Way Bay Area](https://uwba.org/)
 
-<img src="../assets/images/ECE 4 All SSF coalition at City Hall rally 2022.06.03.png" width="50%" height="auto" />
+<img src="../assets/images/ECE 4 All SSF coalition at City Hall rally 2022.06.03.png" width="100%" height="auto" />
 
 *Our coalition rallied at South San Francisco's City Hall on June 3rd to celebrate turning in the 5800+ voter signatures our grassroots volunteers gathered from mid-January through May 2022.* 
 
