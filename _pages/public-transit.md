@@ -54,14 +54,14 @@ We have to act fast to prevent the SamTrans BOD from sleepwalking us into the wo
 
 * Location: [Bacciocco Auditorium (2nd Floor)](https://maps.app.goo.gl/e4X3vMBynC1pdUGbA), 1250 San Carlos Avenue, San Carlos
 * Arrive at 1:50pm (10 minutes early) to fill out a comment card; give the card to the secretary.
-* Wait till the Board opens [the legislative agenda item (TBA)](https://www.samtrans.com/meetings/2025/07/samtrans-board-directors) (general public comment). 
+* Wait till the Board opens [the legislative agenda item (TBA)](https://www.samtrans.com/meetings/2025/07/samtrans-board-directors). 
 * The secretary will call you to the podium.
 * You have 2 minutes to speak.
 
 :telephone_receiver: ***Virtual***
 
 * Location: [Join the Zoom call](https://us02web.zoom.us/j/81001317517?pwd=6LuOhomk1KpISW9X2CbpthZRGreaIA.1) at 2pm
-* Wait till the Board opens [the legislative agenda item (TBA)](https://www.samtrans.com/meetings/2025/07/samtrans-board-directors) (general public comment).
+* Wait till the Board opens [the legislative agenda item (TBA)](https://www.samtrans.com/meetings/2025/07/samtrans-board-directors).
 * Raise your virtual hand *immediately*.
 * The secretary will call your name and unmute you.
 * You have 2 minutes to speak. 
