@@ -60,15 +60,14 @@ We have to act fast to prevent the SamTrans BOD from sleepwalking us into the wo
 
 :telephone_receiver: ***Virtual***
 
-* Location: [Join the Zoom call](https://us02web.zoom.us/j/81001317517?pwd=6LuOhomk1KpISW9X2CbpthZRGreaIA.1) at 2pm
-* Wait till the Board opens [the legislative agenda item (TBA)](https://www.samtrans.com/meetings/2025/07/samtrans-board-directors).
-* Raise your virtual hand *immediately*.
-* The secretary will call your name and unmute you.
+* Location: [Join the Zoom call](https://us02web.zoom.us/j/81001317517?pwd=6LuOhomk1KpISW9X2CbpthZRGreaIA.1) right before [the legislative agenda item (TBA)](https://www.samtrans.com/meetings/2025/07/samtrans-board-directors). If you want to be notified when it's time to call in, ask Allison or Geoff in the #transit channel on Discord! 
+* When the Board opens our item, raise your virtual hand *immediately*.
+* Wait until the secretary calls your name and unmutes you.
 * You have 2 minutes to speak. 
 
 :computer: ***Email***
 
-* Submit your public comment to the SamTrans BOD _before_ 2pm at [publiccomment@samtrans.com](mailto:publiccomment@samtrans.com)!
+* Submit your public comment to the SamTrans BOD _before 2pm_ at [publiccomment@samtrans.com](mailto:publiccomment@samtrans.com)!
 
 <h2>More Ways to Organize for Transit</h2>
 
