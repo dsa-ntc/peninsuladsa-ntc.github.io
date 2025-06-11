@@ -7,14 +7,14 @@ permalink: /public-transit/
 <h4>Act NOW to preserve Bay Area public transit and build an ecosocialist future!</h4>
 
 Demand Governor Newsom restore ~$2B of transit funding to California's budget before it's approved on June 15th!
-* **ASAP (before June 13)** Use our coalition's [call tool and script](https://www.movecalifornia.org/state-funding) to demand Newsom accept the Legislature's decision to restore public transit funding to the state budget. Leave a message if you can't get a staff member live.
+* *ASAP (before June 13)* Use our coalition's [call tool and script](https://www.movecalifornia.org/state-funding) to demand Newsom accept the Legislature's decision to restore public transit funding to the state budget. Leave a message if you can't get a staff member live.
 * Sign our coalition's [state petition to REJECT Governor Newsom's drastic cuts to transit](https://actionnetwork.org/letters/tell-state-leadership-to-reject-newsoms-cuts-to-transit-and-instead-fund-transit-support-our-communities?clear_id=true&link_id=0&can_id=ae4c9ece59933e2f4dbae941daf4aa55&source=email-stop-newsoms-cuts-to-transit-service-funding-and-affordable-housing&email_referrer=email_2755907&email_subject=stop-newsoms-cuts-to-transit-service-funding-and-affordable-housing&&) (32,900+ signatures of our goal of 51,200!).
 * Sign our coalition's [state petition for flexing $2B for transit funding](https://actionnetwork.org/letters/fund-transit-support-our-communities?clear_id=true&link_id=1&can_id=ae4c9ece59933e2f4dbae941daf4aa55&source=email-speak-out-for-caltrain-samtrans-vta-funding-regional-coordination&email_referrer=email_2678064&email_subject=speak-out-for-caltrain-samtrans-vta-funding-regional-coordination&&) (5500+ signatures of our goal of 6400!).
 
 Influence SamTrans before they vote on whether to join SB 63 on August 6th!
-* **ASAP:** Sign our coalition's [Bay Area transit petition for NO service cuts](https://actionnetwork.org/letters/build-more-housing-and-prevent-dire-transit-service-cuts/), plus more support for affordable housing (300+ signatures, already exceeded our goal of 150)!
-* **By June 30**: Email the SamTrans Board of Directors ([Board@SamTrans.com](mailto:Board@SamTrans.com)) to voice your support of a progressively funded SB 63 (scroll down for talking points).
-* **Wednesday, July 2, 2-5pm:** Make a 2-minute public comment in person, on Zoom, or by email ([PublicComment@SamTrans.com](mailto:publiccomment@samtrans.com)) at the [next SamTrans Board of Directors meeting](https://www.samtrans.com/meetings/2025/07/samtrans-board-directors) in San Carlos (scroll down for full details).
+* *ASAP:* Sign our coalition's [Bay Area transit petition for NO service cuts](https://actionnetwork.org/letters/build-more-housing-and-prevent-dire-transit-service-cuts/), plus more support for affordable housing (300+ signatures, already exceeded our goal of 150)!
+* *By June 30*: Email the SamTrans Board of Directors ([Board@SamTrans.com](mailto:Board@SamTrans.com)) to voice your support of a progressively funded SB 63 (scroll down for talking points).
+* *Wednesday, July 2, 2-5pm:* Make a 2-minute public comment in person, on Zoom, or by email ([PublicComment@SamTrans.com](mailto:publiccomment@samtrans.com)) at the [next SamTrans Board of Directors meeting](https://www.samtrans.com/meetings/2025/07/samtrans-board-directors) in San Carlos (scroll down for full details).
 
 <h2>San Mateo County: Transit 4 All</h2>
 
