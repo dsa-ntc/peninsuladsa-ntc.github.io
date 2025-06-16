@@ -10,8 +10,8 @@ header:
     url: "/blog/"
     description: "Link to Peninsula DSA's Chapter Statements"
   - title: "Resources"
-    url: "/recommended-media/"
-    description: "Leftist & progressive media outlets recommended by Peninsula DSA's Steering Committee"
+    url: "/resources/"
+    description: "Action items, recommended media & more"
 
 # footer links
 footer:
