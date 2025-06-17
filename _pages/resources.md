@@ -14,5 +14,5 @@ permalink: /resources/
 
 <h3>Diversify Your Media Sources</h3>
 
-[Recommended Media](https://peninsuladsa.org/recommended-media/): Free yourself from corporate-approved content by seeking out progresive and leftist media such as the news, podcasts, and other media sources recommended by Peninsula DSA's Steering Committee.
+[Recommended Media](https://peninsuladsa.org/recommended-media/): Free yourself from corporate-approved content by seeking out progresive and leftist media such as these news sites, podcasts, and other media sources recommended by Peninsula DSA's Steering Committee.
 
