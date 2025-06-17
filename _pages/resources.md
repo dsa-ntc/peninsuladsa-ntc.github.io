@@ -6,7 +6,7 @@ permalink: /resources/
 
 <h4>"What can I DO?" Here are some effective actions to take right now, wherever you are.</h4>
 
-<h3>Immigration: Stop ICE! Protect Our Neighbors</h3>
+<h3>Stop ICE! Protect Our Neighbors</h3>
 
 [Rapid Response](https://faithinactionba.org/rapid-response/): If you see ICE in town, please call the San Mateo County Rapid Response 24/7 hotline *immediately* at [(203) 666-4472](tel:2036664472).
 
