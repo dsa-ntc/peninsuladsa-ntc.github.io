@@ -38,9 +38,10 @@ permalink: /recommended-media/
 
 * [5-4 Podcast](https://www.fivefourpod.com/) - "5-4 is a podcast about how much the Supreme Court sucks"
 * [ALAB Series](https://www.alabseries.com/) - All Lawyers are Bastards, "an infrequent podcast series about the American legal system"
-* [Blowback](https://blowback.show/) - Co-hosts Brendan James and Noah Kulwin examine decades of US imperialism: the Iraq War (season 1), the Cuban Revolution (season 2), the Korean War (season 3), the invasion of Afghanistan (season 4), and Indochina (season 5).
+* [Blowback](https://blowback.show/) - Co-hosts Brendan James and Noah Kulwin examine decades of US imperialism: the Iraq War (S1), the Cuban Revolution (S2), the Korean War (S3), the invasion of Afghanistan (S4), Indochina (S5), and Angola (S6 coming soon!).
 * [Chapo Trap House](https://www.chapotraphouse.com/) - an American socialist political comedy podcast
 * [Citations Needed](https://citationsneeded.libsyn.com/) - a podcast about the intersection of media, PR, and power, hosted by Nima Shirazi and Adam Johnson.
+* [Corner Späti](https://www.theleftberlin.com/corner-spati/) (Berlin + the rest of Europe) - "weekly discussions of a deteriorating world all from the comfort of your local smoke-filled Spätkauf"
 * [Death Panel](https://www.deathpanel.net) - "Politics, culture, and public policy from the left. Medicare for All now. Solidarity forever. Stay alive another week."
 * [The Deprogram](https://www.youtube.com/@thedeprogram9999) - "The only truly international, global, and anti-capitalist podcast you’ll find"
 * [The Dig](https://thedigradio.com/) - Daniel Denvir's Jacobin podcast on politics, history, and economics everywhere
@@ -55,7 +56,10 @@ permalink: /recommended-media/
 * [Revolutionary Left Radio](https://revolutionaryleftradio.libsyn.com/) - "explores political philosophy, history, science, religion, culture, art, and struggle through a socialist lens"
 * [Tech Won’t Save Us](https://techwontsave.us/) - "Silicon Valley promised us progress. That’s not what it delivered."
 * [This Machine Kills](https://www.patreon.com/thismachinekills) - "agitprop against innovation and capital"
+* [Trash Futures](https://trashfuture.co.uk/) (UK) - "a podcast about business success and making yourself smarter with the continued psychic trauma of capitalism"
+* [Trillbilly Worker's Party](https://trillbillyworkersparty.com/) (American South) - "born to party, forced to work"
 * [TrueAnon](https://player.fm/series/2526134) - "a podcast about your enemies made by your friends"
+* [Well There's Your Problem](https://www.wtyppod.com/) - "a podcast about engineering disasters and systemic failures, from a leftist perspective, with jokes"
 
 _Media Criticism_
 * [A More Civilized Age](https://amorecivilizedage.net/) - "Dive headfirst into the fall of the Galactic Republic, debate which Jedi is messiest, and dig into the themes and politics of The Clone Wars"
