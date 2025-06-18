@@ -26,7 +26,7 @@ Every other Tuesday, 6:30-8pm <-- _perfect attendance is not required!_
 
 * ~~May 13---Intro + Marketcraft (*Ch. 1*)~~
 * ~~May 27---Public Power (*Ch. 2*)~~
-* June 10---Communism (*Ch. 3*)
+* ~~June 10---Communism (*Ch. 3*)~~
 * June 24---Planetary Crisis (*Ch. 4*)
 * July 8---Conclusion
 
