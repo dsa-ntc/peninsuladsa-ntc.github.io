@@ -37,8 +37,8 @@ permalink: /resources/
 
 * ✍️ [Sign the petition](https://chng.it/KgZ4bydkjV) to demand the return of weekday service!
 
-<h3>Free Palestine! Join the Boycott, Divest & Sanctions (BDS) Movement</h3>
+<h3>🇵🇸 Free Palestine! Join the BDS Movement</h3>
 
-☑️ [**Learn to spot genocide-enabling products!**](https://www.boycat.io/) Capitalists flex their economic power all the time--and so should we! BDS has [partnered with Buycat](https://www.bdsmovement.net/BDS-Has-Partnered-With-Boycat-App) to make it easy for us to participate in their [consumer boycott targets](https://www.bdsmovement.net/campaigns#4).
+☑️ [**Learn to spot genocide-enabling products!**](https://www.boycat.io/) Capitalists flex their economic power all the time--and so should we! Boycott, Divest & Sanctions (BDS) has [partnered with Buycat](https://www.bdsmovement.net/BDS-Has-Partnered-With-Boycat-App) to make it easy for us to participate in their [consumer boycott targets](https://www.bdsmovement.net/campaigns#4).
 
 * 📱 [Download the Buycat app](https://www.boycat.io/) to start scanning groceries, clothing, and more!
