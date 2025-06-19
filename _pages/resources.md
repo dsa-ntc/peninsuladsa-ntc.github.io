@@ -25,6 +25,10 @@ permalink: /resources/
 
 <h3>🚎 Speak Up for Public Transit</h3>
 
+☑️ [**Stop Highway Widening of 101 / 92!**](https://actionnetwork.org/petitions/stop-the-widenings-of-highway-101-and-interstate-280) Adding lanes to highways encourages _more_ people to drive and [degrades safety and quality of life](https://www.mercurynews.com/2025/04/11/san-mateo-city-council-opposes-highway-101-connector-project/) for everyone living nearby. Let's demand [SMC Transit Authority](https://www.smcta.com/), [C/CAG](https://ccag.ca.gov/) of San Mateo County, and [SFCTA](https://www.sfcta.org/) end traffic congestion by investing our transportation funds in fast, accessible, FREE public transit for all!
+
+* ✍️ [Sign the petition](https://actionnetwork.org/petitions/stop-the-widenings-of-highway-101-and-interstate-280) to demand NO highway widening on the Peninsula!
+
 ☑️ [**Improve Central El Camino Real!**](https://www.samtrans.com/planning-projects/CentralElCamino) Live or work in San Mateo, Belmont, San Carlos, or Redwood City? Suggest ideas or express concerns to staff re: the transit-focused [Grand Boulevard Initiative](https://www.samtrans.com/projects/gbi) on El Camino Real / Route 82!
 
 * 🗣️ [Leave feedback on this interactive map](https://fp.mysocialpinpoint.com/central-el-camino-plan) of Central El Camino!
@@ -33,6 +37,8 @@ permalink: /resources/
 
 * ✍️ [Sign the petition](https://chng.it/KgZ4bydkjV) to demand the return of weekday service!
 
-☑️ [**Stop Highway Widening of 101 / 92!**](https://actionnetwork.org/petitions/stop-the-widenings-of-highway-101-and-interstate-280) Adding lanes to highways encourages _more_ people to drive and [degrades safety and quality of life](https://www.mercurynews.com/2025/04/11/san-mateo-city-council-opposes-highway-101-connector-project/) for everyone living nearby. Let's demand [SMC Transit Authority](https://www.smcta.com/), [C/CAG](https://ccag.ca.gov/) of San Mateo County, and [SFCTA](https://www.sfcta.org/) end traffic congestion by investing our transportation funds in fast, accessible, FREE public transit for all!
+<h3>Free Palestine! Join the Boycott, Divest & Sanctions (BDS) Movement</h3>
 
-* ✍️ [Sign the petition](https://actionnetwork.org/petitions/stop-the-widenings-of-highway-101-and-interstate-280) to demand NO highway widening on the Peninsula!
+☑️ [Use the Buycat app to avoid genocide-funding products!](https://www.boycat.io/) Capitalists flex their economic power all the time--and so should we! BDS has [partnered with Buycat](https://www.bdsmovement.net/BDS-Has-Partnered-With-Boycat-App) to make it easy for us to participate in their [consumer boycotts targets](https://www.bdsmovement.net/campaigns#4).
+
+* 📱 [Download the Buycat app](https://www.boycat.io/) to start scanning groceries, clothing, and more!
