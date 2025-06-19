@@ -6,7 +6,7 @@ permalink: /resources/
 
 <h4>"What can I DO?" Here are some effective actions to take right now, wherever you are.</h4>
 
-*For in-person and virtual events, please visit PDSA's [events calendar](https://peninsuladsa.org/calendar/).*
+*For in-person and virtual events, please visit PDSA's [events calendar](https://peninsuladsa.org/calendar/). To learn about PDSA's active campaigns, head over to [Get Involved](https://peninsuladsa.org/get-involved/).*
 
 <h3>📰 Diversify Your Media Sources</h3>
 
