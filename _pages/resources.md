@@ -39,6 +39,6 @@ permalink: /resources/
 
 <h3>Free Palestine! Join the Boycott, Divest & Sanctions (BDS) Movement</h3>
 
-☑️ [Use the Buycat app to avoid genocide-funding products!](https://www.boycat.io/) Capitalists flex their economic power all the time--and so should we! BDS has [partnered with Buycat](https://www.bdsmovement.net/BDS-Has-Partnered-With-Boycat-App) to make it easy for us to participate in their [consumer boycotts targets](https://www.bdsmovement.net/campaigns#4).
+☑️ [**Learn to spot genocide-enabling products!**](https://www.boycat.io/) Capitalists flex their economic power all the time--and so should we! BDS has [partnered with Buycat](https://www.bdsmovement.net/BDS-Has-Partnered-With-Boycat-App) to make it easy for us to participate in their [consumer boycott targets](https://www.bdsmovement.net/campaigns#4).
 
 * 📱 [Download the Buycat app](https://www.boycat.io/) to start scanning groceries, clothing, and more!
