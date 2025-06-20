@@ -10,7 +10,7 @@ Push SamTrans to "opt in" San Mateo County to the crucial regional funding measu
 * *ASAP:* Sign our coalition's [Bay Area transit petition for NO service cuts](https://actionnetwork.org/letters/build-more-housing-and-prevent-dire-transit-service-cuts/), plus more support for affordable housing (300+ signatures)!
 * *ASAP:* Sign our coalition's [petition to stop the Caltrans highway widening of 101/92](https://actionnetwork.org/petitions/stop-the-widenings-of-highway-101-and-interstate-280) and fund public transit instead (~600 signatures)!
 * *By June 30:* Email the SamTrans Board of Directors ([Board@SamTrans.com](mailto:Board@SamTrans.com)) to voice your support of a progressively funded SB 63 (scroll down for talking points).
-* *Tuesday, July 1, 5:30–6:30pm:* Grab media attention for the regional funding measure (SB 63) by rallying for public transit at Millbrae BART / Caltrain station! Details and RSVP with Transbay Coalition.
+* *Tuesday, July 1, 5:30–6:30pm:* Grab media attention for the regional funding measure (SB 63) by rallying for public transit at Millbrae BART / Caltrain station! [Printable flyer](../assets/images/SMC-Rally-Poster_2025-07-01.png) and [RSVP](https://actionnetwork.org/events/rally-to-save-bart-and-caltrain-for-san-mateo-county).
 * *Wednesday, July 2, 2-5pm:* Make a 2-minute public comment in person, on Zoom, or by email ([PublicComment@SamTrans.com](mailto:publiccomment@samtrans.com)) at the [next SamTrans Board of Directors meeting](https://www.samtrans.com/meetings/2025/07/samtrans-board-directors) in San Carlos (scroll down for full details).
 
 <h2>San Mateo County: Transit 4 All</h2>
