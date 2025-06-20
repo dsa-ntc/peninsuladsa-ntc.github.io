@@ -49,6 +49,11 @@ The people who came before us have a lot to teach us! Our political [reading gro
 
 Our working groups organize socialist campaigns and/or join coalitions around issues that empower the working class. They each have their own leadership structure and meeting schedule.
 
+<h4>:station: PRIORITY CAMPAIGN: Public Transit</h4>
+With a mandate from PDSA's 2024 convention, Peninsula DSA is developing our own Transit 4 All campaign in coalition with our friends at [Transbay Coalition](https://www.transbaycoalition.org/).
+
+* _Read more [here](../public-transit/) and join your public transit-loving comrades on the **PDSA Discord: #transit**_
+
 <h4>:earth_africa: Ecosocialism</h4>
 Our [Ecosocialism](../ecosocialism/) working group continues to organize for building energy justice and holding PG&E accountable for its dirty, dangerous, and unreliable fossil-fuel energy. We have run workshops on making DIY air purifiers to protect against wildfire smoke and airborne pathogens, and have distributed money-saving energy efficiency tips to renters.
 
@@ -68,11 +73,6 @@ Our [Healthcare Justice](../healthcare-justice/) working group continues to orga
 Our [Labor](../labor/) working group continues to show solidarity with local unions--especially [AFSCME Local 829](https://www.afscme57.org/afscme-local-829), [AFT 1493](https://aft1493.org/), and [Teamsters Local 2785](https://www.teamsters2785.org/)—-on the picket line, at board meetings, and anywhere we're needed.
 
 * _Read more [here](../labor/) and join your labor-minded comrades on the **PDSA Discord: #labor**_
-
-<h4>:station: Public Transit</h4>
-**ACTIVE!** With a mandate from our chapters 2024 convention, Peninsula DSA is developing our own Transit 4 All campaign in coalition with [Transbay Coalition](https://www.transbaycoalition.org/).
-
-* _Read more [here](../public-transit/) and join your public transit-loving comrades on the **PDSA Discord: #transit**_
 
 <h4>:children_crossing: Universal Preschool</h4>
 Our [Universal Preschool](../preschool-for-all/) working group, which spearheaded the [Yes on Measure DD](https://www.facebook.com/yesonddssf/) / [Preschool for All South San Francisco](https://www.instagram.com/yesonddssf/) ballot measure campaign (2022), continues to organize for universal preschool in San Mateo County. 
