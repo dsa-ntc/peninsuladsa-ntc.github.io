@@ -49,7 +49,7 @@ The people who came before us have a lot to teach us! Our political [reading gro
 
 Our working groups organize socialist campaigns and/or join coalitions around issues that empower the working class. They each have their own leadership structure and meeting schedule.
 
-<h2>Current Campaigns</h2>
+<h5>Current Campaigns</h5>
 
 <h4>:station: Public Transit</h4>
 With a mandate from our 2024 convention, Peninsula DSA is developing our own Transit 4 All campaign in coalition with our friends at [Transbay Coalition](https://www.transbaycoalition.org/).
@@ -61,7 +61,7 @@ Our [Housing](../housing/) working group seeks to fight corporate greed and guar
 
 * _Read more [here](../housing/) or on the **PDSA Discord: #housing** and **#affordable-rwc**_
 
-<h2>Past Campaigns</h2>
+<h5>Past Campaigns</h5>
 
 <h4>:earth_africa: Ecosocialism</h4>
 Our [Ecosocialism](../ecosocialism/) working group continues to organize for building energy justice and holding PG&E accountable for its dirty, dangerous, and unreliable fossil-fuel energy. We have run workshops on making DIY air purifiers to protect against wildfire smoke and airborne pathogens, and have distributed money-saving energy efficiency tips to renters.
