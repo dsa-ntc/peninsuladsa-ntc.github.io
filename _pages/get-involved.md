@@ -49,10 +49,19 @@ The people who came before us have a lot to teach us! Our political [reading gro
 
 Our working groups organize socialist campaigns and/or join coalitions around issues that empower the working class. They each have their own leadership structure and meeting schedule.
 
-<h4>:station: PRIORITY CAMPAIGN: Public Transit</h4>
-With a mandate from PDSA's 2024 convention, Peninsula DSA is developing our own Transit 4 All campaign in coalition with our friends at [Transbay Coalition](https://www.transbaycoalition.org/).
+<h2>Current Campaigns</h2>
+
+<h4>:station: Public Transit</h4>
+With a mandate from our 2024 convention, Peninsula DSA is developing our own Transit 4 All campaign in coalition with our friends at [Transbay Coalition](https://www.transbaycoalition.org/).
 
 * _Read more [here](../public-transit/) and join your public transit-loving comrades on the **PDSA Discord: #transit**_
+
+<h4>:city_sunrise: Housing</h4>
+Our [Housing](../housing/) working group seeks to fight corporate greed and guarantee dignified housing for all. Peninsula DSA is organizing with [Faith in Action Bay Area](https://faithinactionba.org/san-mateo-county/)'s coalition to win rent control and tenant protections in Redwood City through a 2026 citizens' ballot measure campaign. 
+
+* _Read more [here](../housing/) or on the **PDSA Discord: #housing** and **#affordable-rwc**_
+
+<h2>Past Campaigns</h2>
 
 <h4>:earth_africa: Ecosocialism</h4>
 Our [Ecosocialism](../ecosocialism/) working group continues to organize for building energy justice and holding PG&E accountable for its dirty, dangerous, and unreliable fossil-fuel energy. We have run workshops on making DIY air purifiers to protect against wildfire smoke and airborne pathogens, and have distributed money-saving energy efficiency tips to renters.
@@ -63,11 +72,6 @@ Our [Ecosocialism](../ecosocialism/) working group continues to organize for bui
 Our [Healthcare Justice](../healthcare-justice/) working group continues to organize for Medicare for All. We endorse and support the California Nurses Association's (CNA) statewide universal healthcare campaign, [CalCare](https://www.nationalnursesunited.org/calcare).  Though AB 1690 and then AB 2200 didn't make it to the floor of the California legislature, Guaranteed Healthcare for All bill will be back again soon—and we'll be there to fight for it.
 
 * _Read more [here](../healthcare-justice/) or on the **PDSA Discord: #healthcare**_
-
-<h4>:city_sunrise: Housing</h4>
-**ACTIVE!** Our [Housing](../housing/) working group seeks to fight corporate greed and guarantee dignified housing for all. We're organizing with [Faith in Action Bay Area](https://faithinactionba.org/san-mateo-county/)'s coalition to win rent control and tenant protections in Redwood City through a 2026 citizens' ballot measure campaign. 
-
-* _Read more [here](../housing/) or on the **PDSA Discord: #housing** and **#affordable-rwc**_
 
 <h4>:fist: Labor</h4>
 Our [Labor](../labor/) working group continues to show solidarity with local unions--especially [AFSCME Local 829](https://www.afscme57.org/afscme-local-829), [AFT 1493](https://aft1493.org/), and [Teamsters Local 2785](https://www.teamsters2785.org/)—-on the picket line, at board meetings, and anywhere we're needed.
