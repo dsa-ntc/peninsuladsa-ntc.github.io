@@ -9,7 +9,7 @@ permalink: /public-transit/
 Push SamTrans to "opt in" San Mateo County to the 2026 regional funding measure ([SB 63](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB63)):
 * *ASAP*: 📰 Share our [ecosocialist public transit article](https://www.californiadsa.org/news/batransit-2025jun) for [*California Red*](https://www.californiadsa.org/news) with everyone you know!
 * *ASAP:* ✍️ [Sign our coalition's petition](https://actionnetwork.org/petitions/stop-the-widenings-of-highway-101-and-interstate-280) to stop the Caltrans highway widening of 101/92 and fund public transit instead (~600 signatures)!
-* *Now through June 30:* 📩 Email the SamTrans Board of Directors ([Board@SamTrans.com](mailto:Board@SamTrans.com)) to voice your support of a progressively funded SB 63. See below for talking points!
+* *Now through June 30:* 📩 Email the SamTrans Board of Directors ([Board@SamTrans.com](mailto:Board@SamTrans.com)) in support of a progressively funded SB 63. See below for talking points!
 * *Tuesday, July 1, 5:30–6:30pm:* 🚎  Grab local media attention for SB 63 by [joining our rally for public transit](https://actionnetwork.org/events/rally-to-save-bart-and-caltrain-for-san-mateo-county) at Millbrae BART / Caltrain station! Consider printing and posting [the rally flyer](../assets/images/SMC-Rally-Poster_2025-07-01.png) at your local station!
 * *Wednesday, July 2, 2–5pm:* 🗣️ Make a 2-minute public comment in person or via Zoom at the [next SamTrans Board of Directors meeting](https://www.samtrans.com/meetings/2025/07/samtrans-board-directors) in San Carlos, or email your comment to [PublicComment@SamTrans.com](mailto:publiccomment@samtrans.com) _before_ 2pm. See below for full details!
 
