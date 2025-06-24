@@ -6,11 +6,12 @@ permalink: /public-transit/
 
 <h4>Act NOW to preserve Bay Area public transit and build an ecosocialist future!</h4>
 
-Push SamTrans to "opt in" San Mateo County to the crucial regional funding measure (SB 63):
-* *ASAP:* Sign our coalition's [petition to stop the Caltrans highway widening of 101/92](https://actionnetwork.org/petitions/stop-the-widenings-of-highway-101-and-interstate-280) and fund public transit instead (~600 signatures)!
-* *By June 30:* Email the SamTrans Board of Directors ([Board@SamTrans.com](mailto:Board@SamTrans.com)) to voice your support of a progressively funded SB 63 (scroll down for talking points).
-* *Tuesday, July 1, 5:30–6:30pm:* Grab media attention for SB 63 by rallying for public transit at Millbrae BART / Caltrain! [Printable flyer](../assets/images/SMC-Rally-Poster_2025-07-01.png) and [RSVP](https://actionnetwork.org/events/rally-to-save-bart-and-caltrain-for-san-mateo-county).
-* *Wednesday, July 2, 2–5pm:* Make a 2-minute public comment in person, on Zoom, or by email ([PublicComment@SamTrans.com](mailto:publiccomment@samtrans.com)) at the [next SamTrans Board of Directors meeting](https://www.samtrans.com/meetings/2025/07/samtrans-board-directors) in San Carlos (scroll down for full details).
+Push SamTrans to "opt in" San Mateo County to the 2026 regional funding measure ([SB 63](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB63)):
+* *ASAP*: 📰 Share our [ecosocialist public transit article](https://www.californiadsa.org/news/batransit-2025jun) for [*California Red*](https://www.californiadsa.org/news) with everyone you know!
+* *ASAP:* ✍️ [Sign our coalition's petition](https://actionnetwork.org/petitions/stop-the-widenings-of-highway-101-and-interstate-280) to stop the Caltrans highway widening of 101/92 and fund public transit instead (~600 signatures)!
+* *Now through June 30:* 📩 Email the SamTrans Board of Directors ([Board@SamTrans.com](mailto:Board@SamTrans.com)) to voice your support of a progressively funded SB 63. See below for talking points!
+* *Tuesday, July 1, 5:30–6:30pm:* 🚎  Grab local media attention for SB 63 by [joining our rally for public transit](https://actionnetwork.org/events/rally-to-save-bart-and-caltrain-for-san-mateo-county) at Millbrae BART / Caltrain station! Consider printing and posting [the rally flyer](../assets/images/SMC-Rally-Poster_2025-07-01.png) at your local station!
+* *Wednesday, July 2, 2–5pm:* 🗣️ Make a 2-minute public comment in person or via Zoom at the [next SamTrans Board of Directors meeting](https://www.samtrans.com/meetings/2025/07/samtrans-board-directors) in San Carlos, or email your comment to [PublicComment@SamTrans.com](mailto:publiccomment@samtrans.com) _before_ 2pm. See below for full details!
 
 <h2>San Mateo County: Transit 4 All</h2>
 
@@ -23,19 +24,19 @@ Did you know [BART](https://www.bart.gov/about/financials/crisis), [Caltrain](ht
 * BART: No more night or weekend service!
 * Caltrain: Back to just _one_ local train per hour!
 * Muni: Goodbye to cable cars!
-* SamTrans: No more free transfers---cutting off San Mateo County from the rest of the Bay!
+* SamTrans: No more free transfers—cutting off San Mateo County from the rest of the Bay!
 
 <h4>:warning: SamTrans can help save regional transit...</h4>
 
 Our county’s transit agency, [SamTrans](http://samtrans.com/), has the option to participate in a [five-county regional funding ballot measure](https://www.mercurynews.com/2025/06/03/plan-to-raise-500-million-in-annual-sales-taxes-for-beleaguered-bay-area-transit-advances-in-legislature/) (Senators Weiner & Arreguín's [SB 63](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB63)). If voters approve the measure in November 2026, we'll save our transit agencies AND prevent fossil-fuel emissions by keeping cars off the road.
 
-But some members of the [SamTrans Board of Directors](https://www.samtrans.com/about-samtrans/board-directors) (BOD) are hesitant to join the measure—--and might even drop [existing funding for inter-agency coordination](https://mtc.ca.gov/operations/transit-regional-network-management/transit-fare-coordination-integration)! We need huge public pushback to encourage these decision makers—--most of whom don’t use mass transit, period—--to support a well-funded, interconnected transit system around the Bay. 
+But some members of the [SamTrans Board of Directors](https://www.samtrans.com/about-samtrans/board-directors) (BOD) are hesitant to join the measure—and might even drop [existing funding for inter-agency coordination](https://mtc.ca.gov/operations/transit-regional-network-management/transit-fare-coordination-integration)! We need huge public pushback to encourage these decision makers—most of whom don’t use mass transit, period—to support a well-funded, interconnected transit system around the Bay. 
 
 The original funding proposal was a 1/2 or 1/4 cent sales tax that would hit working people hard AND fail to raise enough revenue to prevent service cuts, given rising inflation and arbitrary tariffs. That's why transit operators and activists are now recommending a [gross receipts tax](https://en.wikipedia.org/wiki/Gross_receipts_tax) on businesses, a solution which has [61% support from likely voters](https://www.politico.com/newsletters/california-playbook-pm/2025/06/02/exclusive-transit-unions-launches-effort-to-rework-2026-bay-area-transit-measure-00380857)!
 
 <h4>:warning: Push the SamTrans Board of Directors to join SB 63!</h4>
 
-We have to act fast to prevent the SamTrans BOD from sleepwalking us into the worst-case transit scenario. Making public comments---in person, via Zoom, or by email---at [SamTrans BOD](https://www.samtrans.com/board-of-directors/meetings) meetings is the best way to guarantee airtime for socialist perspectives and directly influence San Mateo County's transit decision makers.
+We have to act fast to prevent the SamTrans BOD from sleepwalking us into the worst-case transit scenario. Making public comments—in person, via Zoom, or by email—at [SamTrans BOD](https://www.samtrans.com/board-of-directors/meetings) meetings is the best way to guarantee airtime for socialist perspectives and directly influence San Mateo County's transit decision makers.
 
 <h3>:rotating_light: Demand Action at the Next BOD Meeting (Wednesday, July 2, 2pm)</h3>
 
