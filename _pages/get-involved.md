@@ -40,7 +40,7 @@ Our chapter's monthly general meetings, usually held on 3rd Sundays at 4-6pm, ar
 
 <h3>:rose: Reading Group</h3>
 
-The people who came before us have a lot to teach us! Our political [reading group](../political-reading/) meets at least once a month to discuss socialist books and articles democratically chosen by participants. We read everything from Karl Marx to Malcolm Harris.
+The people who came before us have a lot to teach us! Our political [reading group](../political-reading/) meets twice a month in Redwood City to discuss socialist books and articles democratically chosen by participants. We read everything from Karl Marx to Marta Harnecker to Malcolm Harris.
 * _Read more [here](../political-reading/) or on the **PDSA Discord: #reading-group**_.
 
 ---
@@ -52,7 +52,7 @@ Our working groups organize socialist campaigns and/or join coalitions around is
 <h5>Current Campaigns</h5>
 
 <h4>:station: Public Transit</h4>
-With a mandate from our 2024 convention, Peninsula DSA is developing our own Transit 4 All campaign in coalition with our friends at [Transbay Coalition](https://www.transbaycoalition.org/).
+With a mandate from our 2024 convention, Peninsula DSA is developing our own Transit 4 All campaign in coalition with our friends at [Transbay Coalition](https://www.transbaycoalition.org/). For now we're focused on saving BART and Caltrain with a regional funding measure (SB 63), but our ultimate goal is pushing for (1) free fares for SamTrans and (2) making the countywide El Camino Real corridor safe for people of all ages to walk, bike, and ride transit!
 
 * _Read more [here](../public-transit/) and join your public transit-loving comrades on the **PDSA Discord: #transit**_
 
