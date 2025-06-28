@@ -34,7 +34,7 @@ Every other Tuesday, 6:30-8pm <-- _perfect attendance is not required!_
 
 **What to expect:** Peninsula DSA's reading group sessions for _What's Left_ will kick off with comradely icebreakers followed by a [guided discussion](https://docs.google.com/document/d/1ZqcjvfBk5RipXqqWDeRa5uy6TSw3Nh0B3-zHxlov9WM/edit?usp=sharing) of the latest chapter. We have until the bookshop closes at 8pm. Light refreshments and KN94 respirators provided. Wearing DSA gear is encouraged. :rose:
 
-**BYO book!** Please consider ordering your copy of _What's Left_ from our friendly hosts, [Fireside Books & More](https://firesiderwc.com/), by visiting their [Bookshop.org storefront](https://bookshop.org/shop/FiresideRWC) or emailing orders[at]firesiderwc.com 
+**BYO book!** Please consider ordering your copy of _What's Left_ from our friendly hosts, [Fireside Books & More](https://firesiderwc.com/), by visiting their [Bookshop.org storefront](https://bookshop.org/shop/FiresideRWC) or emailing [orders@firesiderwc.com](mailto:orders@firesiderwc.com)
 
 <h2>Past Reads</h2>
 
