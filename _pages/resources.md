@@ -19,9 +19,11 @@ permalink: /resources/
 
 <h3>🧊 Stop ICE! Protect Our Neighbors</h3>
 
-☑️ [**Rapid Response**!](https://faithinactionba.org/rapid-response/) If you see ICE in town, please call the San Mateo County Rapid Response 24/7 hotline *immediately* at [(203) 666-4472](tel:2036664472).
+☑️ [**Rapid Response!**](https://faithinactionba.org/rapid-response/) If you see ICE in town, please call the San Mateo County Rapid Response 24/7 hotline *immediately* at [(203) 666-4472](tel:2036664472).
 
-☑️ [**Know Your Rights**!](https://www.ilrc.org/community-resources/know-your-rights) The Immigrant Legal Resource Center has helpful information and printables such as the easy-to-distribute [little red cards](https://www.ilrc.org/red-cards-tarjetas-rojas) (available in 39 languages, including Spanish, Tagalog, and Chinese).
+☑️ [**Know Your Rights!**](https://www.ilrc.org/community-resources/know-your-rights) The Immigrant Legal Resource Center has helpful information and printables such as the easy-to-distribute [little red cards](https://www.ilrc.org/red-cards-tarjetas-rojas) (available in 39 languages, including Spanish, Tagalog, and Chinese).
+
+☑️ [**Prepare a Protest Go-Bag!**](https://www.wired.com/story/how-to-protest-safely-gear-tips/) Sometimes you don't have time to go home to dress for the occasion. Keep the basics nearby so you'll always be ready to act.
 
 <h3>🚎 Speak Up for Public Transit</h3>
 
@@ -29,7 +31,7 @@ permalink: /resources/
 
 * ✍️ [Sign the petition](https://actionnetwork.org/petitions/stop-the-widenings-of-highway-101-and-interstate-280) to demand NO highway widening on the Peninsula!
 
-☑️ [**Improve Central El Camino Real!**](https://www.samtrans.com/planning-projects/CentralElCamino) Live or work in San Mateo, Belmont, San Carlos, or Redwood City? Suggest ideas or express concerns to staff re: the transit-focused [Grand Boulevard Initiative](https://www.samtrans.com/projects/gbi) on El Camino Real / Route 82!
+☑️ [**Improve Central El Camino Real!**](https://www.samtrans.com/planning-projects/CentralElCamino) Live or work in San Mateo, Belmont, San Carlos, or Redwood City? Suggest ideas or express concerns to staff re: the transit-focused [Grand Boulevard Initiative](https://www.samtrans.com/projects/gbi) on El Camino Real / Route 82! _Deadline July 13th._
 
 * 🗣️ [Leave feedback on this interactive map](https://fp.mysocialpinpoint.com/central-el-camino-plan) of Central El Camino!
 
