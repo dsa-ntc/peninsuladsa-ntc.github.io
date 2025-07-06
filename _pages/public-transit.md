@@ -37,7 +37,7 @@ The original funding proposal was a 1/2 or 1/4 cent sales tax that would hit wor
 
 Thanks to grassroots efforts like our coalition's Save Bay Area Transit rally (July 1), SamTrans is starting to lean our way! Keep making public comments—in person, via Zoom, or by email—at [SamTrans BOD](https://www.samtrans.com/board-of-directors/meetings) meetings is the best way to guarantee airtime for socialist perspectives and directly influence San Mateo County's transit decision makers.
 
-<h3>:rotating_light: Demand Action at the Next BOD Meeting (Wednesday, July 2, 2pm)</h3>
+<h3>:rotating_light: Demand Action at the Next BOD Meeting (Wednesday, August 6, 2-5pm)</h3>
 
 <h4>Practice Your Talking Points</h4>
 
