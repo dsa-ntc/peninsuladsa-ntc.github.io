@@ -9,9 +9,8 @@ permalink: /public-transit/
 Push SamTrans to "opt in" San Mateo County to the 2026 regional funding measure ([SB 63](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB63)):
 * *ASAP*: 📰 Share our [ecosocialist public transit article](https://www.californiadsa.org/news/batransit-2025jun) for [*California Red*](https://www.californiadsa.org/news) with everyone you know!
 * *ASAP:* ✍️ [Sign our coalition's petition](https://actionnetwork.org/petitions/stop-the-widenings-of-highway-101-and-interstate-280) to stop the Caltrans highway widening of 101/92 and fund public transit instead (~600 signatures)!
-* *Now through June 30:* 📩 Email the SamTrans Board of Directors ([Board@SamTrans.com](mailto:Board@SamTrans.com)) in support of a progressively funded SB 63. See below for talking points!
-* *Tuesday, July 1, 5:30–6:30pm:* 🚎  Grab local media attention for SB 63 by [joining our rally for public transit](https://actionnetwork.org/events/rally-to-save-bart-and-caltrain-for-san-mateo-county) at Millbrae BART / Caltrain station! Consider printing and posting [the rally flyer](../assets/images/SMC-Rally-Poster_2025-07-01.png) at your local station!
-* *Wednesday, July 2, 2–5pm:* 🗣️ Make a 2-minute public comment in person or via Zoom at the [next SamTrans Board of Directors meeting](https://www.samtrans.com/meetings/2025/07/samtrans-board-directors) in San Carlos, or email your comment to [PublicComment@SamTrans.com](mailto:publiccomment@samtrans.com) _before_ 2pm. See below for full details!
+* *Now through August 5:* 📩 Email the SamTrans Board of Directors ([Board@SamTrans.com](mailto:Board@SamTrans.com)) in support of a progressively funded SB 63. See below for talking points!
+* *Wednesday, August 6, 2–5pm:* 🗣️ Make a 2-minute public comment in person or via Zoom at the [next SamTrans Board of Directors meeting](https://www.samtrans.com/meetings/2025/08/samtrans-board-directors) in San Carlos, or email your comment to [PublicComment@SamTrans.com](mailto:publiccomment@samtrans.com) _before_ 2pm. See below for full details!
 
 <h2>San Mateo County: Transit 4 All</h2>
 
@@ -36,7 +35,7 @@ The original funding proposal was a 1/2 or 1/4 cent sales tax that would hit wor
 
 <h4>:warning: Push the SamTrans Board of Directors to join SB 63!</h4>
 
-We have to act fast to prevent the SamTrans BOD from sleepwalking us into the worst-case transit scenario. Making public comments—in person, via Zoom, or by email—at [SamTrans BOD](https://www.samtrans.com/board-of-directors/meetings) meetings is the best way to guarantee airtime for socialist perspectives and directly influence San Mateo County's transit decision makers.
+Thanks to grassroots efforts like our coalition's Save Bay Area Transit rally (July 1), SamTrans is starting to lean our way! Keep making public comments—in person, via Zoom, or by email—at [SamTrans BOD](https://www.samtrans.com/board-of-directors/meetings) meetings is the best way to guarantee airtime for socialist perspectives and directly influence San Mateo County's transit decision makers.
 
 <h3>:rotating_light: Demand Action at the Next BOD Meeting (Wednesday, July 2, 2pm)</h3>
 
@@ -53,13 +52,13 @@ We have to act fast to prevent the SamTrans BOD from sleepwalking us into the wo
 
 * Location: [Bacciocco Auditorium (2nd Floor)](https://maps.app.goo.gl/e4X3vMBynC1pdUGbA), 1250 San Carlos Avenue, San Carlos
 * Arrive at 1:50pm (10 minutes early) to fill out a comment card; give the card to the secretary.
-* Wait till the Board opens [the legislative agenda item (TBA)](https://www.samtrans.com/meetings/2025/07/samtrans-board-directors). 
+* Wait till the Board opens [the legislative agenda item (TBA)](https://www.samtrans.com/meetings/2025/08/samtrans-board-directors). 
 * The secretary will call you to the podium.
 * You have 2 minutes to speak.
 
 :telephone_receiver: ***Virtual***
 
-* Location: [Join the Zoom call](https://us02web.zoom.us/j/81001317517?pwd=6LuOhomk1KpISW9X2CbpthZRGreaIA.1) right before [the legislative agenda item (TBA)](https://www.samtrans.com/meetings/2025/07/samtrans-board-directors). If you want to be notified when it's time to call in, ask Allison or Geoff in the #transit channel on Discord! 
+* Location: [Join the Zoom call](https://us02web.zoom.us/j/81001317517?pwd=6LuOhomk1KpISW9X2CbpthZRGreaIA.1) right before [the legislative agenda item (TBA)](https://www.samtrans.com/meetings/2025/08/samtrans-board-directors). If you want to be notified when it's time to call in, ask Allison or Geoff in the #transit channel on the PDSA Discord! 
 * When the Board opens our item, raise your virtual hand *immediately*.
 * Wait until the secretary calls your name and unmutes you.
 * You have 2 minutes to speak. 
