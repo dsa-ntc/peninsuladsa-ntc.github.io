@@ -9,38 +9,33 @@ permalink: /political-reading/
 
 <h2>Currently Reading</h2>
 
->A vital guide for collective political action against the climate apocalypse, from bestselling progressive intellectual Malcolm Harris—“a brilliant thinker and writer capable of making the intricacies of economic conditions supremely readable” (Vulture).
+<img src="https://peninsuladsa.org/assets/images/PDSA Reading Group, Hot Commie Summer 2025, Wage-Labor & Capital, The State & Revolution.jpg" align="right" height="300" width="">
 
-<img src="https://peninsuladsa.org/assets/images/What's Left by Malcolm Harris cover.jpeg" align="right" height="300" width="">
+<h4>Hot Commie Summer with Marx & Lenin</h4>
 
-<h4>Join the next session of our new ecosocialist reading group!</h4>
+Zohran Mamdani is right: The working class struggles to survive because capitalists have stolen our time and resources. Let's all learn _together_ how we can win a world worth living in!
 
-[**What's Left: Three Paths Through the Planetary Crisis**](https://bookshop.org/p/books/what-s-left-three-paths-through-the-planetary-crisis-malcolm-harris/21718858) (2025) by Malcolm Harris
+Every other Tuesday, 6:30-8pm
+<br>
+[**Wage-Labor and Capital**](https://www.marxists.org/archive/marx/works/1847/wage-labour/) by Karl Marx—July 22
+<br>
+[**The State and Revolution**](https://www.marxists.org/archive/lenin/works/1917/staterev/) by Vladimir Lenin—August 5 & August 19
 
 * Participate virtually: [Google Meet](https://meet.google.com/yqs-mvtd-ahn)
 * Participate in person: [Fireside Books & More](https://firesiderwc.com/), 2421 Broadway, Redwood City (by Caltrain station)
-* Discussion questions available [here](https://docs.google.com/document/d/1ZqcjvfBk5RipXqqWDeRa5uy6TSw3Nh0B3-zHxlov9WM/edit?usp=sharing)!
-
-Every other Tuesday, 6:30-8pm <-- _perfect attendance is not required!_
-<br>
-
-* ~~May 13---Intro + Marketcraft (*Ch. 1*)~~
-* ~~May 27---Public Power (*Ch. 2*)~~
-* ~~June 10---Communism (*Ch. 3*)~~
-* ~~June 24---Planetary Crisis (*Ch. 4*)~~
-* July 8---Conclusion with special guest Malcolm Harris!
 
 <img src="https://peninsuladsa.org/assets/images/Peninsula DSA reading group, Malcolm Harris's What's Left, Fireside Books RWC 2025.05.13.jpg" align="right" height="" width="200">
 
-**What to expect:** Peninsula DSA's reading group sessions for _What's Left_ will kick off with comradely icebreakers followed by a [guided discussion](https://docs.google.com/document/d/1ZqcjvfBk5RipXqqWDeRa5uy6TSw3Nh0B3-zHxlov9WM/edit?usp=sharing) of the latest chapter. We have until the bookshop closes at 8pm. Light refreshments and KN94 respirators provided. Wearing DSA gear is encouraged. :rose:
+**What to expect:** Peninsula DSA's reading group sessions will kick off with comradely icebreakers followed by a guided discussion. We have until the bookshop closes at 8pm. Light refreshments and KN94 respirators provided. Wearing DSA gear is encouraged! :rose:
 
-**BYO book!** Please consider ordering your copy of _What's Left_ from our friendly hosts, [Fireside Books & More](https://firesiderwc.com/), by visiting their [Bookshop.org storefront](https://bookshop.org/shop/FiresideRWC) or emailing [orders@firesiderwc.com](mailto:orders@firesiderwc.com)
+**BYO book!** Please consider ordering your copy of our reads from our friendly hosts, Andrew and Taylor at [Fireside Books & More](https://firesiderwc.com/), by visiting their [Bookshop.org storefront](https://bookshop.org/shop/FiresideRWC) or emailing [orders@firesiderwc.com](mailto:orders@firesiderwc.com)
 
 <h2>Past Reads</h2>
 
 <img src="https://peninsuladsa.org/assets/images/Peninsula DSA reading group meets Malcolm Harris at Kepler's Books 2025.04.jpg" align="right" height="300" width="">
 
 <h3>2025</h3>
+* [What's Left: Three Paths Through the Planetary Crisis](<https://bookshop.org/p/books/what-s-left-three-paths-through-the-planetary-crisis-malcolm-harris/21718858>) (2025) by Malcolm Harris
 * [ABCs of Socialism](https://archive.org/details/abcs-of-socialism/mode/1up?view=theater) by [Jacobin](https://jacobin.com/) + [Verso](https://www.versobooks.com/).
 * [Ideas for the Struggle](https://www.oldandnewproject.net/Essays/Harnecker_Ideas.html) (2004, revised 2016) by Marta Harnecker.
 * [Imperialism: The Highest Stage of Capitalism](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/) (1916) by Vladimir Lenin.
