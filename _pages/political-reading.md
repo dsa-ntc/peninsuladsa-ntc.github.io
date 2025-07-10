@@ -28,8 +28,6 @@ Virtual: [Google Meet](https://meet.google.com/yqs-mvtd-ahn)
 
 **BYO book!** Please consider ordering your copy of our reads from our friendly hosts, Andrew and Taylor at [Fireside Books & More](https://firesiderwc.com/), by visiting their [Bookshop.org storefront](https://bookshop.org/shop/FiresideRWC) or emailing [orders@firesiderwc.com](mailto:orders@firesiderwc.com)
 
-<img src="https://peninsuladsa.org/assets/images/Peninsula DSA reading group, Malcolm Harris's What's Left, Fireside Books RWC 2025.05.13.jpg" align="right" height="" width="200">
-
 <h3>“Why are we still reading the thoughts of old privileged white men?”</h3> 
 
 It’s true, Marx & Lenin did not invent socialism. Communist principles are present in every functioning society across history, especially in intact Indigenous cultures. That said, if we want to actually win the class war, we have to understand the valuable intel that comrade ancestors Marx & Lenin gathered about the capitalist class (in late 19th to early 20th c. Europe) that is still strip-mining people and the planet for profit.
