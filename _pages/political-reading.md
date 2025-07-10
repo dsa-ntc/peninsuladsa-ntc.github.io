@@ -9,7 +9,7 @@ permalink: /political-reading/
 
 <h2>Currently Reading</h2>
 
-<img src="https://peninsuladsa.org/assets/images/PDSA Reading Group, Hot Commie Summer 2025, Wage-Labor & Capital, The State & Revolution .jpg" align="right" height="300" width="">
+<img src="https://peninsuladsa.org/assets/images/PDSA Reading Group, Hot Commie Summer 2025, Wage-Labor & Capital, The State & Revolution .jpg" align="right" height="500" width="">
 
 <h4>Hot Commie Summer with Marx & Lenin</h4>
 
