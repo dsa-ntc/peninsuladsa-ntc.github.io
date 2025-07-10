@@ -9,7 +9,7 @@ permalink: /political-reading/
 
 <h2>Currently Reading</h2>
 
-<img src="https://peninsuladsa.org/assets/images/PDSA Reading Group, Hot Commie Summer 2025, Wage-Labor & Capital, The State & Revolution.jpg" align="right" height="300" width="">
+<img src="https://peninsuladsa.org/assets/images/PDSA Reading Group, Hot Commie Summer 2025, Wage-Labor & Capital, The State & Revolution .jpg" align="right" height="300" width="">
 
 <h4>Hot Commie Summer with Marx & Lenin</h4>
 
@@ -17,18 +17,27 @@ Zohran Mamdani is right: The working class struggles to survive because capitali
 
 Every other Tuesday, 6:30-8pm
 <br>
-[**Wage-Labor and Capital**](https://www.marxists.org/archive/marx/works/1847/wage-labour/) by Karl Marx—July 22
+* _July 22_—[**Wage-Labor and Capital (_Lohnarbeit und Kapital_)**](https://www.marxists.org/archive/marx/works/1847/wage-labour/) by Karl Marx
+* _August 5 & 19_—[**The State and Revolution (Государство и революция)**](https://www.marxists.org/archive/lenin/works/1917/staterev/) by Vladimir Lenin
+
+[Fireside Books & More](https://firesiderwc.com/), 2421 Broadway, Redwood City (by Caltrain station)
 <br>
-[**The State and Revolution**](https://www.marxists.org/archive/lenin/works/1917/staterev/) by Vladimir Lenin—August 5 & August 19
-
-* Participate virtually: [Google Meet](https://meet.google.com/yqs-mvtd-ahn)
-* Participate in person: [Fireside Books & More](https://firesiderwc.com/), 2421 Broadway, Redwood City (by Caltrain station)
-
-<img src="https://peninsuladsa.org/assets/images/Peninsula DSA reading group, Malcolm Harris's What's Left, Fireside Books RWC 2025.05.13.jpg" align="right" height="" width="200">
+Virtual: [Google Meet](https://meet.google.com/yqs-mvtd-ahn)
 
 **What to expect:** Peninsula DSA's reading group sessions will kick off with comradely icebreakers followed by a guided discussion. We have until the bookshop closes at 8pm. Light refreshments and KN94 respirators provided. Wearing DSA gear is encouraged! :rose:
 
 **BYO book!** Please consider ordering your copy of our reads from our friendly hosts, Andrew and Taylor at [Fireside Books & More](https://firesiderwc.com/), by visiting their [Bookshop.org storefront](https://bookshop.org/shop/FiresideRWC) or emailing [orders@firesiderwc.com](mailto:orders@firesiderwc.com)
+
+<img src="https://peninsuladsa.org/assets/images/Peninsula DSA reading group, Malcolm Harris's What's Left, Fireside Books RWC 2025.05.13.jpg" align="right" height="" width="200">
+
+<h3>“Why are we still reading the thoughts of old privileged white men?”</h3> 
+
+It’s true, Marx & Lenin did not invent socialism. Communist principles are present in every functioning society across history, especially in intact Indigenous cultures. That said, if we want to actually win the class war, we have to understand the valuable intel that comrade ancestors Marx & Lenin gathered about the capitalist class (in late 19th to early 20th c. Europe) that is still strip-mining people and the planet for profit.
+
+Here’s why it’s still smart for socialists to read Wage-Labor & Capital and The State & Revolution in the Zohran Mamdani era:
+
+* **American leftists must understand our material conditions.** As a British settler colony, the US is a direct outgrowth of original European racial capitalism. Though capitalism (via colonialism) has destroyed ecosystems and human diversity across the globe for 500 years now, the ruling class of Western Europe are some of the original innovators in exhausting serfs and turf. While they lived in different historical epochs, Marx and Lenin provide a theoretical framework through which we can analyze our current material conditions.
+* **Marx & Lenin have great explanations for why things suck!** Comrade scholars Marx (trained economist who lived in Germany/Prussia, France, Belgium, UK) and Lenin (trained lawyer who lived in Russia, Switzerland, UK) were in the perfect position to analyze the mechanics of our shared economic oppression. Their work holds up great, they’re often funny, and we can trust them: After all, they lived in the Imperial core, benefited from bourgeois university educations, had a huge network of similarly privileged, like-minded people, and still wanted liberation for all the workers of the world!
 
 <h2>Past Reads</h2>
 
