@@ -14,12 +14,12 @@ permalink: /resources/
 
 * [Bay Area Current](https://bayareacurrent.com/) - the Bay Area’s brand-new leftist news site covers working-class life and culture
 * [California Red](https://www.californiadsa.org/news) - the bimonthly newsletter of [California DSA](https://www.californiadsa.org/) (check out [our ecosocialist article](https://www.californiadsa.org/news/batransit-2025jun))!
-* [Democratic Left](https://democraticleft.dsausa.org/) - the official magazine of DSA
+* [Democratic Left](https://democraticleft.dsausa.org/) - the official magazine of DSA 🌹
 * [Socialist Forum](https://socialistforum.dsausa.org/) - a open and wide-ranging venue for thoughtful discussion and debate among DSA members
 
 <h3>🧊 Stop ICE! Protect Our Neighbors</h3>
 
-☑️ [**Rapid Response!**](https://faithinactionba.org/rapid-response/) If you see ICE in town, please call the bilingual San Mateo County [Rapid Response 24/7 hotline](https://faithinactionba.org/rapid-response/) *immediately* at [(203) 666-4472](tel:2036664472). 🇲🇽 [¡El pueblo unido jamás será vencido!](https://en.wikipedia.org/wiki/El_pueblo_unido_jam%C3%A1s_ser%C3%A1_vencido)
+☑️ [**Rapid Response!**](https://faithinactionba.org/rapid-response/) If you see ICE in town, please call the bilingual San Mateo County [Rapid Response 24/7 hotline](https://faithinactionba.org/rapid-response/) *immediately* at [**(203) 666-4472**](tel:2036664472). 🇲🇽 [¡El pueblo unido jamás será vencido!](https://en.wikipedia.org/wiki/El_pueblo_unido_jam%C3%A1s_ser%C3%A1_vencido)
 
 ☑️ [**Know Your Rights!**](https://www.ilrc.org/community-resources/know-your-rights) The Immigrant Legal Resource Center has helpful information and printables such as the easy-to-distribute [little red cards](https://www.ilrc.org/red-cards-tarjetas-rojas) (available in 39 languages, including Spanish, Tagalog, and Chinese).
 
