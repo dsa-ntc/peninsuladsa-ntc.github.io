@@ -19,21 +19,17 @@ permalink: /resources/
 
 <h3>🧊 Stop ICE! Protect Our Neighbors</h3>
 
-☑️ [**Rapid Response!**](https://faithinactionba.org/rapid-response/) If you see ICE in town, please call the San Mateo County Rapid Response 24/7 hotline *immediately* at [(203) 666-4472](tel:2036664472).
+☑️ [**Rapid Response!**](https://faithinactionba.org/rapid-response/) If you see ICE in town, please call the bilingual San Mateo County [Rapid Response 24/7 hotline](https://faithinactionba.org/rapid-response/) *immediately* at [(203) 666-4472](tel:2036664472). 🇲🇽 [¡El pueblo unido jamás será vencido!](https://en.wikipedia.org/wiki/El_pueblo_unido_jam%C3%A1s_ser%C3%A1_vencido)
 
 ☑️ [**Know Your Rights!**](https://www.ilrc.org/community-resources/know-your-rights) The Immigrant Legal Resource Center has helpful information and printables such as the easy-to-distribute [little red cards](https://www.ilrc.org/red-cards-tarjetas-rojas) (available in 39 languages, including Spanish, Tagalog, and Chinese).
 
-☑️ [**Prepare a Protest Go-Bag!**](https://www.wired.com/story/how-to-protest-safely-gear-tips/) Sometimes you don't have time to go home to dress for the occasion. Keep the basics nearby so you'll always be ready to act.
+☑️ [**Prepare a Protest Go-Bag!**](https://www.wired.com/story/how-to-protest-safely-gear-tips/) Sometimes you don't have time to go home to dress for the occasion. [Keep the basics nearby](https://www.wired.com/story/how-to-protest-safely-gear-tips/) so you'll always be ready to act.
 
 <h3>🚎 Speak Up for Public Transit</h3>
 
 ☑️ [**Stop Highway Widening of 101 / 92!**](https://actionnetwork.org/petitions/stop-the-widenings-of-highway-101-and-interstate-280) Adding lanes to highways encourages _more_ people to drive and [degrades safety and quality of life](https://www.mercurynews.com/2025/04/11/san-mateo-city-council-opposes-highway-101-connector-project/) for everyone living nearby. Let's demand [SMC Transit Authority](https://www.smcta.com/), [C/CAG](https://ccag.ca.gov/) of San Mateo County, and [SFCTA](https://www.sfcta.org/) end traffic congestion by investing our transportation funds in fast, accessible, FREE public transit for all!
 
 * ✍️ [Sign the petition](https://actionnetwork.org/petitions/stop-the-widenings-of-highway-101-and-interstate-280) to demand NO highway widening on the Peninsula!
-
-☑️ [**Improve Central El Camino Real!**](https://www.samtrans.com/planning-projects/CentralElCamino) Live or work in San Mateo, Belmont, San Carlos, or Redwood City? Suggest ideas or express concerns to staff re: the transit-focused [Grand Boulevard Initiative](https://www.samtrans.com/projects/gbi) on El Camino Real / Route 82! _Deadline July 13th._
-
-* 🗣️ [Leave feedback on this interactive map](https://fp.mysocialpinpoint.com/central-el-camino-plan) of Central El Camino!
 
 ☑️ [**Save Broadway Caltrain Station!**](https://chng.it/KgZ4bydkjV) Ignoring local opposition, the Burlingame City Council [plans to close Broadway station]((https://www.smdailyjournal.com/news/local/burlingame-merchants-push-for-caltrain-station/article_409bb915-f6bd-4e68-8e36-6b21c7b6dc20.html)) to save money on the planned grade separation at [California's most dangerous rail crossing](https://abc7news.com/post/burlingame-railroad-crossing-called-dangerous-ca-now-leaders/14883384/). 
 
