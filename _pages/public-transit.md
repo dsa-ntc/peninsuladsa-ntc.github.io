@@ -8,8 +8,7 @@ permalink: /public-transit/
 
 Push SamTrans to "opt in" San Mateo County to the 2026 regional funding measure ([SB 63](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB63)):
 * *ASAP*: 📰 Share our [ecosocialist public transit article](https://www.californiadsa.org/news/batransit-2025jun) for [*California Red*](https://www.californiadsa.org/news) with everyone you know!
-* *ASAP:* ✍️ [Sign our coalition's petition](https://actionnetwork.org/petitions/stop-the-widenings-of-highway-101-and-interstate-280) to stop the Caltrans highway widening of 101/92 and fund public transit instead (~600 signatures)!
-* *Now through August 5:* 📩 Email the SamTrans Board of Directors ([Board@SamTrans.com](mailto:Board@SamTrans.com)) in support of a progressively funded SB 63. See below for talking points!
+* *ASAP:* ✍️ [Sign our coalition's petition](https://actionnetwork.org/petitions/stop-the-widenings-of-highway-101-and-interstate-280) to stop the Caltrans highway widening of 101/92 and fund public transit instead (~620 signatures)!
 * *Wednesday, August 6, 2–5pm:* 🗣️ Make a 2-minute public comment in person or via Zoom at the [next SamTrans Board of Directors meeting](https://www.samtrans.com/meetings/2025/08/samtrans-board-directors) in San Carlos, or email your comment to [PublicComment@SamTrans.com](mailto:publiccomment@samtrans.com) _before_ 2pm. See below for full details!
 
 <h2>San Mateo County: Transit 4 All</h2>
