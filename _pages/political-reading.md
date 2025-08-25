@@ -9,16 +9,15 @@ permalink: /political-reading/
 
 <h2>Currently Reading</h2>
 
-<img src="https://peninsuladsa.org/assets/images/PDSA Reading Group, Hot Commie Summer 2025, Wage-Labor & Capital, The State & Revolution .jpg" align="right" height="500" width="">
+<h4>Hot Commie Summer Continues</h4>
 
-<h4>Hot Commie Summer with Marx & Lenin</h4>
+Zohran Mamdani is right: The working class struggles to survive because capitalists have stolen our time and resources. Let's all learn _together_ how we can win a world worth living in and make every day a Labor Day.
 
-Zohran Mamdani is right: The working class struggles to survive because capitalists have stolen our time and resources. Let's all learn _together_ how we can win a world worth living in!
-
-Every other Tuesday, 6:30-8pm
+Every other Tuesday, 6:15-8pm
 <br>
-* _July 22_—[**Wage-Labor and Capital (_Lohnarbeit und Kapital_)**](https://www.marxists.org/archive/marx/works/1847/wage-labour/) by Karl Marx
-* _August 5 & 19_—[**The State and Revolution (Государство и революция)**](https://www.marxists.org/archive/lenin/works/1917/staterev/) by Vladimir Lenin
+* _September 2_ —[**Necropolitics**](https://warwick.ac.uk/fac/arts/english/currentstudents/postgraduate/masters/modules/theoryfromthemargins/mbembe_22necropolitics22.pdf) by J.-A. Mbembé and Libby Meintjes.
+* _September 16_ — TBA
+* _September 30_ — TBD
 
 [Fireside Books & More](https://firesiderwc.com/), 2421 Broadway, Redwood City (by Caltrain station)
 <br>
@@ -26,22 +25,15 @@ Virtual: [Google Meet](https://meet.google.com/yqs-mvtd-ahn)
 
 **What to expect:** Peninsula DSA's reading group sessions will kick off with comradely icebreakers followed by a guided discussion. We have until the bookshop closes at 8pm. Light refreshments and KN94 respirators provided. Wearing DSA gear is encouraged! :rose:
 
-**BYO book!** Please consider ordering your copy of our reads from our friendly hosts, Andrew and Taylor at [Fireside Books & More](https://firesiderwc.com/), by visiting their [Bookshop.org storefront](https://bookshop.org/shop/FiresideRWC) or emailing [orders@firesiderwc.com](mailto:orders@firesiderwc.com)
-
-<h3>“Why are we still reading the thoughts of old privileged white men?”</h3> 
-
-It’s true, Marx & Lenin did not invent socialism. Communist principles are present in every functioning society across history, especially in intact Indigenous cultures. That said, if we want to actually win the class war, we have to understand the valuable intel that comrade ancestors Marx & Lenin gathered about the capitalist class (in late 19th to early 20th c. Europe) that is still strip-mining people and the planet for profit.
-
-Here’s why it’s still smart for socialists to read Wage-Labor & Capital and The State & Revolution in the Zohran Mamdani era:
-
-* **American leftists must understand our material conditions.** As a British settler colony, the US is a direct outgrowth of original European racial capitalism. Though capitalism (via colonialism) has destroyed ecosystems and human diversity across the globe for 500 years now, the ruling class of Western Europe are some of the original innovators in exhausting serfs and turf. While they lived in different historical epochs, Marx and Lenin provide a theoretical framework through which we can analyze our current material conditions.
-* **Marx & Lenin have great explanations for why things suck!** Comrade scholars Marx (trained economist who lived in Germany/Prussia, France, Belgium, UK) and Lenin (trained lawyer who lived in Russia, Switzerland, UK) were in the perfect position to analyze the mechanics of our shared economic oppression. Their work holds up great, they’re often funny, and we can trust them: After all, they lived in the Imperial core, benefited from bourgeois university educations, had a huge network of similarly privileged, like-minded people, and still wanted liberation for all the workers of the world!
+**BYO book!** Please consider ordering your copy of our reads from our friendly hosts, Andrew and Taylor at [Fireside Books & More](https://firesiderwc.com/), by visiting their [Bookshop.org storefront](https://bookshop.org/shop/FiresideRWC) or emailing [orders@firesiderwc.com](mailto:orders@firesiderwc.com).
 
 <h2>Past Reads</h2>
 
 <img src="https://peninsuladsa.org/assets/images/Peninsula DSA reading group meets Malcolm Harris at Kepler's Books 2025.04.jpg" align="right" height="300" width="">
 
 <h3>2025</h3>
+* [Wage-Labor and Capital (*Lohnarbeit und Kapital*)](https://www.marxists.org/archive/marx/works/1847/wage-labour/) by Karl Marx
+* [The State and Revolution (*Государство и революция*)](https://www.marxists.org/archive/lenin/works/1917/staterev/) by Vladimir Lenin
 * [What's Left: Three Paths Through the Planetary Crisis](<https://bookshop.org/p/books/what-s-left-three-paths-through-the-planetary-crisis-malcolm-harris/21718858>) (2025) by Malcolm Harris
 * [ABCs of Socialism](https://archive.org/details/abcs-of-socialism/mode/1up?view=theater) by [Jacobin](https://jacobin.com/) + [Verso](https://www.versobooks.com/).
 * [Ideas for the Struggle](https://www.oldandnewproject.net/Essays/Harnecker_Ideas.html) (2004, revised 2016) by Marta Harnecker.
