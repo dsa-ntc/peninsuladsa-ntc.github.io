@@ -16,8 +16,8 @@ The working class struggles to survive because capitalists have stolen our time 
 Every other Tuesday, 6:15-8pm
 <br>
 * _September 2_ —[**Necropolitics**](https://warwick.ac.uk/fac/arts/english/currentstudents/postgraduate/masters/modules/theoryfromthemargins/mbembe_22necropolitics22.pdf) by J.-A. Mbembé and Libby Meintjes.
-* _September 16 & 30_ — [**Black Shirts and Red**](https://www.michael-parenti.org/book-blackshirts-and-reds) by Michael Parenti
-* _October 7, 21 and November 11_ — [**Abolish Silicon Valley**](https://abolishsiliconvalley.com/) by Wendy Liu
+* _September 16 & 30_ — [**Blackshirts and Reds**](https://www.michael-parenti.org/book-blackshirts-and-reds) by Michael Parenti
+* _October 14, 28 and November 11_ — [**Abolish Silicon Valley**](https://abolishsiliconvalley.com/) by Wendy Liu
 
 [Fireside Books & More](https://firesiderwc.com/), 2421 Broadway, Redwood City (by Caltrain station)
 <br>
