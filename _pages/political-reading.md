@@ -9,13 +9,12 @@ permalink: /political-reading/
 
 <h2>Currently Reading</h2>
 
-<h4>Time to Choose: Socialism or Barbarism?</h4>
+<h4>Time to Choose: Socialism or Barbarism!</h4>
 
 The working class struggles to survive because capitalists have stolen our time and resources. The billionaire class has no plan for the climate crisis, and the Democratic Party has no plan to combat fascism. Let's all learn together how socialists can fight back to win a world worth living in.
 
 Every other Tuesday, 6:15-8pm
 <br>
-* _September 2_ —[**Necropolitics**](https://warwick.ac.uk/fac/arts/english/currentstudents/postgraduate/masters/modules/theoryfromthemargins/mbembe_22necropolitics22.pdf) by J.-A. Mbembé and Libby Meintjes.
 * _September 16 & 30_ — [**Blackshirts and Reds**](https://www.michael-parenti.org/book-blackshirts-and-reds) by Michael Parenti
 * _October 14, 28 and November 11_ — [**Abolish Silicon Valley**](https://abolishsiliconvalley.com/) by Wendy Liu
 
