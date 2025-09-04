@@ -9,7 +9,7 @@ permalink: /political-reading/
 
 <h2>Currently Reading</h2>
 
-<h4>The Working Class Can Win a World Worth Living In</h4>
+<h4>Blackshirts & Reds, Abolish Silicon Valley</h4>
 
 <img src="https://peninsuladsa.org/assets/images/Book_Club_Multi-Meeting_Schedule_Featuring_Zohran.png" align="right" height="" width="40%">
 
