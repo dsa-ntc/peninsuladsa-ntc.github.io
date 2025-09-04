@@ -11,7 +11,7 @@ permalink: /political-reading/
 
 <h4>The Working Class Can Win a World Worth Living In</h4>
 
-<img src="https://peninsuladsa.org/assets/images/Book_Club_Multi-Meeting_Schedule_Featuring_Zohran.png" align="right" height="500" width="">
+<img src="https://peninsuladsa.org/assets/images/Book_Club_Multi-Meeting_Schedule_Featuring_Zohran.png" align="right" height="" width="40%">
 
 The working class struggles to survive because capitalists have stolen our time and resources. The billionaire class has no plan for the climate crisis, and the Democratic Party has no plan to combat fascism. Let's all learn together how socialists can fight back to win a world worth living in.
 
