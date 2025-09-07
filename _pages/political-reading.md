@@ -9,7 +9,7 @@ permalink: /political-reading/
 
 <h2>Currently Reading</h2>
 
-<h4>Autumn Picks: Blackshirts & Reds and Abolish Silicon Valley</h4>
+<h4>Blackshirts & Reds and Abolish Silicon Valley</h4>
 
 <img src="https://peninsuladsa.org/assets/images/Book_Club_Multi-Meeting_Template_B.png" align="right" height="" width="40%">
 
@@ -17,9 +17,9 @@ The working class struggles to survive because capitalists have stolen our time 
 
 Every other Tuesday, 6:15-8pm
 <br>
-* **September 16** — _Chapters 1-4_, [Blackshirts & Reds: Rational Fascism and the Defeat of Communism](https://www.michael-parenti.org/book-blackshirts-and-reds) by Michael Parenti
-* **September 30** — _Chapters 5-9_, [Blackshirts & Reds: Rational Fascism and the Defeat of Communism](https://www.michael-parenti.org/book-blackshirts-and-reds) by Michael Parenti
-* **October 14, 28 & November 11** — [Abolish Silicon Valley: How to Liberate Technology from Capitalism](https://abolishsiliconvalley.com/) by Wendy Liu
+* September 16 — _Chapters 1-4_, [Blackshirts & Reds: Rational Fascism and the Defeat of Communism](https://www.michael-parenti.org/book-blackshirts-and-reds) by Michael Parenti
+* September 30 — _Chapters 5-9_, [Blackshirts & Reds: Rational Fascism and the Defeat of Communism](https://www.michael-parenti.org/book-blackshirts-and-reds) by Michael Parenti
+* October 14, 28 & November 11 — [Abolish Silicon Valley: How to Liberate Technology from Capitalism](https://abolishsiliconvalley.com/) by Wendy Liu
 
 [Fireside Books & More](https://firesiderwc.com/), 2421 Broadway, Redwood City (by Caltrain station)
 <br>
