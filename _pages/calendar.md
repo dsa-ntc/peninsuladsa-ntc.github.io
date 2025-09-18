@@ -11,7 +11,7 @@ permalink: /calendar/
 <h3>:rose: Meetings</h3>
 
 * **General meetings** are dedicated to presentations on special topics, chapterwide discussions, reports, voting, and more. They are usually held on our Discord on 3rd Sundays, 4-6pm.
-* [**Reading group**](../political-reading) meets every other Tuesday evening at 6:30pm at [Fireside Books](https://firesiderwc.com/) in downtown Redwood City. A hybrid option is available: see calendar item below for link.
+* [**Reading group**](../political-reading) meets every other Tuesday evening at 6:15pm at [Fireside Books](https://firesiderwc.com/) in downtown Redwood City. A hybrid option is available: see calendar item below for link.
 * [**Working groups**](../get-involved) have their own meeting schedules: see below for confirmed events.
 
 ---
@@ -19,7 +19,7 @@ permalink: /calendar/
 <h3>:rose: Social Events</h3>
 
 * **Member socials** are usually held on 1st Fridays at 6-7:30pm, alternating between coastside and bayside venues: see below for confirmed events.
-* **Play n' praxis game nights** will be back soon!
+* **Play n'praxis game nights** will be back soon!
 
 <div id="upcoming"></div><!--/span-->
 <div class="span9">
