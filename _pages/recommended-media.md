@@ -17,7 +17,7 @@ permalink: /recommended-media/
 * [Cosmonaut Mag](https://cosmonautmag.com/) - a Marxist magazine for revolutionary strategy
 * [Defector](https://defector.com/) - an employee-owned sports and culture website
 * [Democratic Left](https://democraticleft.dsausa.org/) 🌹 - DSA's official publication!
-* [Democracy Now](https://www.democracynow.org/) - daily, global, independent news hour hosted by award-winning journalists Amy Goodman and Juan González
+* [Democracy Now!](https://www.democracynow.org/) - daily, global, independent news hour hosted by award-winning journalists Amy Goodman and Juan González
 * [Drop Site](https://www.dropsitenews.com) - independent news on politics and war, founded by Ryan Grim, Jeremy Scahill, and veterans of _The Intercept_
 * [Electronic Intifada](https://electronicintifada.net/) - an independent online news publication focusing on Palestine
 * [Fairness and Accuracy in Reporting (FAIR)](https://fair.org/) - national progressive media watchdog group, challenging corporate media bias, spin and misinformation
@@ -41,6 +41,7 @@ permalink: /recommended-media/
 * [Blowback](https://blowback.show/) - Co-hosts Brendan James and Noah Kulwin examine decades of US imperialism: the Iraq War (S1), the Cuban Revolution (S2), the Korean War (S3), the invasion of Afghanistan (S4), Indochina (S5), and Angola (S6 coming soon!).
 * [Chapo Trap House](https://www.chapotraphouse.com/) - an American socialist political comedy podcast
 * [Citations Needed](https://citationsneeded.libsyn.com/) - a podcast about the intersection of media, PR, and power, hosted by Nima Shirazi and Adam Johnson.
+* [Class](https://education.dsausa.org/class-the-npec-podcast/) - official podcast of DSA's National Political Education Committee (NPEC)
 * [Corner Späti](https://www.theleftberlin.com/corner-spati/) (Berlin + the rest of Europe) - "weekly discussions of a deteriorating world all from the comfort of your local smoke-filled Spätkauf"
 * [Death Panel](https://www.deathpanel.net) - "Politics, culture, and public policy from the left. Medicare for All now. Solidarity forever. Stay alive another week."
 * [The Deprogram](https://www.youtube.com/@thedeprogram9999) - "The only truly international, global, and anti-capitalist podcast you’ll find"
@@ -87,11 +88,11 @@ _Media Criticism_
 * [Innuendo Studies](https://www.youtube.com/@InnuendoStudios)
 * [Lady Izdihar](https://www.youtube.com/@LadyIzdihar)
 * [Leeja Miller](https://www.youtube.com/@LeejaMiller)
+* [Michael Burns](https://www.youtube.com/@MichaelOBurns)
 * [Noah Samsen](https://www.youtube.com/@noahsamsen)
 * [Radical Planning](https://www.youtube.com/@radicalplanning)
 * [Second Thought](https://www.youtube.com/@SecondThought)
 * [Some More News](https://www.youtube.com/@SMN)
-* [Wisecrack](https://youtube.com/@wisecrackedu)
 * [Zoe Bee](https://www.youtube.com/@zoe_bee)
 
 _Miscellaneous_
@@ -119,10 +120,10 @@ _Miscellaneous_
 
 * [Bound Together](https://boundtogether.org/) - San Francisco (the Haight)
 * [City Lights](https://citylights.com/) - San Francisco (North Beach)
+* [Fireside Books & More](https://firesiderwc.com/) - Redwood City
 * [Dog Eared Books](https://www.dogearedbooks.com/) - San Francisco (the Mission)
 * [Marcus Books](https://www.marcusbooks.com/) - Oakland
 * [Recycle Bookstore](https://www.recyclebookstore.com/) - San Jose
-* [Revolution Books](https://revolutionbooks.org/) - Berkeley
 
 <h2>Other Third Spaces</h2>
 
