@@ -88,6 +88,7 @@ _Media Criticism_
 * [Innuendo Studies](https://www.youtube.com/@InnuendoStudios)
 * [Lady Izdihar](https://www.youtube.com/@LadyIzdihar)
 * [Leeja Miller](https://www.youtube.com/@LeejaMiller)
+* [The Michael Brooks Show](@TheMichaelBrooksShow)
 * [Michael Burns](https://www.youtube.com/@MichaelOBurns)
 * [Noah Samsen](https://www.youtube.com/@noahsamsen)
 * [Radical Planning](https://www.youtube.com/@radicalplanning)
