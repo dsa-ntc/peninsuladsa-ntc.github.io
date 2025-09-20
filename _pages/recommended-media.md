@@ -11,6 +11,8 @@ permalink: /recommended-media/
 
 🌹 = affiliated with DSA
 
+* [404 Media](https://www.404media.co/) - a journalist-founded digital media company exploring the ways technology is shaping–and is shaped by–our world
+* [Aftermath](https://aftermath.site/) - a worker-owned, reader-supported news site covering video games, the internet, and the cultures that surround them (many Kontaku alumni)
 * [Bay Area Current](https://bayareacurrent.com/) 🌹 - the Bay Area's brand-new leftist news site 
 * [Breakthrough News](https://www.youtube.com/@BreakThroughNews) - 501(c)3 nonprofit news organization that tells untold stories of resistance from poor and working-class communities
 * [California Red](https://www.californiadsa.org/news) 🌹 - California DSA's bimonthly magazine
@@ -46,6 +48,8 @@ permalink: /recommended-media/
 * [Death Panel](https://www.deathpanel.net) - "Politics, culture, and public policy from the left. Medicare for All now. Solidarity forever. Stay alive another week."
 * [The Deprogram](https://www.youtube.com/@thedeprogram9999) - "The only truly international, global, and anti-capitalist podcast you’ll find"
 * [The Dig](https://thedigradio.com/) - Daniel Denvir's Jacobin podcast on politics, history, and economics everywhere
+* [Doomscroll](https://www.youtube.com/@doomscrollpodcast) - Doomscroll explores online culture and politics in the 21st century
+* [Dystopia Now](https://podcastaddict.com/podcast/dystopia-now/5677277) - a show where a comedian (Kate Willett) and an academic (Emile Torres) explore the philosophies and religions of Silicon Valley and tech billionaires shaping our country, our world, and our future
 * [Guerilla History](https://guerrillahistory.libsyn.com/) - "a reconnaissance report of global history for the activist left, and aims to use the lessons of history to analyze the present"
 * [Left on Red](https://podcasts.apple.com/us/podcast/left-on-red/id1675598831) - "a Gen-X mom and gay millennial do socialism"
 * [Leftist Reading](https://www.abnormalmapping.com/leftist-reading-rss)
@@ -55,6 +59,7 @@ permalink: /recommended-media/
 * [Red Menace](https://redmenace.libsyn.com/) - "explains and analyzes revolutionary theory and then applies its lessons to our contemporary conditions"
 * [The Red Nation Podcast](https://www.therednation.org/) - "Until Decolonization, Liberation, and Landback"
 * [Revolutionary Left Radio](https://revolutionaryleftradio.libsyn.com/) - "explores political philosophy, history, science, religion, culture, art, and struggle through a socialist lens"
+* [System Crash](https://www.audacy.com/podcast/system-crash-28cdd/episodes) - a weekly tech news show for you — the people Silicon Valley is happening to. Hosted by Paris Marx and Brian Merchant
 * [Tech Won’t Save Us](https://techwontsave.us/) - "Silicon Valley promised us progress. That’s not what it delivered."
 * [This Machine Kills](https://www.patreon.com/thismachinekills) - "agitprop against innovation and capital"
 * [Trash Futures](https://trashfuture.co.uk/) (UK) - "a podcast about business success and making yourself smarter with the continued psychic trauma of capitalism"
@@ -82,7 +87,10 @@ _Media Criticism_
 <h2>Video Essayists</h2>
 
 * [1Dime](https://www.youtube.com/@1Dimee)
+* [Bes D. Marx](https://www.youtube.com/@BesDMarx)
 * [Boy Boy](https://www.youtube.com/@Boy_Boy)
+* [Charles H Kerr Publishing](https://charleshkerr.com/)
+* [F.D Signifier](https://www.youtube.com/@FDSignifire)
 * [Folding Ideas](https://www.youtube.com/c/FoldingIdeas)
 * [Hbomberguy](https://www.youtube.com/@hbomberguy)
 * [Innuendo Studies](https://www.youtube.com/@InnuendoStudios)
@@ -91,9 +99,13 @@ _Media Criticism_
 * [The Michael Brooks Show](@TheMichaelBrooksShow)
 * [Michael Burns](https://www.youtube.com/@MichaelOBurns)
 * [Noah Samsen](https://www.youtube.com/@noahsamsen)
+* [People Make Games](https://www.youtube.com/@PeopleMakeGames)
 * [Radical Planning](https://www.youtube.com/@radicalplanning)
 * [Second Thought](https://www.youtube.com/@SecondThought)
 * [Some More News](https://www.youtube.com/@SMN)
+* [Taylor Lorenz](https://www.youtube.com/@TaylorLorenz)
+* [Three Arrows](https://www.youtube.com/@ThreeArrows)
+* [Yugopnik](https://www.youtube.com/@YUGOPNIK)
 * [Zoe Bee](https://www.youtube.com/@zoe_bee)
 
 _Miscellaneous_
@@ -119,11 +131,13 @@ _Miscellaneous_
 
 <h2>Bookstores</h2>
 
+* [B Street Books](https://www.bstreetbooks.com/) - Burlingame
 * [Bound Together](https://boundtogether.org/) - San Francisco (the Haight)
 * [City Lights](https://citylights.com/) - San Francisco (North Beach)
 * [Fireside Books & More](https://firesiderwc.com/) - Redwood City
 * [Dog Eared Books](https://www.dogearedbooks.com/) - San Francisco (the Mission)
 * [Marcus Books](https://www.marcusbooks.com/) - Oakland
+* [Moments Cooperative & Community Space](https://www.momentscooperative.com/) - Oakland
 * [Recycle Bookstore](https://www.recyclebookstore.com/) - San Jose
 
 <h2>Other Third Spaces</h2>
