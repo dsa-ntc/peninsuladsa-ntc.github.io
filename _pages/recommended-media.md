@@ -116,8 +116,8 @@ _Miscellaneous_
 <h2>Blogs</h2>
 
 * [Alex Press](https://twitter.com/alexnpress)
-* [Left in the Bay](https://leftinthebay.com/) – also on [Instagram](https://www.instagram.com/leftinthebay/) and [Twitter-X](https://twitter.com/leftinthebay)
 * [Ettingermentum](https://www.ettingermentum.news/) – also on [Twitter-X](https://x.com/ettingermentum)
+* [Left in the Bay](https://leftinthebay.com/) – also on [Instagram](https://www.instagram.com/leftinthebay/) and [Twitter-X](https://twitter.com/leftinthebay)
 
 <h2>Publishers</h2>
 
