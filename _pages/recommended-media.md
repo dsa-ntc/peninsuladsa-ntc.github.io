@@ -30,6 +30,7 @@ permalink: /recommended-media/
 * [Jewish Currents](https://jewishcurrents.org/) - award-winning magazine of politics, culture, and ideas
 * [Majority](https://majorityreportradio.com/) [Report](https://www.youtube.com/@TheMajorityReport) - daily political talk show with Sam Seder
 * [Monthly Review](https://monthlyreview.org/) - an independent socialist magazine
+* [More Perfect Union]](https://perfectunion.us/) - an Emmy award-winning advocacy journalism nonprofit is built on a simple credo: “Building power for the working class”
 * [The Nation](https://www.thenation.com/) - independent US journalism and investigative reporting
 * [Novara Media](https://novaramedia.com/) - independent UK media organisation addressing the issues that are set to define the 21st century, from a crisis of capitalism to racism and climate change
 * [Owen Jones](https://www.youtube.com/@OwenJonesTalks) - independent channel with man-on-the-street interviews
