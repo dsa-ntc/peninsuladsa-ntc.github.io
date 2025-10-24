@@ -9,7 +9,7 @@ permalink: /political-reading/
 
 <h2>Currently Reading</h2>
 
-<h4>Blackshirts & Reds and Abolish Silicon Valley</h4>
+<h4>Abolish Silicon Valley</h4>
 
 <img src="https://peninsuladsa.org/assets/images/Book_Club_Multi-Meeting_Template_B.png" align="right" height="" width="40%">
 
@@ -17,11 +17,12 @@ The working class struggles to survive because capitalists have stolen our time 
 
 Every other Tuesday, 6:15-8pm
 <br>
-* September 16 — _Chapters 1-4_, [Blackshirts & Reds: Rational Fascism and the Defeat of Communism](https://www.michael-parenti.org/book-blackshirts-and-reds) by Michael Parenti
-* September 30 — _Chapters 5-9_, [Blackshirts & Reds: Rational Fascism and the Defeat of Communism](https://www.michael-parenti.org/book-blackshirts-and-reds) by Michael Parenti
-* October 14 — _Chapters 0-5_ [Abolish Silicon Valley: How to Liberate Technology from Capitalism](https://abolishsiliconvalley.com/) by Wendy Liu
+* ~~October 14 — _Chapters 0-5_ [Abolish Silicon Valley: How to Liberate Technology from Capitalism](https://abolishsiliconvalley.com/) by Wendy Liu~~
 * October 28 — _Chapters 6-10_ [Abolish Silicon Valley: How to Liberate Technology from Capitalism](https://abolishsiliconvalley.com/) by Wendy Liu
 * November 11 — _Chapters 11-12_ and special guest! [Abolish Silicon Valley: How to Liberate Technology from Capitalism](https://abolishsiliconvalley.com/) by Wendy Liu
+* NEW DATE! November 18 - [Abolish Rent: How Tenants Can End the Housing Crisis](https://bookshop.org/p/books/abolish-rent-how-tenants-can-end-the-housing-crisis-leonardo-vilchis/c1901b8e26387cf4?ean=9798888902523&next=t) by Tracy Rosenthal and Leonardo Vilchis
+* December 2 - TBD
+* December 16 - TBD
 
 [Fireside Books & More](https://firesiderwc.com/), 2421 Broadway, Redwood City (by Caltrain station)
 <br>
@@ -36,6 +37,7 @@ Virtual: [Google Meet](https://meet.google.com/yqs-mvtd-ahn)
 <img src="https://peninsuladsa.org/assets/images/Peninsula DSA reading group meets Malcolm Harris at Kepler's Books 2025.04.jpg" align="right" height="300" width="">
 
 <h3>2025</h3>
+* [Blackshirts & Reds: Rational Fascism and the Defeat of Communism](https://www.michael-parenti.org/book-blackshirts-and-reds) by Michael Parenti
 * [Wage-Labor and Capital (*Lohnarbeit und Kapital*)](https://www.marxists.org/archive/marx/works/1847/wage-labour/) by Karl Marx
 * [The State and Revolution (*Государство и революция*)](https://www.marxists.org/archive/lenin/works/1917/staterev/) by Vladimir Lenin
 * [What's Left: Three Paths Through the Planetary Crisis](<https://bookshop.org/p/books/what-s-left-three-paths-through-the-planetary-crisis-malcolm-harris/21718858>) (2025) by Malcolm Harris
