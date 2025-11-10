@@ -18,11 +18,11 @@ The working class struggles to survive because capitalists have stolen our time 
 Every other Tuesday, 6:15-8pm
 <br>
 * ~~October 14 — _Chapters 0-5_ [Abolish Silicon Valley: How to Liberate Technology from Capitalism](https://abolishsiliconvalley.com/) by Wendy Liu~~
-* October 28 — _Chapters 6-10_ [Abolish Silicon Valley: How to Liberate Technology from Capitalism](https://abolishsiliconvalley.com/) by Wendy Liu
+* ~~October 28 — _Chapters 6-10_ [Abolish Silicon Valley: How to Liberate Technology from Capitalism](https://abolishsiliconvalley.com/) by Wendy Liu~~
 * November 11 — _Chapters 11-12_ and special guest! [Abolish Silicon Valley: How to Liberate Technology from Capitalism](https://abolishsiliconvalley.com/) by Wendy Liu
-* NEW DATE! November 18 - [Abolish Rent: How Tenants Can End the Housing Crisis](https://bookshop.org/p/books/abolish-rent-how-tenants-can-end-the-housing-crisis-leonardo-vilchis/c1901b8e26387cf4?ean=9798888902523&next=t) by Tracy Rosenthal and Leonardo Vilchis
+* NEW DATE! November 18 - _Chapters 1-3_ [Abolish Rent: How Tenants Can End the Housing Crisis](https://bookshop.org/p/books/abolish-rent-how-tenants-can-end-the-housing-crisis-leonardo-vilchis/c1901b8e26387cf4?ean=9798888902523&next=t) by Tracy Rosenthal and Leonardo Vilchis
 * December 2 - [Abolish Rent: How Tenants Can End the Housing Crisis](https://bookshop.org/p/books/abolish-rent-how-tenants-can-end-the-housing-crisis-leonardo-vilchis/c1901b8e26387cf4?ean=9798888902523&next=t) by Tracy Rosenthal and Leonardo Vilchis
-* December 16 - TBD
+* December 16 - special guest! [Abolish Rent: How Tenants Can End the Housing Crisis](https://bookshop.org/p/books/abolish-rent-how-tenants-can-end-the-housing-crisis-leonardo-vilchis/c1901b8e26387cf4?ean=9798888902523&next=t) by Tracy Rosenthal and Leonardo Vilchis
 
 [Fireside Books & More](https://firesiderwc.com/), 2421 Broadway, Redwood City (by Caltrain station)
 <br>
