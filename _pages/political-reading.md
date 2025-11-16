@@ -11,16 +11,20 @@ permalink: /political-reading/
 
 <h4>Abolish Rent: How Tenants Can End the Housing Crisis</h4>
 
-<img src="https://peninsuladsa.org/assets/images/Book_Club_Multi-Meeting_Template_B.png" align="right" height="" width="40%">
+<img src="https://peninsuladsa.org/assets/images/Abolish Rent cover.jpg" align="right" height="" width="40%">
 
-The working class struggles to survive because capitalists have stolen our time and resources. The billionaires have no plan for the climate crisis, and the Democratic Party has no plan to combat fascism on our home turf. Let's all learn together how socialists can fight back to win a world worth living in.
+[_Abolish Rent_](https://bookshop.org/p/books/abolish-rent-how-tenants-can-end-the-housing-crisis-leonardo-vilchis/c1901b8e26387cf4?ean=9798888902523&next=t) takes aim at one of the foremost engines of inequality and injustice.
+
+Rent drives millions into debt, despair, and onto the streets. The social cost of rent is too damn high. Written for anyone fed up with the permanent housing crisis, complicit politicians, and real estate greed, _Abolish Rent_ dissects our housing system from the perspective of those it immiserates. Through unsparing analysis and striking stories of resistance, it shows us how tenants can, through organizing and collective action, harness our power and win the housing we deserve.
+
+From two co-founders of the largest tenants union in the country, this deeply reported account of the resurgent tenant movement centers poor and working-class people who are fighting back, staying put, and remaking the city in the process. Authors Tracy Rosenthal and Leonardo Vilchis take us to trilingual strategy meetings, raucous marches against gentrification, and daring eviction defenses where immigrants put their lives on the line. These are the seeds of the revolutionary movement we need to make our housing, our cities, and the world our home.
 
 [Abolish Rent: How Tenants Can End the Housing Crisis](https://bookshop.org/p/books/abolish-rent-how-tenants-can-end-the-housing-crisis-leonardo-vilchis/c1901b8e26387cf4?ean=9798888902523&next=t) by Tracy Rosenthal and Leonardo Vilchis
 Every other Tuesday, 6:15-8pm
 <br>
 * November 18: **Abolish Rent**—Chapters 1-3 
 * December 2: **Abolish Rent**—Chapters 4-5
-* December 16: **Abolish Rent**—Special guest!
+* December 16: **Abolish Rent**—Special guest author [Tracy Rosenthal](https://tracyrosenthal.com/)!
 
 [Fireside Books & More](https://firesiderwc.com/), 2421 Broadway, Redwood City (by Caltrain station)
 <br>
