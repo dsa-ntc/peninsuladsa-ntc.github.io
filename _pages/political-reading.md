@@ -19,7 +19,6 @@ Rent drives millions into debt, despair, and onto the streets. The social cost o
 
 From two co-founders of the largest tenants union in the country, this deeply reported account of the resurgent tenant movement centers poor and working-class people who are fighting back, staying put, and remaking the city in the process. Authors Tracy Rosenthal and Leonardo Vilchis take us to trilingual strategy meetings, raucous marches against gentrification, and daring eviction defenses where immigrants put their lives on the line. These are the seeds of the revolutionary movement we need to make our housing, our cities, and the world our home.
 
-[Abolish Rent: How Tenants Can End the Housing Crisis](https://bookshop.org/p/books/abolish-rent-how-tenants-can-end-the-housing-crisis-leonardo-vilchis/c1901b8e26387cf4?ean=9798888902523&next=t) by Tracy Rosenthal and Leonardo Vilchis
 Every other Tuesday, 6:15-8pm
 <br>
 * November 18: **Abolish Rent**—Chapters 1-3 
