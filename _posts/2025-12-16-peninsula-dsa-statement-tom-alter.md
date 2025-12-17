@@ -20,7 +20,7 @@ As a chapter, we strongly support the First Amendment right to free speech, as w
 **Reinstate Comrade Alter now!**<br>
 [https://defendtomalter.org/](https://defendtomalter.org/)
 
-[<a id='1'>1</a>1] https://www.theguardian.com/us-news/2025/oct/01/academic-freedom-us<br>
+[<a id='1'>1</a>] https://www.theguardian.com/us-news/2025/oct/01/academic-freedom-us<br>
 [<a id='2'>2</a>] https://jewishcurrents.org/higher-ed-under-attack<br>
 [<a id='3'>3</a>] https://therealnews.com/inside-trumps-assault-on-universities<br>
 [<a id='4'>4</a>] https://jewishcurrents.org/higher-eds-bad-bargain<br>
