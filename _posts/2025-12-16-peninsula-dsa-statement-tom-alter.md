@@ -17,13 +17,13 @@ As socialists  with a particular solidarity with working teachers, we are deeply
 As a chapter, we strongly support the First Amendment right to free speech, as well as job protections against illegal firing. This case is about the right of socialists to teach and to exist in public in this society, as well as defending the rights of all working people. Peninsula DSA remains committed to its support of teachers' unions, and to general academic and intellectual freedom, and we proudly add our name to the list of organizations nationwide supporting the Committee to Defend Tom Alter. States away we may be, but our struggles are alike.
 
 
-**Reinstate Comrade Alter now!**
+**Reinstate Comrade Alter now!**<br>
 [https://defendtomalter.org/](https://defendtomalter.org/)
 
-[<a id='1'>1</a>1] https://www.theguardian.com/us-news/2025/oct/01/academic-freedom-us
-[<a id='2'>2</a>] https://jewishcurrents.org/higher-ed-under-attack 
-[<a id='3'>3</a>] https://therealnews.com/inside-trumps-assault-on-universities 
-[<a id='4'>4</a>] https://jewishcurrents.org/higher-eds-bad-bargain 
-[<a id='5'>5</a>] https://www.insidehighered.com/news/faculty-issues/academic-freedom/2025/09/19/right-wing-doxing-campaign-endangers-faculty-and 
-[<a id='6'>6</a>] https://labornotes.org/blogs/2025/11/texas-college-teacher-fired-free-speech 
-[<a id='7'>7</a>] https://www.youtube.com/watch?v=1gCBU2OOX9Y 
+[<a id='1'>1</a>1] https://www.theguardian.com/us-news/2025/oct/01/academic-freedom-us<br>
+[<a id='2'>2</a>] https://jewishcurrents.org/higher-ed-under-attack<br>
+[<a id='3'>3</a>] https://therealnews.com/inside-trumps-assault-on-universities<br>
+[<a id='4'>4</a>] https://jewishcurrents.org/higher-eds-bad-bargain<br>
+[<a id='5'>5</a>] https://www.insidehighered.com/news/faculty-issues/academic-freedom/2025/09/19/right-wing-doxing-campaign-endangers-faculty-and<br>
+[<a id='6'>6</a>] https://labornotes.org/blogs/2025/11/texas-college-teacher-fired-free-speech<br>
+[<a id='7'>7</a>] https://www.youtube.com/watch?v=1gCBU2OOX9Y
