@@ -20,10 +20,10 @@ As a chapter, we strongly support the First Amendment right to free speech, as w
 **Reinstate Comrade Alter now!**<br>
 [https://defendtomalter.org/](https://defendtomalter.org/)
 
-[<a id='1'>1</a>] https://www.theguardian.com/us-news/2025/oct/01/academic-freedom-us<br>
-[<a id='2'>2</a>] https://jewishcurrents.org/higher-ed-under-attack<br>
-[<a id='3'>3</a>] https://therealnews.com/inside-trumps-assault-on-universities<br>
-[<a id='4'>4</a>] https://jewishcurrents.org/higher-eds-bad-bargain<br>
-[<a id='5'>5</a>] https://www.insidehighered.com/news/faculty-issues/academic-freedom/2025/09/19/right-wing-doxing-campaign-endangers-faculty-and<br>
-[<a id='6'>6</a>] https://labornotes.org/blogs/2025/11/texas-college-teacher-fired-free-speech<br>
-[<a id='7'>7</a>] https://www.youtube.com/watch?v=1gCBU2OOX9Y
+[<a id='1'>1</a>] [https://www.theguardian.com/us-news/2025/oct/01/academic-freedom-us](https://www.theguardian.com/us-news/2025/oct/01/academic-freedom-us)<br>
+[<a id='2'>2</a>] [https://jewishcurrents.org/higher-ed-under-attack](https://jewishcurrents.org/higher-ed-under-attack)<br>
+[<a id='3'>3</a>] [https://therealnews.com/inside-trumps-assault-on-universities](https://therealnews.com/inside-trumps-assault-on-universities)<br>
+[<a id='4'>4</a>] [https://jewishcurrents.org/higher-eds-bad-bargain](https://jewishcurrents.org/higher-eds-bad-bargain)<br>
+[<a id='5'>5</a>] [https://www.insidehighered.com/news/faculty-issues/academic-freedom/2025/09/19/right-wing-doxing-campaign-endangers-faculty-and](https://www.insidehighered.com/news/faculty-issues/academic-freedom/2025/09/19/right-wing-doxing-campaign-endangers-faculty-and)<br>
+[<a id='6'>6</a>] [https://labornotes.org/blogs/2025/11/texas-college-teacher-fired-free-speech](https://labornotes.org/blogs/2025/11/texas-college-teacher-fired-free-speech)<br>
+[<a id='7'>7</a>] [https://www.youtube.com/watch?v=1gCBU2OOX9Y](https://www.youtube.com/watch?v=1gCBU2OOX9Y)
