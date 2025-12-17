@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "Peninsula DSA reaffirms its commitment to intellectual freedom: Reinstate Comrade Tom Alter now!"
-permalink: /2025-12-25-peninsula-dsa-statement-tom-alter/
+permalink: /2025-12-16-peninsula-dsa-statement-tom-alter/
 tag: statement
 short_description: "Peninsula (CA) DSA reaffirms our commitment to academic freedom and joins the growing chorus of voices calling for reistatement of Prof. Tom Alter."
 ---
