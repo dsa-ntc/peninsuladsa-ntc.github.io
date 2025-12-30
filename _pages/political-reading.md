@@ -9,21 +9,16 @@ permalink: /political-reading/
 
 <h2>Currently Reading</h2>
 
-<h4>Abolish Rent: How Tenants Can End the Housing Crisis</h4>
+<h4>Lenin's "Left-Wing" Communism: An Infantile Disorder </h4>
 
-<img src="https://peninsuladsa.org/assets/images/Abolish Rent cover.jpg" align="right" height="" width="40%">
-
-[_Abolish Rent_](https://bookshop.org/p/books/abolish-rent-how-tenants-can-end-the-housing-crisis-leonardo-vilchis/c1901b8e26387cf4?ean=9798888902523&next=t) takes aim at one of the foremost engines of inequality and injustice.
-
-Rent drives millions into debt, despair, and onto the streets. The social cost of rent is too damn high. Written for anyone fed up with the permanent housing crisis, complicit politicians, and real estate greed, _Abolish Rent_ dissects our housing system from the perspective of those it immiserates. Through unsparing analysis and striking stories of resistance, it shows us how tenants can, through organizing and collective action, harness our power and win the housing we deserve.
-
-From two co-founders of the largest tenants union in the country, this deeply reported account of the resurgent tenant movement centers poor and working-class people who are fighting back, staying put, and remaking the city in the process. Authors Tracy Rosenthal and Leonardo Vilchis take us to trilingual strategy meetings, raucous marches against gentrification, and daring eviction defenses where immigrants put their lives on the line. These are the seeds of the revolutionary movement we need to make our housing, our cities, and the world our home.
+With this now-classic work, 
+[_"Left Wing" Communism_](https://www.marxists.org/archive/lenin/works/1920/lwc/), Lenin aimed to encapsulate the lessons the Bolshevik Party had learned from its involvement in three revolutions in 12 years—-in a manner that European Communists could relate to. He also further develops the theory of what the “dictatorship of the proletariat” means and stresses that the primary dangers for the working-class movement in general are opportunism on the one hand, and anti-Marxist ultraleftism on the other.
 
 Every other Tuesday, 6:15-8pm
 <br>
-* November 18: **Abolish Rent**—Chapters 1-3 
-* December 2: **Abolish Rent**—Chapters 4-5
-* December 16: **Abolish Rent**—Special guest author [Tracy Rosenthal](https://tracyrosenthal.com/)!
+* January 13: **V.I. Lenin—["Left-Wing" Communism: An Infantile Disorder](https://www.marxists.org/archive/lenin/works/1920/lwc/)** 
+* January 27: **Engels—[Socialism: Utopian and Scientific](https://www.marxists.org/archive/marx/works/1880/soc-utop/index.htm)**
+* February 10: TBA
 
 [Fireside Books & More](https://firesiderwc.com/), 2421 Broadway, Redwood City (by Caltrain station)
 <br>
