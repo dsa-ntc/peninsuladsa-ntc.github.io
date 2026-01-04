@@ -14,11 +14,11 @@ permalink: /political-reading/
 With this now-classic work, 
 [_"Left Wing" Communism_](https://www.marxists.org/archive/lenin/works/1920/lwc/), Lenin aimed to encapsulate the lessons the Bolshevik Party had learned from its involvement in three revolutions in 12 years—-in a manner that European Communists could relate to. He also further develops the theory of what the “dictatorship of the proletariat” means and stresses that the primary dangers for the working-class movement in general are opportunism on the one hand, and anti-Marxist ultraleftism on the other.
 
-Every other Tuesday, 6:15-8pm
+NEW DATES! Every other Tuesday, 6:15-8pm
 <br>
-* January 13: **V.I. Lenin—["Left-Wing" Communism: An Infantile Disorder](https://www.marxists.org/archive/lenin/works/1920/lwc/)** 
-* January 27: **Engels—[Socialism: Utopian and Scientific](https://www.marxists.org/archive/marx/works/1880/soc-utop/index.htm)**
-* February 10: TBA
+* January 6: **V.I. Lenin—["Left-Wing" Communism: An Infantile Disorder](https://www.marxists.org/archive/lenin/works/1920/lwc/)** 
+* January 20: **Engels—[Socialism: Utopian and Scientific](https://www.marxists.org/archive/marx/works/1880/soc-utop/index.htm)**
+* February 3: TBA
 
 [Fireside Books & More](https://firesiderwc.com/), 2421 Broadway, Redwood City (by Caltrain station)
 <br>
