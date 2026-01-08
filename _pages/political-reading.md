@@ -9,16 +9,17 @@ permalink: /political-reading/
 
 <h2>Currently Reading</h2>
 
-<h4>Lenin's "Left-Wing" Communism: An Infantile Disorder </h4>
+<h4>Friedrich Engels's Socialism: Utopian and Scientific</h4>
 
-With this now-classic work, 
-[_"Left Wing" Communism_](https://www.marxists.org/archive/lenin/works/1920/lwc/), Lenin aimed to encapsulate the lessons the Bolshevik Party had learned from its involvement in three revolutions in 12 years—-in a manner that European Communists could relate to. He also further develops the theory of what the “dictatorship of the proletariat” means and stresses that the primary dangers for the working-class movement in general are opportunism on the one hand, and anti-Marxist ultraleftism on the other.
+In this extraordinary work, Friedrich Engels, the lifelong collaborator with Karl Marx, describes the greatest accomplishment of Marxism—transferring socialism from the realm of abstract morality, and basing it upon the laws and potentialities of the world as it exists.
 
-NEW DATES! Every other Tuesday, 6:15-8pm
+He explains the relationship between previously-existing types of socialism, which ultimately considered the reorganization of society as a matter of appealing to the better sentiments of the ruling class, and that of Marxism, which recognizes the material basis for the antagonism between capitalist and worker, and, with the aid of this knowledge, seeks to reorganize society through the class struggle.
+
+PDSA's reading group meetings every other Tuesday, 6:15-8pm:
 <br>
-* January 6: **V.I. Lenin—["Left-Wing" Communism: An Infantile Disorder](https://www.marxists.org/archive/lenin/works/1920/lwc/)** 
-* January 20: **Engels—[Socialism: Utopian and Scientific](https://www.marxists.org/archive/marx/works/1880/soc-utop/index.htm)**
-* February 3: TBA
+* January 20: **[Socialism: Utopian and Scientific](https://www.marxists.org/archive/marx/works/1880/soc-utop/index.htm)** (1880) by Frederick Engels
+* February 3: **[Revolutionary Suicide](https://bookshop.org/p/books/revolutionary-suicide-penguin-classics-deluxe-edition-huey-p-newton/4c8d2107d3fda80a)** (1973) by Huey P. Newton (of the Black Panther Party)
+* February 17: Continue **Revolutionary Suicide** by Huey P. Newton
 
 [Fireside Books & More](https://firesiderwc.com/), 2421 Broadway, Redwood City (by Caltrain station)
 <br>
@@ -32,11 +33,15 @@ Virtual: [Google Meet](https://meet.google.com/yqs-mvtd-ahn)
 
 <img src="https://peninsuladsa.org/assets/images/Peninsula DSA reading group meets Malcolm Harris at Kepler's Books 2025.04.jpg" align="right" height="300" width="">
 
+<h3>2026</h3>
+* ["Left-Wing" Communism: An Infantile Disorder](https://www.marxists.org/archive/lenin/works/1920/lwc/) by Vladimir Lenin
+
 <h3>2025</h3>
-* [Abolish Silicon Valley: How to Liberate Technology from Capitalism](https://abolishsiliconvalley.com/) by Wendy Liu
-* [Blackshirts & Reds: Rational Fascism and the Defeat of Communism](https://www.michael-parenti.org/book-blackshirts-and-reds) by Michael Parenti
-* [Wage-Labor and Capital (*Lohnarbeit und Kapital*)](https://www.marxists.org/archive/marx/works/1847/wage-labour/) by Karl Marx
-* [The State and Revolution (*Государство и революция*)](https://www.marxists.org/archive/lenin/works/1917/staterev/) by Vladimir Lenin
+* [Abolish Rent: How Tenants Can End the Housing Crisis](https://www.haymarketbooks.org/books/2443-abolish-rent) (2024) by Tracy Rosenthal and Leonardo Vilchis
+* [Abolish Silicon Valley: How to Liberate Technology from Capitalism](https://abolishsiliconvalley.com/) (2020) by Wendy Liu
+* [Blackshirts & Reds: Rational Fascism and the Defeat of Communism](https://www.michael-parenti.org/book-blackshirts-and-reds) (1997) by Michael Parenti
+* [Wage-Labor and Capital (*Lohnarbeit und Kapital*)](https://www.marxists.org/archive/marx/works/1847/wage-labour/) (1847) by Karl Marx
+* [The State and Revolution (*Государство и революция*)](https://www.marxists.org/archive/lenin/works/1917/staterev/) (1917( by Vladimir Lenin
 * [What's Left: Three Paths Through the Planetary Crisis](<https://bookshop.org/p/books/what-s-left-three-paths-through-the-planetary-crisis-malcolm-harris/21718858>) (2025) by Malcolm Harris
 * [ABCs of Socialism](https://archive.org/details/abcs-of-socialism/mode/1up?view=theater) by [Jacobin](https://jacobin.com/) + [Verso](https://www.versobooks.com/).
 * [Ideas for the Struggle](https://www.oldandnewproject.net/Essays/Harnecker_Ideas.html) (2004, revised 2016) by Marta Harnecker.
