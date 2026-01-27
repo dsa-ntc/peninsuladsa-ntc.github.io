@@ -9,17 +9,16 @@ permalink: /political-reading/
 
 <h2>Currently Reading</h2>
 
-<h4>Friedrich Engels's Socialism: Utopian and Scientific</h4>
+<h4>Revolutionary Suicide by Huey P. Newton</h4>
 
-In this extraordinary work, Friedrich Engels, the lifelong collaborator with Karl Marx, describes the greatest accomplishment of Marxism—transferring socialism from the realm of abstract morality, and basing it upon the laws and potentialities of the world as it exists.
+Tracing the birth of a revolutionary, Huey P. Newton's famous and oft-quoted autobiography is as much a manifesto as a portrait of the inner circle of America's [Black Panther Party](https://en.wikipedia.org/wiki/Black_Panther_Party). From Newton's impoverished childhood on the streets of Oakland to his adolescence and struggles with the system, from his role in the Black Panthers to his solitary confinement in the Alameda County Jail, *Revolutionary Suicide* is unrepentant and thought-provoking in its portrayal of inspired radicalism.
 
-He explains the relationship between previously-existing types of socialism, which ultimately considered the reorganization of society as a matter of appealing to the better sentiments of the ruling class, and that of Marxism, which recognizes the material basis for the antagonism between capitalist and worker, and, with the aid of this knowledge, seeks to reorganize society through the class struggle.
-
-PDSA's reading group meetings every other Tuesday, 6:15-8pm:
+Our political reading group meets every other Tuesday, 6:15-8pm:
 <br>
-* January 20: **[Socialism: Utopian and Scientific](https://www.marxists.org/archive/marx/works/1880/soc-utop/index.htm)** (1880) by Frederick Engels
-* February 3: **[Revolutionary Suicide](https://bookshop.org/p/books/revolutionary-suicide-penguin-classics-deluxe-edition-huey-p-newton/4c8d2107d3fda80a)** (1973) by Huey P. Newton (of the Black Panther Party)
-* February 17: Continue **Revolutionary Suicide** by Huey P. Newton
+* February 3: Parts 1-3 of [**Revolutionary Suicide**](https://bookshop.org/p/books/revolutionary-suicide-penguin-classics-deluxe-edition-huey-p-newton/4c8d2107d3fda80a) (1973) by Huey P. Newton
+* February 17: Continue parts 4-6 of **Revolutionary Suicide**
+* March 3: Chapters 1-3 of [**Why Women Have Better Sex Under Socialism**](https://bookshop.org/p/books/why-women-have-better-sex-under-socialism-and-other-arguments-for-economic-independence-kristen-r-ghodsee/8006dcbac0b44c8f?ean=9781645036364&next=t&next=t) by Kristen Ghodsee
+* March 17: Continue chapters 4-6 of **Why Women Have Better Sex Under Socialism**
 
 [Fireside Books & More](https://firesiderwc.com/), 2421 Broadway, Redwood City (by Caltrain station)
 <br>
@@ -34,6 +33,7 @@ Virtual: [Google Meet](https://meet.google.com/yqs-mvtd-ahn)
 <img src="https://peninsuladsa.org/assets/images/Peninsula DSA reading group meets Malcolm Harris at Kepler's Books 2025.04.jpg" align="right" height="300" width="">
 
 <h3>2026</h3>
+* [Socialism: Utopian and Scientific](https://www.marxists.org/archive/marx/works/1880/soc-utop/index.htm) by Friedrich Engels
 * ["Left-Wing" Communism: An Infantile Disorder](https://www.marxists.org/archive/lenin/works/1920/lwc/) by Vladimir Lenin
 
 <h3>2025</h3>
