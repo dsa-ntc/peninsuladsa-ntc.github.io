@@ -9,13 +9,14 @@ permalink: /housing/
 
 <img src="https://peninsuladsa.org/assets/images/AffordableRedwoodCity.png" align="right" height="300" width="300">  
 
-At our most recent chapter convention (March 2023), PDSA members voted to endorse and provide material support to [Faith in Action Bay Area](https://faithinactionba.org/)’s [Affordable Redwood City](https://www.affordableredwoodcity.com/) housing campaign to win rent control and tenant protections. 
+At our most recent chapter convention (February 22nd 2026) PDSA members voted to endorse and provide material support to [Faith in Action Bay Area](https://faithinactionba.org/)’s [Affordable Redwood City](https://www.affordableredwoodcity.com/) housing campaign to win rent control and tenant protections.
+
+The ballot measure 
 
 Because this is a citizens' ballot measure campaign, a simple majority (50%) of voters can pass the measure into law in the November 2026 election, keeping Redwood City affordable, diverse, and vibrant - with no more unjustified rent hikes and unfair evictions!
 
-As confirmed with FiABA, PDSA will support the campaign by
+PDSA is supporting the campaign by
 
-1. joining their mobilizations to gather signatures (through June 2026),
-2. canvassing Redwood City voters (June to November 2026),
-3. phone banking voters (June to November 2026), and 
-4. staffing special campaign events as needed.
+1. joining their mobilizations to gather signatures [(complete as of April 2026!)](https://www.rwcpulse.com/redwood-city/2026/04/28/redwood-city-rent-control-measure-heads-to-county-for-signature-review/)
+2. canvassing and phone banking Redwood City voters (TBD June to November 2026)
+3. staffing special campaign events as needed
