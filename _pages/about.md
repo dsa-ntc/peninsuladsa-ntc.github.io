@@ -29,7 +29,7 @@ Peninsula DSA is the place to be if you're interested in
 
 Our Steering Committee (SC) is elected annually by our membership to provide leadership and administrative support for the chapter. Two co-chairs each work on tasks related to Membership (onboarding and engaging members), Agenda (planning and running chapter meetings), Communications (member and external communications), Finance (chapter funds and filings), and Liason. 
 The Steering Committee can be reached at the chapter's main email address: **info@peninsuladsa.org**
-Our current Steering Committee election was elected at PDSA's general meeting on May 17, 2026. 
+Our current Steering Committee election was elected at PDSA's recent chapter convention February 22nd, 2026. 
 
 * **Membership:** Rosa & Chet
 * **Agenda:** Peter & Sean
