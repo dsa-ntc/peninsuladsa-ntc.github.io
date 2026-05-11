@@ -9,16 +9,22 @@ permalink: /political-reading/
 
 <h2>Currently Reading</h2>
 
-<h4>Revolutionary Suicide by Huey P. Newton</h4>
 
-Tracing the birth of a revolutionary, Huey P. Newton's famous and oft-quoted autobiography is as much a manifesto as a portrait of the inner circle of America's [Black Panther Party](https://en.wikipedia.org/wiki/Black_Panther_Party). From Newton's impoverished childhood on the streets of Oakland to his adolescence and struggles with the system, from his role in the Black Panthers to his solitary confinement in the Alameda County Jail, *Revolutionary Suicide* is unrepentant and thought-provoking in its portrayal of inspired radicalism.
+
+<h4>[The End of Policing](https://www.versobooks.com/products/178-the-end-of-policing) by Alex S. Vitale</h4>
+
+**The bestselling bible of the movement to defund the police, in an updated edition**
+
+The massive uprising following the police killing of George Floyd in the summer of 2020--by some estimates the largest protests in US history--thrust the argument to defund the police to the forefront of international politics. It also made The End of Policing a bestseller and Alex Vitale, its author, a leading figure in the urgent public discussion over police and racial justice.
+
+As the writer Rachel Kushner put it in an article called "Things I Can't Live Without", this book explains that "unfortunately, no increased diversity on police forces, nor body cameras, nor better training, has made any seeming difference" in reducing police killings and abuse. "We need to restructure our society and put resources into communities themselves, an argument Alex Vitale makes very persuasively."
+
+The problem, Vitale demonstrates, is policing itself—the dramatic expansion of the police role over the last forty years. Drawing on first-hand research from across the globe, The End of Policing describes how the implementation of alternatives to policing, like drug legalization, regulation, and harm reduction instead of the policing of drugs, has led to reductions in crime, spending, and injustice. This edition includes a new introduction that takes stock of the renewed movement to challenge police impunity and shows how we move forward, evaluating protest, policy, and the political situation.
 
 Our political reading group meets every other Tuesday, 6:15-8pm:
 <br>
-* February 3: Parts 1-3 of [**Revolutionary Suicide**](https://bookshop.org/p/books/revolutionary-suicide-penguin-classics-deluxe-edition-huey-p-newton/4c8d2107d3fda80a) (1973) by Huey P. Newton
-* February 17: Continue parts 4-6 of **Revolutionary Suicide**
-* March 3: Chapters 1-3 of [**Why Women Have Better Sex Under Socialism**](https://bookshop.org/p/books/why-women-have-better-sex-under-socialism-and-other-arguments-for-economic-independence-kristen-r-ghodsee/8006dcbac0b44c8f?ean=9781645036364&next=t&next=t) by Kristen Ghodsee
-* March 17: Continue chapters 4-6 of **Why Women Have Better Sex Under Socialism**
+* Tuesday, May 12—The End of Policing, Chs 1-6
+* Tuesday, June 9—The End of Policing, Chs 7-10 + Epilogue
 
 [Fireside Books & More](https://firesiderwc.com/), 2421 Broadway, Redwood City (by Caltrain station)
 <br>
@@ -33,8 +39,10 @@ Virtual: [Google Meet](https://meet.google.com/yqs-mvtd-ahn)
 <img src="https://peninsuladsa.org/assets/images/Peninsula DSA reading group meets Malcolm Harris at Kepler's Books 2025.04.jpg" align="right" height="300" width="">
 
 <h3>2026</h3>
-* [Socialism: Utopian and Scientific](https://www.marxists.org/archive/marx/works/1880/soc-utop/index.htm) by Friedrich Engels
-* ["Left-Wing" Communism: An Infantile Disorder](https://www.marxists.org/archive/lenin/works/1920/lwc/) by Vladimir Lenin
+* [Why Women Have Better Sex Under Socialism](https://bookshop.org/p/books/why-women-have-better-sex-under-socialism-and-other-arguments-for-economic-independence-kristen-r-ghodsee/8006dcbac0b44c8f?ean=9781645036364&next=t&next=t) (2018) by Kristen Ghodsee
+* [Revolutionary Suicide](https://bookshop.org/p/books/revolutionary-suicide-penguin-classics-deluxe-edition-huey-p-newton/4c8d2107d3fda80a) (1973) by Huey P. Newton
+* [Socialism: Utopian and Scientific](https://www.marxists.org/archive/marx/works/1880/soc-utop/index.htm) (1880) by Friedrich Engels
+* ["Left-Wing" Communism: An Infantile Disorder](https://www.marxists.org/archive/lenin/works/1920/lwc/) (1920) by Vladimir Lenin
 
 <h3>2025</h3>
 * [Abolish Rent: How Tenants Can End the Housing Crisis](https://www.haymarketbooks.org/books/2443-abolish-rent) (2024) by Tracy Rosenthal and Leonardo Vilchis
