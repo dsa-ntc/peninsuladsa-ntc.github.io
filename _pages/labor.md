@@ -9,4 +9,6 @@ permalink: /labor/
 <h3>Current Campaign</h3>
 Peninsula DSA is developing a transit-oriented campaign in solidarity with unionized [SamTrans](https://www.samtrans.com/) workers and working-class commuters in San Mateo County. Our campaign proposal was chosen as a chapter priority at our chapter convention on March 17, 2024. We're currently organizing within [Transbay Coalition](https://www.transbaycoalition.org/)'s network of transit organizations and activists. 
 
+Hi
+
 * _See the [Public Transit working group](../public-transit.md) or PDSA Discord #transit for more!_
