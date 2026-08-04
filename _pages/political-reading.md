@@ -11,20 +11,18 @@ permalink: /political-reading/
 
 
 
-<h4>[The End of Policing](https://www.versobooks.com/products/178-the-end-of-policing) by Alex S. Vitale</h4>
+<h4>"The Romance of American Communism" by Vivian Gornick</h4>
 
-**The bestselling bible of the movement to defund the police, in an updated edition**
+Join the Reading Group for our coverage of The Romance of American Communism!
 
-The massive uprising following the police killing of George Floyd in the summer of 2020--by some estimates the largest protests in US history--thrust the argument to defund the police to the forefront of international politics. It also made The End of Policing a bestseller and Alex Vitale, its author, a leading figure in the urgent public discussion over police and racial justice.
-
-As the writer Rachel Kushner put it in an article called "Things I Can't Live Without", this book explains that "unfortunately, no increased diversity on police forces, nor body cameras, nor better training, has made any seeming difference" in reducing police killings and abuse. "We need to restructure our society and put resources into communities themselves, an argument Alex Vitale makes very persuasively."
-
-The problem, Vitale demonstrates, is policing itself—the dramatic expansion of the police role over the last forty years. Drawing on first-hand research from across the globe, The End of Policing describes how the implementation of alternatives to policing, like drug legalization, regulation, and harm reduction instead of the policing of drugs, has led to reductions in crime, spending, and injustice. This edition includes a new introduction that takes stock of the renewed movement to challenge police impunity and shows how we move forward, evaluating protest, policy, and the political situation.
+Vivian Gornick's cult classic weaves interviews with dozens of CPUSA members together to create a vivid oral history tracing the rise and fall of the party. Join us to discuss what inspired a generation of Americans to devote themselves so passionately to the Communist Party, what led so many of them to leave the party heartbroken, and what lessons socialists today can draw from their experiences.
 
 Our political reading group meets every other Tuesday, 6:15-8pm:
 <br>
-* Tuesday, May 12—The End of Policing, Chs 1-6
-* Tuesday, June 9—The End of Policing, Chs 7-10 + Epilogue
+* Tuesday July 7—Romance of American Communism, pgs 1-65
+* Tuesday July 21—Romance of American Communism, pgs 66-129
+* Tuesday August 4—Romance of American Communism, pgs 130-202
+* Tuesday August 18—Romance of American Communism, pgs 203-265
 
 [Fireside Books & More](https://firesiderwc.com/), 2421 Broadway, Redwood City (by Caltrain station)
 <br>
@@ -39,6 +37,7 @@ Virtual: [Google Meet](https://meet.google.com/yqs-mvtd-ahn)
 <img src="https://peninsuladsa.org/assets/images/Peninsula DSA reading group meets Malcolm Harris at Kepler's Books 2025.04.jpg" align="right" height="300" width="">
 
 <h3>2026</h3>
+* [The End of Policing](https://www.versobooks.com/products/178-the-end-of-policing) by Alex S. Vitale
 * [Why Women Have Better Sex Under Socialism](https://bookshop.org/p/books/why-women-have-better-sex-under-socialism-and-other-arguments-for-economic-independence-kristen-r-ghodsee/8006dcbac0b44c8f?ean=9781645036364&next=t&next=t) (2018) by Kristen Ghodsee
 * [Revolutionary Suicide](https://bookshop.org/p/books/revolutionary-suicide-penguin-classics-deluxe-edition-huey-p-newton/4c8d2107d3fda80a) (1973) by Huey P. Newton
 * [Socialism: Utopian and Scientific](https://www.marxists.org/archive/marx/works/1880/soc-utop/index.htm) (1880) by Friedrich Engels
