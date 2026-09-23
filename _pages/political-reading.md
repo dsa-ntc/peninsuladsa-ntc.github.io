@@ -11,18 +11,16 @@ permalink: /political-reading/
 
 
 
-<h4>"The Romance of American Communism" by Vivian Gornick</h4>
+<h4>"Bad Mexicans" by Kelly Lytle Hernandez</h4>
 
-Join the Reading Group for our coverage of The Romance of American Communism!
+Join the Reading Group for our coverage of "Bad Mexicans"!
 
-Vivian Gornick's cult classic weaves interviews with dozens of CPUSA members together to create a vivid oral history tracing the rise and fall of the party. Join us to discuss what inspired a generation of Americans to devote themselves so passionately to the Communist Party, what led so many of them to leave the party heartbroken, and what lessons socialists today can draw from their experiences.
+Hernandez tells the story of the magonistas, who bravely resisted U.S. imperialism and created a successful social revolution in the 20th century. This story showcases some of the lives of the individual magonistas in addition to the role this has played in American history. All are welcome for this fun evening of solidarity, education, and community; whether or not you have finished the reading.
 
 Our political reading group meets every other Tuesday, 6:15-8pm:
 <br>
-* Tuesday July 7—Romance of American Communism, pgs 1-65
-* Tuesday July 21—Romance of American Communism, pgs 66-129
-* Tuesday August 4—Romance of American Communism, pgs 130-202
-* Tuesday August 18—Romance of American Communism, pgs 203-265
+* Sept. 15th, 6:15 – 7:45 pm (Ch 1-13)
+* Sept. 29th, 6:15 – 7:45 pm (Ch 14-25 & Conclusion)
 
 [Fireside Books & More](https://firesiderwc.com/), 2421 Broadway, Redwood City (by Caltrain station)
 <br>
@@ -37,6 +35,11 @@ Virtual: [Google Meet](https://meet.google.com/yqs-mvtd-ahn)
 <img src="https://peninsuladsa.org/assets/images/Peninsula DSA reading group meets Malcolm Harris at Kepler's Books 2025.04.jpg" align="right" height="300" width="">
 
 <h3>2026</h3>
+* [A custom collection of short local history reads from East Palo Alto, San Mateo, and more.](https://docs.google.com/document/d/1M9MsMEvrynyS6OBBmdJhPFEjw7FairspkYUSo3wfAqs/edit?tab=t.0#heading=h.redtxr2y73ow)
+* Romance of American Communism by Vivian Gornick
+* [Transgender Liberation: Beyond Pink or Blue](https://transreads.org/wp-content/uploads/2021/12/2021-12-29_61cca107e2f6b_leslie-feinberg-trans-liberation-beyond-pink-or-blue.pdf) by Leslie Feinberg
+* Lucy Parsons: An American Revolutionary by Carolyn Ashbaugh
+* Feminism for the 99% by Cinzia Arruzza, Tithi Battacharya, and Nancy Fraser
 * [The End of Policing](https://www.versobooks.com/products/178-the-end-of-policing) by Alex S. Vitale
 * [Why Women Have Better Sex Under Socialism](https://bookshop.org/p/books/why-women-have-better-sex-under-socialism-and-other-arguments-for-economic-independence-kristen-r-ghodsee/8006dcbac0b44c8f?ean=9781645036364&next=t&next=t) (2018) by Kristen Ghodsee
 * [Revolutionary Suicide](https://bookshop.org/p/books/revolutionary-suicide-penguin-classics-deluxe-edition-huey-p-newton/4c8d2107d3fda80a) (1973) by Huey P. Newton
