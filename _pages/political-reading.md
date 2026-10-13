@@ -11,16 +11,16 @@ permalink: /political-reading/
 
 
 
-<h4>"Bad Mexicans" by Kelly Lytle Hernandez</h4>
+<h4>"The Hundred Years' War on Palestine" by Rashid I. Khalidi</h4>
 
-Join the Reading Group for our coverage of "Bad Mexicans"!
+Join the Reading Group for our coverage of "The Hundred Years' War on Palestine".
 
-Hernandez tells the story of the magonistas, who bravely resisted U.S. imperialism and created a successful social revolution in the 20th century. This story showcases some of the lives of the individual magonistas in addition to the role this has played in American history. All are welcome for this fun evening of solidarity, education, and community; whether or not you have finished the reading.
+Rashid I. Khalidi takes readers through the history of Palestine from 1917 to 2017 in order to explore the true origins and nature of the conflict. Whether you've finished the reading or not, join us to discuss why the US media's narrative of a conflict between two competing movements for national self-determination is just plain wrong, and why the Israeli project is better understood as settler colonialism.
 
-Our political reading group meets every other Tuesday, 6:15-8pm:
+Our political reading group meets every other Tuesday, 6:15-7:45pm:
 <br>
-* Sept. 15th, 6:15 – 7:45 pm (Ch 1-13)
-* Sept. 29th, 6:15 – 7:45 pm (Ch 14-25 & Conclusion)
+* Oct. 13th, 6:15 – 7:45 pm (Intro through Ch 2)
+* Oct. 27th, 6:15 – 7:45 pm (Ch 3-4) NOTE: This meeting will be held in-person at an alternate location To Be Determined
 
 [Fireside Books & More](https://firesiderwc.com/), 2421 Broadway, Redwood City (by Caltrain station)
 <br>
@@ -35,6 +35,7 @@ Virtual: [Google Meet](https://meet.google.com/yqs-mvtd-ahn)
 <img src="https://peninsuladsa.org/assets/images/Peninsula DSA reading group meets Malcolm Harris at Kepler's Books 2025.04.jpg" align="right" height="300" width="">
 
 <h3>2026</h3>
+* ["Bad Mexicans" by Kelly Lytle Hernandez](https://wwnorton.com/books/9781324004370)
 * [A custom collection of short local history reads from East Palo Alto, San Mateo, and more.](https://docs.google.com/document/d/1M9MsMEvrynyS6OBBmdJhPFEjw7FairspkYUSo3wfAqs/edit?tab=t.0#heading=h.redtxr2y73ow)
 * Romance of American Communism by Vivian Gornick
 * [Transgender Liberation: Beyond Pink or Blue](https://transreads.org/wp-content/uploads/2021/12/2021-12-29_61cca107e2f6b_leslie-feinberg-trans-liberation-beyond-pink-or-blue.pdf) by Leslie Feinberg
