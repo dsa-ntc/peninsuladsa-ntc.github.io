@@ -95,7 +95,7 @@ Come join your comrades after work to talk about socialism!  Each month, we alte
 
 * _Please check the [event calendar](../calendar) for confirmed dates and locations._
 
-<h4>Play & Praxis: Socialist Game Night!</h4>
+<!-- <h4>Play & Praxis: Socialist Game Night!</h4>
 Defy capitalist productivity by engaging in revolutionary play! Our socialist game nights create space to practice agency and imagine a collective, liberated future through cooperative games. Favorites have included [Strike! The Game of Worker Rebellion](https://www.youtube.com/watch?v=PnrHK85kcnk) and [Co-opoly](https://store.tesacollective.com/products/co-opoly-the-game-of-co-operatives) (both designed by the worker-owned cooperative [TESA Collective](https://www.tesacollective.com/)). We've also played [Bloc by Bloc: Uprising](https://www.youtube.com/watch?v=MR85Umxxb6I) and [The Resistance](https://boardgamegeek.com/boardgame/41114/resistance).
 
-* _Read more on the **PDSA Discord: #play-n-praxis**_
+* _Read more on the **PDSA Discord: #play-n-praxis**_ -->
