@@ -1,5 +1,8 @@
 # header links
 header:
+  - title: "2026 Voter Guide"
+    url: "/voter-guide-2026/"
+    description: "PDSA's 2026 General Election Voter Guide"
   - title: "Get Involved"
     url: "/get-involved/"
     description: "Check out what Peninsula DSA is doing—-and join us!"
