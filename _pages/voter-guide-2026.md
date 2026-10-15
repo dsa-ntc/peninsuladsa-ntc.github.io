@@ -80,7 +80,7 @@ _Description coming soon!_
 
 _Description coming soon!_
 
-<h4>NO on Measure AA and Measure L</h4>
+<h4>NO RECOMMENDATION on Measure AA and Measure L</h4>
 
 _Description coming soon!_
 
