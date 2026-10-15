@@ -18,88 +18,88 @@ For guidance on higher up races, see [California DSA’s voter guide available h
 
 <h2>PDSA Endorsed Candidates</h2>
 
-<h3>Foster City City Council District 1 - Phoebe Shin Venkat 🌹</h3>
+<h4>Foster City City Council District 1 - Phoebe Shin Venkat 🌹</h4>
 
 _Description coming soon!_
 
-<h3>South San Francisco City Council District 3 - Melanie Olson 🌹</h3>
+<h4>South San Francisco City Council District 3 - Melanie Olson 🌹</h4>
 
 _Description coming soon!_
 
-<h3>East Palo Alto City Council At-large - Ofelia Bello 🌹</h3>
+<h4>East Palo Alto City Council At-large - Ofelia Bello 🌹</h4>
 
 _Description coming soon!_
 
 <h2>PDSA Endorsed Local Measures</h2>
 
-<h3>YES on Measure E 🌹</h3>
+<h4>YES on Measure E 🌹</h4>
 
 _Description coming soon!_
 
 <h2>Recommended Candidates</h2>
 
-<h3>San Mateo County Community College District Governing Board Trustee Area 2 - Jason Holt</h3>
+<h4>San Mateo County Community College District Governing Board Trustee Area 2 - Jason Holt</h4>
 
 _Description coming soon!_
 
-<h3>Pacifica School District, At-large (General Election) - Bridget Hardt, Tracey Simmons, and Katy Bradley</h3>
+<h4>Pacifica School District, At-large (General Election) - Bridget Hardt, Tracey Simmons, and Katy Bradley</h4>
 
 _Description coming soon!_
 
-<h3>Pacifica School District, At-large (Special Election) - Elizabeth Bredall</h3>
+<h4>Pacifica School District, At-large (Special Election) - Elizabeth Bredall</h4>
 
 _Description coming soon!_
 
-<h3>San Mateo County Board of Education Governing Board Area 2 - Frank Lara</h3>
+<h4>San Mateo County Board of Education Governing Board Area 2 - Frank Lara</h4>
 
 _Description coming soon!_
 
-<h3>San Mateo City Council District 3 - Seema Patel</h3>
+<h4>San Mateo City Council District 3 - Seema Patel</h4>
 
 _Description coming soon!_
 
-<h3>San Mateo City Council District 5 - Adam Loraine</h3>
+<h4>San Mateo City Council District 5 - Adam Loraine</h4>
 
 _Description coming soon!_
 
-<h3>San Mateo County Board of Education Governing Board Area 2 - Dana Johnson</h3>
+<h4>San Mateo County Board of Education Governing Board Area 2 - Dana Johnson</h4>
 
 _Description coming soon!_
 
-<h3>San Mateo Union High School District School Board Trustee Area 3 - Dianna Harris</h3>
+<h4>San Mateo Union High School District School Board Trustee Area 3 - Dianna Harris</h4>
 
 _Description coming soon!_
 
 <h2>Recommended Local Measures</h2>
 
-<h3>YES on Measure RTM</h3>
+<h4>YES on Measure RTM</h4>
 
 _Description coming soon!_
 
-<h3>YES on Measures K, M, N, O, R, T, V, Y, Z, EE</h3>
+<h4>YES on Measures K, M, N, O, R, T, V, Y, Z, EE</h4>
 
 _Description coming soon!_
 
-<h3>NO on Measure AA and Measure L</h3>
+<h4>NO on Measure AA and Measure L</h4>
 
 _Description coming soon!_
 
-<h3>NO on Measure H</h3>
+<h4>NO on Measure H</h4>
 
 _Description coming soon!_
 
-<h3>YES on Measure I</h3>
+<h4>YES on Measure I</h4>
 
 _Description coming soon!_
 
-<h3>NO on Measure P</h3>
+<h4>NO on Measure P</h4>
 
 _Description coming soon!_
 
-<h3>YES on Measure Q</h3>
+<h4>YES on Measure Q</h4>
 
 _Description coming soon!_
 
-<h3>YES on Measure S</h3>
+<h4>YES on Measure S</h4>
 
 _Description coming soon!_
