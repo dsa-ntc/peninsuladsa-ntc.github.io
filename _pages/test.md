@@ -31,12 +31,13 @@ permalink: /test/
         border-radius: 8px;        /* Optional: rounds the corners */
     }
     .container {
-        display: grid;
+        display: inline-grid;
         background-color: #e99797;
         padding: 10px;
         grid-template-columns: auto auto;
         border-radius: 8px;
         margin: auto;
+        overflow: hidden;
     }
     .tile {
         background-color: #fffdfd;
