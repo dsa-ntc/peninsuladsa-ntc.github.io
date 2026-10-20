@@ -66,7 +66,7 @@ permalink: /test/
         </div>
         <div class = "tile">
             <h4><span class = "yes-box">YES</span> on Measure E</h4>
-            Rent Control in Redwood City
+            Rent Control for Redwood City
         </div>
     </div>
 </div>
