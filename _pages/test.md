@@ -70,7 +70,28 @@ permalink: /test/
         --stack-align: stretch;
         --stack-justify: flex-start;">
         <div>
-            <h2 style="font-weight: bold; color: black;">🌹 Peninsula DSA Endorses:</h2>
+            <h2 style=
+                    "color-scheme: var(--mantine-color-scheme);
+                    --stack-gap: var(--mantine-spacing-xl);
+                    --stack-align: stretch;
+                    --stack-justify: flex-start;
+                    box-sizing: border-box;
+                    font-size: var(--title-fz);
+                    text-wrap: var(--title-text-wrap,var(--mantine-heading-text-wrap));
+                    margin: 0;
+                    font-family: Raleway,Work Sans,Segoe UI,Helvetica Neue,Arial,sans-serif!important;
+                    font-weight: 900!important;
+                    text-shadow: 0 1px 3px #000000d9;
+                    color: var(--eb-champagne-light)!important;
+                    -webkit-text-stroke: 1px #6b0b0b;
+                    paint-order: stroke fill;
+                    letter-spacing: -0.02em;
+                    line-height: 1;
+                    --title-fw: var(--mantine-h3-font-weight);
+                    --title-lh: var(--mantine-h3-line-height);
+                    --title-fz: var(--mantine-h3-font-size);
+                    cursor: pointer;
+                    margin-bottom: var(--mantine-spacing-md);">🌹 Peninsula DSA Endorses:</h2>
         </div>
         <div class ="container">
             <div>1</div>
