@@ -50,8 +50,8 @@ permalink: /test/
     }
 </style>
 
+<h2>🌹 Peninsula DSA Endorses:</h2>
 <div>
-    <h3>🌹 Peninsula DSA Endorses:</h3>
     <div class = "grid-container">
         <div class = "tile">
             <h4>Phoebe Shin Venkat</h4>
