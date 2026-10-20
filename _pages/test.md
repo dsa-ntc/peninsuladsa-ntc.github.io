@@ -58,16 +58,26 @@ permalink: /test/
     }
 </style>
 
-<div class style="flex: 1 1 0%; min-width: 0px;"> 
-    <div>
-        <h2 style="font-weight: bold; color: black;">🌹 Peninsula DSA Endorses:
-        </h2>
-    </div>
-    <div class ="container">
-        <div>1</div>
-        <div>1</div>
-        <div>1</div>
-        <div>1</div>
+<div class style="flex: 1 1 0%; min-width: 0px;">
+    <div style=
+        "box-sizing: border-box;
+        align-items: var(--stack-align,stretch);
+        justify-content: var(--stack-justify,flex-start);
+        gap: var(--stack-gap,var(--mantine-spacing-md));
+        flex-direction: column;
+        display: flex;
+        --stack-gap: var(--mantine-spacing-xl);
+        --stack-align: stretch;
+        --stack-justify: flex-start;">
+        <div>
+            <h2 style="font-weight: bold; color: black;">🌹 Peninsula DSA Endorses:</h2>
+        </div>
+        <div class ="container">
+            <div>1</div>
+            <div>1</div>
+            <div>1</div>
+            <div>1</div>
+        </div>
     </div>
 </div>
 
