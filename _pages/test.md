@@ -35,7 +35,13 @@ permalink: /test/
 </style>
 
 <div class style="flex: 1 1 0%; min-width: 0px;"> 
-    <div class style="font-weight: bold; color: white;">🌹 Peninsula DSA Endorses:</div>
+    <div class style="font-weight: bold; color: white; -webkit-text-stroke: 2px black;">🌹 Peninsula DSA Endorses:</div>
+    <div class ="grid">
+        <div>1</div>
+        <div>1</div>
+        <div>1</div>
+        <div>1</div>
+    </div>
 </div>
 
 <h2>Foreword</h2>
