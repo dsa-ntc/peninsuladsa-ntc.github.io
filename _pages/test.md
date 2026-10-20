@@ -36,8 +36,8 @@ permalink: /test/
         grid-template-columns: 1fr 1fr 1fr 1fr; 
         /* Adds space between the grid items */
         gap: 10px; 
-        width: 100%;
-        max-width: 600px;
+        width: stretch;
+        max-width: 100%;
     }
     .tile {
         background-color: #3498db;
