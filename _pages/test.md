@@ -36,6 +36,7 @@ permalink: /test/
         padding: 10px;
         grid-template-columns: auto auto;
         border-radius: 8px;
+        margin: auto;
     }
     .tile {
         background-color: #fffdfd;
@@ -60,8 +61,10 @@ permalink: /test/
             <h4>Ofelia Bello</h4>
         </div>
         <div class = "tile">
-            <h4 class = "yes-box">YES</h4>
-            <h4> on Measure E</h4>
+            <span>
+                <h4 class = "yes-box">YES</h4>
+                <h4> on Measure E</h4>
+            </span>
         </div>
     </div>
 </div>
