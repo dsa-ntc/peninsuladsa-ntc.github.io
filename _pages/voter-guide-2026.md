@@ -50,7 +50,7 @@ Several propositions on the ballot involve progressive taxation and the issue of
 <h4><span class="yes-box">YES</span> on Propositions 3 & 40 🌹</h4>
 <h4><span class="no-box">NO</span> on Propositions 41, 42, & 43 🌹</h4>
 
-For guidance on other higher up races and propositions, see [California DSA’s voter guide available here](https://www.californiadsa.org/voterguide).
+For further guidance on these propositions and other higher up propositions and candidate races, see [California DSA’s voter guide available here](https://www.californiadsa.org/voterguide).
 
 <h2>PDSA Endorsed Candidates</h2>
 
