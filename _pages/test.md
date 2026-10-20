@@ -64,7 +64,7 @@ permalink: /test/
     }
 </style>
 
-<div class style="flex: 1 1 0%; min-width: 0px;">
+<div>
     <div style=
         "box-sizing: border-box;
         flex-direction: column;
