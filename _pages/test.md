@@ -6,8 +6,6 @@ permalink: /test/
 <style>
   /* CSS Styling */
     .yes-box {
-        width: 200px;
-        height: 200px;
         font-weight: bold;
         color: white;
         background-color: #21b314; /* Blue */
@@ -36,7 +34,6 @@ permalink: /test/
         display: grid;
         background-color: #e99797;
         padding: 10px;
-        box-sizing: border-box;
         grid-template-columns: auto auto;
         border-radius: 8px;
     }
@@ -63,7 +60,8 @@ permalink: /test/
             <h4>Ofelia Bello</h4>
         </div>
         <div class = "tile">
-            <h4 class = "yes-box">YES</h4> <h4> on Measure E</h4>
+            <h4 class = "yes-box">YES</h4>
+            <h4> on Measure E</h4>
         </div>
     </div>
 </div>
