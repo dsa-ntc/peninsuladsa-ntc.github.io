@@ -34,6 +34,10 @@ permalink: /test/
   }
 </style>
 
+<div class style="flex: 1 1 0%; min-width: 0px;"> 
+    <div class style="font-weight: bold; color: white;">🌹 Peninsula DSA Endorses:</div>
+</div>
+
 <h2>Foreword</h2>
 
 It’s important to remember the ballot box is only one front of the war against capitalism. Organizing for a better future does not begin or end with voting. However, multiple measures are only on the ballot this year because of sustained efforts from Peninsula DSA and allies over months, even years. We write this voter guide to spread our vision, [tying current measures to our broader program](https://program.dsausa.org/), and engage our local community. Additionally, this is only a list of what our membership feels we can speak on. Many races go unmentioned either because we don’t have the familiarity to confidently comment, or because there is no candidate we feel advances the interests or power of the working class. Consider our analysis, and consider doing more, like [joining DSA](https://peninsuladsa.org/get-involved/). There is still time to get involved! Check our calendar for opportunities to canvas for [Measure E](https://www.affordableredwoodcity.com/), [Prop 40](https://actionnetwork.org/events/sv-dsa-tax-the-rich-day-canvass), [Melanie Olson](https://www.mobilize.us/mobilize/event/1037604/?referring_vol=1383469), [Phoebe Shin Venkat](https://www.phoebeshinvenkat.com/get-involved), and/or [Ofelia Bello](https://bello2026.com/).
