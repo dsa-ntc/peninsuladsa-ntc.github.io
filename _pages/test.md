@@ -52,7 +52,7 @@ permalink: /test/
 
 <div>
     <h3>🌹 Peninsula DSA Endorses:</h3>
-    <div class ="container">
+    <div style = "grid">
         <div>1</div>
         <div>1</div>
         <div>1</div>
