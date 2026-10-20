@@ -54,15 +54,19 @@ permalink: /test/
     <div class = "grid-container">
         <div class = "tile">
             <h4>Phoebe Shin Venkat</h4>
+            Foster City City Council District 1
         </div>
         <div class = "tile">
             <h4>Melanie Olson</h4>
+            South San Francisco City Council District 3
         </div>
         <div class = "tile">
             <h4>Ofelia Bello</h4>
+            East Palo Alto City Council At-large
         </div>
         <div class = "tile">
             <h4><span class = "yes-box">YES</span> on Measure E</h4>
+            Rent Control in Redwood City
         </div>
     </div>
 </div>
