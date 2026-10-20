@@ -33,8 +33,8 @@ permalink: /test/
     border-radius: 8px;        /* Optional: rounds the corners */
   }
   .endorse-card {
-    width: 200px;
-    height: 200px;
+    width: auto;
+    height: auto;
     font-weight: bold;
     color: black;
     background-color: #ffffff;
@@ -46,7 +46,10 @@ permalink: /test/
 </style>
 
 <div class style="flex: 1 1 0%; min-width: 0px;"> 
-    <div class style="font-size = 2rem; font-weight: bold; color: white; -webkit-text-stroke: 2px black;">🌹 Peninsula DSA Endorses:</div>
+    <div>
+        <h2 style="font-weight: bold; color: white; -webkit-text-stroke: 2px black;">🌹 Peninsula DSA Endorses:
+        </h2>
+    </div>
     <div class ="grid">
         <div class = "endorse-card">1</div>
         <div>1</div>
