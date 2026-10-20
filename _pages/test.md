@@ -62,10 +62,7 @@ permalink: /test/
             <h4>Ofelia Bello</h4>
         </div>
         <div class = "tile">
-            <span>
-                <h4 class = "yes-box">YES</h4>
-                <h4> on Measure E</h4>
-            </span>
+            <h4><span class = "yes-box">YES</span> on Measure E</h4>
         </div>
     </div>
 </div>
