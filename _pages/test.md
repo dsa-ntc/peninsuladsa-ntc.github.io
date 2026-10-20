@@ -37,7 +37,7 @@ permalink: /test/
         /* Adds space between the grid items */
         gap: 10px; 
         width: stretch;
-        max-width: 100%;
+        max-width: fit-content;
     }
     .tile {
         background-color: #3498db;
