@@ -43,15 +43,28 @@ permalink: /test/
     padding: 2px 6px;
     border-radius: 8px;
   }
+  .container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: dodgerblue;
+    padding: 10px;
+  }
+.container div {
+    background-color: #f1f1f1;
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;
+  }
 </style>
 
 <div class style="flex: 1 1 0%; min-width: 0px;"> 
     <div>
-        <h2 style="font-weight: bold; color: white; -webkit-text-stroke: 2px black;">🌹 Peninsula DSA Endorses:
+        <h2 style="font-weight: bold; color: black;">🌹 Peninsula DSA Endorses:
         </h2>
     </div>
-    <div class ="grid">
-        <div class = "endorse-card">1</div>
+    <div class ="container">
+        <div>1</div>
         <div>1</div>
         <div>1</div>
         <div>1</div>
