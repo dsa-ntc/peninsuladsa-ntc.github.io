@@ -37,6 +37,7 @@ permalink: /test/
         /* Adds space between the grid items */
         gap: 10px; 
         width: 100%;
+        max-width: 600px;
     }
     .tile {
         background-color: #3498db;
@@ -48,7 +49,7 @@ permalink: /test/
     }
 </style>
 
-<h2>🌹 Peninsula DSA Endorses:</h2>
+<h2>Peninsula DSA Endorsements 🌹</h2>
 <div>
     <div class = "grid-container">
         <div class = "tile">
