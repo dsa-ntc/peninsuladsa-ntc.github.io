@@ -48,6 +48,12 @@ permalink: /test/
         grid-template-columns: auto auto auto;
         background-color: #e99797;
         padding: 10px;
+        -webkit-font-smoothing: antialiased;
+        text-rendering: optimizelegibility;
+        font-kerning: normal;
+        font-variant-ligatures: common-ligatures contextual;
+        box-sizing: border-box;
+        grid-template-columns: 2;;
     }
     .container div {
         background-color: #f1f1f1;
@@ -61,9 +67,7 @@ permalink: /test/
 <div class style="flex: 1 1 0%; min-width: 0px;">
     <div style=
         "box-sizing: border-box;
-        align-items: var(--stack-align,stretch);
         flex-direction: column;
-        display: flex;
         --stack-align: stretch;
         --stack-justify: flex-start;">
         <div>
