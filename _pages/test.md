@@ -45,7 +45,6 @@ permalink: /test/
     }
     .container {
         display: grid;
-        grid-template-columns: auto auto auto;
         background-color: #e99797;
         padding: 10px;
         box-sizing: border-box;
