@@ -32,30 +32,21 @@ permalink: /test/
         padding: 2px 6px;
         border-radius: 8px;        /* Optional: rounds the corners */
     }
-    .endorse-card {
-        width: auto;
-        height: auto;
-        font-weight: bold;
-        color: black;
-        background-color: #ffffff;
-        border-style: solid;
-        border-color: red; /* Blue */
-        padding: 2px 6px;
-        border-radius: 8px;
-    }
     .container {
         display: grid;
         background-color: #e99797;
         padding: 10px;
         box-sizing: border-box;
-        grid-template-columns: 2;
+        grid-template-columns: auto auto;
+        border-radius: 8px;
     }
     .container div {
-        background-color: #f1f1f1;
+        background-color: #fffdfd;
         border: 1px solid black;
         padding: 10px;
         font-size: 30px;
         text-align: center;
+        border-radius: 8px;
     }
 </style>
 
