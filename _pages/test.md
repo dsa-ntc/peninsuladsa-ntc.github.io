@@ -30,28 +30,29 @@ permalink: /test/
         padding: 2px 6px;
         border-radius: 8px;        /* Optional: rounds the corners */
     }
-    .container {
-        display: inline-grid;
-        background-color: #e99797;
-        padding: 10px;
-        grid-template-columns: auto auto;
-        border-radius: 8px;
-        margin: auto;
-        overflow: hidden;
+    .grid-container {
+      display: grid;
+      /* Creates two columns, each taking up 1 fraction of the available space */
+      grid-template-columns: 1fr 1fr; 
+      /* Adds space between the grid items */
+      gap: 10px; 
+      width: 100%;
+      max-width: 500px; /* Optional: limits the width of your grid */
     }
+
     .tile {
-        background-color: #fffdfd;
-        border: 1px solid black;
-        padding: 10px;
-        font-size: 30px;
-        text-align: center;
-        border-radius: 8px;
+      background-color: #3498db;
+      color: white;
+      padding: 40px;
+      text-align: center;
+      font-size: 1.2rem;
+      border-radius: 5px;
     }
 </style>
 
 <div>
     <h3>🌹 Peninsula DSA Endorses:</h3>
-    <div class = "container">
+    <div class = "grid-container">
         <div class = "tile">
             <h4>Phoebe Shin Venkat</h4>
         </div>
