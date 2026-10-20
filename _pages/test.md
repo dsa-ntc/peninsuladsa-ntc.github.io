@@ -32,7 +32,7 @@ permalink: /test/
         padding: 2px 6px;
         border-radius: 8px;        /* Optional: rounds the corners */
     }
-    .container {
+    /* .container {
         display: grid;
         background-color: #e99797;
         padding: 10px;
@@ -47,7 +47,7 @@ permalink: /test/
         font-size: 30px;
         text-align: center;
         border-radius: 8px;
-    }
+    } */
 </style>
 
 <div>
