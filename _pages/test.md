@@ -48,12 +48,8 @@ permalink: /test/
         grid-template-columns: auto auto auto;
         background-color: #e99797;
         padding: 10px;
-        -webkit-font-smoothing: antialiased;
-        text-rendering: optimizelegibility;
-        font-kerning: normal;
-        font-variant-ligatures: common-ligatures contextual;
         box-sizing: border-box;
-        grid-template-columns: 2;;
+        grid-template-columns: 2;
     }
     .container div {
         background-color: #f1f1f1;
@@ -65,34 +61,12 @@ permalink: /test/
 </style>
 
 <div>
-    <div style=
-        "box-sizing: border-box;
-        flex-direction: column;
-        --stack-align: stretch;
-        --stack-justify: flex-start;">
-        <div>
-            <h3 style=
-                    "--stack-align: stretch;
-                    --stack-justify: flex-start;
-                    box-sizing: border-box;
-                    margin: 0;
-                    font-family: Raleway,Work Sans,Segoe UI,Helvetica Neue,Arial,sans-serif!important;
-                    font-weight: 900!important;
-                    color: white;
-                    -webkit-text-stroke: 1px #6b0b0b;
-                    paint-order: stroke fill;
-                    letter-spacing: -0.02em;
-                    line-height: 1;
-                    cursor: pointer;">
-                🌹 Peninsula DSA Endorses:
-            </h3>
-        </div>
-        <div class ="container">
-            <div>1</div>
-            <div>1</div>
-            <div>1</div>
-            <div>1</div>
-        </div>
+    <h3>🌹 Peninsula DSA Endorses:</h3>
+    <div class ="container">
+        <div>1</div>
+        <div>1</div>
+        <div>1</div>
+        <div>1</div>
     </div>
 </div>
 
