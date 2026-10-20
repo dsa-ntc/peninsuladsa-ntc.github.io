@@ -5,57 +5,57 @@ permalink: /test/
 ---
 <style>
   /* CSS Styling */
-  .yes-box {
-    width: 200px;
-    height: 200px;
-    font-weight: bold;
-    color: white;
-    background-color: #21b314; /* Blue */
-    padding: 2px 6px;
-    border-radius: 8px;        /* Optional: rounds the corners */
-  }
-  .no-box {
-    width: 200px;
-    height: 200px;
-    font-weight: bold;
-    color: white;
-    background-color: #b31914; /* Blue */
-    padding: 2px 6px;
-    border-radius: 8px;        /* Optional: rounds the corners */
-  }
-  .no-rec-box {
-    width: 200px;
-    height: 200px;
-    font-weight: bold;
-    color: white;
-    background-color: #707070; /* Blue */
-    padding: 2px 6px;
-    border-radius: 8px;        /* Optional: rounds the corners */
-  }
-  .endorse-card {
-    width: auto;
-    height: auto;
-    font-weight: bold;
-    color: black;
-    background-color: #ffffff;
-    border-style: solid;
-    border-color: red; /* Blue */
-    padding: 2px 6px;
-    border-radius: 8px;
-  }
-  .container {
-    display: grid;
-    grid-template-columns: auto auto auto;
-    background-color: dodgerblue;
-    padding: 10px;
-  }
-.container div {
-    background-color: #f1f1f1;
-    border: 1px solid black;
-    padding: 10px;
-    font-size: 30px;
-    text-align: center;
-  }
+    .yes-box {
+        width: 200px;
+        height: 200px;
+        font-weight: bold;
+        color: white;
+        background-color: #21b314; /* Blue */
+        padding: 2px 6px;
+        border-radius: 8px;        /* Optional: rounds the corners */
+    }
+    .no-box {
+        width: 200px;
+        height: 200px;
+        font-weight: bold;
+        color: white;
+        background-color: #b31914; /* Blue */
+        padding: 2px 6px;
+        border-radius: 8px;        /* Optional: rounds the corners */
+    }
+    .no-rec-box {
+        width: 200px;
+        height: 200px;
+        font-weight: bold;
+        color: white;
+        background-color: #707070; /* Blue */
+        padding: 2px 6px;
+        border-radius: 8px;        /* Optional: rounds the corners */
+    }
+    .endorse-card {
+        width: auto;
+        height: auto;
+        font-weight: bold;
+        color: black;
+        background-color: #ffffff;
+        border-style: solid;
+        border-color: red; /* Blue */
+        padding: 2px 6px;
+        border-radius: 8px;
+    }
+    .container {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        background-color: #e99797;
+        padding: 10px;
+    }
+    .container div {
+        background-color: #f1f1f1;
+        border: 1px solid black;
+        padding: 10px;
+        font-size: 30px;
+        text-align: center;
+    }
 </style>
 
 <div class style="flex: 1 1 0%; min-width: 0px;"> 
