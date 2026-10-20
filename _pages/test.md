@@ -32,12 +32,23 @@ permalink: /test/
     padding: 2px 6px;
     border-radius: 8px;        /* Optional: rounds the corners */
   }
+  .endorse-card {
+    width: 200px;
+    height: 200px;
+    font-weight: bold;
+    color: black;
+    background-color: #ffffff;
+    border-style: solid;
+    border-color: red; /* Blue */
+    padding: 2px 6px;
+    border-radius: 8px;
+  }
 </style>
 
 <div class style="flex: 1 1 0%; min-width: 0px;"> 
-    <div class style="font-weight: bold; color: white; -webkit-text-stroke: 2px black;">🌹 Peninsula DSA Endorses:</div>
+    <div class style="font-size = 2rem"; font-weight: bold; color: white; -webkit-text-stroke: 2px black;">🌹 Peninsula DSA Endorses:</div>
     <div class ="grid">
-        <div>1</div>
+        <div class = "endorse-card">1</div>
         <div>1</div>
         <div>1</div>
         <div>1</div>
@@ -58,7 +69,7 @@ However, living in a capitalist state where the people do not have control, most
 Several propositions on the ballot involve progressive taxation and the issue of our state’s extreme wealth inequality, including propositions to improve the situation (which we’ve endorsed) and propositions that will make the situation far worse for the working class of California (which we have anti-endorsed). Following the [analysis done by California DSA](https://www.californiadsa.org/voterguide), our chapter, like many chapters across our state, have made the following endorsements: 
 
 <h4><span class="yes-box">YES</span> on Propositions 3 & 40 🌹</h4>
-<h4><span class="no-box">NO</span> on Propositions 41, 42, & 43 🌹</h4>
+<h4><span class="no-box">NO</span> on Propositions 41, 42, & 43 💩</h4>
 
 For guidance on other higher up races and propositions, see [California DSA’s voter guide available here](https://www.californiadsa.org/voterguide).
 
