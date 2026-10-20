@@ -32,7 +32,7 @@ permalink: /test/
         padding: 2px 6px;
         border-radius: 8px;        /* Optional: rounds the corners */
     }
-    /* .container {
+    .container {
         display: grid;
         background-color: #e99797;
         padding: 10px;
@@ -40,23 +40,31 @@ permalink: /test/
         grid-template-columns: auto auto;
         border-radius: 8px;
     }
-    .container div {
+    .tile {
         background-color: #fffdfd;
         border: 1px solid black;
         padding: 10px;
         font-size: 30px;
         text-align: center;
         border-radius: 8px;
-    } */
+    }
 </style>
 
 <div>
     <h3>🌹 Peninsula DSA Endorses:</h3>
-    <div style = "grid">
-        <div>1</div>
-        <div>1</div>
-        <div>1</div>
-        <div>1</div>
+    <div class = "container">
+        <div class = "tile">
+            <h4>Phoebe Shin Venkat</h4>
+        </div>
+        <div class = "tile">
+            <h4>Melanie Olson</h4>
+        </div>
+        <div class = "tile">
+            <h4>Ofelia Bello</h4>
+        </div>
+        <div class = "tile">
+            <h4 class = "yes-box">YES</h4> <h4> on Measure E</h4>
+        </div>
     </div>
 </div>
 
