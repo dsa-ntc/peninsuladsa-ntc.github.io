@@ -3,6 +3,18 @@ layout: page
 title: "Experiment Page"
 permalink: /test/
 ---
+<style>
+  /* CSS Styling */
+  .no-box {
+    width: 200px;
+    height: 200px;
+    font-weight: bold;
+    background-color: #d32822; /* Blue */
+     padding: 2px 6px;
+    border-radius: 8px;        /* Optional: rounds the corners */
+  }
+</style>
+
 <h2>Foreword</h2>
 
 It’s important to remember the ballot box is only one front of the war against capitalism. Organizing for a better future does not begin or end with voting. However, multiple measures are only on the ballot this year because of sustained efforts from Peninsula DSA and allies over months, even years. We write this voter guide to spread our vision, [tying current measures to our broader program](https://program.dsausa.org/), and engage our local community. Additionally, this is only a list of what our membership feels we can speak on. Many races go unmentioned either because we don’t have the familiarity to confidently comment, or because there is no candidate we feel advances the interests or power of the working class. Consider our analysis, and consider doing more, like [joining DSA](https://peninsuladsa.org/get-involved/). There is still time to get involved! Check our calendar for opportunities to canvas for [Measure E](https://www.affordableredwoodcity.com/), [Prop 40](https://actionnetwork.org/events/sv-dsa-tax-the-rich-day-canvass), [Melanie Olson](https://www.mobilize.us/mobilize/event/1037604/?referring_vol=1383469), [Phoebe Shin Venkat](https://www.phoebeshinvenkat.com/get-involved), and/or [Ofelia Bello](https://bello2026.com/).
@@ -16,7 +28,7 @@ However, living in a capitalist state where the people do not have control, most
 <h2>Statewide Propositions & Candidates</h2>
 Several propositions on the ballot involve progressive taxation and the issue of our state’s extreme wealth inequality, including propositions to improve the situation (which we’ve endorsed) and propositions that will make the situation far worse for the working class of California (which we have anti-endorsed). Following the [analysis done by California DSA](https://www.californiadsa.org/voterguide), our chapter, like many chapters across our state, have made the following endorsements: 
 
-<h4><strong>YES</strong> on Propositions 3 & 40 🌹</h4>
+<h4><span class="yes-box">YES</span> on Propositions 3 & 40 🌹</h4>
 <h4><strong>NO</strong> on Propositions 41, 42, & 43 🌹</h4>
 
 For guidance on other higher up races and propositions, see [California DSA’s voter guide available here](https://www.californiadsa.org/voterguide).
