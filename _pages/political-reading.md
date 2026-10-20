@@ -52,7 +52,7 @@ Virtual: [Google Meet](https://meet.google.com/yqs-mvtd-ahn)
 * [Abolish Silicon Valley: How to Liberate Technology from Capitalism](https://abolishsiliconvalley.com/) (2020) by Wendy Liu
 * [Blackshirts & Reds: Rational Fascism and the Defeat of Communism](https://www.michael-parenti.org/book-blackshirts-and-reds) (1997) by Michael Parenti
 * [Wage-Labor and Capital (*Lohnarbeit und Kapital*)](https://www.marxists.org/archive/marx/works/1847/wage-labour/) (1847) by Karl Marx
-* [The State and Revolution (*Государство и революция*)](https://www.marxists.org/archive/lenin/works/1917/staterev/) (1917( by Vladimir Lenin
+* [The State and Revolution (*Государство и революция*)](https://www.marxists.org/archive/lenin/works/1917/staterev/) (1917) by Vladimir Lenin
 * [What's Left: Three Paths Through the Planetary Crisis](<https://bookshop.org/p/books/what-s-left-three-paths-through-the-planetary-crisis-malcolm-harris/21718858>) (2025) by Malcolm Harris
 * [ABCs of Socialism](https://archive.org/details/abcs-of-socialism/mode/1up?view=theater) by [Jacobin](https://jacobin.com/) + [Verso](https://www.versobooks.com/).
 * [Ideas for the Struggle](https://www.oldandnewproject.net/Essays/Harnecker_Ideas.html) (2004, revised 2016) by Marta Harnecker.
