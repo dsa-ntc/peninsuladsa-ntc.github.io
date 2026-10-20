@@ -110,11 +110,11 @@ The San Mateo Union High School District faces the same inequities plaguing publ
 
 <h2>Recommended Local Measures</h2>
 
-<h4><strong>YES</strong> on Measure RTM</h4>
+<h4><span class= "yes-box">YES</span> on Measure RTM</h4>
 
 RTM, or Regional Transit Measure, is a bill designed to generate a large amount of funding for BART, MUNI, CalTrain, and many other regional transit institutions that are facing a budget crisis. Peninsula DSA has been a guiding hand on what is now Measure RTM for over two years. We helped organize a [rally](https://www.instagram.com/p/DLl5yumOYaztBR7xYevdOmhN-DNaG7BwOOwcbs0), an [email campaign](https://actionnetwork.org/letters/urge-samtrans-to-support-a-progressive-tax-option-in-the-transit-funding-regional-measure/), and multiple mass town hall actions that helped get SamTrans to join the measure. [We celebrated](https://www.instagram.com/p/DSp59psCf7V/) San Mateo County joining a regional transit body, and hopefully it’s a step toward undoing the mistake of not joining BART. Unfortunately, our representatives opted against the progressive funding measure suggested by us and SEIU 1021, which is why we prioritized Redwood City’s Measure E. But still, many PDSA members in their personal and professional time have continued supporting RTM, because letting the trains stop running would be catastrophic. To meaningfully address climate change, we need large progressive funding to not just maintain but significantly expand public transit. But for now, vote yes on RTM.
 
-<h4><strong>YES</strong> on Measures K, M, N, O, R, T, V, Y, Z, EE</h4>
+<h4><span class= "yes-box">YES</span> on Measures K, M, N, O, R, T, V, Y, Z, EE</h4>
 
 This lot of measures all use typical funding methods that keep cities and schools running in California. Ultimately, these are patchwork solutions to the massive hole Prop 13 punched into California’s budget when it cut almost ⅔ of State funds in one year. [This is why many are shocked to find out we take the city bus to school](https://www.kqed.org/news/11980715/why-dont-more-bay-area-kids-ride-school-buses), and have to pay for it. [And how these are gathered and distributed still reproduce neighborhood segregation](https://www.instagram.com/p/Deer99-NO09/). Fixing California’s budget requires larger solutions, like undoing Prop 13, abolishing private schools, de-segregationist re-zoning, expanding public transit service, and more, but for now, it’s a choice between these flawed funding measures and service cuts. That’s a choice with a clear answer.
 
@@ -122,22 +122,22 @@ This lot of measures all use typical funding methods that keep cities and school
 
 Adding language to the preamble of the county charter affirming its commitment to dignity, civil rights, and equal protection is good, as is prioritizing extreme weather events. But words are not enough. In the context of the current administration’s  campaign of terror against undocumented people, language is not enough. Changes to the county charter must be followed with concrete steps to address these issues to be meaningful.
 
-<h4><strong>NO</strong> on Measure H</h4>
+<h4><span class="no-box">NO</span> on Measure H</h4>
 
 Measure H increases San Mateo’s sales and use tax rate from 0.25% to 0.5% to fund various local city services. Despite what’s just been said about the above list of funding measures, what makes H different is that it has no expiration date. While many Californians pride themselves on voting for taxes, California is stuck with some of the highest sales tax, a punishment on the poor. It’s no coincidence that homelessness has been rising while California’s [share of billionaires goes up and up](https://www.oxfamamerica.org/press/wealth-of-the-10-richest-california-billionaires-grew-by-nearly-50-in-the-last-year-making-them-the-equivalent-of-a-163-million-hourly-wage/). While we regrettably support ***temporary*** Sales Tax like RTM, we refuse to make this practice permanent like this suggests. No on H.
 
-<h4><strong>YES</strong> on Measure I</h4>
+<h4><span class= "yes-box">YES</span> on Measure I</h4>
 
 In 1999, voters in Half Moon Bay approved a downtown plan that was meant to address traffic problems and protect coastal areas. Measure I primarily moves the designated boundaries of this existing downtown plan, in cooperation with its coastal protection agreements. This still encourages developing a dense urban center, and helps prevent sprawl on the eroding coastline, as Half Moon Bay needs. Yes on I.
 
-<h4><strong>NO</strong> on Measure P</h4>
+<h4><span class="no-box">NO</span> on Measure P</h4>
 
 Measure P prohibits selling of Menlo Park’s city owned downtown parking lots without voter approval. Issues like the one featured just above stem from ages of refusing to accommodate any and everyone into our community, especially in our urban cores, and near public transit. Again, this alone does not build true affordability like Social Housing would. But housing sprawl built in fire hazard zones, homelessness, even traffic, and more all still stem from not having housing where it most belongs. Moreover, passing P would likely backfire and force the state to approve construction with even less input from the community. No on P.
 
-<h4><strong>YES</strong> on Measure Q</h4>
+<h4><span class= "yes-box">YES</span> on Measure Q</h4>
 
 California’s housing affordability issue shows up all around us, and in more ways than you might expect. Measure Q approves the construction of a five-story apartment complex of affordable housing for farmworkers. Half Moon Bay’s two new housing developments came out of [shock incidents](https://www.npr.org/2023/01/29/1152389441/half-moon-bay-shooting-motive-repair-bill) that exposed how poor the conditions are that our community members were dealing with. While there are other methods of developing truly affordable housing, [this is the sort of density, near necessities and amenities, farmworkers deserve](https://www.halfmoonbay.gov/845/555-Kelly-Avenue---Affordable-Housing). Half Moon Bay’s other farmworker housing project, [Stone Pine Cove](https://www.halfmoonbay.gov/879/Stone-Pine-Cove-830-Stone-Pine---Afforda), is a joke of a solution that leaves residents far away from grocery stores and stuck with a parking space when they’ve already been asking for a SamTrans route to work. Yes on Q.
 
-<h4><strong>YES</strong> on Measure S</h4>
+<h4><span class= "yes-box">YES</span> on Measure S</h4>
 
 Measure S is a repeal of a restriction on height for new housing developments in San Bruno. We demand denser, taller cities, but for ecological reasons, [while we reject the Abundance movement’s reasoning](https://thebaffler.com/latest/whats-the-matter-with-abundance-harris).  Socialist urbanism means bike lanes ***with*** social housing together. Redevelopment, beautification, new greenspace, and more have more often than not acted as new forms of Urban Renewal. But as much of this is happening already, it may as well be as tall as possible. We will have to bring rent control and more to every city in the county later. For now, vote yes on S.
