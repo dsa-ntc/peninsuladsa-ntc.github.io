@@ -9,6 +9,7 @@ permalink: /test/
     width: 200px;
     height: 200px;
     font-weight: bold;
+    color: white;
     background-color: #21b314; /* Blue */
     padding: 2px 6px;
     border-radius: 8px;        /* Optional: rounds the corners */
@@ -17,6 +18,7 @@ permalink: /test/
     width: 200px;
     height: 200px;
     font-weight: bold;
+    color: white;
     background-color: #b31914; /* Blue */
     padding: 2px 6px;
     border-radius: 8px;        /* Optional: rounds the corners */
@@ -25,6 +27,7 @@ permalink: /test/
     width: 200px;
     height: 200px;
     font-weight: bold;
+    color: white;
     background-color: #707070; /* Blue */
     padding: 2px 6px;
     border-radius: 8px;        /* Optional: rounds the corners */
@@ -45,7 +48,7 @@ However, living in a capitalist state where the people do not have control, most
 Several propositions on the ballot involve progressive taxation and the issue of our state’s extreme wealth inequality, including propositions to improve the situation (which we’ve endorsed) and propositions that will make the situation far worse for the working class of California (which we have anti-endorsed). Following the [analysis done by California DSA](https://www.californiadsa.org/voterguide), our chapter, like many chapters across our state, have made the following endorsements: 
 
 <h4><span class="yes-box">YES</span> on Propositions 3 & 40 🌹</h4>
-<h4><strong>NO</strong> on Propositions 41, 42, & 43 🌹</h4>
+<h4><span class="no-box">NO</span> on Propositions 41, 42, & 43 🌹</h4>
 
 For guidance on other higher up races and propositions, see [California DSA’s voter guide available here](https://www.californiadsa.org/voterguide).
 
@@ -65,7 +68,7 @@ Ofelia Bello is also a proud socialist and member of PDSA. She has long been inv
 
 <h2>PDSA Endorsed Local Measures</h2>
 
-<h4><strong>YES</strong> on Measure E 🌹</h4>
+<h4><span class= "yes-box">YES</span> on Measure E 🌹</h4>
 
 Measure E adds rent control to Redwood City. Rent control is our only immediate tool to keep members of our community here with us, [which is also an environmental concern as many workers get displaced into the Central Valley and have to supercommute back here](https://www.mercurynews.com/wp-content/uploads/2019/09/SJM-L-COMMUTEMAP-0908-90-01.jpg), spewing excess carbon into the air because they have to since there’s no affordable housing where they work. Our opponents claim we unfairly include non-profits, when they too are driving rent up and [the State has also considered lowering the statewide limit to 5%,](https://calmatters.digitaldemocracy.org/bills/ca_202520260ab1157) just like our bill would do. [Over 50% of Californians are rent-burdened](https://www.ppic.org/interactive/californians-and-the-housing-crisis/), aka spending 30% or more of their income on rent, [while residents of peer nations spend less than half of that ratio on housing](https://www.theguardian.com/lifeandstyle/2024/jan/10/the-social-housing-secret-how-vienna-became-the-worlds-most-livable-city). We don’t just need rent control, we need rent to collapse. DSA ultimately believes in Social Housing, Housing First, and a Public Bank, as we see in [Vienna](https://climateandcommunity.org/wp-content/uploads/2025/06/Green-Social-Housing_Lessons-from-Vienna_summary.pdf), [Finland](https://housingfirsteurope.eu/country/finland/), and [soon to be in San Francisco](https://ballotpedia.org/San_Francisco,_California,_Proposition_B,_Create_a_Municipal_Banking_Corporation_and_Public_Bank_Amendment_\(November_2026\)) (thanks to DSA elected Jackie Fielder), respectively. 
 
@@ -115,7 +118,7 @@ RTM, or Regional Transit Measure, is a bill designed to generate a large amount 
 
 This lot of measures all use typical funding methods that keep cities and schools running in California. Ultimately, these are patchwork solutions to the massive hole Prop 13 punched into California’s budget when it cut almost ⅔ of State funds in one year. [This is why many are shocked to find out we take the city bus to school](https://www.kqed.org/news/11980715/why-dont-more-bay-area-kids-ride-school-buses), and have to pay for it. [And how these are gathered and distributed still reproduce neighborhood segregation](https://www.instagram.com/p/Deer99-NO09/). Fixing California’s budget requires larger solutions, like undoing Prop 13, abolishing private schools, de-segregationist re-zoning, expanding public transit service, and more, but for now, it’s a choice between these flawed funding measures and service cuts. That’s a choice with a clear answer.
 
-<h4><strong>NO RECOMMENDATION</strong> on Measure AA and Measure L</h4>
+<h4><span class= "no-rec-box">NO RECOMMENDATION</span> on Measure AA and Measure L</h4>
 
 Adding language to the preamble of the county charter affirming its commitment to dignity, civil rights, and equal protection is good, as is prioritizing extreme weather events. But words are not enough. In the context of the current administration’s  campaign of terror against undocumented people, language is not enough. Changes to the county charter must be followed with concrete steps to address these issues to be meaningful.
 
