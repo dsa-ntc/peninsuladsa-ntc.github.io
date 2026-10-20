@@ -37,7 +37,6 @@ permalink: /test/
         /* Adds space between the grid items */
         gap: 10px; 
         width: 100%;
-        max-width: 1000px; /* Optional: limits the width of your grid */
     }
     .tile {
         background-color: #3498db;
