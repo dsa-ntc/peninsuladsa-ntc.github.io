@@ -5,12 +5,28 @@ permalink: /test/
 ---
 <style>
   /* CSS Styling */
+  .yes-box {
+    width: 200px;
+    height: 200px;
+    font-weight: bold;
+    background-color: #21b314; /* Blue */
+    padding: 2px 6px;
+    border-radius: 8px;        /* Optional: rounds the corners */
+  }
   .no-box {
     width: 200px;
     height: 200px;
     font-weight: bold;
-    background-color: #d32822; /* Blue */
-     padding: 2px 6px;
+    background-color: #b31914; /* Blue */
+    padding: 2px 6px;
+    border-radius: 8px;        /* Optional: rounds the corners */
+  }
+  .no-rec-box {
+    width: 200px;
+    height: 200px;
+    font-weight: bold;
+    background-color: #707070; /* Blue */
+    padding: 2px 6px;
     border-radius: 8px;        /* Optional: rounds the corners */
   }
 </style>
