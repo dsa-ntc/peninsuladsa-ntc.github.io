@@ -48,6 +48,10 @@ permalink: /test/
         font-size: 1.2rem;
         border-radius: 5px;
     }
+    img {
+        width: 100%;
+        height: auto; /* Prevents distortion or squishing */
+    }
 </style>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
@@ -76,7 +80,7 @@ permalink: /test/
     </div>
 </div>
 
-<img src = "/assets/images/Endorsements_2026.004.png">
+<img src = "../assets/images/Endorsements_2026.004.png">
 
 <h2>Foreword</h2>
 
