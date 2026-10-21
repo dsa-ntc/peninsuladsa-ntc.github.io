@@ -83,8 +83,8 @@ permalink: /voter-guide-2026/
     }
     .box-down {
         background-color: #ffffff;
-        border-style: solid;
-        border-color: #000000af;
+        /* border-style: solid;
+        border-color:  #000000; */
         flex: 30%;
         padding: 5px 25px;
         border-radius: 8px;
