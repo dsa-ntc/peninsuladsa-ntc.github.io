@@ -35,8 +35,6 @@ permalink: /test/
     .endorsed{
         font-weight: bold;
         background-color: #f8abab;
-        width: 200px;
-        height: 200px;
         padding: 2px 6px;
         border-radius: 8px;        
     }
