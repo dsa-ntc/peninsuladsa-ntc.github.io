@@ -104,7 +104,7 @@ permalink: /test/
                 <h5>East Palo Alto City Council At-large</h5>
             </div>
         </div>
-        <div class = "tile" style = "background-image: url('../assets/images/voter-guide-2026/measureE2.png'); background-size: contain;">
+        <div class = "tile" style = "background-image: url('../assets/images/voter-guide-2026/measureE.png'); background-size: contain;">
             <div class = "box-top"></div>
             <div class = "box-down">
                 <h4 style = "font-weight: bold;"><span class = "yes-box">YES</span> on Measure E</h4>
