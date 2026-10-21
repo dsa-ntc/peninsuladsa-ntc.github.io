@@ -34,54 +34,99 @@ permalink: /test/
     }
     .grid-container {
         display: grid;
-        grid-template-columns: 1fr; 
-        background color: #f8a0a0;
-        gap: 10px; 
-        width: stretch;
-        max-width: fit-content;
+        grid-template-columns: repeat(1,1fr); 
+        gap: 16px; 
+        width: auto;
     }
-    .tile {
-        background-color: #f8f8f8;
+    @media (min-width:768px){
+        .grid-container{
+            grid-template-columns: repeat(3,1fr);
+            grid-template-rows: repeat(2,minmax(100px,auto));
+        }
+    }
+    .tile{
+        display: grid;
+        grid-template-rows: 70% 30%;
+        gap: 16px;
+        /* background-repeat: no-repeat; */
+        background-size: cover;
+        background-position: center;
         color: black;
-        padding: 40px;
+        padding: 30px 15px;
         text-align: center;
         font-size: 1.2rem;
         border-radius: 5px;
+        height: 600px;
+        width: auto;
+        max-height: auto;
+        max-width: 100%;
     }
-    img {
+    .box-top {
+        flex: 70%;
+    }
+    .box-down {
+        background-color: #ffffff;
+        border-style: solid;
+        border-color: #000000af;
+        flex: 30%;
+        padding: 5px 25px;
+        border-radius: 8px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        min-height: 100px;  
+        height: 100%;
         width: 100%;
-        height: auto; /* Prevents distortion or squishing */
     }
 </style>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-<h2>Peninsula DSA Endorsements 🌹</h2>
+<h2>🌹 Peninsula DSA Proudly Endorses: </h2>
 <div>
     <div class = "grid-container">
-        <div class = "tile">
-            <span>
-                <h4>Phoebe Shin Venkat</h4> Foster City City Council District 1
-            </span>
-            <img src = "assets/images/phoebe.png"></img>
+        <div class = "tile" style ="background-image: url('../assets/images/voter-guide-2026/phoebe.png');">
+            <div class = "box-top"></div>
+            <div class = "box-down">
+                <h4 style = "font-weight: bold;">✅ Phoebe Shin Venkat</h4>
+                <h5>Foster City City Council District 1</h5>
+            </div>
         </div>
-        <div class = "tile">
-            <h4>Melanie Olson</h4>
-            South San Francisco City Council District 3
+        <div class = "tile" style ="background-image: url('../assets/images/voter-guide-2026/melanie.jpg');">
+            <div class = "box-top"></div>
+            <div class = "box-down">
+                <h4 style = "font-weight: bold;">✅ Melanie Olson</h4> 
+                <h5>South San Francisco City Council District 3</h5>
+            </div>
         </div>
-        <div class = "tile">
-            <h4>Ofelia Bello</h4>
-            East Palo Alto City Council At-large
+        <div class = "tile" style = "background-image: url('../assets/images/voter-guide-2026/ofelia.png');">
+            <div class = "box-top"></div>
+            <div class = "box-down">
+                <h4 style = "font-weight: bold;">✅ Ofelia Bello</h4> 
+                <h5>East Palo Alto City Council At-large</h5>
+            </div>
         </div>
-        <div class = "tile">
-            <h4><span class = "yes-box">YES</span> on Measure E</h4>
-            Rent Control for Redwood City
+        <div class = "tile" style = "background-image: url('../assets/images/voter-guide-2026/measureE2.png'); background-size: contain;">
+            <div class = "box-top"></div>
+            <div class = "box-down">
+                <h4 style = "font-weight: bold;"><span class = "yes-box">YES</span> on Measure E</h4>
+                <h5><strong>Rent Control for Redwood City</strong></h5>
+            </div>
+        </div>
+        <div class = "tile" style = "background-image: url('../assets/images/voter-guide-2026/cadsa-bear_social.png');">
+            <div class = "box-top"></div>
+            <div class = "box-down">
+                <h4 style = "font-weight: bold;"><span class = "yes-box">YES</span> on 3 & 40</h4>
+                <h5><strong>TAX THE RICH</strong></h5>
+            </div>
+        </div>
+        <div class = "tile" style = "background-image: url('../assets/images/voter-guide-2026/gruesomegavin.png');">
+            <div class = "box-top"></div>
+            <div class = "box-down">
+                <h4 style = "font-weight: bold;"><span class = "no-box">NO</span> on 41, 42 & 43</h4>
+                <h5><strong>SAY NO TO OLIGARCHY</strong></h5>
+            </div>
         </div>
     </div>
-    <img src = "assets/images/Endorsements_2026.004.png">
 </div>
-
-
 
 <h2>Foreword</h2>
 
