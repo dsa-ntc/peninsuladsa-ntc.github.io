@@ -35,7 +35,7 @@ permalink: /test/
     .grid-container {
         display: grid;
         /* Creates two columns, each taking up 1 fraction of the available space */
-        grid-template-columns: 1fr 1fr; 
+        grid-template-columns: 1fr; 
         /* Adds space between the grid items */
         background color: #f8a0a0;
         gap: 10px; 
