@@ -34,19 +34,44 @@ permalink: /test/
     }
     .grid-container {
         display: grid;
-        grid-template-columns: 1fr; 
-        background color: #f8a0a0;
-        gap: 10px; 
-        width: stretch;
-        max-width: fit-content;
+        grid-template-columns: repeat(1,1fr); 
+        gap: 16px; 
+        width: auto;
+    }
+    @media (min-width:768px){
+        .grid-container{
+            grid-template-columns: repeat(2,1fr)
+        }
     }
     .tile {
+        display: grid;
+        grid-template-columns: 30% 70%;
+        gap: 16px;
         background-color: #f8f8f8;
         color: black;
         padding: 40px;
         text-align: center;
         font-size: 1.2rem;
         border-radius: 5px;
+        width: 100%;
+        max-width: 100%;
+    }
+    .box-left {
+        flex: 30%;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+        border-radius: 8px;
+    }
+    .box-right {
+        flex: 70%;
+        padding: 10px;
+    }
+    img {
+        height: auto;
+        width: auto;
+        max-height: 300px;
+        max-width: 300px;
     }
 </style>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -56,22 +81,38 @@ permalink: /test/
 <div>
     <div class = "grid-container">
         <div class = "tile">
-            <span>
-                <h4>Phoebe Shin Venkat</h4> Foster City City Council District 1
-            </span>
-            <img src = "/assets/images/phoebe.png"></img>
+            <div class = "box-left">
+                <h4 style = "font-weight: bold;">Phoebe Shin Venkat</h4>
+                <h5>Foster City City Council District 1</h5>
+            </div>
+            <div class = "box-right">
+                <img src ="../assets/images/phoebe.png">
+            </div>
         </div>
         <div class = "tile">
-            <h4>Melanie Olson</h4>
-            South San Francisco City Council District 3
+            <div class = "box-left">
+                <h4 style = "font-weight: bold;">Melanie Olson</h4> South San Francisco City Council District 3
+            </div>
+            <div class = "box-right">
+                <img src ="../assets/images/melanie.png">
+            </div>
         </div>
         <div class = "tile">
-            <h4>Ofelia Bello</h4>
-            East Palo Alto City Council At-large
+            <div class = "box-left">
+                <h4>Ofelia Bello</h4> East Palo Alto City Council At-large
+            </div>
+            <div class = "box-right">
+                <img src ="../assets/images/ofelia.png">
+            </div>
         </div>
         <div class = "tile">
-            <h4><span class = "yes-box">YES</span> on Measure E</h4>
-            Rent Control for Redwood City
+            <div class = "box-left">
+                <h4><span class = "yes-box">YES</span> on Measure E</h4>
+                Rent Control for Redwood City
+            </div>
+            <div class = "box-right">
+                <img src ="../assets/images/measure-e.png">
+            </div>
         </div>
     </div>
 </div>
