@@ -3,6 +3,8 @@ layout: page
 title: "Experiment Page"
 permalink: /test/
 ---
+
+<head>
 <style>
   /* CSS Styling */
     .yes-box {
@@ -33,14 +35,15 @@ permalink: /test/
     .grid-container {
         display: grid;
         /* Creates two columns, each taking up 1 fraction of the available space */
-        grid-template-columns: 1fr 1fr 1fr 1fr; 
+        grid-template-columns: 1fr 1fr; 
         /* Adds space between the grid items */
+        background color: #e73232;
         gap: 10px; 
         width: stretch;
         max-width: fit-content;
     }
     .tile {
-        background-color: #3498db;
+        background-color: #ffffff;
         color: white;
         padding: 40px;
         text-align: center;
@@ -48,6 +51,7 @@ permalink: /test/
         border-radius: 5px;
     }
 </style>
+
 
 <h2>Peninsula DSA Endorsements 🌹</h2>
 <div>
