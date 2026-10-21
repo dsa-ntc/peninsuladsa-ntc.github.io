@@ -78,9 +78,10 @@ permalink: /test/
             Rent Control for Redwood City
         </div>
     </div>
+    <img src = "../assets/images/Endorsements_2026.004.png">
 </div>
 
-<img src = "../assets/images/Endorsements_2026.004.png">
+
 
 <h2>Foreword</h2>
 
