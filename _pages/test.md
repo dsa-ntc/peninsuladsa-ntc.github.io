@@ -63,7 +63,7 @@ permalink: /test/
             <span>
                 <h4>Phoebe Shin Venkat</h4> Foster City City Council District 1
             </span>
-            <img src = "/assets/images/phoebe.png"></img>
+            <img src = "assets/images/phoebe.png"></img>
         </div>
         <div class = "tile">
             <h4>Melanie Olson</h4>
@@ -78,7 +78,7 @@ permalink: /test/
             Rent Control for Redwood City
         </div>
     </div>
-    <img src = "../assets/images/Endorsements_2026.004.png">
+    <img src = "assets/images/Endorsements_2026.004.png">
 </div>
 
 
