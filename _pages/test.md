@@ -59,9 +59,7 @@ permalink: /test/
             <span>
                 <h4>Phoebe Shin Venkat</h4> Foster City City Council District 1
             </span>
-            <span>
-                <img src = "assets/images/phoebe.png"></img>
-            </span>
+            <img src = "assets/images/phoebe.png"></img>
         </div>
         <div class = "tile">
             <h4>Melanie Olson</h4>
