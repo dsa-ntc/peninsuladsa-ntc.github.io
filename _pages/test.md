@@ -76,7 +76,7 @@ permalink: /test/
     </div>
 </div>
 
-<img src = "../assets/images/Endorsements_2026.004.png">
+<img src = "/assets/images/Endorsements_2026.004.png">
 
 <h2>Foreword</h2>
 
