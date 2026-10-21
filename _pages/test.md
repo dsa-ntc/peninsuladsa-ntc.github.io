@@ -34,17 +34,15 @@ permalink: /test/
     }
     .grid-container {
         display: grid;
-        /* Creates two columns, each taking up 1 fraction of the available space */
         grid-template-columns: 1fr; 
-        /* Adds space between the grid items */
         background color: #f8a0a0;
         gap: 10px; 
         width: stretch;
         max-width: fit-content;
     }
     .tile {
-        background-color: #c42b2b;
-        color: white;
+        background-color: #f8f8f8;
+        color: black;
         padding: 40px;
         text-align: center;
         font-size: 1.2rem;
@@ -58,8 +56,12 @@ permalink: /test/
 <div>
     <div class = "grid-container">
         <div class = "tile">
-            <h4>Phoebe Shin Venkat</h4>
-            Foster City City Council District 1
+            <span>
+                <h4>Phoebe Shin Venkat</h4> Foster City City Council District 1
+            </span>
+            <span>
+                <img src = "assets/images/phoebe.png"></img>
+            </span>
         </div>
         <div class = "tile">
             <h4>Melanie Olson</h4>
