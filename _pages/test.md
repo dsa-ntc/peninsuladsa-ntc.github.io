@@ -141,7 +141,7 @@ It’s important to remember the ballot box is only one front of the war against
 **Endorse/Recommend background:**
 Endorsements made by our chapter indicate that our membership has democratically decided a position is in line with our political program and has committed to providing material support towards its passage. For candidate races, only DSA members are considered by our chapter for endorsements, ensuring their commitment to the working class. 
 
-<h4><strong>NOTE: Candidates and positions taken on ballot measures that we have endorsed are indicated by a 🌹 </strong></h4>
+<h4><strong>NOTE: Candidates and positions taken on ballot measures that we have endorsed are indicated by a </strong><span class ="endorsed">🌹</span></h4>
 
 However, living in a capitalist state where the people do not have control, most choices on the ballot are imperfect, at best. Consequently, we also present recommendations for candidates, propositions, and measures to help make the best of bad choices so that we may still use our votes to build some working class power.
 
