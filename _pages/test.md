@@ -32,6 +32,10 @@ permalink: /test/
         padding: 2px 6px;
         border-radius: 8px;        /* Optional: rounds the corners */
     }
+    .endorsed{
+        font-weight: bold;
+        background-color: #f8abab
+    }
     .grid-container {
         display: grid;
         grid-template-columns: repeat(1,1fr); 
@@ -151,17 +155,17 @@ For guidance on other higher up races and propositions, see [California DSA’s 
 <h2>Local Candidate Races</h2>
 
 <h4>Foster City City Council District 1 - </h4>
-<h4><strong>Phoebe Shin Venkat</strong> 🌹</h4>
+<h4 class = "endorsed">Phoebe Shin Venkat 🌹</h4>
 
 A socialist and member of Peninsula DSA, Phoebe has been alone on the current council in speaking for a community center, for renters, for youth cycling, and the working class. She has been active in the fight to keep public transit running, and we are excited to keep working with her to make the Peninsula a place anyone can build a life, community, family, and more. Peninsula DSA proudly endorses Phoebe Shin Venkat for Foster City Council.
 
 <h4>South San Francisco City Council District 3 - </h4>
-<h4><strong>Melanie Olson</strong> 🌹</h4>
+<h4 class = "endorsed">Melanie Olson 🌹</h4>
 
 Another PDSA member and socialist, Melanie was also a loud and distinct voice supporting our campaign to save public transit last year. She serves on the South San Francisco Parks and Recreation Commission, where she advocates for public greenery and traffic safety measures, and works as a City Planner in Woodside, a city in desperate need of more diverse housing options. Peninsula DSA proudly endorses Melanie Olson for South San Francisco City Council.
 
 <h4>East Palo Alto City Council At-large - </h4>
-<h4><strong>Ofelia Bello</strong> 🌹<h4>
+<h4 class = "endorsed">Ofelia Bello 🌹<h4>
 
 Ofelia Bello is also a proud socialist and member of PDSA. She has long been involved in community organizing in East Palo Alto, fighting against the gentrification and criminalization of one of the most vulnerable parts of our county. This includes her long-time housing and tenants’ rights advocacy that has involved showing up to support and advocate for renters during police evictions, as well as her on-going role as the director of the Pahali Community Land Trust, which works to preserve affordable, community-owned housing in East Palo Alto. Now, she is running for a seat on the East Palo Alto City Council to take on the corporate-aligned city council. This includes East Palo Alto’s current mayor, who has sold out the city to the highest bidder through increasing wasteful spending on the carceral state and Flock cameras, taking an all-expense paid trip to tour Israel while it perpetuates a genocide, and passing policies that are rapidly gentrifying one of the most historically oppressed parts of the County. Ofelia instead has committed to strengthening renter protections, fighting to bring social housing to East Palo Alto, ending surveillance by canceling Flock and ALPR contracts, maintaining East Palo Alto as a sanctuary city status and opposing ICE’s raids, enshrining pro-labor agreements in city contracts, ending racist and antisemitic policies, and affirming the city’s support for BDS to end the genocide in Palestine. Because of this, Peninsula DSA proudly endorses Ofelia Bello for East Palo Alto City Council.
 
