@@ -133,7 +133,9 @@ permalink: /test/
 It’s important to remember the ballot box is only one front of the war against capitalism. Organizing for a better future does not begin or end with voting. However, multiple measures are only on the ballot this year because of sustained efforts from Peninsula DSA and allies over months, even years. We write this voter guide to spread our vision, [tying current measures to our broader program](https://program.dsausa.org/), and engage our local community. Additionally, this is only a list of what our membership feels we can speak on. Many races go unmentioned either because we don’t have the familiarity to confidently comment, or because there is no candidate we feel advances the interests or power of the working class. Consider our analysis, and consider doing more, like [joining DSA](https://peninsuladsa.org/get-involved/). There is still time to get involved! Check our calendar for opportunities to canvas for [Measure E](https://www.affordableredwoodcity.com/), [Prop 40](https://actionnetwork.org/events/sv-dsa-tax-the-rich-day-canvass), [Melanie Olson](https://www.mobilize.us/mobilize/event/1037604/?referring_vol=1383469), [Phoebe Shin Venkat](https://www.phoebeshinvenkat.com/get-involved), and/or [Ofelia Bello](https://bello2026.com/).
 
 **Endorse/Recommend background:**
-Endorsements made by our chapter indicate that our membership has democratically decided a position is in line with our political program and has committed to providing material support towards its passage. For candidate races, only DSA members are considered by our chapter for endorsements, ensuring their commitment to the working class. Candidates and positions taken on ballot measures that we have endorsed are indicated by a 🌹.
+Endorsements made by our chapter indicate that our membership has democratically decided a position is in line with our political program and has committed to providing material support towards its passage. For candidate races, only DSA members are considered by our chapter for endorsements, ensuring their commitment to the working class. 
+
+<h4><strong>NOTE: Candidates and positions taken on ballot measures that we have endorsed are indicated by a 🌹 </strong><h4>
 
 However, living in a capitalist state where the people do not have control, most choices on the ballot are imperfect, at best. Consequently, we also present recommendations for candidates, propositions, and measures to help make the best of bad choices so that we may still use our votes to build some working class power.
 
@@ -146,7 +148,7 @@ Several propositions on the ballot involve progressive taxation and the issue of
 
 For guidance on other higher up races and propositions, see [California DSA’s voter guide available here](https://www.californiadsa.org/voterguide).
 
-<h2>PDSA Endorsed Candidates</h2>
+<h2>Local Candidate Races</h2>
 
 <h4>Foster City City Council District 1 - <strong>Phoebe Shin Venkat</strong> 🌹</h4>
 
@@ -159,14 +161,6 @@ Another PDSA member and socialist, Melanie was also a loud and distinct voice su
 <h4>East Palo Alto City Council At-large - <strong>Ofelia Bello</strong> 🌹</h4>
 
 Ofelia Bello is also a proud socialist and member of PDSA. She has long been involved in community organizing in East Palo Alto, fighting against the gentrification and criminalization of one of the most vulnerable parts of our county. This includes her long-time housing and tenants’ rights advocacy that has involved showing up to support and advocate for renters during police evictions, as well as her on-going role as the director of the Pahali Community Land Trust, which works to preserve affordable, community-owned housing in East Palo Alto. Now, she is running for a seat on the East Palo Alto City Council to take on the corporate-aligned city council. This includes East Palo Alto’s current mayor, who has sold out the city to the highest bidder through increasing wasteful spending on the carceral state and Flock cameras, taking an all-expense paid trip to tour Israel while it perpetuates a genocide, and passing policies that are rapidly gentrifying one of the most historically oppressed parts of the County. Ofelia instead has committed to strengthening renter protections, fighting to bring social housing to East Palo Alto, ending surveillance by canceling Flock and ALPR contracts, maintaining East Palo Alto as a sanctuary city status and opposing ICE’s raids, enshrining pro-labor agreements in city contracts, ending racist and antisemitic policies, and affirming the city’s support for BDS to end the genocide in Palestine. Because of this, Peninsula DSA proudly endorses Ofelia Bello for East Palo Alto City Council.
-
-<h2>PDSA Endorsed Local Measures</h2>
-
-<h4><span class= "yes-box">YES</span> on Measure E 🌹</h4>
-
-Measure E adds rent control to Redwood City. Rent control is our only immediate tool to keep members of our community here with us, [which is also an environmental concern as many workers get displaced into the Central Valley and have to supercommute back here](https://www.mercurynews.com/wp-content/uploads/2019/09/SJM-L-COMMUTEMAP-0908-90-01.jpg), spewing excess carbon into the air because they have to since there’s no affordable housing where they work. Our opponents claim we unfairly include non-profits, when they too are driving rent up and [the State has also considered lowering the statewide limit to 5%,](https://calmatters.digitaldemocracy.org/bills/ca_202520260ab1157) just like our bill would do. [Over 50% of Californians are rent-burdened](https://www.ppic.org/interactive/californians-and-the-housing-crisis/), aka spending 30% or more of their income on rent, [while residents of peer nations spend less than half of that ratio on housing](https://www.theguardian.com/lifeandstyle/2024/jan/10/the-social-housing-secret-how-vienna-became-the-worlds-most-livable-city). We don’t just need rent control, we need rent to collapse. DSA ultimately believes in Social Housing, Housing First, and a Public Bank, as we see in [Vienna](https://climateandcommunity.org/wp-content/uploads/2025/06/Green-Social-Housing_Lessons-from-Vienna_summary.pdf), [Finland](https://housingfirsteurope.eu/country/finland/), and [soon to be in San Francisco](https://ballotpedia.org/San_Francisco,_California,_Proposition_B,_Create_a_Municipal_Banking_Corporation_and_Public_Bank_Amendment_\(November_2026\)) (thanks to DSA elected Jackie Fielder), respectively. 
-
-<h2>Recommended Candidates</h2>
 
 <h4>San Mateo County Community College District Governing Board Trustee Area 2 - <strong>Jason Holt</strong></h4>
 
@@ -202,7 +196,11 @@ Dana has had a storied career advocating for students who have been victimized b
 The San Mateo Union High School District faces the same inequities plaguing public education nationwide. Diana Harris, an 18-year public school educator and 10-year PTA leader, is running to address these issues. Her platform focuses on progressive concerns; closing opportunity gaps, ensuring genuine inclusion for students with disabilities, preparing all students for college, careers, and community, and prioritizing community input from all, not just those who are able to attend board meetings. As a current Hillsdale High School parent and lifelong community organizer, Diana has the relationships and track record to build coalitions and make a difference. Diana is endorsed by the SMUHSD Teachers Association, San Mateo Labor Council, California Working Families Party, San Mateo County Latinx Democratic Club, San Mateo AAPI Alliance, Adam Loraine, and many other elected officials and community leaders.
 
 
-<h2>Recommended Local Measures</h2>
+<h2>Local Measures</h2>
+
+<h4><span class= "yes-box">YES</span> on Measure E 🌹</h4>
+
+Measure E adds rent control to Redwood City. Rent control is our only immediate tool to keep members of our community here with us, [which is also an environmental concern as many workers get displaced into the Central Valley and have to supercommute back here](https://www.mercurynews.com/wp-content/uploads/2019/09/SJM-L-COMMUTEMAP-0908-90-01.jpg), spewing excess carbon into the air because they have to since there’s no affordable housing where they work. Our opponents claim we unfairly include non-profits, when they too are driving rent up and [the State has also considered lowering the statewide limit to 5%,](https://calmatters.digitaldemocracy.org/bills/ca_202520260ab1157) just like our bill would do. [Over 50% of Californians are rent-burdened](https://www.ppic.org/interactive/californians-and-the-housing-crisis/), aka spending 30% or more of their income on rent, [while residents of peer nations spend less than half of that ratio on housing](https://www.theguardian.com/lifeandstyle/2024/jan/10/the-social-housing-secret-how-vienna-became-the-worlds-most-livable-city). We don’t just need rent control, we need rent to collapse. DSA ultimately believes in Social Housing, Housing First, and a Public Bank, as we see in [Vienna](https://climateandcommunity.org/wp-content/uploads/2025/06/Green-Social-Housing_Lessons-from-Vienna_summary.pdf), [Finland](https://housingfirsteurope.eu/country/finland/), and [soon to be in San Francisco](https://ballotpedia.org/San_Francisco,_California,_Proposition_B,_Create_a_Municipal_Banking_Corporation_and_Public_Bank_Amendment_\(November_2026\)) (thanks to DSA elected Jackie Fielder), respectively. 
 
 <h4><span class= "yes-box">YES</span> on Measure RTM</h4>
 
