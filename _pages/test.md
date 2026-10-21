@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Experiment Page"
+title: ""
 permalink: /test/
 ---
 
@@ -86,7 +86,7 @@ permalink: /test/
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-<h2>🌹 Peninsula DSA Proudly Endorses: </h2>
+<h2>Peninsula DSA Proudly Endorses 🌹</h2>
 <div>
     <div class = "grid-container">
         <div class = "tile" style ="background-image: url('../assets/images/voter-guide-2026/phoebe.png');">
@@ -141,7 +141,7 @@ It’s important to remember the ballot box is only one front of the war against
 **Endorse/Recommend background:**
 Endorsements made by our chapter indicate that our membership has democratically decided a position is in line with our political program and has committed to providing material support towards its passage. For candidate races, only DSA members are considered by our chapter for endorsements, ensuring their commitment to the working class. 
 
-<h4><strong>NOTE: Candidates and positions taken on ballot measures that we have endorsed are indicated by a </strong><span class ="endorsed">🌹</span></h4>
+<strong>NOTE: Candidates and positions taken on ballot measures that we have endorsed are indicated by a 🌹</strong>
 
 However, living in a capitalist state where the people do not have control, most choices on the ballot are imperfect, at best. Consequently, we also present recommendations for candidates, propositions, and measures to help make the best of bad choices so that we may still use our votes to build some working class power.
 
@@ -149,25 +149,25 @@ However, living in a capitalist state where the people do not have control, most
 <h2>Statewide Propositions & Candidates</h2>
 Several propositions on the ballot involve progressive taxation and the issue of our state’s extreme wealth inequality, including propositions to improve the situation (which we’ve endorsed) and propositions that will make the situation far worse for the working class of California (which we have anti-endorsed). Following the [analysis done by California DSA](https://www.californiadsa.org/voterguide), our chapter, like many chapters across our state, have made the following endorsements: 
 
-<h4 class = "endorsed"><span class="yes-box">YES</span> on Propositions 3 & 40 🌹</h4>
-<h4 class = "endorsed"><span class="no-box">NO</span> on Propositions 41, 42, & 43 💩</h4>
+<h4><span class="yes-box">YES</span> on <strong>Propositions 3 & 40</strong> 🌹</h4>
+<h4><span class="no-box">NO</span> on <strong>Propositions 41, 42 & 43</strong> 💩</h4>
 
 For guidance on other higher up races and propositions, see [California DSA’s voter guide available here](https://www.californiadsa.org/voterguide).
 
 <h2>Local Candidate Races</h2>
 
-<h4>Foster City City Council District 1 - </h4>
-<h4 class = "endorsed">Phoebe Shin Venkat 🌹</h4>
+<h4>Foster City City Council District 1</h4>
+<h4 style= "font-weight: bold">Phoebe Shin Venkat 🌹</h4>
 
 A socialist and member of Peninsula DSA, Phoebe has been alone on the current council in speaking for a community center, for renters, for youth cycling, and the working class. She has been active in the fight to keep public transit running, and we are excited to keep working with her to make the Peninsula a place anyone can build a life, community, family, and more. Peninsula DSA proudly endorses Phoebe Shin Venkat for Foster City Council.
 
-<h4>South San Francisco City Council District 3 - </h4>
-<h4 class = "endorsed">Melanie Olson 🌹</h4>
+<h4>South San Francisco City Council District 3</h4>
+<h4 style= "font-weight: bold">Melanie Olson 🌹</h4>
 
 Another PDSA member and socialist, Melanie was also a loud and distinct voice supporting our campaign to save public transit last year. She serves on the South San Francisco Parks and Recreation Commission, where she advocates for public greenery and traffic safety measures, and works as a City Planner in Woodside, a city in desperate need of more diverse housing options. Peninsula DSA proudly endorses Melanie Olson for South San Francisco City Council.
 
-<h4>East Palo Alto City Council At-large - </h4>
-<h4 class = "endorsed">Ofelia Bello 🌹</h4>
+<h4>East Palo Alto City Council At-large</h4>
+<h4 style= "font-weight: bold">Ofelia Bello 🌹</h4>
 
 Ofelia Bello is also a proud socialist and member of PDSA. She has long been involved in community organizing in East Palo Alto, fighting against the gentrification and criminalization of one of the most vulnerable parts of our county. This includes her long-time housing and tenants’ rights advocacy that has involved showing up to support and advocate for renters during police evictions, as well as her on-going role as the director of the Pahali Community Land Trust, which works to preserve affordable, community-owned housing in East Palo Alto. Now, she is running for a seat on the East Palo Alto City Council to take on the corporate-aligned city council. This includes East Palo Alto’s current mayor, who has sold out the city to the highest bidder through increasing wasteful spending on the carceral state and Flock cameras, taking an all-expense paid trip to tour Israel while it perpetuates a genocide, and passing policies that are rapidly gentrifying one of the most historically oppressed parts of the County. Ofelia instead has committed to strengthening renter protections, fighting to bring social housing to East Palo Alto, ending surveillance by canceling Flock and ALPR contracts, maintaining East Palo Alto as a sanctuary city status and opposing ICE’s raids, enshrining pro-labor agreements in city contracts, ending racist and antisemitic policies, and affirming the city’s support for BDS to end the genocide in Palestine. Because of this, Peninsula DSA proudly endorses Ofelia Bello for East Palo Alto City Council.
 
@@ -207,7 +207,7 @@ The San Mateo Union High School District faces the same inequities plaguing publ
 
 <h2>Local Measures</h2>
 
-<h4 class = "endorsed"><span class= "yes-box">YES</span> on Measure E 🌹</h4>
+<h4 ><span class= "yes-box">YES</span> on <strong>Measure E</strong> 🌹</h4>
 
 Measure E adds rent control to Redwood City. Rent control is our only immediate tool to keep members of our community here with us, [which is also an environmental concern as many workers get displaced into the Central Valley and have to supercommute back here](https://www.mercurynews.com/wp-content/uploads/2019/09/SJM-L-COMMUTEMAP-0908-90-01.jpg), spewing excess carbon into the air because they have to since there’s no affordable housing where they work. Our opponents claim we unfairly include non-profits, when they too are driving rent up and [the State has also considered lowering the statewide limit to 5%,](https://calmatters.digitaldemocracy.org/bills/ca_202520260ab1157) just like our bill would do. [Over 50% of Californians are rent-burdened](https://www.ppic.org/interactive/californians-and-the-housing-crisis/), aka spending 30% or more of their income on rent, [while residents of peer nations spend less than half of that ratio on housing](https://www.theguardian.com/lifeandstyle/2024/jan/10/the-social-housing-secret-how-vienna-became-the-worlds-most-livable-city). We don’t just need rent control, we need rent to collapse. DSA ultimately believes in Social Housing, Housing First, and a Public Bank, as we see in [Vienna](https://climateandcommunity.org/wp-content/uploads/2025/06/Green-Social-Housing_Lessons-from-Vienna_summary.pdf), [Finland](https://housingfirsteurope.eu/country/finland/), and [soon to be in San Francisco](https://ballotpedia.org/San_Francisco,_California,_Proposition_B,_Create_a_Municipal_Banking_Corporation_and_Public_Bank_Amendment_\(November_2026\)) (thanks to DSA elected Jackie Fielder), respectively. 
 
