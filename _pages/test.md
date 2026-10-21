@@ -149,8 +149,8 @@ However, living in a capitalist state where the people do not have control, most
 <h2>Statewide Propositions & Candidates</h2>
 Several propositions on the ballot involve progressive taxation and the issue of our state’s extreme wealth inequality, including propositions to improve the situation (which we’ve endorsed) and propositions that will make the situation far worse for the working class of California (which we have anti-endorsed). Following the [analysis done by California DSA](https://www.californiadsa.org/voterguide), our chapter, like many chapters across our state, have made the following endorsements: 
 
-<h4><span class="yes-box">YES</span> on Propositions 3 & 40 🌹</h4>
-<h4><span class="no-box">NO</span> on Propositions 41, 42, & 43 💩</h4>
+<h4 class = "endorsed"><span class="yes-box">YES</span> on Propositions 3 & 40 🌹</h4>
+<h4 class = "endorsed"><span class="no-box">NO</span> on Propositions 41, 42, & 43 💩</h4>
 
 For guidance on other higher up races and propositions, see [California DSA’s voter guide available here](https://www.californiadsa.org/voterguide).
 
