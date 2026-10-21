@@ -37,13 +37,13 @@ permalink: /test/
         /* Creates two columns, each taking up 1 fraction of the available space */
         grid-template-columns: 1fr 1fr; 
         /* Adds space between the grid items */
-        background color: #ffffff;
+        background color: #f8a0a0;
         gap: 10px; 
         width: stretch;
         max-width: fit-content;
     }
     .tile {
-        background-color: #f59696;
+        background-color: #c42b2b;
         color: white;
         padding: 40px;
         text-align: center;
@@ -51,7 +51,8 @@ permalink: /test/
         border-radius: 5px;
     }
 </style>
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
 
 <h2>Peninsula DSA Endorsements 🌹</h2>
 <div>
