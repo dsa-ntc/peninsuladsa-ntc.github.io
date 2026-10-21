@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ""
-permalink: /test/
+title: "Peninsula DSA Voter Guide 2026"
+permalink: /voter-guide-2026/
 ---
 
 <head>
