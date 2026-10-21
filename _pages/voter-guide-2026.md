@@ -54,7 +54,7 @@ permalink: /voter-guide-2026/
         display: grid;
         grid-template-rows: 70% 30%;
         gap: 16px;
-        /* background-repeat: no-repeat; */
+        background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
         color: black;
@@ -69,6 +69,8 @@ permalink: /voter-guide-2026/
     }
     .box-top {
         flex: 70%;
+        background-repeat: no-repeat;
+        background-position: center;
     }
     .box-down {
         background-color: #ffffff;
@@ -110,8 +112,8 @@ permalink: /voter-guide-2026/
                 <h5>East Palo Alto City Council At-large</h5>
             </div>
         </div>
-        <div class = "tile" style = "background-image: url('../assets/images/voter-guide-2026/measureE.png'); background-size: contain;">
-            <div class = "box-top"></div>
+        <div class = "tile" style = "background-image: url('../assets/images/voter-guide-2026/measureE.png'); background-repeat: repeat;">
+            <div class = "box-top" style = "background-image: url('../assets/images/voter-guide-2026/affrwc.png'); background-size: contain;"></div>
             <div class = "box-down">
                 <h4 style = "font-weight: bold;"><span class = "yes-box">YES</span> on Measure E</h4>
                 <h5><strong>Rent Control for Redwood City</strong></h5>
