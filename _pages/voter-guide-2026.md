@@ -171,7 +171,6 @@ For further guidance on these propositions and other statewide propositions and 
 <h4>Foster City<br>City Council District 1</h4>
 <h4 style= "font-weight: bold">Phoebe Shin Venkat 🌹</h4>
 
-
 A socialist and member of Peninsula DSA, Phoebe has been alone on the current council in speaking for a community center, for renters, for youth cycling, and the working class. She has been active in the fight to keep public transit running, and we are excited to keep working with her to make the Peninsula a place anyone can build a life, community, family, and more. Peninsula DSA proudly endorses Phoebe Shin Venkat for Foster City Council.
 
 <h4>South San Francisco<br>City Council District 3</h4>
@@ -186,36 +185,46 @@ Another PDSA member and socialist, Melanie was also a loud and distinct voice su
 Ofelia Bello is also a proud socialist and member of PDSA. She has long been involved in community organizing in East Palo Alto, fighting against the gentrification and criminalization of one of the most vulnerable parts of our county. This includes her long-time housing and tenants’ rights advocacy that has involved showing up to support and advocate for renters during police evictions, as well as her on-going role as the director of the Pahali Community Land Trust, which works to preserve affordable, community-owned housing in East Palo Alto. Now, she is running for a seat on the East Palo Alto City Council to take on the corporate-aligned city council. This includes East Palo Alto’s current mayor, who has sold out the city to the highest bidder through increasing wasteful spending on the carceral state and Flock cameras, taking an all-expense paid trip to tour Israel while it perpetuates a genocide, and passing policies that are rapidly gentrifying one of the most historically oppressed parts of the County. Ofelia instead has committed to strengthening renter protections, fighting to bring social housing to East Palo Alto, ending surveillance by canceling Flock and ALPR contracts, maintaining East Palo Alto as a sanctuary city status and opposing ICE’s raids, enshrining pro-labor agreements in city contracts, ending racist and antisemitic policies, and affirming the city’s support for BDS to end the genocide in Palestine. Because of this, Peninsula DSA proudly endorses Ofelia Bello for East Palo Alto City Council.
 
 <h3 class = "recommended">Recommended</h3>
-<h4>San Mateo County Community College District Governing Board Trustee Area 2 - <strong>Jason Holt</strong></h4>
+<h4>San Mateo County Community College District<br>Board of Trustees, Area 2</h4>
+<h4 style= "font-weight: bold">Jason Holt</h4>
 
 Peninsula DSA spent the last two years organizing in support of AFT 1493 in order to back them in their contract fight. Thankfully, they won their contract with a majority of their demands. But during that fight, the current trustees exposed just how out of touch with the lives of workers and students they are. AFT 1493 went looking for a candidate who would help correct this problem and found Jason, who understands that helping students means helping teachers. PDSA strongly encourages voting for Jason Holt for SMC CCD. 
 
-<h4>Pacifica School District, At-large (General Election) - <strong>Bridget Hardt, Tracey Simmons, and Katy Bradley</strong></h4>
+<h4>Pacifica School District<br>Board of Trustees, At-Large (General Election for 3 Seats)</h4>
+<h4 style= "font-weight: bold;">Bridget Hardt, Laverne R. Villalobos, and Katy Bradley</h4>
 
-Though there are no socialists running, there are a few progressive liberals who seem willing to defend Pacifica from capitalist attempts at school privatization. Hardt has both successfully organized and fought for Parcel Tax campaigns to help overcome neoliberal failures in public school funding, while Simmons has taken strong stances against generative AI and in favor of the rights of trans students. Bradley is a longtime union organizer with UPTE and is committed to preventing cuts to resources for students and teachers. Peninsula DSA recommends voting for Bridget Hardt, Tracey Simmons, and Katy Bradley for the 4-year term seats.
+Though there are no socialists running, there are a few progressive liberals who seem willing to defend Pacifica from capitalist attempts at school privatization. Hardt has both successfully organized and fought for Parcel Tax campaigns to help overcome neoliberal failures in public school funding, while Villalobos has been a staunch advocate of workforce housing. Bradley is a longtime union organizer with UPTE and is committed to preventing cuts to resources for students and teachers. Peninsula DSA recommends voting for Bridget Hardt, Tracey Simmons, and Katy Bradley for the 4-year term seats.
 
 
-<h4>Pacifica School District, At-large (Special Election) - <strong>Elizabeth Bredall</strong></h4>
+<h4>Pacifica School District<br>Board of Trustees, At-Large (Special Election for 1 Seat)</h4>
+<h4 style= "font-weight: bold;">Elizabeth Bredall</h4>
 
-Bredall pushed for the necessary Parcel Tax to keep Pacifica sufficiently funded alongside Bridget Hardt (who is running in the Pacifica School District general election). Altogether, with her time in Music Matters and fighting for workforce housing, we believe Bredall champions working Pacificans and their children more than any other candidate. Vote Elizabeth Bredall for Pacifica School District.
+Bredall pushed for the necessary Parcel Tax to keep Pacifica sufficiently funded alongside Bridget Hardt (who is running in the Pacifica School District general election). Altogether, with her time in Music Matters and fighting for workforce housing, we believe Bredall champions working Pacificans and their children more than any other candidate. 
 
-<h4>San Mateo County Board of Education Governing Board Area 2 - <strong>Frank Lara</strong></h4>
+Tracey Simmons is another strong candidate running for the same seat. However, we believe Bredall has the best chance of defeating Kelly Mendoza, who is running on the pro-charter school "Let's Get to Work" slate. With all this in mind, we recommend you to vote Elizabeth Bredall for the Pacifica School District special election seat.
+
+<h4>South San Francisco Unified School District<br>Board of Trustees, Area E</h4>
+<h4 style= "font-weight: bold;">Frank Lara</h4>
 
 Frank Lara, a longtime member of the Party for Socialism and Liberation, is running for school board in South SF. He is a leading organizer in the United Educators of San Francisco, who just helped lead a successful strike among SFUSD teachers for healthcare and better classroom conditions for students. Frank knows how to take on our enemies in the billionaire class and ICE and will help create a South SF school district that works for all. We recommend voting Frank Lara for SMC BoE.
 
-<h4>San Mateo City Council District 3 - <strong>Seema Patel</strong></h4>
+<h4>San Mateo<br>City Council, District 3</h4>
+<h4 style= "font-weight: bold;">Seema Patel</h4>
 
 Like many cities down the Peninsula, San Mateo politics are dominated by a small group of leaders much more conservative and much less informed than our community. So, while we insist there are flaws in existing affordable housing methods, and that new housing should come with expanded rent control, tenants’ rights, even social housing, we agree Seema understands the importance of public transit, safe streets, and sustainability and will help fix the imbalance in San Mateo politics. Vote Seema Patel for San Mateo City Council.
 
-<h4>San Mateo City Council District 5 - <strong>Adam Loraine</strong></h4>
+<h4>San Mateo<br>City Council, District 5</h4>
+<h4 style= "font-weight: bold;">Adam Loraine</h4>
 
 Adam has been a strong advocate on RTM alongside many of our members. Similar to above, we believe in more aggressive methods of building and enforcing affordability. But Adam is an avid cyclist himself and will still be able to build a sustainable San Mateo, build a local-first San Mateo, and help fix San Mateo’s streets from an informed perspective. Vote Adam Loraine for San Mateo City Council.
 
-<h4>San Mateo County Board of Education Governing Board Area 2 - <strong>Dana Johnson</strong></h4>
+<h4>San Mateo County Board of Education<br>Trustee Area 2</h4>
+<h4 style= "font-weight: bold;">Dana Johnson</h4>
 
 Dana has had a storied career advocating for students who have been victimized by our prison system. They work with homeless and incarcerated youth and will fight for San Mateo County Schools that work for all families. They also have been a staunch LGBTQ+ rights advocate, and are a reliable ally for our trans youth, who have been increasingly victimized by the right. Dana's lived experiences and career as a social worker give them an expertise and commitment to equity that the incumbent they are running against is simply unable to match. We recommend Dana for San Mateo County School Board.
 
-<h4>San Mateo Union High School District School Board Trustee Area 3 - <strong>Dianna Harris</strong></h4>
+<h4>San Mateo Union High School District<br>Board of Trustees, Area 3</h4>
+<h4 style= "font-weight: bold;">Dianna Harris</h4>
 
 The San Mateo Union High School District faces the same inequities plaguing public education nationwide. Diana Harris, an 18-year public school educator and 10-year PTA leader, is running to address these issues. Her platform focuses on progressive concerns; closing opportunity gaps, ensuring genuine inclusion for students with disabilities, preparing all students for college, careers, and community, and prioritizing community input from all, not just those who are able to attend board meetings. As a current Hillsdale High School parent and lifelong community organizer, Diana has the relationships and track record to build coalitions and make a difference. Diana is endorsed by the SMUHSD Teachers Association, San Mateo Labor Council, California Working Families Party, San Mateo County Latinx Democratic Club, San Mateo AAPI Alliance, Adam Loraine, and many other elected officials and community leaders.
 
