@@ -7,33 +7,13 @@ layout: default
 
 <div class="container my-5">
   <div class="row">
-    <div class="col-md-6 col-sm-12">
-      <h1>{{ welcome.welcome }}</h1>
-      <hr class="large" />
+    <div class="text-center">
+	    <h1>{{ welcome.welcome }}</h1>
+      <a href="https://peninsula.dsachapters.org/assets/images/ECE%204%20All%20SSF%20volunteers%20at%20campaign%20launch%202022.01.15.jpg">
+      <img src="assets/images/2026-bbq.jpg" width="100%" height="auto" alt="Peninsula DSA members at our 2026 annual summer BBQ!" />
+	    </a>
       <p>{{ about.about }}</p>
       <a href="/about" class="btn btn-secondary">Learn more about us <i class="fa fa-arrow-right"></i></a>
     </div>
-    <div class="col-md-6 col-sm-12 text-right">
-	    <a href="https://peninsula.dsachapters.org/assets/images/ECE%204%20All%20SSF%20volunteers%20at%20campaign%20launch%202022.01.15.jpg">
-      <img src="assets/images/PDSA with banner at SF May Day, 2025.05.01.jpg" width="90%" height="auto" alt="Peninsula DSA members with our banner at May Day 2025 in San Francisco!" />
-	    </a>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-12 text-center">
-      <i class="fa fa-arrow-down my-5 text-red"></i>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-12">
-      <h3 class="my-5">Recent Statements</h2>
-    </div>
-    {% for post in site.posts limit:3 %}
-    <div class="col-12">
-      <h6 class="my-0 text-black-tint-2">{{ post.date | date: "%b %-d, %Y" }}</h6>
-      <a class="my-0 article-link" href="{{ post.url }}">{{ post.title }}</a>
-      <p>{{ post.short_description }}</p>
-    </div>
-  {% endfor %}
   </div>
 </div>
