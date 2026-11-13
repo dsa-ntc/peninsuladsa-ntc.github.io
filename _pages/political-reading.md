@@ -34,12 +34,13 @@ Virtual: [Google Meet](https://meet.google.com/yqs-mvtd-ahn)
 <img src="https://peninsuladsa.org/assets/images/Peninsula DSA reading group meets Malcolm Harris at Kepler's Books 2025.04.jpg" align="right" height="300" width="">
 
 <h3>2026</h3>
-* ["Bad Mexicans" by Kelly Lytle Hernandez](https://wwnorton.com/books/9781324004370)
+* [The Hundred Years' War on Palestine](https://us.macmillan.com/books/9781627798556/thehundredyearswaronpalestine/) by Rashid I. Khalidi
+* [Bad Mexicans](https://wwnorton.com/books/9781324004370) by Kelly Lytle Hernandez
 * [A custom collection of short local history reads from East Palo Alto, San Mateo, and more.](https://docs.google.com/document/d/1M9MsMEvrynyS6OBBmdJhPFEjw7FairspkYUSo3wfAqs/edit?tab=t.0#heading=h.redtxr2y73ow)
-* Romance of American Communism by Vivian Gornick
+* [Romance of American Communism](https://www.versobooks.com/products/890-the-romance-of-american-communism) by Vivian Gornick
 * [Transgender Liberation: Beyond Pink or Blue](https://transreads.org/wp-content/uploads/2021/12/2021-12-29_61cca107e2f6b_leslie-feinberg-trans-liberation-beyond-pink-or-blue.pdf) by Leslie Feinberg
-* Lucy Parsons: An American Revolutionary by Carolyn Ashbaugh
-* Feminism for the 99% by Cinzia Arruzza, Tithi Battacharya, and Nancy Fraser
+* [Lucy Parsons: An American Revolutionary](https://www.haymarketbooks.org/books/451-lucy-parsons) by Carolyn Ashbaugh
+* [Feminism for the 99%](https://www.versobooks.com/products/774-feminism-for-the-99) by Cinzia Arruzza, Tithi Battacharya, and Nancy Fraser
 * [The End of Policing](https://www.versobooks.com/products/178-the-end-of-policing) by Alex S. Vitale
 * [Why Women Have Better Sex Under Socialism](https://bookshop.org/p/books/why-women-have-better-sex-under-socialism-and-other-arguments-for-economic-independence-kristen-r-ghodsee/8006dcbac0b44c8f?ean=9781645036364&next=t&next=t) (2018) by Kristen Ghodsee
 * [Revolutionary Suicide](https://bookshop.org/p/books/revolutionary-suicide-penguin-classics-deluxe-edition-huey-p-newton/4c8d2107d3fda80a) (1973) by Huey P. Newton
