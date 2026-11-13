@@ -46,6 +46,7 @@ permalink: /recommended-media/
 * [Citations Needed](https://citationsneeded.libsyn.com/) - a podcast about the intersection of media, PR, and power, hosted by Nima Shirazi and Adam Johnson.
 * [Class](https://education.dsausa.org/class-the-npec-podcast/) - official podcast of DSA's National Political Education Committee (NPEC)
 * [Corner Späti](https://www.theleftberlin.com/corner-spati/) (Berlin + the rest of Europe) - "weekly discussions of a deteriorating world all from the comfort of your local smoke-filled Spätkauf"
+* [Coyote Media](https://www.coyotemedia.org/) - Independent Bay Area journalism with a bite!
 * [Death Panel](https://www.deathpanel.net) - "Politics, culture, and public policy from the left. Medicare for All now. Solidarity forever. Stay alive another week."
 * [The Deprogram](https://www.youtube.com/@thedeprogram9999) - "The only truly international, global, and anti-capitalist podcast you’ll find"
 * [The Dig](https://thedigradio.com/) - Daniel Denvir's Jacobin podcast on politics, history, and economics everywhere
@@ -104,7 +105,6 @@ _Media Criticism_
 * [Radical Planning](https://www.youtube.com/@radicalplanning)
 * [Second Thought](https://www.youtube.com/@SecondThought)
 * [Some More News](https://www.youtube.com/@SMN)
-* [Taylor Lorenz](https://www.youtube.com/@TaylorLorenz)
 * [Three Arrows](https://www.youtube.com/@ThreeArrows)
 * [Yugopnik](https://www.youtube.com/@YUGOPNIK)
 * [Zoe Bee](https://www.youtube.com/@zoe_bee)
