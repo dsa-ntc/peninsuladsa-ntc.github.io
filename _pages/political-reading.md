@@ -9,18 +9,17 @@ permalink: /political-reading/
 
 <h2>Currently Reading</h2>
 
+<h4>Winter Schedule</h4>
 
+For the winter months, we'll have a series of brief readings, some of which will be available for free at Fireside Books, if you didn't pick them up from the previous meeting.
 
-<h4>"The Hundred Years' War on Palestine" by Rashid I. Khalidi</h4>
-
-Join the Reading Group for our coverage of "The Hundred Years' War on Palestine".
-
-Rashid I. Khalidi takes readers through the history of Palestine from 1917 to 2017 in order to explore the true origins and nature of the conflict. Whether you've finished the reading or not, join us to discuss why the US media's narrative of a conflict between two competing movements for national self-determination is just plain wrong, and why the Israeli project is better understood as settler colonialism.
-
-Our political reading group meets every other Tuesday, 6:15-7:45pm:
+**Our political reading group meets every other Tuesday, 6:15-7:45pm:**
 <br>
-* Oct. 13th, 6:15 – 7:45 pm (Intro through Ch 2)
-* Oct. 27th, 6:15 – 7:45 pm (Ch 3-4) NOTE: This meeting will be held in-person at an alternate location To Be Determined
+* Nov. 17th — **The Case for Letting Malibu Burn** by Mike Davis (printouts available at Fireside Books)
+* Dec. 1st  — **Ideas for the Struggle** by Marta Harnecker (printouts available at Fireside Books)
+* Dec. 15th — **Automation and the Future of Work** by Aaron Benananov
+* Jan. 5th — **Social Reform or Revolution?** by Rosa Luxemburg
+* Jan. 19th — **Imperialism: The Highest Stage of Capitalism** by Vladimir Lenin
 
 [Fireside Books & More](https://firesiderwc.com/), 2421 Broadway, Redwood City (by Caltrain station)
 <br>
