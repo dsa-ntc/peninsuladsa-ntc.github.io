@@ -15,15 +15,30 @@
       <ul class="navbar-nav ml-auto">
         <!-- TODO add theme version dropdown here -->
         {%- for link in site.data.nav.header -%}
+          <!-- adjust link -->
           {%- if link.url contains '://' -%}
             {%- assign url = link.url -%}
           {%- else -%}
             {%- assign url = link.url | relative_url -%}
           {%- endif -%}
-        <li class="nav-item">
-          <a class="nav-link" href="{{ url }}" {% if link.description %} title="{{ link.description }}"
-            {% endif %}>{{ link.title }}</a>
-        </li>
+          <!-- check for sublinks -->
+          {% if link.sublinks %}
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown-{{ forloop.index }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                {{ link.title }}
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown-{{ forloop.index }}">
+                {% for sublink in link.sublinks %}
+                  <a class="dropdown-item" href="{{ sublink.url | relative_url }}">{{ sublink.title }}</a>
+                {% endfor %}
+              </div>
+            </li>
+          {% else %}
+            <li class="nav-item">
+                <a class="nav-link" href="{{ url }}" {% if link.description %} title="{{ link.description }}"
+                  {% endif %}>{{ link.title }}</a>
+              </li>
+          {% endif %}
         {%- endfor -%}
       </ul>
       {% if site.search == true %}

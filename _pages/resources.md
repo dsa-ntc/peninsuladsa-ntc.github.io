@@ -6,7 +6,7 @@ permalink: /resources/
 
 <h4>"What can I DO?" Here are some effective actions to take right now, wherever you are.</h4>
 
-*For in-person and virtual events, please visit PDSA's [events calendar](https://peninsuladsa.org/calendar/). To learn about PDSA's active campaigns, head over to [Get Involved](https://peninsuladsa.org/get-involved/).*
+*To see in-person and virtual events, please visit PDSA's [events calendar](/events/). To learn about PDSA's active campaigns, head over to [Working Groups](/working-groups/). To get updates on what we're up to, [subscribe to our email newsletter]("http://eepurl.com/cNwNHH/")*
 
 <h3>📰 Diversify Your Media Sources</h3>
 
@@ -35,7 +35,7 @@ permalink: /resources/
 
 * ✍️ [Sign the petition](https://chng.it/KgZ4bydkjV) to demand the return of weekday service!
 
-<h3>🇵🇸 Free Palestine! Join the BDS Movement</h3>
+<h3>🍉 Free Palestine! Join the BDS Movement</h3>
 
 ☑️ [**Learn to spot genocide-enabling products!**](https://www.boycat.io/) Capitalists flex their economic power all the time--and so should we! Boycott, Divest & Sanctions (BDS) has [partnered with Buycat](https://www.bdsmovement.net/BDS-Has-Partnered-With-Boycat-App) to make it easy for us to participate in their [consumer boycott targets](https://www.bdsmovement.net/campaigns#4).
 

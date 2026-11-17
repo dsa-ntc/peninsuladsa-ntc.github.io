@@ -1,9 +1,14 @@
 ---
-layout: page
-title: "Preschool for All"
-permalink: /preschool-for-all/
+layout: group
+title: "Preschool for All Working Group"
+permalink: /working-groups/preschool-for-all/
+current: 'show'
+wg: 'Preschool for All'
+emoji: ':children_crossing:'
+tagline: 'For free, high-quality early care and education for all children, and a living wage for our childcare workers and preschool teachers'
+description: Our working group spearheaded the Yes on Measure DD / Preschool for All South San Francisco ballot measure campaign in 2022 and organized for universal preschool in all of San Mateo County. 
 ---
-
+---
 <h4>Peninsula DSA demands free, high-quality early care and education for all children, and a living wage for our childcare workers and preschool teachers.</h4>
 
 <img src="../assets/images/ECE 4 All SSF volunteers at campaign launch 2022.01.15.jpg" width="100%" height="auto" />
