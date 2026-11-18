@@ -13,7 +13,7 @@ tagline: Fighting alongside workers - on the picket line, at board meetings, and
 description: We work closely with the local labor movement --- especially [AFSCME Local 829](https://www.afscme57.org/afscme-local-829), [AFT 1493](https://aft1493.org/), and [Teamsters Local 2785](https://www.teamsters2785.org/)--- to build working class power within and through unions -- whether it’s during the organizing of their creation, contract negotiations, strike support, and any other labor activities throughout San Mateo County. Many of our members are currently in unions, are involved in organizing their workplaces, and have first hand experience in the labor movement.
 discord: labor
 # meetings
-meetings: other
+every: other
 day: Monday
 time: 7:00 pm
 location:
