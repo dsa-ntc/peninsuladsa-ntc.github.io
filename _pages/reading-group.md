@@ -10,6 +10,15 @@ tagline: Engaging in ongoing political education in socialist history and though
         display: grid;
         grid-template-columns: 30% 70%;
     }
+    .content-pic-display{
+        display: grid;
+        grid-template-columns: 70% 30%; 
+    }
+    .pic-column{
+        align: right;
+        width: 200px;
+        height: auto;
+    }
 </style>
 </head>
 
@@ -18,6 +27,7 @@ tagline: Engaging in ongoing political education in socialist history and though
 
 
 ###### For the winter months, we'll have a series of shorter readings:
+
 
 {% for book in site.data.books.upcoming %}
     {% if book.sessions.size > 1 %}
@@ -39,6 +49,7 @@ tagline: Engaging in ongoing political education in socialist history and though
         {% endif %}
     {% endif %}
 {% endfor %}
+
 
 ## Meeting Info
 
@@ -71,34 +82,31 @@ tagline: Engaging in ongoing political education in socialist history and though
 * After 7:45, we almost always go to a restaurant nearby to grab dinner and socialize ([typically Gourmet Haus Stadt](https://gourmethausstaudt.com/))
 
 
-<h2>Past Reads</h2>
+## Past Reads
 
-<img src="https://peninsuladsa.org/assets/images/Peninsula DSA reading group meets Malcolm Harris at Kepler's Books 2025.04.jpg" align="right" height="300" width="">
+{% for year in site.data.books.past %}
+### {{year.year}}
+    {% if year.pics and year.pics != blank %}
+        {% capture pic_markdown %}
+            {% for pic in year.pics %}
+![{{pic.alt}}](/assets/images/pages/reading-group/{{pic.file}}){: max-width="50%" height="300" }
+            {% endfor %}
+        {% endcapture %}
+    {% endif %}
+    {% for book in year.books %}
+        {% if book.author and book.author != blank %}
+##### [{{ book.title }}]({{ book.url }}) by {{ book.author }}
+        {% else %}
+##### [{{ book.title }}]({{ book.url }})
+        {% endif %}
+    {% endfor %}
+<div style="display: flex; overflow-x: auto; gap: 10px">
+    {% for pic in year.pics %}
+    <img src="/assets/images/pages/reading-group/{{ pic.file }}" alt= "{{ pic.alt }}" style="scroll-snap-align: start; height: 300px; flex-shrink: 0;">
+    {% endfor %}
+</div>
+{% endfor %}
 
-<h3>2026</h3>
-* [The Hundred Years' War on Palestine](https://us.macmillan.com/books/9781627798556/thehundredyearswaronpalestine/) by Rashid I. Khalidi
-* [Bad Mexicans](https://wwnorton.com/books/9781324004370) by Kelly Lytle Hernandez
-* [A custom collection of short local history reads from East Palo Alto, San Mateo, and more.](https://docs.google.com/document/d/1M9MsMEvrynyS6OBBmdJhPFEjw7FairspkYUSo3wfAqs/edit?tab=t.0#heading=h.redtxr2y73ow)
-* [Romance of American Communism](https://www.versobooks.com/products/890-the-romance-of-american-communism) by Vivian Gornick
-* [The End of Policing](https://www.versobooks.com/products/178-the-end-of-policing) by Alex S. Vitale
-* [Transgender Liberation: Beyond Pink or Blue](https://transreads.org/wp-content/uploads/2021/12/2021-12-29_61cca107e2f6b_leslie-feinberg-trans-liberation-beyond-pink-or-blue.pdf) by Leslie Feinberg
-* [Lucy Parsons: An American Revolutionary](https://www.haymarketbooks.org/books/451-lucy-parsons) by Carolyn Ashbaugh
-* [Feminism for the 99%](https://www.versobooks.com/products/774-feminism-for-the-99) by Cinzia Arruzza, Tithi Battacharya, and Nancy Fraser
-* [Why Women Have Better Sex Under Socialism](https://bookshop.org/p/books/why-women-have-better-sex-under-socialism-and-other-arguments-for-economic-independence-kristen-r-ghodsee/8006dcbac0b44c8f?ean=9781645036364&next=t&next=t) (2018) by Kristen Ghodsee
-* [Revolutionary Suicide](https://bookshop.org/p/books/revolutionary-suicide-penguin-classics-deluxe-edition-huey-p-newton/4c8d2107d3fda80a) (1973) by Huey P. Newton
-* [Socialism: Utopian and Scientific](https://www.marxists.org/archive/marx/works/1880/soc-utop/index.htm) (1880) by Friedrich Engels
-* ["Left-Wing" Communism: An Infantile Disorder](https://www.marxists.org/archive/lenin/works/1920/lwc/) (1920) by Vladimir Lenin
-
-<h3>2025</h3>
-* [Abolish Rent: How Tenants Can End the Housing Crisis](https://www.haymarketbooks.org/books/2443-abolish-rent) (2024) by Tracy Rosenthal and Leonardo Vilchis
-* [Abolish Silicon Valley: How to Liberate Technology from Capitalism](https://abolishsiliconvalley.com/) (2020) by Wendy Liu
-* [Necropolitics](https://warwick.ac.uk/fac/arts/english/currentstudents/postgraduate/masters/modules/theoryfromthemargins/mbembe_22necropolitics22.pdf) by Achille Mbembe
-* [Blackshirts & Reds: Rational Fascism and the Defeat of Communism](https://www.michael-parenti.org/book-blackshirts-and-reds) (1997) by Michael Parenti
-* [Wage-Labor and Capital (*Lohnarbeit und Kapital*)](https://www.marxists.org/archive/marx/works/1847/wage-labour/) (1847) by Karl Marx
-* [The State and Revolution (*Государство и революция*)](https://www.marxists.org/archive/lenin/works/1917/staterev/) (1917) by Vladimir Lenin
-* [What's Left: Three Paths Through the Planetary Crisis](<https://bookshop.org/p/books/what-s-left-three-paths-through-the-planetary-crisis-malcolm-harris/21718858>) (2025) by Malcolm Harris
-* [Imperialism: The Highest Stage of Capitalism](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/) (1916) by Vladimir Lenin.
-* [ABCs of Socialism](https://archive.org/details/abcs-of-socialism/mode/1up?view=theater) by [Jacobin](https://jacobin.com/) + [Verso](https://www.versobooks.com/).
 
 <h3>2024</h3>
 * [Ideas for the Struggle](https://www.oldandnewproject.net/Essays/Harnecker_Ideas.html) (2004, revised 2016) by Marta Harnecker.
