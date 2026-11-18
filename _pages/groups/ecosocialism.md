@@ -1,7 +1,14 @@
 ---
-layout: page
-title: "Ecosocialism"
-permalink: /ecosocialism/
+layout: tagline
+title: "Ecosocialism Working Group"
+permalink: /groups/ecosocialism/
+order: 1
+#
+display: Ecosocialism
+emoji: ':earth_africa:'
+tagline: 'For climate justice and a livable planet for all'
+description: We organized to achieve energy justice in our electric grid by holding PG&E accountable for its dirty, dangerous, and unreliable fossil-fuel energy. We have run workshops on making DIY air purifiers to protect against wildfire smoke and airborne pathogens, and have distributed money-saving energy efficiency tips to renters.
+---
 ---
 <h3>Current Campaign</h3>
 The Ecosocialism working group continues to work for energy justice by supporting the [Reclaim Our Power!](https://reclaimourpowerca.org/) campaign to hold investor-owned utility PG&E accountable for its refusal to upgrade its dirty, dangerous, and unreliable energy system. Our members call into public meetings of the California Public Utilities Committee (CPUC) to protest their ongoing complicity in unaccountable monopoly power.

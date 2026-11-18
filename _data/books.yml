@@ -1,0 +1,78 @@
+# * Dec. 1st  — **Ideas for the Struggle** by Marta Harnecker (printouts available at Fireside Books)
+# * Dec. 15th — **Automation and the Future of Work** by Aaron Benananov
+# * Jan. 5th — **Social Reform or Revolution?** by Rosa Luxemburg
+# * Jan. 19th — **Imperialism: The Highest Stage of Capitalism** by Vladimir Lenin
+upcoming:
+  - title: Ideas for the Struggle
+    author: Marta Harnecker
+    description: 
+    details: (printouts available at Fireside Books)
+    url: https://socialist-alliance.org/sites/default/files/ideas_for_the_struggle.pdf
+    sessions:
+      - date: December 1st
+        location: Gourmet Haus Stadt
+        chapters: 1-4
+    cover: ideasforthestruggle.jfif
+  - title: Automation and the Future of Work
+    author: Aaron Benananov
+    description:
+    url: https://bookshop.org/p/books/automation-and-the-future-of-work-aaron-benanav/ac484ccc493cc2d1?ean=9781839761324
+    cover: automationandthefutureofwork.jfif
+    sessions:
+      - date: December 15th
+        location:
+  - title: Social Reform or Revolution?
+    author: Rosa Luxemburg
+    description:
+    url: https://ycl.org.uk/wp-content/uploads/2021/11/C03-Reform-or-Revolution.pdf
+    cover:
+    sessions:
+      - date: January 5th
+        location:
+  - title: 'Imperialism: The Highest Stage of Capitalism'
+    author: Vladimir Lenin
+    description:
+    url: https://www.readingfromtheleft.com/Books/Classics/LeninImperialism.pdf
+    cover:
+    sessions:
+      - date: January 19th
+        location:
+past:
+  - year: 2026
+    books:
+    - title: The Case for Letting Malibu Burn
+      author: Mike Davis
+      description:
+      details: (printouts available at Fireside Books)
+      url: https://www.csun.edu/~rdavids/350fall08/350readings/Davis%20Case%20for%20Letting%20Malibu%20Burn.pdf
+      not-book: True
+      cover: lettingmalibuburn.jpg
+      sessions:
+        - date: November 17th
+          location: Gourmet Haus Stadt
+    - title: The Hundred Years' War on Palestine
+      author: Rashid I. Khalidi
+      year: 2020
+      url: https://bookshop.org/p/books/the-hundred-years-war-on-palestine-a-history-of-settler-colonialism-and-resistance-1917-2017-rashid-khalidi/a25b884203c871f5?ean=9781250787651
+      description: A landmark history of one hundred years of war waged against the Palestinians, told through pivotal events and family history
+      cover: hundredyearswaronpalestine.jpg
+    - title: Bad Mexicans
+      author: Kelly Lytle Hernandez
+      year: 2023
+      url: https://bookshop.org/p/books/bad-mexicans-race-empire-and-revolution-in-the-borderlands-kelly-lytle-hern-ndez/bf5d9559a4adee6f?ean=9781324064411
+      cover: badmexicans.jpg
+      description: Tells the dramatic story of the magonistas, the migrant rebels who sparked the 1910 Mexican Revolution from the United States
+    - title: 'Bay Area Radical Education Series'
+      description: A custom collection of short local history reads from East Palo Alto, San Mateo, and more
+      url: https://docs.google.com/document/d/1M9MsMEvrynyS6OBBmdJhPFEjw7FairspkYUSo3wfAqs/edit?tab=t.0#heading=h.redtxr2y73ow
+      cover: radicaleducation.png
+  - year:
+    books:
+    - title: 'Abolish Rent:'
+      subtitle: How Tenants Can End the Housing Crisis
+      author: Tracy Rosenthal & Leonardo Vilchis
+      year: 2024
+      url: https://bookshop.org/p/books/abolish-rent-how-tenants-can-end-the-housing-crisis-leonardo-vilchis/c1901b8e26387cf4?ean=9798888902523
+      cover: abolishrent.png
+    
+    

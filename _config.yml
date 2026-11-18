@@ -14,7 +14,7 @@ bootswatch_theme: "united" # cerulean, spacelab, united
 # site settings, follows the order used in jekyll-seo-tag plugin
 lang: "en_US"
 title: "Peninsula Democratic Socialists of America"
-description: "Homepage for Peninsula DSA"
+description: "Peninsula DSA"
 url: # site url e.g. "https://manid2.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 author: mani_d2

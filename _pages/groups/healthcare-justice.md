@@ -1,7 +1,18 @@
 ---
-layout: page
-title: "Healthcare Justice"
-permalink: /healthcare-justice/
+# config
+layout: tagline
+title: "Healthcare Justice Working Group"
+permalink: /groups/healthcare-justice/
+active: 'false'
+order: 1
+link:
+#
+display: Healthcare Justice
+emoji: ':hospital:'
+tagline: For health as a human right
+description: Our working group organized for Medicare for All. We endorsed and supported the California Nurses Association's (CNA) statewide universal healthcare campaign, CalCare. Though AB 1690 and then AB 2200 didn't make it to the floor of the California legislature, Guaranteed Healthcare for All bill will be back again—and we'll be there to fight for it.
+#
+---
 ---
 Peninsula DSA’s Healthcare Justice working group is committed to bringing about free, comprehensive, universal healthcare to all residents nationally through [Medicare for All](https://medicare4all.org/), and at the state level through [CalCare](https://www.nationalnursesunited.org/calcare). 
 

@@ -1,11 +1,22 @@
 ---
-layout: page
-title: "Public Transit"
-permalink: /public-transit/
+# config
+layout: tagline
+title: "Transit Working Group"
+permalink: /groups/transit/
+active: true
+link: false
+order: 1
+# details
+display: Transit
+emoji: ':station:'
+tagline: For preserving and expanding Bay Area public transit, as a first step towards an ecosocialist future
+discord: transit
+# meetings
+every: other
+day: Wednesday
+time: 7:00pm
 ---
-
-<h4>Act now to preserve Bay Area public transit and build an ecosocialist future!</h4>
-
+---
 * 🚎 Join the Bay Area's public transit coalition, [Transbay Coalition](https://www.transbaycoalition.org/join/) and follow #san-mateo-county on their Slack!
 * 📰 Share Peninsula DSA's [ecosocialist public transit article](https://www.californiadsa.org/news/batransit-2025jun) for [*California Red*](https://www.californiadsa.org/news) with everyone you know!
 * ✍️ [Sign our coalition's petition](https://actionnetwork.org/petitions/stop-the-widenings-of-highway-101-and-interstate-280) (~620 signatures) to stop the Caltrans highway widening of 101/92 and fund public transit instead!
