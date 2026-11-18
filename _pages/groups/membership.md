@@ -1,13 +1,15 @@
 ---
-layout: group
+layout: tagline
 title: "Membership Committee"
-permalink: /committees/membership
-cm: Membership
+permalink: /groups/membership
+committee: true
+order: 3
+link: false
+#
+display: Membership
 emoji: ':family:'
 tagline: 'Building our working class power as a community'
 description:
 discord: 'membership-committee'
 meetings: ''
 ---
----
-Hello

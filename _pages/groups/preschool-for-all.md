@@ -1,9 +1,11 @@
 ---
-layout: group
+layout: tagline
 title: "Preschool for All Working Group"
-permalink: /working-groups/preschool-for-all/
-current: 'show'
-wg: 'Preschool for All'
+permalink: /groups/preschool-for-all/
+active: false
+order: 5
+#
+display: 'Preschool for All'
 emoji: ':children_crossing:'
 tagline: 'For free, high-quality early care and education for all children, and a living wage for our childcare workers and preschool teachers'
 description: Our working group spearheaded the Yes on Measure DD / Preschool for All South San Francisco ballot measure campaign in 2022 and organized for universal preschool in all of San Mateo County. 

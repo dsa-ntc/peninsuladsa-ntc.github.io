@@ -1,13 +1,20 @@
 ---
-layout: group
+# config
+layout: tagline
 title: "Transit Working Group"
-permalink: /working-groups/transit/
-current: true
-wg: Transit
+permalink: /groups/transit/
+active: true
+link: false
+order: 1
+# details
+display: Transit
 emoji: ':station:'
 tagline: For preserving and expanding Bay Area public transit, as a first step towards an ecosocialist future
 discord: transit
-meetings: 'on the PDSA Discord every other Wednesday at 7:00 pm'
+# meetings
+every: other
+day: Wednesday
+time: 7:00pm
 ---
 ---
 * 🚎 Join the Bay Area's public transit coalition, [Transbay Coalition](https://www.transbaycoalition.org/join/) and follow #san-mateo-county on their Slack!

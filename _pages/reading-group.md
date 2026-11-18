@@ -1,5 +1,5 @@
 ---
-layout: group
+layout: tagline
 title: "Reading Group"
 permalink: /reading-group/
 tagline: Engaging in ongoing political education in socialist history and thought
@@ -17,49 +17,48 @@ tagline: Engaging in ongoing political education in socialist history and though
 <h2>Upcoming Book Schedule</h2>
 
 
-<h5>For the winter months, we'll have a series of shorter readings:</h5>
+###### For the winter months, we'll have a series of shorter readings:
 
 {% for book in site.data.books.upcoming %}
-    {% for session in book.sessions %}
-<h5>
-<b>{{ session.date }}
+    {% if book.sessions.size > 1 %}
+##### [{{ book.title }}]({{ book.url }}) by {{ book.author }}
+        {% for session in book.sessions %}
             {% if session.location %}
-at {{ session.location }}
+* ##### --- **{{ session.date }} at {{ session.location }}:** Chapters {{ session.chapters }}
             {% else %}
+* ##### --- **{{ session.date }}:** Chapters {{ session.chapters }}
             {% endif %}
-— </b><a href="{{book.url}}">{{ book.title }}</a> by {{ book.author }}
         {% endfor %}
-</h5>
+    {% else %}
+        {% assign session = book.sessions[0] %}
+        {% if session.location and session.location != blank %}
+##### [{{ book.title }}]({{ book.url }}) by {{ book.author }} --- **{{ session.date }} at {{ session.location }}**
+        {% else %}
+
+##### [{{ book.title }}]({{ book.url }}) by {{ book.author }} --- **{{ session.date }}**
+        {% endif %}
+    {% endif %}
 {% endfor %}
 
+## Meeting Info
 
-<!-- **Nov. 17th @ Gourmet Haus Stadt** — [The Case for Letting Malibu Burn](https://www.csun.edu/~rdavids/350fall08/350readings/Davis%20Case%20for%20Letting%20Malibu%20Burn.pdf) by Mike Davis (printouts available at Fireside Books)
-
-**Dec. 1st**  — [Ideas for the Struggle](https://socialist-alliance.org/sites/default/files/ideas_for_the_struggle.pdf) by Marta Harnecker (printouts available at Fireside Books)
-
-**Dec. 15th** — [Automation and the Future of Work](https://bookshop.org/p/books/automation-and-the-future-of-work-aaron-benanav/ac484ccc493cc2d1?ean=9781839761324) by Aaron Benananov
-
-**Jan. 5th** — [Social Reform or Revolution?](https://ycl.org.uk/wp-content/uploads/2021/11/C03-Reform-or-Revolution.pdf) by Rosa Luxemburg
-
-**Jan. 19th** — [Imperialism: The Highest Stage of Capitalism](https://www.readingfromtheleft.com/Books/Classics/LeninImperialism.pdf) by Vladimir Lenin -->
-
-<h2>Meeting Info</h2>
 <iframe align="right" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1392.297448639672!2d-122.2333827283639!3d37.48656626196101!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fa300197b0149%3A0x628d496358370b41!2sFireside%20Books%20%26%20More!5e1!3m2!1sen!2sus!4v1794939919067!5m2!1sen!2sus" width="auto" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
-<h4>Date & Time: <b>Every other Tuesday, 6:15-7:45pm</b></h4>
-<h4>Place: <b>Fireside Books & More (2421 Broadway, Redwood City)</b></h4>
+#### Date & Time: **Every other Tuesday, 6:15-7:45pm**
+#### Place: **Fireside Books & More (2421 Broadway, Redwood City)**
 
-> **Note:** During the Winter, meetings sometimes held at Gourmet Haus Stadt (2615 Broadway, Redwood City; on the other side of the station).
+>**Note:** During the Winter, meetings sometimes held at Gourmet Haus Stadt (2615 Broadway, Redwood City; on the other side of the station).
 
-<h4>Join virtually: <a href="https://meet.google.com/yqs-mvtd-ahn">On Google Meet</a></h4>
+#### [Join virtually on Google Meet](https://meet.google.com/yqs-mvtd-ahn)
 
-<h4>Bring Your Own Book (Usually)</h4>
+#### Bring Your Own Book (Usually)
 
 * Please consider ordering your copy of our reads from our friendly hosts- Andrew and Taylor at [Fireside Books & More](https://firesiderwc.com/):
 
+* *For short readings, printed copies will be handed out at the beginning of meetings or can be found at Fireside Books for free.*
+
 >[Visit their Bookshop.org storefront](https://bookshop.org/shop/FiresideRWC) or email [orders@firesiderwc.com](mailto:orders@firesiderwc.com)
 
-* *For free readings, printed copies will be handed out at the beginning of meetings or can be found at Fireside Books.*
 
 <h4>What To Expect</h4>
 

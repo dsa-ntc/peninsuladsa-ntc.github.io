@@ -8,15 +8,6 @@ permalink: /take-action/
 
 *To see in-person and virtual events, please visit PDSA's [events calendar](/events/). To learn about PDSA's active campaigns, head over to [Working Groups](/working-groups/). To get updates on what we're up to, [subscribe to our email newsletter]("http://eepurl.com/cNwNHH/")*
 
-<h3>📰 Diversify Your Media Sources</h3>
-
-☑️ [**Recommended Media**](https://peninsuladsa.org/recommended-media/): Free yourself from corporate-approved content by seeking out progressive and leftist media sources. Peninsula DSA's Steering Committee has many recommendations for [news, podcasts, video essays, and more](https://peninsuladsa.org/recommended-media/). Get started with these DSA-affiliated picks:
-
-* [Bay Area Current](https://bayareacurrent.com/) - the Bay Area’s brand-new leftist news site covers working-class life and culture
-* [California Red](https://www.californiadsa.org/news) - the bimonthly newsletter of [California DSA](https://www.californiadsa.org/) (check out [our ecosocialist article](https://www.californiadsa.org/news/batransit-2025jun))!
-* [Democratic Left](https://democraticleft.dsausa.org/) - the official magazine of DSA 🌹
-* [Socialist Forum](https://socialistforum.dsausa.org/) - a open and wide-ranging venue for thoughtful discussion and debate among DSA members
-
 <h3>🧊 Stop ICE! Protect Our Neighbors</h3>
 
 ☑️ [**Rapid Response!**](https://faithinactionba.org/rapid-response/) If you see ICE in town, please call the bilingual San Mateo County [Rapid Response 24/7 hotline](https://faithinactionba.org/rapid-response/) *immediately* at [**(203) 666-4472**](tel:2036664472). 🇲🇽 [¡El pueblo unido jamás será vencido!](https://en.wikipedia.org/wiki/El_pueblo_unido_jam%C3%A1s_ser%C3%A1_vencido)

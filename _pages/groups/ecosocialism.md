@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: tagline
 title: "Ecosocialism Working Group"
-permalink: /working-groups/ecosocialism/
-current: 'show'
-wg: Ecosocialism
+permalink: /groups/ecosocialism/
+order: 1
+#
+display: Ecosocialism
 emoji: ':earth_africa:'
 tagline: 'For climate justice and a livable planet for all'
 description: We organized to achieve energy justice in our electric grid by holding PG&E accountable for its dirty, dangerous, and unreliable fossil-fuel energy. We have run workshops on making DIY air purifiers to protect against wildfire smoke and airborne pathogens, and have distributed money-saving energy efficiency tips to renters.

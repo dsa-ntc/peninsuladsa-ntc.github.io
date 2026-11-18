@@ -1,12 +1,17 @@
 ---
-layout: group
+#
+layout: tagline
 title: "Housing for All Working Group"
-permalink: /working-groups/housing/
-current: 'show'
-wg: Housing for All
+permalink: /groups/housing/
+active: 'show'
+order: 10
+link: false
+#
+display: Housing for All
 emoji: ':house:'
 tagline: 'For dignified housing as a human right'
 description: At our most recent chapter convention (February 22nd, 2026), PDSA members voted to endorse and provide material support to Faith in Action Bay Area's Affordable Redwood City housing campaign to win rent control and tenant protections. While we put up a good fight this November, our measure barely lost. Landlords are still getting away with harassing tenants, ignoring repair requests, and generally providing the bare minimum while demanding the maximum legal rent increase each year - often 8% or more. Until that changes, we'll continue to fight for tenants and the working class' right to housing.
+#
 ---
 ---
 <h2>Affordable Redwood City</h2>
