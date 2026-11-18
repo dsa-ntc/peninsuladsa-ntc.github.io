@@ -10,7 +10,7 @@ upcoming:
     url: https://socialist-alliance.org/sites/default/files/ideas_for_the_struggle.pdf
     sessions:
       - date: December 1st
-        location: Gourmet Haus Stadt
+        location:
         chapters: 1-4
     cover: ideasforthestruggle.jfif
   - title: Automation and the Future of Work

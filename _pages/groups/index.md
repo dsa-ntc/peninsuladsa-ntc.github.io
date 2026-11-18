@@ -33,7 +33,7 @@ tagline: Our Committees and Working Groups
 {% endfor %}
 
 
-## Active Working Groups {#working-groups}
+## Working Groups {#working-groups}
 #### *Working groups organize socialist campaigns and/or join coalitions around issues that empower the working class*
 
 {% for page in sorted_pages %}
