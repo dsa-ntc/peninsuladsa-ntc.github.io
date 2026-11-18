@@ -27,7 +27,7 @@ header:
       # - title: "2026 Voter Guide"
       #   url: "/voter-guide-2026/"
       #   description: "PDSA's 2026 General Election Voter Guide"
-      - title: "Recent News"
+      - title: "Recent"
         url: "/news/"
         description: "Peninsula DSA's Most Recent Statements"
       - title: "Recommended Media"
@@ -58,9 +58,6 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/peninsulaDSA/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/peninsuladsa"
   - feed:
     - label: "Sitemap"
       icon: "fas fa-sitemap"
