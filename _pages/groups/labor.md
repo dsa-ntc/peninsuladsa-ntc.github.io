@@ -29,27 +29,16 @@ location:
 </head>
 ---
 
-{% capture my_markdown %}
-
 ### What We Do
+
 Peninsula DSA is helping to build the power of the working class through our work supporting unions -- whether it’s during the organizing of their creation, contract negotiations, strike support, and any other labor activities throughout San Mateo County. Many of our members are currently in unions, are involved in organizing their workplaces, and have first hand experience in the labor movement. In the past, we've supported local unions such as Teamsters 2785, AFT 1493, and SEIU-USWW at SFO in their contract negotiations and strikes, as well as SBWU down in San Jose alongside our sister chapter, Silicon Valley DSA.
 
 Currently, we are involved in training workers to organize their workplace via the Emergency Workers Organizing Committee (EWOC) and are supporting local workers who are doing so, too. Stay tuned for socialist job fairs to get workers into jobs with union backing and other initiatives as we prepare for 2028 and the general strike called for by the UAW and others.
 
+![Our Labor Working Group on the picket line with AFT 1493](../../assets/images/pages/labor/labor_aftpicket_2025.jpg){: width=600; style="display: block;  margin: 0 auto;"}
+
 ##### _The Labor WG meets via Discord **every other Monday at 7:00 pm**_
 ##### [_See our chapter calendar for more details_](../events)
-
-{% endcapture %}
-
-
-<div class = "content-pic">
-    <div content-box>
-        {{ my_markdown | markdownify }}
-    </div>
-    <div align = "right">
-        <img src="../../assets/images/pages/labor/labor_aftpicket_2025.jpg" alt="Our Labor Working Group on the picket line with AFT 1493" width="100%">
-    </div>
-</div>
 
 ---
 ### Interested in Organizing Your Workplace?
