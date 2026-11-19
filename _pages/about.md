@@ -46,7 +46,6 @@ Our Steering Committee (SC) is elected annually by our membership to provide lea
 The Steering Committee can be reached at the chapter's main email address: **info@peninsuladsa.org**
 Our current Steering Committee election was elected at PDSA's recent chapter convention February 22nd, 2026. 
 
-include steering as _data.steering.yml
 * **Agenda:** Peter & Carter
 * **Membership:** Chet & Rosa
 * **Communications:** Marc & Dylan
@@ -54,7 +53,6 @@ include steering as _data.steering.yml
 * **Liason:** Doniella & Josh
 
 ---
-
 <h3>Other Bay Area Chapters</h3>
 
 Want to get involved in DSA but don't spend much time in San Mateo County? Another local chapter might work better for you!
