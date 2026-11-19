@@ -86,13 +86,6 @@ tagline: Engaging in ongoing political education in socialist history and though
 
 {% for year in site.data.books.past %}
 ### {{year.year}}
-    {% if year.pics and year.pics != blank %}
-        {% capture pic_markdown %}
-            {% for pic in year.pics %}
-![{{pic.alt}}](/assets/images/pages/reading-group/{{pic.file}}){: max-width="50%" height="300" }
-            {% endfor %}
-        {% endcapture %}
-    {% endif %}
     {% for book in year.books %}
         {% if book.author and book.author != blank %}
 ##### [{{ book.title }}]({{ book.url }}) by {{ book.author }}
@@ -100,11 +93,13 @@ tagline: Engaging in ongoing political education in socialist history and though
 ##### [{{ book.title }}]({{ book.url }})
         {% endif %}
     {% endfor %}
+    {% if year.pics and year.pics != blank %}
 <div style="display: flex; overflow-x: auto; gap: 10px">
-    {% for pic in year.pics %}
-    <img src="/assets/images/pages/reading-group/{{ pic.file }}" alt= "{{ pic.alt }}" style="scroll-snap-align: start; height: 300px; flex-shrink: 0;">
-    {% endfor %}
+        {% for pic in year.pics %}
+<img src="/assets/images/pages/reading-group/{{ pic.file }}" alt="{{ pic.alt }}" style="scroll-snap-align: start; height: 300px; flex-shrink: 0;">
+        {% endfor %}
 </div>
+    {% endif %}
 {% endfor %}
 
 

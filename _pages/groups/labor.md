@@ -35,7 +35,7 @@ Peninsula DSA is helping to build the power of the working class through our wor
 
 Currently, we are involved in training workers to organize their workplace via the Emergency Workers Organizing Committee (EWOC) and are supporting local workers who are doing so, too. Stay tuned for socialist job fairs to get workers into jobs with union backing and other initiatives as we prepare for 2028 and the general strike called for by the UAW and others.
 
-![Our Labor Working Group on the picket line with AFT 1493](../../assets/images/pages/labor/labor_aftpicket_2025.jpg){: width=600; style="display: block;  margin: 0 auto;"}
+![Our Labor Working Group on the picket line with AFT 1493](../../assets/images/pages/labor/labor_aftpicket_2025.jpg){: width="600"; style="display: block;  margin: 0 auto;"}
 
 ##### _The Labor WG meets via Discord **every other Monday at 7:00 pm**_
 ##### [_See our chapter calendar for more details_](../events)
