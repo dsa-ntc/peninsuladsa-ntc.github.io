@@ -17,7 +17,7 @@ tagline: Here's How
 
 >[**No one is turned away for lack of funds.** If you’d like to join but cannot afford to contribute financially, please complete this dues waiver form](https://act.dsausa.org/survey/dueswaiver).
 
->[**If you have any other questions** about your DSA membership or signing up, please start here](dsausa.org/resources/faq)
+>[**If you have any other questions** about your DSA membership or signing up, please start here](https://www.dsausa.org/resources/faq/)
 
 ### One Week Later:
 At maximum one week after you sign up with national, our chapter is sent your information, and our Membership co-chairs will connect you to our local organizing work and invite you to the PDSA Discord server, our virtual HQ for coordinating between meetings and events.
