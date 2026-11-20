@@ -7,18 +7,24 @@ permalink: /recommended-media/
 <h4>Diversify your media sources and free yourself from corporate-approved content with these recommendations from the Peninsula DSA Steering Committee.</h4>
 (_See also_: [PDSA's past reading group picks](../reading-group/).)
 
-<h2>Leftist & Progressive News</h2>
+## Leftist & Progressive News
 
-🌹 = affiliated with DSA
+### Affiliated with PDSA
+##### [**California Red**](https://www.californiadsa.org/news) 🌹 - California DSA's bimonthly magazine
 
+##### [**Bay Area Current**](https://bayareacurrent.com/) 🌹 - the Bay Area's brand-new leftist news site 
+
+##### [**Democratic Left**](https://democraticleft.dsausa.org/) 🌹 - DSA's official publication!
+
+### Other Sources
 * [404 Media](https://www.404media.co/) - a journalist-founded digital media company exploring the ways technology is shaping–and is shaped by–our world
 * [Aftermath](https://aftermath.site/) - a worker-owned, reader-supported news site covering video games, the internet, and the cultures that surround them (many Kontaku alumni)
-* [Bay Area Current](https://bayareacurrent.com/) 🌹 - the Bay Area's brand-new leftist news site 
+
 * [Breakthrough News](https://www.youtube.com/@BreakThroughNews) - 501(c)3 nonprofit news organization that tells untold stories of resistance from poor and working-class communities
-* [California Red](https://www.californiadsa.org/news) 🌹 - California DSA's bimonthly magazine
+
 * [Cosmonaut Mag](https://cosmonautmag.com/) - a Marxist magazine for revolutionary strategy
 * [Defector](https://defector.com/) - an employee-owned sports and culture website
-* [Democratic Left](https://democraticleft.dsausa.org/) 🌹 - DSA's official publication!
+
 * [Democracy Now!](https://www.democracynow.org/) - daily, global, independent news hour hosted by award-winning journalists Amy Goodman and Juan González
 * [Drop Site](https://www.dropsitenews.com) - independent news on politics and war, founded by Ryan Grim, Jeremy Scahill, and veterans of _The Intercept_
 * [Electronic Intifada](https://electronicintifada.net/) - an independent online news publication focusing on Palestine
@@ -37,7 +43,7 @@ permalink: /recommended-media/
 * [Socialist Forum](https://socialistforum.dsausa.org/) :rose: - venue for thoughtful discussion and debate among DSA members
 * [The Real News Network](https://therealnews.com/) - nonprofit media organization that "makes media connecting you to the movements, people, and perspectives that are advancing the cause of a more just, equal, and livable planet"
 
-<h2>Podcasts</h2>
+## Podcasts
 
 * [5-4 Podcast](https://www.fivefourpod.com/) - "5-4 is a podcast about how much the Supreme Court sucks"
 * [ALAB Series](https://www.alabseries.com/) - All Lawyers are Bastards, "an infrequent podcast series about the American legal system"
