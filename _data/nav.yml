@@ -6,7 +6,7 @@ header:
   - title: "Calendar"
     url: "/events/"
   - title: "Newsletter"
-    url: "http://eepurl.com/cNwNHH/"
+    url: "https://peninsuladsa.substack.com/"
   - title: "Get Involved"
     sublinks:
       - title: "Events"
@@ -24,12 +24,9 @@ header:
         url: "/take-action/"
   - title: "Resources"
     sublinks:
-      # - title: "2026 Voter Guide"
-      #   url: "/voter-guide-2026/"
-      #   description: "PDSA's 2026 General Election Voter Guide"
-      - title: "Recent News"
-        url: "/recent/"
-        description: "Peninsula DSA's Most Recent Statements"
+      - title: "2026 Voter Guide"
+        url: "/voter-guide-2026/"
+        description: "PDSA's 2026 General Election Voter Guide"
       - title: "Recommended Media"
         url: "/recommended-media/"
   - title: "About Us"
@@ -42,7 +39,10 @@ footer:
     description: # tool tip for your url
     bio: "This is your chapter of the Democratic Socialists of America" # short bio
     address: "San Mateo County, California" # address or region
-  - social:
+  - soci:
+    - label: "Newsletter"
+      icon:
+      url: "https://peninsuladsa.substack.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/peninsuladsa/"
