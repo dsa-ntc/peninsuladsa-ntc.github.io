@@ -1,63 +1,43 @@
-# DSA Chapter In a Box Website Runbook
-This repo provides both a theme for Chapters and Organizing Committees of the Democratic Socialists of America (refered herein as "Chapters" for shorthand), as well as a runbook to get this up and running for any Chapter that wants it. The theme is based on the [Lone Wolf Theme](https://github.com/manid2/lone-wolf-theme) for Jekyll.
+# Peninsula DSA Website
 
-Smaller Chapters, or Chapters without a dedicated internal Tech committee, may lack a web presence outside of Corporate owned Social Media. To assist with this, the National Tech Committee (NTC) has created this runbook to help quickly get chapter webpages up and running with DSA branding. 
+This repo is based on the default template provided by the DSA CTC, with some modifications. It uses Jekyll and the [Lone Wolf Theme](https://github.com/manid2/lone-wolf-theme), like the original template provided by the DSA CTC.
 
-Free web hosting may be acquired from Gitlab, an open source version control website for software developers, but can be used solely for hosting static webpages or blogs. In this runbook, we will be setting up a webpage using Jekyll, a static webpage generator on a Gitlab instance, however you may use this to self-host if your chapter has a webserver. 
+The website is currently hosted with Github Pages on https://peninsuladsa.org.
 
-References: 
-Example assets can be found here: https://gitlab.com/cmahns/cmahns.gitlab.io
+For any questions or feedback, please contact the Comms Committee.
 
-Example webpage can be viewed here: https://cmahns.gitlab.io/
+## Repo structure (website content)
 
-Jekyll documentation can be found here: https://jekyllrb.com/docs
+- `_data` contains data that is often reused in templates throughout the site. Updating stuff here might affect multiple pages
+  - `blog.yml` contains social media links (TODO?)
+  - `books.yml` contains info on the books we are going through in our reading group. This feeds into the reading group page on the website.
+  - `copy.yml` contains an about and welcome message included in every page
+  - `nav.yml` contains links on the nav bar (top bar)
+- `_pages` contains informational pages such as about pages, information for joining the chapter, etc. If you add stuff here, it probably also belongs in the nav bar.
+- `_posts` contains posts (usually public statements). Create files here to make new posts. In general, if it's a one-off, it's a post. If it's information that is about us in general, it's a page.
+- `assets` contains static assets (images, files, etc) that can be linked to in other pages. Try not to put very large files here (TODO: we may want to switch to LFS to not clobber git with a lot of binary blobs).
 
-The Lone Wolf Theme Example page can be found here: https://manid2.github.io/lone-wolf-theme/
+## Changes compared to the default template
 
-## Expectations and Limitations
-This project's function is for the NTC to provide the means for smaller DSA Chapters to establish a Jekyll based website quickly and at no cost. The ownership (e.g. updates to content, updates to theme, customization) is expected to fall on the individual Chapter with minimal support from the NTC outside of onboarding. There is no requirement the website must be hosted on GitLab Pages, use this Jekyll theme, or use this project. 
+The original template provided by CTC was a fork of the upstream Lone Wolf Theme, with some minor modifications. This makes it somewhat difficult to figure out what code belongs to the upstream theme and which are overrides specific to us. The repo has been refactored to include the upstream theme as a remote theme, with a minimal set of overrides custom to us.
 
-Jekyll, the base code for this website and this project, is a static website generator, meaning some "dynamic" functionality like a comments section, dynamic chapter calendars for tracking events, or some embedded media, are not supported. The [Jekyll documentation](https://jekyllrb.com/docs) can help further explain what will and won't work if implemented on your website. GitLab has a [comparison between static and dynamic](https://about.gitlab.com/blog/2016/06/03/ssg-overview-gitlab-pages-part-1-dynamic-x-static/) webpages which will further explain the difference. 
+If we have a file in this repo with the same name and path as the [upstream repo](https://github.com/manid2/lone-wolf-theme), our overrides will take precedence. This is a way to modify things in the theme that we want to change but they do not offer an option for us to change it easily. However, we should try to keep custom patches to a minimum, to avoid having to maintain a bunch of extra stuff. If you see things in this repo referencing files that are not present, it is likely in the upstream repo.
 
-## Installation
-This document will be around using the hosted gitlab instance as self-hosting this same website is out of scope of this document. This document will also assume a small amount of familiarity with `git` for version control and the Markdown markup language for creating pages on the website. 
+## Repo structure (technical)
 
-You will also need a GitLab account and a GitLab project for your chapter. While GitLab pages can be created both on personal and group accounts, it's recommended to make this a Chapter based account to provide additional access if needed. 
+In addition to the website content mentioned above, there is also:
+- `_layouts`: common templates that apply to different page types (e.g. posts can be formatted in one way, the home page might be a different way, etc). Content is usually wrapped in one of these layouts. Remember to check the upstream theme for layouts that we aren't duplicating here.
+- `_includes`: snippets of HTML or markdown that is included in posts or layouts. Headers, footers, helper scripts, etc. If it's worth reusing in a couple of places, it likely belongs here. Remember to check the upstream theme for includes that we aren't duplicating here.
+- `_sass`: This directory contains stuff relevant for CSS. The main Sass file (basically a superset of CSS that allows more features, and eventually compiles into CSS) we have is in `assets/css/main.scss`, and it includes files in this directory. Remember to check the upstream theme for Sass files that we aren't duplicating here.
+- `_config.yml`: main Jekyll config, contains some important site metadata
+- `Gemfile`, `Gemfile.lock`, `CNAME`, `.bundle`, `.gitignore`: Don't touch unless you know what you're doing
 
-1. Visit [this page](https://gitlab.com/groups/new) to create a new Group. It's recommended to keep this either the full name or an abbreviation of your chapter to help reduce taking an already used name.
-2. After the group is created, create a new Project using the **New Project** button
-3. Make the title name `$GROUPNAME.gitlab.io` where $GROUPNAME is the Group name you set in Step 1
-4. Use the repo files here, to begin creating the framework for your new Chapter's website. You can do this by cloning this repo in to your new Project's repo, or downloading the .zip of the source code here and upload it to the Project's repo
+## Local testing
 
-GitLab will begin compiling and deploying the new Jekyll blog each update to the website's codebase through the integrated Continuous Integration provided by them, so you will not need to push changes to your website after you create them!
+This section is for people who are technically minded (can run some commands on their system), and are looking to make modifications to the site's templates or similar. If you are just updating posts, feel free to just make a PR (pull request) with your change, and updating markdown text should be fairly easy. (TODO: we may implement some sort of CI so people can preview their changes whenever they make a pull request with their change)
 
-More details can be found in [GitLab's instructions](https://docs.gitlab.com/ee/user/project/pages/#gitlab-pages)
-
-##  Updating Website
-All pages for this new website are contained in the `_pages` directory. There are several pages created as examples, here are the main ones:
-
-`404.md` -- Example 404 page which Jekyll will direct any page to if it doesn't otherwise exist, you can customize this further to your chapter's content. 
-
-`about.md` -- A quick about summary of your chapter, why the chapter was formed, how it ties in to the history of your area. 
-
-`blog.md` -- Placeholder for a chapter blog or statements page (which can be renamed and updated as per your chapter's preference). An example of a blog post / chapter statement (contained in `_posts/2021-09-20-ice-statement.md`) is provided to further illustrate how this page can be used to automatically group statements/blogs
-
-`calendar.md` -- A page where you can embed or provide a calendar around events and actions your Chapter is participating in
-
-`get-involved.md` -- A page where you can provide additional instructions for potential memebers to join your Chapter.
-
-## Customizing Website
-A handful of files need to be updated to better customize your chapter's webpage. 
-
-`_data/nav.yml` -- This contains both the header and footer bars on the webpage, and will be added to every post or page made in the above section. Example values are provided from DSA National.  
-
-`_sass/bootswatch/dist/united/_variables.scss` -- This controls the variables for colors and font for the webpage, currently defaults are kept and minor changes were made to align to the [DSA style guide](https://design.dsausa.org/national-identity/color-palette/)
-
-## Domain Name
-TBD, needs to be agreed on but proposed to use chapter.dsausa.org as the backbone for these websites. Gitlab supports [custom domain names with https here](https://docs.gitlab.com/ee/user/project/pages/custom_domains_ssl_tls_certification/index.html)
-
-## TODO
-* Polish up instructions further, with screenshots
-* Further details on how to make blog posts vs new pages in Jekyll
-* Instructions on how to maintain and update pages with GitLab Editor vs Desktop
-* Project website DNS name
+To test out changes to the website, follow the following steps:
+- Install `bundler` to install relevant ruby packages and run Jekyll.
+- Install relevant dependencies (you only need to do this once): `bundle install`
+- To generate the site once: `bundle exec jekyll build`. This will place output in the `_site` directory
+- To start a local webserver that serves the site so you can iterate on changes: `bundle exec jekyll serve` and open the result in your browser. Remember to do a full refresh (`Shift+F5`) if you are making changes to things like CSS, which might be cached by the browser
