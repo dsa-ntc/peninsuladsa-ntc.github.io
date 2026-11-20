@@ -4,38 +4,11 @@ title: "Groups"
 permalink: "/groups/"
 tagline: Our Committees and Working Groups
 ---
-## Committees {#committees}
-#### *Committees steer the development of PDSA and its members --- building our capacity to lead the working class in the struggle against Capitalism*
----
-{% assign sorted_pages = site.pages | sort: "order" | reverse %}
-{% for page in sorted_pages %}
-    {% if page.permalink contains '/groups/' and page.name != 'index.md' and page.name != 'index.html' and page.committee == true %}
-        {% if page.link and page.link == true %}
-#### [{{ page.emoji }} {{ page.display }} {{ page.emoji-1 }}]({{page.permalink}})
-        {% else %}
-#### {{ page.emoji }} {{ page.display }} {{ page.emoji-1 }}
-        {% endif %}
-##### _{{ page.tagline }}_
-        {% if page.description and page.description != blank %}
-> {{page.description}}
-        {% endif %}
-        {% if page.every and page.every != page.day and page.day != blank and page.time and page.time != blank and page.location and page.location != blank %}
-* _**Every {{ page.every }} {{page.day}} at {{page.time}}**
-* _Discussion in **#{{ page.discord }}**_
-        {% elsif page.every and page.every != page.day and page.day != blank and page.time and page.time != blank %}
-* _**Every {{ page.every }} {{page.day}} at {{page.time}}** on **discord**_
-* _Discussion in **#{{ page.discord }}**_
-        {% else %}
-* _Meets as needed, [check calendar for meetings](/events/)_
-* _Discussion in **#{{ page.discord }}**_
-        {% endif %}
-    {% endif %}
-{% endfor %}
-
 
 ## Working Groups {#working-groups}
 #### *Working groups organize socialist campaigns and/or join coalitions around issues that empower the working class*
-
+---
+{% assign sorted_pages = site.pages | sort: "order" | reverse %}
 {% for page in sorted_pages %}
     {% if page.permalink contains '/groups/' and page.name != 'index.md' and page.name != 'index.html' and page.active == true %}
         {% if page.link and page.link == true %}
@@ -60,7 +33,36 @@ tagline: Our Committees and Working Groups
     {% endif %}
 {% endfor %}
 
+## Committees {#committees}
+#### *Committees steer the development of PDSA and its members --- building our capacity to lead the working class in the struggle against Capitalism*
+---
+{% for page in sorted_pages %}
+    {% if page.permalink contains '/groups/' and page.name != 'index.md' and page.name != 'index.html' and page.committee == true %}
+        {% if page.link and page.link == true %}
+#### [{{ page.emoji }} {{ page.display }} {{ page.emoji-1 }}]({{page.permalink}})
+        {% else %}
+#### {{ page.emoji }} {{ page.display }} {{ page.emoji-1 }}
+        {% endif %}
+##### _{{ page.tagline }}_
+        {% if page.description and page.description != blank %}
+> {{page.description}}
+        {% endif %}
+        {% if page.every and page.every != page.day and page.day != blank and page.time and page.time != blank and page.location and page.location != blank %}
+* _**Every {{ page.every }} {{page.day}} at {{page.time}}**
+* _Discussion in **#{{ page.discord }}**_
+        {% elsif page.every and page.every != page.day and page.day != blank and page.time and page.time != blank %}
+* _**Every {{ page.every }} {{page.day}} at {{page.time}}** on **discord**_
+* _Discussion in **#{{ page.discord }}**_
+        {% else %}
+* _Meets as needed, [check calendar for meetings](/events/)_
+* _Discussion in **#{{ page.discord }}**_
+        {% endif %}
+    {% endif %}
+{% endfor %}
+
 ## Past Action
+#### *A list of inactive working groups for past campaigns; we'd love for you to help us restart them and build upon their past work*
+---
 {% for page in sorted_pages %}
     {% if page.permalink contains '/groups/' and page.name != 'index.md' and page.name != 'index.html' and page.committee != true and page.active != true and page.order and page.order != blank %}
         {% if page.link and page.link == true %}

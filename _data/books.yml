@@ -2,8 +2,8 @@ upcoming:
   - title: Ideas for the Struggle
     author: Marta Harnecker
     description: 
-    details: (printouts available at Fireside Books)
     url: https://socialist-alliance.org/sites/default/files/ideas_for_the_struggle.pdf
+    printout: true
     sessions:
       - date: December 1st
         location:
@@ -21,6 +21,7 @@ upcoming:
     author: Rosa Luxemburg
     description:
     url: https://ycl.org.uk/wp-content/uploads/2021/11/C03-Reform-or-Revolution.pdf
+    printout: true
     cover:
     sessions:
       - date: January 5th
@@ -29,6 +30,7 @@ upcoming:
     author: Vladimir Lenin
     description:
     url: https://www.readingfromtheleft.com/Books/Classics/LeninImperialism.pdf
+    printout: true
     cover:
     sessions:
       - date: January 19th
@@ -39,7 +41,6 @@ past:
     - title: The Case for Letting Malibu Burn
       author: Mike Davis
       description:
-      details: (printouts available at Fireside Books)
       url: https://www.csun.edu/~rdavids/350fall08/350readings/Davis%20Case%20for%20Letting%20Malibu%20Burn.pdf
       not-book: True
       cover: lettingmalibuburn.jpg
@@ -133,47 +134,133 @@ past:
     - title: 'ABCs of Socialism'
       url: https://archive.org/details/abcs-of-socialism/mode/1up?view=theater 
       author: Jacobin + Verso
-
-# <h3>2024</h3>
-# * [Ideas for the Struggle](https://www.oldandnewproject.net/Essays/Harnecker_Ideas.html) (2004, revised 2016) by Marta Harnecker.
-# * [San Francisco Reds: Communists in the Bay Area, 1919-1958](https://www.press.uillinois.edu/books/?id=p087936) (2024) by Robert W. Cherny.
-# * [Palo Alto: A History of California, Capitalism, and the World](https://www.hachettebookgroup.com/titles/malcolm-harris/palo-alto/9780316592031/?lens=little-brown) (2023) by Malcolm Harris.
-
-# <h3>2023</h3>
-# * [The Wretched of the Earth](https://groveatlantic.com/book/the-wretched-of-the-earth/) (1961) by Frantz Fanon.
-
-# <h3>2022</h3>
-# * [_How to Read Marx's_ Capital](https://monthlyreview.org/product/how-to-read-marxs-capital/) (2021) by Michael Heinrich, in tandem with [_Capital: A Critique of Political Economy_](https://www.marxists.org/archive/marx/works/1867-c1/) by Karl Marx
-# * [How to Blow Up a Pipeline](https://www.versobooks.com/books/3665-how-to-blow-up-a-pipeline) (2021) by Andreas Malm ([Ecosocialism WG](https://peninsuladsa.org/ecosocialism/) crossover!)
-# * [The Jakarta Method: Washington's Anticommunist Crusade and the Mass Murder Program that Shaped Our World](https://www.publicaffairsbooks.com/titles/vincent-bevins/the-jakarta-method/9781541724013/) (2020) by Vincent Bevins
-# * [Why Marx Was Right](https://yalebooks.yale.edu/book/9780300231069/why-marx-was-right/) (2011) by Terry Eagleton
-
-# <h3>2021</h3>
-# * "Capitalism and Class Struggle" (2020) by Vivek Chibber, from [_The ABCs of Capitalism_](https://bit.ly/abcsofcapitalism) series from [Jacobin](https://jacobin.com/) and [Catalyst Journal](https://catalyst-journal.com/)
-# * "Capitalism and the State" (2020) by Vivek Chibber, from [_The ABCs of Capitalism_](https://bit.ly/abcsofcapitalism) series from [Jacobin](https://jacobin.com/) and [Catalyst Journal](https://catalyst-journal.com/)
-# * "Understanding Capitalism" (2020) by Vivek Chibber, from [_The ABCs of Capitalism_](https://bit.ly/abcsofcapitalism) series from [Jacobin](https://jacobin.com/) and [Catalyst Journal](https://catalyst-journal.com/)
-
-# <h3>2020</h3>
-# * ['Disband, Disempower, and Disarm': Amplifying the Theory and Practice of Police](https://link.springer.com/article/10.1007/s10612-018-9400-4) (2018) by Meghan G. McDowell and Luis A. Fernandez
-# * [Mistaken Identity: Mass Movements and Racial Identity](https://www.versobooks.com/products/708-mistaken-identity) (2018) by Asad Haider
-# * [No Shortcuts: Organizing for Power in the New Gilded Age](https://janemcalevey.com/book/no-shortcuts-organizing-for-power-in-the-new-gilded-age/) by Jane McAlevey
-# * [On Contradiction](https://www.marxists.org/reference/archive/mao/selected-works/volume-1/mswv1_17.htm) (1937) by Mao Zedong
-# * [On Practice](https://www.marxists.org/reference/archive/mao/selected-works/volume-1/mswv1_16.htm) (1937) by Mao Zedong
-# * [Production for Use](https://www.marxists.org/archive/lawrence/1983/production_use.htm) (1983) by Pieter Lawrence
-# * [Stalinism and Bolshevism: In Defense of October](https://marxist.com/stalinism-bolshevism-trotsky.htm) by Leon Trotsky
-# * [War is a Racket](https://archive.org/details/WarIsARacket) (1935) by Major General Smedley Butler
-
-# <h3>2019</h3>
-# * [Are Prisons Obsolete?](https://decolonisesociology.com/wp-content/uploads/2019/03/angela-davis-are_prisons_obsolete.pdf) (2003) by Angela Y. Davis
-# * [Capitalist Realism: Is There No Alternative?](https://files.libcom.org/files/Capitalist%20Realism_%20Is%20There%20No%20Alternat%20-%20Mark%20Fisher.pdf) (2009) by Mark Fisher
-# * [Civil Disobedience](https://blogs.law.columbia.edu/uprising1313/files/2017/10/Civil-Disobedience-by-Henry-David-Thoreau.pdf) (1849) by Henry David Thoreau
-# * The Color of Law: A Forgotten History of How Our Government Segregated America (2017) by Richard Rothstein
-# * [The Communist Manifesto](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/index.htm) (1848) by Friedrich Engels and Karl Marx
-# * [In Defense of Housing: The Politics of Crisis](https://www.versobooks.com/products/191-in-defense-of-housing?) (2016) by David J. Madden and Peter Marcuse
-# * [Pedagogy of the Oppressed](https://envs.ucsc.edu/internships/internship-readings/freire-pedagogy-of-the-oppressed.pdf) (1968) by Paolo Friere
-# * ["The Strategy of International Class Struggle and the Political Fight Against Capitalist Reaction in 2019"](https://www.wsws.org/en/articles/2019/01/03/pers-j03.html) (January 3, 2010) by James Cogan, Joseph Kishore, and David North
-# * ["Toward Transformative Justice: A Liberatory Approach to Child Sexual Abuse and Other Forms of Intimate and Community Violence"](https://transformharm.org/tj_resource/toward-transformative-justice-a-liberatory-approach-to-child-sexual-abuse-and-other-forms-of-intimate-and-community-violence/) (2007) by generation FIVE
-
-# <h3>2018</h3>
-# * [How Nonviolent Struggle Works](https://static1.squarespace.com/static/62b0eb7da51f3717911bb4e1/t/642f35733af6ca7e837ffe53/1680815475818/HNVSW-updated-Jan-2015.pdf) by Gene Sharp
-# * ["The Lesser Evil? The Left, the Democrats and 1984"](https://www.versobooks.com/blogs/news/4109-the-lesser-evil-the-left-the-democrats-and-1984) by Mike Davis
+  - year: 2024
+    books:
+    - title: Ideas for the Struggle
+      url: https://www.oldandnewproject.net/Essays/Harnecker_Ideas.html
+      year: 2004, revised 2016
+      author: Marta Harnecker
+    - title: 'San Francisco Reds: Communists in the Bay Area, 1919-1958'
+      url: https://www.press.uillinois.edu/books/?id=p087936
+      year: 2024
+      author: Robert W. Cherny
+    - title: 'Palo Alto: A History of California, Capitalism, and the World'
+      url: https://www.hachettebookgroup.com/titles/malcolm-harris/palo-alto/9780316592031/?lens=little-brown
+      year: 2023
+      author: Malcolm Harris
+  - year: 2023
+    books:
+    - title: The Wretched of the Earth
+      url: https://groveatlantic.com/book/the-wretched-of-the-earth
+      year: 1961
+      author: Frantz Fanon
+  - year: 2022
+    books:
+    - title: How to Read Marx's_ Capital
+      url: https://monthlyreview.org/product/how-to-read-marxs-capital
+      year: 2021
+      author: Michael Heinrich
+      details: "in conjunction with Karl Marx's ['Capital: A Critique of Political Economy'](https://www.marxists.org/archive/marx/works/1867-c1)"
+    - title: How to Blow Up a Pipeline
+      url: https://www.versobooks.com/books/3665-how-to-blow-up-a-pipeline
+      year: 2021
+      author: Andreas Malm
+      details: An Ecosocialism WG crossover!
+      # details: An [Ecosocialism WG](https://peninsuladsa.org/groups/ecosocialism/) crossover!)
+    - title: "The Jakarta Method: Washington's Anticommunist Crusade and the Mass Murder Program that Shaped Our World"
+      url: https://www.publicaffairsbooks.com/titles/vincent-bevins/the-jakarta-method/9781541724013/
+      year: 2020
+      author: Vincent Bevins
+    - title: Why Marx Was Right
+      url: https://yalebooks.yale.edu/book/9780300231069/why-marx-was-right/
+      year: 2011
+      author: Terry Eagleton
+  - year: 2021
+    books:
+      - title: '"Capitalism and Class Struggle"'
+        year: 2020
+        author: Vivek Chibber
+      - title: '"Capitalism and the State"'
+        year: 2020
+        author: Vivek Chibber
+      - title: '"Understanding Capitalism"'
+        year: 2020
+        author: Vivek Chibber
+        details: from [_The ABCs of Capitalism_](https://bit.ly/abcsofcapitalism) series from [Jacobin](https://jacobin.com/) and [Catalyst Journal](https://catalyst-journal.com/)
+  - year: 2020
+    books:
+      - title: "'Disband, Disempower, and Disarm': Amplifying the Theory and Practice of Police"
+        url: https://link.springer.com/article/10.1007/s10612-018-9400-4
+        year: 2018
+        author: Meghan G. McDowell and Luis A. Fernandez
+      - title: 'Mistaken Identity: Mass Movements and Racial Identity'
+        url: https://www.versobooks.com/products/708-mistaken-identity
+        year: 2018
+        author: Asad Haider
+      - title: 'No Shortcuts: Organizing for Power in the New Gilded Age'
+        url: https://janemcalevey.com/book/no-shortcuts-organizing-for-power-in-the-new-gilded-age/
+        author: Jane McAlevey
+      - title: On Contradiction
+        url: https://www.marxists.org/reference/archive/mao/selected-works/volume-1/mswv1_17.htm
+        year: 1937
+        author: Mao Zedong
+      - title: On Practice
+        url: https://www.marxists.org/reference/archive/mao/selected-works/volume-1/mswv1_16.htm
+        year: 1937
+        author: Mao Zedong
+      - title: Production for Use
+        url: https://www.marxists.org/archive/lawrence/1983/production_use.htm
+        year: 1983
+        author: Pieter Lawrence
+      - title: 'Stalinism and Bolshevism: In Defense of October'
+        url: https://marxist.com/stalinism-bolshevism-trotsky.htm
+        author: Leon Trotsky
+      - title: War is a Racket
+        url: https://archive.org/details/WarIsARacket
+        year: 1935
+        author: Major General Smedley Butler
+  - year: 2019
+    books:
+      - title: Are Prisons Obsolete?
+        url: https://decolonisesociology.com/wp-content/uploads/2019/03/angela-davis-are_prisons_obsolete.pdf
+        year: 2003
+        author: Angela Y. Davis
+      - title: 'Capitalist Realism: Is There No Alternative?'
+        url: https://files.libcom.org/files/Capitalist%20Realism_%20Is%20There%20No%20Alternat%20-%20Mark%20Fisher.pdf
+        year: 2009
+        author: Mark Fisher
+      - title: '"Civil Disobedience"'
+        url: https://blogs.law.columbia.edu/uprising1313/files/2017/10/Civil-Disobedience-by-Henry-David-Thoreau.pdf
+        year: 1849
+        author: Henry David Thoreau
+      - title: 'The Color of Law: A Forgotten History of How Our Government Segregated America'
+        year: 2017
+        author: Richard Rothstein
+      - title: The Communist Manifesto
+        url: https://www.marxists.org/archive/marx/works/1848/communist-manifesto/index.htm
+        year: 1848
+        author: Friedrich Engels and Karl Marx
+      - title: 'In Defense of Housing: The Politics of Crisis'
+        url: https://www.versobooks.com/products/191-in-defense-of-housing?
+        year: 2016
+        author: David J. Madden and Peter Marcuse
+      - title: Pedagogy of the Oppressed
+        url: https://envs.ucsc.edu/internships/internship-readings/freire-pedagogy-of-the-oppressed.pdf
+        year: 1968
+        aurhor: Paolo Friere
+      - title: '"The Strategy of International Class Struggle and the Political Fight Against Capitalist Reaction in 2019"'
+        url: https://www.wsws.org/en/articles/2019/01/03/pers-j03.html
+        year: January 3, 2010
+        author: James Cogan, Joseph Kishore, and David North
+      - title: '"Toward Transformative Justice: A Liberatory Approach to Child Sexual Abuse and Other Forms of Intimate and Community Violence"'
+        url: https://transformharm.org/tj_resource/toward-transformative-justice-a-liberatory-approach-to-child-sexual-abuse-and-other-forms-of-intimate-and-community-violence/
+        year: 2007
+        author: generation FIVE
+  - year: 2018
+    books:
+      - title: How Nonviolent Struggle Works
+        url: https://static1.squarespace.com/static/62b0eb7da51f3717911bb4e1/t/642f35733af6ca7e837ffe53/1680815475818/HNVSW-updated-Jan-2015.pdf
+        author: Gene Sharp
+      - title: '"The Lesser Evil? The Left, the Democrats and 1984"'
+        url: https://www.versobooks.com/blogs/news/4109-the-lesser-evil-the-left-the-democrats-and-1984
+        author: Mike Davis
