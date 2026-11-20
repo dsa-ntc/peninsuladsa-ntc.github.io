@@ -1,135 +1,44 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the
-# server process.
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 
-# theme settings
-#theme: "lone-wolf-theme"
-remote_theme: "manid2/lone-wolf-theme"
-bootswatch_theme: "united" # cerulean, spacelab, united
-
-# site settings, follows the order used in jekyll-seo-tag plugin
 lang: "en_US"
-title: "Peninsula Democratic Socialists of America"
-description: "Peninsula DSA"
-url: # site url e.g. "https://manid2.github.io"
-baseurl: "" # the subpath of your site, e.g. "/blog"
-author: mani_d2
-twitter:
-  username: mani_d2 # should be site's username
-  card: summary
-logo: assets/images/smalllogo.png # PNG is SEO friendly
-# use below when there are social links for site
-#social:
-#  name: Mani Kumar
-#  links:
-#    - https://twitter.com/mani_d2
-#    - https://www.linkedin.com/in/manid2/
-#    - https://github.com/manid2
-# site verifications,
-webmaster_verifications:
-  google: # 1234
-  bing: # 1234
-  alexa: # 1234
-  yandex: # 1234
-  baidu: # 1234
+title: Peninsula Democratic Socialists of America
+email: info@peninsuladsa.org
+description: Peninsula DSA
+author: Peninsula DSA
+url: "https://peninsuladsa.org"
+baseurl: "" # the subpath of your site, e.g. /blog. we do not have a subpath
+logo: /assets/images/smalllogo.png
+timezone: America/Los_Angeles
+social:
+  name: Peninsula DSA
+  links:
+    - https://www.instagram.com/peninsuladsa/
+    - https://bsky.app/profile/peninsuladsa.bsky.social
+    - https://twitter.com/DSA_Peninsula
+    - https://www.facebook.com/peninsulaDSA/
+    - mailto:info@peninsulaDSA.org
 
-# comments settings
-comments:
-  provider: false # false (default), "disqus", "discourse"
-  disqus:
-    # refer what is disqus shortname article online
-    shortname:
-
-# feed
-atom_feed:
-  path: # blank (default) uses feed.xml
-
-# site search settings
-search: # true, false (default)
-search_full_content: # true, false (default)
-search_provider: # google
-
-google:
-  search_engine_id: # YOUR_SEARCH_ENGINE_ID
-  instant_search: # false (default), true
-
-# Analytics
-analytics:
-  provider: false # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id:
-    anonymize_ip: # true, false (default)
-
-# Reading Files
-include:
-  - .htaccess
-  - _pages
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - vendor
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
-  - CHANGELOG
-  - config
-  - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - log
-  - node_modules
-  - package.json
-  - Rakefile
-  - README
-  - tmp
-  - /docs # ignore /docs in theme
-  - /test # ignore /test in theme
-keep_files:
-  - .git
-  - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
-
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-  style: compressed
-
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: "" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
+# Build settings
+remote_theme: "manid2/lone-wolf-theme@511eb6e5284a99cd037595f16ab3d214ae099b4c"
+bootswatch_theme: united
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -139,23 +48,32 @@ plugins:
   - jekyll-seo-tag
   - jemoji
   - jekyll-include-cache
+sass:
+  style: compressed
 
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jemoji
-  - jekyll-include-cache
 
-# HTML Compression
-# - http://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+
+exclude:
+  - .bundle
+  - .sass-cache
+  - .jekyll-cache
+  - gemfiles
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  - CNAME
+
+include:
+  - _pages
 
 # site defaults
 defaults:
@@ -176,5 +94,5 @@ defaults:
       path: ""
     values:
       # for SEO and social sharing
-      image: assets/images/smalllogo.png
+      image: /assets/images/smalllogo.png
       image_alt: Peninsula Democratic Socialists of America logo
