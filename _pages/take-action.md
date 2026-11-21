@@ -2,6 +2,8 @@
 layout: page
 title: "Take Action"
 permalink: /take-action/
+redirect_from:
+    - /resources/
 ---
 
 <h4>"What can I DO?" Here are some effective actions to take right now, wherever you are.</h4>

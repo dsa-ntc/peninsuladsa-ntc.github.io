@@ -48,6 +48,7 @@ plugins:
   - jekyll-seo-tag
   - jemoji
   - jekyll-include-cache
+  - jekyll-redirect-from
 sass:
   style: compressed
 
