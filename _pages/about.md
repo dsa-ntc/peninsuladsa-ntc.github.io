@@ -14,8 +14,11 @@ After all, the people have the labor power--and the know-how--to build a shared 
 * Access free healthcare through [Medicare for All](https://www.dsausa.org/dsa-political-platform-from-2021-convention/#health)
 * Enjoy a full life on a livable planet, thanks to the [Green New Deal](https://www.dsausa.org/dsa-political-platform-from-2021-convention/#gnd)!
 
-[![Want to get involved with Peninsula DSA? Join us!](/assets/images/getinvolved.png){:class="img-responsive}](../join)
+{% capture image_md %}
+[![Want to get involved with Peninsula DSA? Join us!](/assets/images/getinvolved.png){:class="img-responsive}](../get-involved)
+{% endcapture %}
 
+<div align=center>{{ image_md | markdownify }}</div>
 
 ---
 
@@ -36,7 +39,7 @@ Peninsula DSA is the place to be if you're interested in
 - building ecosocialism with our [Transit 4 All campaign](../groups/transit/) (and [Reclaim Our Power](https://reclaimourpowerca.org/)'s campaign to municipalize PG&E),
 - joining electoral campaigns for DSA candidates (such as South City's [James Coleman](https://www.ssf.net/Departments/City-Council/Meet-the-City-Council/James-Coleman))
 
-**Learn how to get involved [here](../join/).**
+**Learn how to get involved [here](../get-involved/).**
 
 ---
 
