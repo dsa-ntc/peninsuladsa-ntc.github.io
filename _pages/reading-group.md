@@ -1,7 +1,11 @@
 ---
+# config
 layout: tagline
-title: "Reading Group"
 permalink: /reading-group/
+redirect_from:
+    - /political-reading/
+# display
+title: "Reading Group"
 tagline: Engaging in ongoing political education in socialist history and thought
 ---
 <head>
