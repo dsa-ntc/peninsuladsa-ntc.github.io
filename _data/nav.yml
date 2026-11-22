@@ -10,14 +10,12 @@ header:
   - title: "Our Work"
     sublinks:
       - title: "Reading Group"
-        url: "/reading-group/"
+        url: "/groups/political-reading/"
         description: "Come study theory with us!"
       - title: "Working Groups"
         url: "/groups/#working-groups"
       - title: "Committees"
         url: "/groups/#committees"
-      # - title:  "Meet Us"
-      #   url: "/meet-us/"
   - title: "Resources"
     sublinks:
       - title: "Newsletter"
@@ -39,7 +37,7 @@ footer:
     description: # tool tip for your url
     bio: "This is your chapter of the Democratic Socialists of America" # short bio
     address: "San Mateo County, California" # address or region
-  - soci:
+  - social:
     - label: "Newsletter"
       icon:
       url: "https://peninsuladsa.substack.com/"
