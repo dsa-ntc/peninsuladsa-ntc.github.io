@@ -20,29 +20,26 @@ permalink: /subscribe/
 </head>
 
 {% capture mail_md %}
+---
 ### Get Notified On Upcoming Events:
 * General Meetings
 * Reading Group, Workshops, etc.
 * Chapter Socials, Hikes, Craft Nights, Movie Watchparties
-* Action: Labor Solidarity, GOTV Campaigns, Mutual Aid and More!
-
----
+* Action: Labor solidarity, GOTV, Mutual Aid & More!
 {% endcapture %}
 
 {% capture newsletter_md %}
+---
 ### Emailed to you monthly, includes:
 * Updates on Working Groups and Priority Campaigns
 * Our Take on Local and National News
 * Summary of Key Upcoming Events
 * PDSA Statements, Endorsements and More!
-
----
 {% endcapture %}
 
 <div class = "grid-container">
     <div class = "column" id="mc_embed_shell">
         <h2>Mailing List</h2>
-        <div>{{ mail_md | markdownify }}</div>
         <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
         <style type="text/css">
                 #mc_embed_signup{background:#fff; false;clear:left; font:14px Helvetica,Arial,sans-serif; width: 100%; max-width: 600px;}
@@ -76,20 +73,16 @@ permalink: /subscribe/
                 </div>
             </form>
         </div>
-        <div>
-        </div>
+        <div>{{ mail_md | markdownify }}</div>
     </div>
     <div class = "column">
-      <h2>Chapter Newsletter</h2>
-      <div>{{ newsletter_md | markdownify }}</div>
-      <iframe src="https://peninsuladsa.substack.com/embed" style="width: 100%; aspect-ratio: 3 / 2; border: 1px solid #EEE; background: white; overflow: hidden;" frameborder="0" scrolling="no">
-      </iframe>
-      <div>
-      </div>
+        <h2>Chapter Newsletter</h2>
+        <iframe src="https://peninsuladsa.substack.com/embed" style="width: 100%; aspect-ratio: 3 / 2; border: 1px solid #EEE; background: white; overflow: hidden;" frameborder="0" scrolling="no">
+        </iframe>
+        <div>{{ newsletter_md | markdownify }}</div>
     </div>
 </div>
-
-
+Test
 
 
 
