@@ -3,8 +3,10 @@ header:
   - title: "Get Involved"
     url: "/get-involved/"
     description: "Action items, recommended media & more"
-  - title: "Events Calendar"
+  - title: "Calendar"
     url: "/events/"
+  - title: "Subscribe"
+    url: "/subscribe/"
   - title: "Our Work"
     sublinks:
       - title: "Reading Group"
