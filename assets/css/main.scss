@@ -58,26 +58,18 @@ hr {
 }
 
 ul {
-    list-style-type: none;
-    line-height: 200%;
-
     svg {
         color: var(--red);
         margin-right: 5px;
     }
 
     a {
-        color: var(--black-tint-1);
         font-weight: bold;
-
-        &:hover {
-            text-decoration: none;
-        }
     }
 }
 
 p {
-    line-height: 200%;
+    line-height: 150%;
 }
 
 .page-footer-copyright {
