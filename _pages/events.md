@@ -42,7 +42,7 @@ The people who came before us have a lot to teach us! Our political [reading gro
 
 ## Chapter Meetings
 
-**New and non-members welcome!** Our chapter's monthly general meetings, usually held on the 3rd Sunday from 3-5pm, are key to coordinating our organizing efforts. We host presentations on socialist topics, hold democratic discussions (and vote!) on chapter priorities, and always share updates from our Steering Committee and working groups. If you're a chapter member, attending general meetings is the best way to stay engaged and up-to-date! 
+**New and non-members welcome!** Our chapter's monthly general meetings, usually held on the 3rd Sunday from 3-5pm, are key to coordinating our organizing efforts. We host presentations on socialist topics, hold democratic discussions (and vote!) on chapter priorities, and share updates from our Steering Committee and working groups. If you're a chapter member, attending general meetings is the best way to stay engaged and up-to-date!
 
 > _Chapter Meetings are held at the Unitarian Universalist Church of San Mateo, every third Sunday of the month, from 3:00-5:00pm._
 
