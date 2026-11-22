@@ -1,7 +1,9 @@
 ---
 layout: page
 title: "Voter Guide 2026"
-permalink: /voter-guide-2026/
+permalink: /voter-guides/2026/
+redirect_from:
+    - /voter-guide-2026/
 ---
 
 <!-- b31914 -->
@@ -100,42 +102,42 @@ permalink: /voter-guide-2026/
 <h2>Peninsula DSA Proudly Endorses:</h2>
 <div>
     <div class = "grid-container">
-        <div class = "tile" style ="background-image: url('../assets/images/voter-guide-2026/phoebe.png');">
+        <div class = "tile" style ="background-image: url('../../assets/images/voter-guide-2026/phoebe.png');">
             <div class = "box-top"></div>
             <div class = "box-down">
                 <h4 style = "font-weight: bold;">✅ Phoebe Shin Venkat</h4>
                 <h5>Foster City City Council District 1</h5>
             </div>
         </div>
-        <div class = "tile" style ="background-image: url('../assets/images/voter-guide-2026/melanie.jpg');">
+        <div class = "tile" style ="background-image: url('../../assets/images/voter-guide-2026/melanie.jpg');">
             <div class = "box-top"></div>
             <div class = "box-down">
                 <h4 style = "font-weight: bold;">✅ Melanie Olson</h4> 
                 <h5>South San Francisco City Council District 3</h5>
             </div>
         </div>
-        <div class = "tile" style = "background-image: url('../assets/images/voter-guide-2026/ofelia.png');">
+        <div class = "tile" style = "background-image: url('../../assets/images/voter-guide-2026/ofelia.png');">
             <div class = "box-top"></div>
             <div class = "box-down">
                 <h4 style = "font-weight: bold;">✅ Ofelia Bello</h4> 
                 <h5>East Palo Alto City Council At-large</h5>
             </div>
         </div>
-        <div class = "tile" style = "background-image: url('../assets/images/voter-guide-2026/measureE.png');">
-            <div class = "box-top" style = "background-image: url('../assets/images/voter-guide-2026/affrwc.png'); background-size: contain;"></div>
+        <div class = "tile" style = "background-image: url('../../assets/images/voter-guide-2026/measureE.png');">
+            <div class = "box-top" style = "background-image: url('../../assets/images/voter-guide-2026/affrwc.png'); background-size: contain;"></div>
             <div class = "box-down">
                 <h4 style = "font-weight: bold;"><span class = "yes-box">YES</span> on Measure E</h4>
                 <h5><strong>Rent Control for Redwood City</strong></h5>
             </div>
         </div>
-        <div class = "tile" style = "background-image: url('../assets/images/voter-guide-2026/cadsa-bear_social.png');">
+        <div class = "tile" style = "background-image: url('../../assets/images/voter-guide-2026/cadsa-bear_social.png');">
             <div class = "box-top"></div>
             <div class = "box-down">
                 <h4 style = "font-weight: bold;"><span class = "yes-box">YES</span> on 3 & 40</h4>
                 <h5><strong>TAX THE RICH</strong></h5>
             </div>
         </div>
-        <div class = "tile" style = "background-image: url('../assets/images/voter-guide-2026/gruesomegavin.png');">
+        <div class = "tile" style = "background-image: url('../../assets/images/voter-guide-2026/gruesomegavin.png');">
             <div class = "box-top"></div>
             <div class = "box-down">
                 <h4 style = "font-weight: bold;"><span class = "no-box">NO</span> on 41, 42 & 43</h4>
