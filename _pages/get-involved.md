@@ -22,7 +22,7 @@ _(For remote events, unfortunately, we can't add people to the PDSA Discord unti
 
 >[**Check out this page**](/events) to see upcoming events for new and prospective members.
 
->[**Subscribe to our mailing list and chapter newsletter**](/subscribe) to get reminders about upcoming events and keep up to date on our work
+>[**Subscribe to our mailing list and chapter newsletter**](https://eepurl.com/cNwNHH/) to get reminders about upcoming events and keep up to date on our work
 
 >[**Join our in person reading group**](/reading-group/) to study political theory / history and get dinner with us after
 
