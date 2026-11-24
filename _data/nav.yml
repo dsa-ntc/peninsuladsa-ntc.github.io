@@ -6,7 +6,7 @@ header:
   - title: "Calendar"
     url: "/events/"
   - title: "Subscribe"
-    url: "https://eepurl.com/cNwNHH/"
+    url: "/subscribe/"
   - title: "Our Work"
     sublinks:
       - title: "Reading Group"

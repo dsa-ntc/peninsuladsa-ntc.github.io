@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+{% assign cols = content | split: "<!-- COLUMN SEPARATOR DO NOT CHANGE -->" %}
+{% if cols.size != 2 %}
+  {% comment %}
+  very ugly way to trigger an explicit error
+  {% endcomment %}
+  {% include EXPLICIT-ERROR-incorrect-number-of-column-separators %}
+{% endif %}
+
+<section class="container">
+  <div class="row">
+    <div class="col-md-6">{{ cols[0] }}</div>
+    <div class="col-md-6">{{ cols[1] }}</div>
+  </div>
+</section>
