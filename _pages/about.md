@@ -27,7 +27,7 @@ After all, the people have the labor power--and the know-how--to build a shared 
 <h4>Since 2017, Peninsula DSA has been organizing to build working class power to benefit the 99%.</h4>
 
 PDSA members are San Mateo County residents and activists working together in our local DSA chapter—and sometimes in coalitions—to build a better world that puts people and planet before profit. Our member-driven organization is made possible by comrades volunteering their labor, from each according to their ability. 
-[Sign up](http://eepurl.com/cNwNHH) for our monthly e-newsletter, and read past issues [here](https://docs.google.com/spreadsheets/d/1-9gslUFfzXSfhn3bUOlvEufrcr9VIH8VDwhLQmEMQtg/edit?gid=0#gid=0).
+[Sign up](/subscribe/) for our monthly e-newsletter, and read past issues [here](https://peninsuladsa.substack.com/).
 
 <img src="/assets/images/PDSA Social at Fieldwork, San Mateo, 2025.05.02.jpg" align="right" height="300" width="">
 

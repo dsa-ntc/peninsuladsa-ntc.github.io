@@ -8,7 +8,7 @@ redirect_from:
 
 <h4>"What can I DO?" Here are some effective actions to take right now, wherever you are.</h4>
 
-*To see in-person and virtual events, please visit PDSA's [events calendar](/events/). To learn about PDSA's active campaigns, head over to [our Working Groups](/groups/#working-groups). To get updates on what we're up to, [subscribe to our email newsletter]("https://eepurl.com/cNwNHH/")*
+*To see in-person and virtual events, please visit PDSA's [events calendar](/events/). To learn about PDSA's active campaigns, head over to [our Working Groups](/groups/#working-groups). To get updates on what we're up to, [subscribe to our email newsletter](/subscribe/)*
 
 <h3>🧊 Stop ICE! Protect Our Neighbors</h3>
 
